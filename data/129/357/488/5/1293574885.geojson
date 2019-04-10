@@ -1,0 +1,67 @@
+{
+  "id": 1293574885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.89229,-6.0232,144.89229,-6.0232",
+    "geom:latitude":-6.0232,
+    "geom:longitude":144.89229,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kombukane",
+    "gn:country_code":"PG",
+    "gn:dem":1761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093594,
+    "gn:latitude":-6.0232,
+    "gn:longitude":144.89229,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kombukane",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091703309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093594
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"7d35bd4b32fae5fb475c88aa6ee6e993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703309,
+            "locality_id":1293574885,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1293574885,
+    "wof:lastmodified":1536661181,
+    "wof:name":"Kombukane",
+    "wof:parent_id":1091703309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.89229,
+    -6.0232,
+    144.89229,
+    -6.0232
+],
+  "geometry": {"coordinates":[144.89229,-6.0232],"type":"Point"}
+}

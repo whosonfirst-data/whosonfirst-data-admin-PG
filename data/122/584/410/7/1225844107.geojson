@@ -1,0 +1,73 @@
+{
+  "id": 1225844107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.01667,-6.15,144.01667,-6.15",
+    "geom:latitude":-6.15,
+    "geom:longitude":144.01667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kapokapobil",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":2184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094662,
+    "gn:latitude":-6.15,
+    "gn:longitude":144.01667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kapokapobil",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kapugapobil",
+        "Kapokapopidl",
+        "Kapokapobil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094662
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4353ba2f358821c49c10d064322ad86b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702573,
+            "locality_id":1225844107,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1225844107,
+    "wof:lastmodified":1537677144,
+    "wof:name":"Kapokapobil",
+    "wof:parent_id":1091702573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.01667,
+    -6.15,
+    144.01667,
+    -6.15
+],
+  "geometry": {"coordinates":[144.01667,-6.15],"type":"Point"}
+}

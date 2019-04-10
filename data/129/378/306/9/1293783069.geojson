@@ -1,0 +1,67 @@
+{
+  "id": 1293783069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.8,-6.01667,142.8,-6.01667",
+    "geom:latitude":-6.01667,
+    "geom:longitude":142.8,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Para",
+    "gn:country_code":"PG",
+    "gn:dem":1701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088625,
+    "gn:latitude":-6.01667,
+    "gn:longitude":142.8,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Para",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        1108805615,
+        1091703179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088625
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"6e6bc7ddca10e728292efaf478cb8923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703179,
+            "locality_id":1293783069,
+            "region_id":1108805615
+        }
+    ],
+    "wof:id":1293783069,
+    "wof:lastmodified":1536856783,
+    "wof:name":"Para",
+    "wof:parent_id":1091703179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.8,
+    -6.01667,
+    142.8,
+    -6.01667
+],
+  "geometry": {"coordinates":[142.80000000000001,-6.01667],"type":"Point"}
+}

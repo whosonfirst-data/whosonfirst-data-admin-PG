@@ -1,0 +1,63 @@
+{
+  "id": 1226725851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.33453,-2.71333,141.33453,-2.71333",
+    "geom:latitude":-2.71333,
+    "geom:longitude":141.33453,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Waterstone",
+    "gn:country_code":"PG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083673,
+    "gn:latitude":-2.71333,
+    "gn:longitude":141.33453,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Waterstone",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083673
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"31f220b947e2a026a9dc3f963110ff8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1226725851,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226725851,
+    "wof:lastmodified":1536743957,
+    "wof:name":"Waterstone",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.33453,
+    -2.71333,
+    141.33453,
+    -2.71333
+],
+  "geometry": {"coordinates":[141.33453,-2.71333],"type":"Point"}
+}

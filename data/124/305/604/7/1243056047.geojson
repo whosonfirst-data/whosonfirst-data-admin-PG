@@ -1,0 +1,67 @@
+{
+  "id": 1243056047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.68897,-3.49995,142.68897,-3.49995",
+    "geom:latitude":-3.49995,
+    "geom:longitude":142.68897,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Yasumboret",
+    "gn:country_code":"PG",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083033,
+    "gn:latitude":-3.49995,
+    "gn:longitude":142.68897,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Yasumboret",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083033
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a97fe0ebbc359e8006b1636203328875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702053,
+            "locality_id":1243056047,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1243056047,
+    "wof:lastmodified":1536870240,
+    "wof:name":"Yasumboret",
+    "wof:parent_id":1091702053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.68896999999996,
+    -3.49995,
+    142.68896999999996,
+    -3.49995
+],
+  "geometry": {"coordinates":[142.68896999999996,-3.49995],"type":"Point"}
+}

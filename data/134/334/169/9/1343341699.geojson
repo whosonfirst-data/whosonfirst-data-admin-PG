@@ -1,0 +1,67 @@
+{
+  "id": 1343341699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.36258,-4.82191,145.36258,-4.82191",
+    "geom:latitude":-4.82191,
+    "geom:longitude":145.36258,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kowat",
+    "gn:country_code":"PG",
+    "gn:dem":1133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093313,
+    "gn:latitude":-4.82191,
+    "gn:longitude":145.36258,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kowat",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091703709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093313
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c7d263d707255adccb6810c0dd38b198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703709,
+            "locality_id":1343341699,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1343341699,
+    "wof:lastmodified":1536918288,
+    "wof:name":"Kowat",
+    "wof:parent_id":1091703709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.36258,
+    -4.82191,
+    145.36258,
+    -4.82191
+],
+  "geometry": {"coordinates":[145.36258000000001,-4.82191],"type":"Point"}
+}

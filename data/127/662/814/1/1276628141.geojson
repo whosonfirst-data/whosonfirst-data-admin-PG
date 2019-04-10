@@ -1,0 +1,67 @@
+{
+  "id": 1276628141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.64275,-3.22054,152.64275,-3.22054",
+    "geom:latitude":-3.22054,
+    "geom:longitude":152.64275,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Tombavil",
+    "gn:country_code":"PG",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085260,
+    "gn:latitude":-3.22054,
+    "gn:longitude":152.64275,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Tombavil",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091703829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085260
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3cf33a6e3df0f71e77ee162d8d003781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703829,
+            "locality_id":1276628141,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1276628141,
+    "wof:lastmodified":1536880375,
+    "wof:name":"Tombavil",
+    "wof:parent_id":1091703829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.64275,
+    -3.22054,
+    152.64275,
+    -3.22054
+],
+  "geometry": {"coordinates":[152.64275000000001,-3.22054],"type":"Point"}
+}

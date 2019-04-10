@@ -1,0 +1,67 @@
+{
+  "id": 1343774737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.96572,-7.57682,144.96572,-7.57682",
+    "geom:latitude":-7.57682,
+    "geom:longitude":144.96572,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kapuna",
+    "gn:country_code":"PG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094648,
+    "gn:latitude":-7.57682,
+    "gn:longitude":144.96572,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kapuna",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091703049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094648
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"fe3ee109a80b567f877c6c4ddec8d128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703049,
+            "locality_id":1343774737,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1343774737,
+    "wof:lastmodified":1536790685,
+    "wof:name":"Kapuna",
+    "wof:parent_id":1091703049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.96572,
+    -7.57682,
+    144.96572,
+    -7.57682
+],
+  "geometry": {"coordinates":[144.96572,-7.57682],"type":"Point"}
+}

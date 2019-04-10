@@ -1,0 +1,67 @@
+{
+  "id": 1192989325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.01278,-6.01464,146.01278,-6.01464",
+    "geom:latitude":-6.01464,
+    "geom:longitude":146.01278,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Yankowan",
+    "gn:country_code":"PG",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8439204,
+    "gn:latitude":-6.01464,
+    "gn:longitude":146.01278,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Yankowan",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8439204
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b5d6ec4023e07d8b65118b946b0c21e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703565,
+            "locality_id":1192989325,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1192989325,
+    "wof:lastmodified":1536382609,
+    "wof:name":"Yankowan",
+    "wof:parent_id":1091703565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.01278,
+    -6.01464,
+    146.01278,
+    -6.01464
+],
+  "geometry": {"coordinates":[146.01277999999999,-6.01464],"type":"Point"}
+}

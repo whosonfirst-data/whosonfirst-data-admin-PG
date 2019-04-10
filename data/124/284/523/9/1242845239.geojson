@@ -1,0 +1,61 @@
+{
+  "id": 1242845239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.13333,-7.2,147.13333,-7.2",
+    "geom:latitude":-7.2,
+    "geom:longitude":147.13333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Salus",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087335,
+    "gn:latitude":-7.2,
+    "gn:longitude":147.13333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Salus",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087335
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1a5f9dd5844115274842c325ab9bb5b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242845239,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242845239,
+    "wof:lastmodified":1536678264,
+    "wof:name":"Salus",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.13333,
+    -7.2,
+    147.13333,
+    -7.2
+],
+  "geometry": {"coordinates":[147.13333,-7.2],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1259857687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.63333,-3.63333,144.63333,-3.63333",
+    "geom:latitude":-3.63333,
+    "geom:longitude":144.63333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Gealwi",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097076,
+    "gn:latitude":-3.63333,
+    "gn:longitude":144.63333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Gealwi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097076
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d1acf0ca0a38fac7b44c99f37787c054",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259857687,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259857687,
+    "wof:lastmodified":1536815608,
+    "wof:name":"Gealwi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.63333,
+    -3.63333,
+    144.63333,
+    -3.63333
+],
+  "geometry": {"coordinates":[144.63333,-3.63333],"type":"Point"}
+}

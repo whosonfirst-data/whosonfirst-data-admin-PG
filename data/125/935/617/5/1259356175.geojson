@@ -1,0 +1,71 @@
+{
+  "id": 1259356175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.97047,-3.24112,151.97047,-3.24112",
+    "geom:latitude":-3.24112,
+    "geom:longitude":151.97047,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Kantebu",
+    "gn:country_code":"PG",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094705,
+    "gn:latitude":-3.24112,
+    "gn:longitude":151.97047,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kantebu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kantembu",
+        "Kantebu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091703829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094705
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"7b9f90fab3fa9de41ae999d7b7bc48dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703829,
+            "locality_id":1259356175,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1259356175,
+    "wof:lastmodified":1537677145,
+    "wof:name":"Kantebu",
+    "wof:parent_id":1091703829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.97047,
+    -3.24112,
+    151.97047,
+    -3.24112
+],
+  "geometry": {"coordinates":[151.97047000000001,-3.24112],"type":"Point"}
+}

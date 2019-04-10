@@ -1,0 +1,65 @@
+{
+  "id": 1209328855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.0304,-9.65633,148.0304,-9.65633",
+    "geom:latitude":-9.65633,
+    "geom:longitude":148.0304,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Homenomu",
+    "gn:country_code":"PG",
+    "gn:dem":848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096074,
+    "gn:latitude":-9.65633,
+    "gn:longitude":148.0304,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Homenomu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Homenom",
+        "Homenomu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096074
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3bf788daf60533ae27d1185da4503bdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209328855
+        }
+    ],
+    "wof:id":1209328855,
+    "wof:lastmodified":1537677161,
+    "wof:name":"Homenomu",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.0304,
+    -9.65633,
+    148.0304,
+    -9.65633
+],
+  "geometry": {"coordinates":[148.03039999999999,-9.65633],"type":"Point"}
+}

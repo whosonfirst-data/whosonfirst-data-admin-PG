@@ -1,0 +1,61 @@
+{
+  "id": 1293383707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.45597,-4.22389,152.45597,-4.22389",
+    "geom:latitude":-4.22389,
+    "geom:longitude":152.45597,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mioko",
+    "gn:country_code":"PG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090748,
+    "gn:latitude":-4.22389,
+    "gn:longitude":152.45597,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Mioko",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090748
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"778c9b0a920168aa4ec4a905d0677305",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293383707,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293383707,
+    "wof:lastmodified":1536937390,
+    "wof:name":"Mioko",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.45597,
+    -4.22389,
+    152.45597,
+    -4.22389
+],
+  "geometry": {"coordinates":[152.45597000000001,-4.22389],"type":"Point"}
+}

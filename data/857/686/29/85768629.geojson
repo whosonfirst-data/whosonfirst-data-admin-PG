@@ -1,0 +1,109 @@
+{
+  "id": 85768629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":14825357.03219,
+    "geom:bbox":"147.188949,-9.445187,147.188949,-9.445187",
+    "geom:latitude":-9.445187,
+    "geom:longitude":147.188949,
+    "gn:latitude":-9.44944,
+    "gn:longitude":147.19444,
+    "iso:country":"PG",
+    "lbl:latitude":-9.445187,
+    "lbl:longitude":147.188949,
+    "mps:latitude":-9.445149,
+    "mps:longitude":147.186728,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Gordon"
+    ],
+    "name:unk_x_variant":[
+        "Gordon"
+    ],
+    "qs:gn_adm0_cc":"PG",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2088122,
+    "qs:gn_namadm1":"20",
+    "qs:gn_name":"Gordon",
+    "qs:local_max":159,
+    "qs:local_sum":474,
+    "qs:localhoods":6,
+    "qs:name":"Gordon",
+    "qs:name_adm0":"Papua New Guinea",
+    "qs:name_adm1":"National Capital",
+    "qs:name_local":"Port Moresby",
+    "qs:photo_max":29,
+    "qs:photo_sum":92,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424926,
+    "qs:woe_adm1":2346600,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1062005,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85676581,
+        102191583,
+        85632347,
+        1091703859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096756,
+        "gp:id":1053498,
+        "qs:id":894720
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a2885bb8f256dcb7f96a5b3c75152ba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703859,
+            "locality_id":-1,
+            "neighbourhood_id":85768629,
+            "region_id":85676581
+        }
+    ],
+    "wof:id":85768629,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379399,
+    "wof:name":"Gordon",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[
+        1126073793
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.188949,
+    -9.445187,
+    147.188949,
+    -9.445187
+],
+  "geometry": {"coordinates":[147.18894900000001,-9.445187],"type":"Point"}
+}

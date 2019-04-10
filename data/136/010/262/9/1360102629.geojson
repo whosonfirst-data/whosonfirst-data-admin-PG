@@ -1,0 +1,67 @@
+{
+  "id": 1360102629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.72098,-9.73772,147.72098,-9.73772",
+    "geom:latitude":-9.73772,
+    "geom:longitude":147.72098,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Karekodobu",
+    "gn:country_code":"PG",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094585,
+    "gn:latitude":-9.73772,
+    "gn:longitude":147.72098,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Karekodobu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091704253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094585
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c6780eb56176b9ac73b5be6229f44be3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704253,
+            "locality_id":1360102629,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1360102629,
+    "wof:lastmodified":1536920958,
+    "wof:name":"Karekodobu",
+    "wof:parent_id":1091704253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.72098,
+    -9.73772,
+    147.72098,
+    -9.73772
+],
+  "geometry": {"coordinates":[147.72098,-9.73772],"type":"Point"}
+}

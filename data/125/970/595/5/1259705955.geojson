@@ -1,0 +1,67 @@
+{
+  "id": 1259705955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.1,-5.16667,141.1,-5.16667",
+    "geom:latitude":-5.16667,
+    "geom:longitude":141.1,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kolom",
+    "gn:country_code":"PG",
+    "gn:dem":1319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093655,
+    "gn:latitude":-5.16667,
+    "gn:longitude":141.1,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kolom",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093655
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3e012d34107950a1a7d0aa0374208ff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1259705955,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1259705955,
+    "wof:lastmodified":1537033314,
+    "wof:name":"Kolom",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.1,
+    -5.16667,
+    141.1,
+    -5.16667
+],
+  "geometry": {"coordinates":[141.09999999999999,-5.16667],"type":"Point"}
+}

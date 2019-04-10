@@ -1,0 +1,74 @@
+{
+  "id": 1209949609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.49134,-8.90084,148.49134,-8.90084",
+    "geom:latitude":-8.90084,
+    "geom:longitude":148.49134,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"8657190",
+    "gn:asciiname":"Eroro",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097581,
+    "gn:latitude":-8.90084,
+    "gn:longitude":148.49134,
+    "gn:modification_date":"2015-04-26",
+    "gn:name":"Eroro",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaive",
+        "Eroro Creek",
+        "Eroro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091702531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097581
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"db262515bbc7c8ffd80b942a7f392d71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702531,
+            "locality_id":1209949609,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1209949609,
+    "wof:lastmodified":1537677178,
+    "wof:name":"Eroro",
+    "wof:parent_id":1091702531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.49133999999995,
+    -8.90084,
+    148.49133999999995,
+    -8.90084
+],
+  "geometry": {"coordinates":[148.49133999999995,-8.90084],"type":"Point"}
+}

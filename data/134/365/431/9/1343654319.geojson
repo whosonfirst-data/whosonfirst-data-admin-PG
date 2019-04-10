@@ -1,0 +1,67 @@
+{
+  "id": 1343654319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.32342,-5.7099,141.32342,-5.7099",
+    "geom:latitude":-5.7099,
+    "geom:longitude":141.32342,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Hawenai",
+    "gn:country_code":"PG",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096275,
+    "gn:latitude":-5.7099,
+    "gn:longitude":141.32342,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Hawenai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096275
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b262a13c76c1f6665267ad821453d583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1343654319,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1343654319,
+    "wof:lastmodified":1536963744,
+    "wof:name":"Hawenai",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.32342,
+    -5.7099,
+    141.32342,
+    -5.7099
+],
+  "geometry": {"coordinates":[141.32342,-5.7099],"type":"Point"}
+}

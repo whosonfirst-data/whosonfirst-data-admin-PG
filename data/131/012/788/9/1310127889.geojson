@@ -1,0 +1,67 @@
+{
+  "id": 1310127889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.87441,-7.8944,141.87441,-7.8944",
+    "geom:latitude":-7.8944,
+    "geom:longitude":141.87441,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kawatangwa",
+    "gn:country_code":"PG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8527807,
+    "gn:latitude":-7.8944,
+    "gn:longitude":141.87441,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Kawatangwa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091703673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8527807
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b01a55eb4320b5862572bc591fa5dfbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703673,
+            "locality_id":1310127889,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1310127889,
+    "wof:lastmodified":1536964079,
+    "wof:name":"Kawatangwa",
+    "wof:parent_id":1091703673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.87441,
+    -7.8944,
+    141.87441,
+    -7.8944
+],
+  "geometry": {"coordinates":[141.87441000000001,-7.8944],"type":"Point"}
+}

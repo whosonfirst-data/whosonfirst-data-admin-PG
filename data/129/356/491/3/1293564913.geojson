@@ -1,0 +1,72 @@
+{
+  "id": 1293564913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.13333,-4.58333,141.13333,-4.58333",
+    "geom:latitude":-4.58333,
+    "geom:longitude":141.13333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Beido",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099711,
+    "gn:latitude":-4.58333,
+    "gn:longitude":141.13333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Beido",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baio",
+        "Beido"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091704679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099711
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"5e80e15ca74a9b36864a1a92228dcad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704679,
+            "locality_id":1293564913,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1293564913,
+    "wof:lastmodified":1537677200,
+    "wof:name":"Beido",
+    "wof:parent_id":1091704679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.13333,
+    -4.58333,
+    141.13333,
+    -4.58333
+],
+  "geometry": {"coordinates":[141.13333,-4.58333],"type":"Point"}
+}

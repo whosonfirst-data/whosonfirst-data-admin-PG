@@ -1,0 +1,71 @@
+{
+  "id": 1243566107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.42158,-9.06248,152.42158,-9.06248",
+    "geom:latitude":-9.06248,
+    "geom:longitude":152.42158,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Boagis",
+    "gn:country_code":"PG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099317,
+    "gn:latitude":-9.06248,
+    "gn:longitude":152.42158,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Boagis",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bugis",
+        "Boagis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091704299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099317
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"5111409fddde6d8ade4c6eef55a8b4fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704299,
+            "locality_id":1243566107,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1243566107,
+    "wof:lastmodified":1537677195,
+    "wof:name":"Boagis",
+    "wof:parent_id":1091704299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.42158,
+    -9.06248,
+    152.42158,
+    -9.06248
+],
+  "geometry": {"coordinates":[152.42158000000001,-9.06248],"type":"Point"}
+}

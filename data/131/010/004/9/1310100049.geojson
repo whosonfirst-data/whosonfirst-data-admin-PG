@@ -1,0 +1,67 @@
+{
+  "id": 1310100049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.86667,-7.01667,145.86667,-7.01667",
+    "geom:latitude":-7.01667,
+    "geom:longitude":145.86667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Wauko",
+    "gn:country_code":"PG",
+    "gn:dem":2203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083648,
+    "gn:latitude":-7.01667,
+    "gn:longitude":145.86667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Wauko",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091704061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083648
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b4d0d32424e6c59b4b365f5af7b9c18a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704061,
+            "locality_id":1310100049,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1310100049,
+    "wof:lastmodified":1537003602,
+    "wof:name":"Wauko",
+    "wof:parent_id":1091704061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.86667,
+    -7.01667,
+    145.86667,
+    -7.01667
+],
+  "geometry": {"coordinates":[145.86667,-7.01667],"type":"Point"}
+}

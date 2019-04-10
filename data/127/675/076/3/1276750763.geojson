@@ -1,0 +1,61 @@
+{
+  "id": 1276750763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.80636,-5.12661,145.80636,-5.12661",
+    "geom:latitude":-5.12661,
+    "geom:longitude":145.80636,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Malamal",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091752,
+    "gn:latitude":-5.12661,
+    "gn:longitude":145.80636,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Malamal",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091752
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"de4b1dae1250c749805588ce1cb09677",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276750763,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276750763,
+    "wof:lastmodified":1536716929,
+    "wof:name":"Malamal",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.80636,
+    -5.12661,
+    145.80636,
+    -5.12661
+],
+  "geometry": {"coordinates":[145.80636000000001,-5.12661],"type":"Point"}
+}

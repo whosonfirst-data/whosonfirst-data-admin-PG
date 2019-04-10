@@ -1,0 +1,67 @@
+{
+  "id": 1277140193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.17327,-3.50988,142.17327,-3.50988",
+    "geom:latitude":-3.50988,
+    "geom:longitude":142.17327,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Mambel",
+    "gn:country_code":"PG",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091652,
+    "gn:latitude":-3.50988,
+    "gn:longitude":142.17327,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Mambel",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091704057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091652
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"423b4815c13e5bac6214e176f4ad5bd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704057,
+            "locality_id":1277140193,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1277140193,
+    "wof:lastmodified":1536684923,
+    "wof:name":"Mambel",
+    "wof:parent_id":1091704057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.17327,
+    -3.50988,
+    142.17327,
+    -3.50988
+],
+  "geometry": {"coordinates":[142.17327,-3.50988],"type":"Point"}
+}

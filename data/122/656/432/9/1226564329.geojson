@@ -1,0 +1,71 @@
+{
+  "id": 1226564329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.55063,-8.92123,141.55063,-8.92123",
+    "geom:latitude":-8.92123,
+    "geom:longitude":141.55063,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tonda",
+    "gn:country_code":"PG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2085237,
+    "gn:latitude":-8.92123,
+    "gn:longitude":141.55063,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tonda",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Tornda",
+        "Tonda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085237
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"031f4ccf19449c12a73a3b21cd12d5b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704467,
+            "locality_id":1226564329,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1226564329,
+    "wof:lastmodified":1537677045,
+    "wof:name":"Tonda",
+    "wof:parent_id":1091704467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.55063,
+    -8.92123,
+    141.55063,
+    -8.92123
+],
+  "geometry": {"coordinates":[141.55063000000001,-8.92123],"type":"Point"}
+}

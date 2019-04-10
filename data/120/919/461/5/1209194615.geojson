@@ -1,0 +1,61 @@
+{
+  "id": 1209194615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.66521,-5.04932,144.66521,-5.04932",
+    "geom:latitude":-5.04932,
+    "geom:longitude":144.66521,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Ambai'ati",
+    "gn:country_code":"PG",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100962,
+    "gn:latitude":-5.04932,
+    "gn:longitude":144.66521,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Ambai\u2019ati",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100962
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"bf2cdbe29911a75770748150070d22ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209194615
+        }
+    ],
+    "wof:id":1209194615,
+    "wof:lastmodified":1536294815,
+    "wof:name":"Ambai'ati",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.66521,
+    -5.04932,
+    144.66521,
+    -5.04932
+],
+  "geometry": {"coordinates":[144.66521,-5.04932],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1277063491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.86419,-4.65242,144.86419,-4.65242",
+    "geom:latitude":-4.65242,
+    "geom:longitude":144.86419,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Itutang",
+    "gn:country_code":"PG",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095411,
+    "gn:latitude":-4.65242,
+    "gn:longitude":144.86419,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Itutang",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tutang",
+        "Tutung",
+        "Itutang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091703709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095411
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f6da8ea6954b6d578bd030d302271ccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703709,
+            "locality_id":1277063491,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1277063491,
+    "wof:lastmodified":1537677153,
+    "wof:name":"Itutang",
+    "wof:parent_id":1091703709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.86418999999995,
+    -4.65242,
+    144.86418999999995,
+    -4.65242
+],
+  "geometry": {"coordinates":[144.86418999999995,-4.65242],"type":"Point"}
+}

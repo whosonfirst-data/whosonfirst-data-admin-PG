@@ -1,0 +1,67 @@
+{
+  "id": 1360263381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.38955,-4.11906,143.38955,-4.11906",
+    "geom:latitude":-4.11906,
+    "geom:longitude":143.38955,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Yindigum",
+    "gn:country_code":"PG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2082901,
+    "gn:latitude":-4.11906,
+    "gn:longitude":143.38955,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Yindigum",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2082901
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2470e02e633ca108d35893961308f62e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702059,
+            "locality_id":1360263381,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1360263381,
+    "wof:lastmodified":1536688586,
+    "wof:name":"Yindigum",
+    "wof:parent_id":1091702059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.38955,
+    -4.11906,
+    143.38955,
+    -4.11906
+],
+  "geometry": {"coordinates":[143.38955000000001,-4.11906],"type":"Point"}
+}

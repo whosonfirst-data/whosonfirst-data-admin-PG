@@ -1,0 +1,61 @@
+{
+  "id": 1209615685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.78362,-8.90831,147.78362,-8.90831",
+    "geom:latitude":-8.90831,
+    "geom:longitude":147.78362,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Pirive",
+    "gn:country_code":"PG",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088295,
+    "gn:latitude":-8.90831,
+    "gn:longitude":147.78362,
+    "gn:modification_date":"2016-02-25",
+    "gn:name":"Pirive",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088295
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"47de04c97ae83cf839395f7d387add9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209615685
+        }
+    ],
+    "wof:id":1209615685,
+    "wof:lastmodified":1536281697,
+    "wof:name":"Pirive",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.78361999999996,
+    -8.90831,
+    147.78361999999996,
+    -8.90831
+],
+  "geometry": {"coordinates":[147.78361999999996,-8.90831],"type":"Point"}
+}

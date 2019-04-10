@@ -1,0 +1,72 @@
+{
+  "id": 1209709317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.21667,-5.73333,151.21667,-5.73333",
+    "geom:latitude":-5.73333,
+    "geom:longitude":151.21667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Maito",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091841,
+    "gn:latitude":-5.73333,
+    "gn:longitude":151.21667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Maito",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maitokanana",
+        "Maito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091704139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091841
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0acafc9c2f8827b0271c1fc4b01baddf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704139,
+            "locality_id":1209709317,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1209709317,
+    "wof:lastmodified":1537677113,
+    "wof:name":"Maito",
+    "wof:parent_id":1091704139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.21667,
+    -5.73333,
+    151.21667,
+    -5.73333
+],
+  "geometry": {"coordinates":[151.21666999999999,-5.73333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344079533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.53533,-6.60691,143.53533,-6.60691",
+    "geom:latitude":-6.60691,
+    "geom:longitude":143.53533,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kafa",
+    "gn:country_code":"PG",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095117,
+    "gn:latitude":-6.60691,
+    "gn:longitude":143.53533,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kafa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091703941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095117
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ff24309749fbc2b74a61f6b6fc8516aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703941,
+            "locality_id":1344079533,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1344079533,
+    "wof:lastmodified":1536847034,
+    "wof:name":"Kafa",
+    "wof:parent_id":1091703941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.53533000000004,
+    -6.60691,
+    143.53533000000004,
+    -6.60691
+],
+  "geometry": {"coordinates":[143.53533000000004,-6.60691],"type":"Point"}
+}

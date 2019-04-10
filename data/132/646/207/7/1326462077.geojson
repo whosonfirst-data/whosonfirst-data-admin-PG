@@ -1,0 +1,67 @@
+{
+  "id": 1326462077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.39321,-6.11521,143.39321,-6.11521",
+    "geom:latitude":-6.11521,
+    "geom:longitude":143.39321,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sebiba",
+    "gn:country_code":"PG",
+    "gn:dem":1917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087023,
+    "gn:latitude":-6.11521,
+    "gn:longitude":143.39321,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Sebiba",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091703941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087023
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"df15cda009d63012c324273aa35e6feb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703941,
+            "locality_id":1326462077,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1326462077,
+    "wof:lastmodified":1537081964,
+    "wof:name":"Sebiba",
+    "wof:parent_id":1091703941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.39321,
+    -6.11521,
+    143.39321,
+    -6.11521
+],
+  "geometry": {"coordinates":[143.39321000000001,-6.11521],"type":"Point"}
+}

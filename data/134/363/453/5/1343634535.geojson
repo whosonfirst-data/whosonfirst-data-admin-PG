@@ -1,0 +1,68 @@
+{
+  "id": 1343634535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.40911,-2.90091,151.40911,-2.90091",
+    "geom:latitude":-2.90091,
+    "geom:longitude":151.40911,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Lauapul",
+    "gn:country_code":"PG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092523,
+    "gn:latitude":-2.90091,
+    "gn:longitude":151.40911,
+    "gn:modification_date":"2015-08-18",
+    "gn:name":"Lauapul",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luaupul",
+        "Lauapal",
+        "Lauapul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092523
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8c8d919a20a0d8e49d62f0bfc9fb7487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1343634535,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343634535,
+    "wof:lastmodified":1537677120,
+    "wof:name":"Lauapul",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.40911,
+    -2.90091,
+    151.40911,
+    -2.90091
+],
+  "geometry": {"coordinates":[151.40911,-2.90091],"type":"Point"}
+}

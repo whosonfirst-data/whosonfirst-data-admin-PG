@@ -1,0 +1,67 @@
+{
+  "id": 1259667151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.21667,-6.55,146.21667,-6.55",
+    "geom:latitude":-6.55,
+    "geom:longitude":146.21667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Narowaine",
+    "gn:country_code":"PG",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089881,
+    "gn:latitude":-6.55,
+    "gn:longitude":146.21667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Narowaine",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089881
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"78f8fa633c529043d272e2a74a23aaf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703565,
+            "locality_id":1259667151,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1259667151,
+    "wof:lastmodified":1537087355,
+    "wof:name":"Narowaine",
+    "wof:parent_id":1091703565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.21667,
+    -6.55,
+    146.21667,
+    -6.55
+],
+  "geometry": {"coordinates":[146.21666999999999,-6.55],"type":"Point"}
+}

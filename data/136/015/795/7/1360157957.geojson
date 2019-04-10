@@ -1,0 +1,61 @@
+{
+  "id": 1360157957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.71884,-2.60922,149.71884,-2.60922",
+    "geom:latitude":-2.60922,
+    "geom:longitude":149.71884,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Tingwon",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085415,
+    "gn:latitude":-2.60922,
+    "gn:longitude":149.71884,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Tingwon",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085415
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1fbc7f72499e09331bad016d2c5d7abb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1360157957,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360157957,
+    "wof:lastmodified":1536839620,
+    "wof:name":"Tingwon",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.71884,
+    -2.60922,
+    149.71884,
+    -2.60922
+],
+  "geometry": {"coordinates":[149.71884,-2.60922],"type":"Point"}
+}

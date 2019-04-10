@@ -1,0 +1,67 @@
+{
+  "id": 1243049179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.55,-3.73333,143.55,-3.73333",
+    "geom:latitude":-3.73333,
+    "geom:longitude":143.55,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Wafyambo",
+    "gn:country_code":"PG",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084187,
+    "gn:latitude":-3.73333,
+    "gn:longitude":143.55,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Wafyambo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084187
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e664e9294afb5cf15776f9d99317c447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705179,
+            "locality_id":1243049179,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1243049179,
+    "wof:lastmodified":1536880526,
+    "wof:name":"Wafyambo",
+    "wof:parent_id":1091705179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.55,
+    -3.73333,
+    143.55,
+    -3.73333
+],
+  "geometry": {"coordinates":[143.55000000000001,-3.73333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277083973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.03525,-9.87103,148.03525,-9.87103",
+    "geom:latitude":-9.87103,
+    "geom:longitude":148.03525,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gouwo",
+    "gn:country_code":"PG",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096722,
+    "gn:latitude":-9.87103,
+    "gn:longitude":148.03525,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Gouwo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091704253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096722
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c73a3b0e0d7aebe7949aeeae57c0c820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704253,
+            "locality_id":1277083973,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1277083973,
+    "wof:lastmodified":1536766158,
+    "wof:name":"Gouwo",
+    "wof:parent_id":1091704253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.03525,
+    -9.87103,
+    148.03525,
+    -9.87103
+],
+  "geometry": {"coordinates":[148.03524999999999,-9.87103],"type":"Point"}
+}

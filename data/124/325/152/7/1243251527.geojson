@@ -1,0 +1,71 @@
+{
+  "id": 1243251527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.59679,-3.71747,143.59679,-3.71747",
+    "geom:latitude":-3.71747,
+    "geom:longitude":143.59679,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kusanun",
+    "gn:country_code":"PG",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092938,
+    "gn:latitude":-3.71747,
+    "gn:longitude":143.59679,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kusanun",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kusawun",
+        "Kusanun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092938
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"de9fa6491854b9e219a8ac142c9e6a4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705179,
+            "locality_id":1243251527,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1243251527,
+    "wof:lastmodified":1537677124,
+    "wof:name":"Kusanun",
+    "wof:parent_id":1091705179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.59679,
+    -3.71747,
+    143.59679,
+    -3.71747
+],
+  "geometry": {"coordinates":[143.59679,-3.71747],"type":"Point"}
+}

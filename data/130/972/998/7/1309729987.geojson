@@ -1,0 +1,68 @@
+{
+  "id": 1309729987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.72766,-10.09459,147.72766,-10.09459",
+    "geom:latitude":-10.09459,
+    "geom:longitude":147.72766,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"7668019",
+    "gn:asciiname":"Hula",
+    "gn:country_code":"PG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133320,
+    "gn:latitude":-10.09459,
+    "gn:longitude":147.72766,
+    "gn:modification_date":"2016-04-14",
+    "gn:name":"Hula",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091704253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133320
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"502896d701fb327e8c365857c82d6298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704253,
+            "locality_id":1309729987,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1309729987,
+    "wof:lastmodified":1537038713,
+    "wof:name":"Hula",
+    "wof:parent_id":1091704253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.72766,
+    -10.09459,
+    147.72766,
+    -10.09459
+],
+  "geometry": {"coordinates":[147.72765999999999,-10.09459],"type":"Point"}
+}

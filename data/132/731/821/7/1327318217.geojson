@@ -1,0 +1,67 @@
+{
+  "id": 1327318217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.29058,-6.35033,145.29058,-6.35033",
+    "geom:latitude":-6.35033,
+    "geom:longitude":145.29058,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Duto",
+    "gn:country_code":"PG",
+    "gn:dem":2017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097879,
+    "gn:latitude":-6.35033,
+    "gn:longitude":145.29058,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Duto",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091703417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097879
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3d75085888a5e3bee12093431fada6bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703417,
+            "locality_id":1327318217,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1327318217,
+    "wof:lastmodified":1536844687,
+    "wof:name":"Duto",
+    "wof:parent_id":1091703417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.29058,
+    -6.35033,
+    145.29058,
+    -6.35033
+],
+  "geometry": {"coordinates":[145.29058000000001,-6.35033],"type":"Point"}
+}

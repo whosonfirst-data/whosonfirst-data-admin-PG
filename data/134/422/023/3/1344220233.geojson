@@ -1,0 +1,71 @@
+{
+  "id": 1344220233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.05314,-3.40412,142.05314,-3.40412",
+    "geom:latitude":-3.40412,
+    "geom:longitude":142.05314,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Minatei 2",
+    "gn:country_code":"PG",
+    "gn:dem":966,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090790,
+    "gn:latitude":-3.40412,
+    "gn:longitude":142.05314,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Minatei 2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Minatei Number 2",
+        "Minatei 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091701955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090790
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"05e8880eab45f43f5727bafa134ae0a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091701955,
+            "locality_id":1344220233,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1344220233,
+    "wof:lastmodified":1537677100,
+    "wof:name":"Minatei 2",
+    "wof:parent_id":1091701955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.05313999999996,
+    -3.40412,
+    142.05313999999996,
+    -3.40412
+],
+  "geometry": {"coordinates":[142.05313999999996,-3.40412],"type":"Point"}
+}

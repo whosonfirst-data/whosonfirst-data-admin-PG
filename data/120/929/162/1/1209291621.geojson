@@ -1,0 +1,61 @@
+{
+  "id": 1209291621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.53287,-5.09594,145.53287,-5.09594",
+    "geom:latitude":-5.09594,
+    "geom:longitude":145.53287,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Simuku",
+    "gn:country_code":"PG",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086661,
+    "gn:latitude":-5.09594,
+    "gn:longitude":145.53287,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Simuku",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086661
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f0e7a8069b45b5ea15b45672f6cb3fe6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209291621
+        }
+    ],
+    "wof:id":1209291621,
+    "wof:lastmodified":1536291674,
+    "wof:name":"Simuku",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.53287,
+    -5.0959400000000015,
+    145.53287,
+    -5.0959400000000015
+],
+  "geometry": {"coordinates":[145.53287,-5.09594],"type":"Point"}
+}

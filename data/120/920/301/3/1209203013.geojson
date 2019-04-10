@@ -1,0 +1,61 @@
+{
+  "id": 1209203013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.97695,-3.56236,142.97695,-3.56236",
+    "geom:latitude":-3.56236,
+    "geom:longitude":142.97695,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Dahabiga Villages",
+    "gn:country_code":"PG",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098460,
+    "gn:latitude":-3.56236,
+    "gn:longitude":142.97695,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Dahabiga Villages",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098460
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f32828ce119c11f4f793f7391ac68e6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209203013
+        }
+    ],
+    "wof:id":1209203013,
+    "wof:lastmodified":1536294546,
+    "wof:name":"Dahabiga Villages",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.97695,
+    -3.56236,
+    142.97695,
+    -3.56236
+],
+  "geometry": {"coordinates":[142.97694999999999,-3.56236],"type":"Point"}
+}

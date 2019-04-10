@@ -1,0 +1,61 @@
+{
+  "id": 1327438961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.88333,-10.01667,149.88333,-10.01667",
+    "geom:latitude":-10.01667,
+    "geom:longitude":149.88333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Meitapana",
+    "gn:country_code":"PG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2132913,
+    "gn:latitude":-10.01667,
+    "gn:longitude":149.88333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Meitapana",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2132913
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"cc4ad6b6e917ae03af93bf9246dbb27e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327438961,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327438961,
+    "wof:lastmodified":1536671226,
+    "wof:name":"Meitapana",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.88333,
+    -10.01667,
+    149.88333,
+    -10.01667
+],
+  "geometry": {"coordinates":[149.88333,-10.01667],"type":"Point"}
+}

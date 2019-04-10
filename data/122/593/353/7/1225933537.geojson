@@ -1,0 +1,70 @@
+{
+  "id": 1225933537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.57819,-6.11291,145.57819,-6.11291",
+    "geom:latitude":-6.11291,
+    "geom:longitude":145.57819,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Masagu",
+    "gn:country_code":"PG",
+    "gn:dem":1625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8439681,
+    "gn:latitude":-6.11291,
+    "gn:longitude":145.57819,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Masagu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Masagu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091704771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8439681
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c85c9bdb77ef2e990966177378584e71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704771,
+            "locality_id":1225933537,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1225933537,
+    "wof:lastmodified":1537677228,
+    "wof:name":"Masagu",
+    "wof:parent_id":1091704771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.57818999999995,
+    -6.11291,
+    145.57818999999995,
+    -6.11291
+],
+  "geometry": {"coordinates":[145.57818999999995,-6.11291],"type":"Point"}
+}

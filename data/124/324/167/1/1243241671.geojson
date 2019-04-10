@@ -1,0 +1,67 @@
+{
+  "id": 1243241671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.76501,-4.17191,143.76501,-4.17191",
+    "geom:latitude":-4.17191,
+    "geom:longitude":143.76501,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kanduanam Number 1",
+    "gn:country_code":"PG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094744,
+    "gn:latitude":-4.17191,
+    "gn:longitude":143.76501,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kanduanam Number 1",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094744
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"994717a47c327f975fadc469c495ebcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702059,
+            "locality_id":1243241671,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1243241671,
+    "wof:lastmodified":1536600620,
+    "wof:name":"Kanduanam Number 1",
+    "wof:parent_id":1091702059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.76501000000005,
+    -4.17191,
+    143.76501000000005,
+    -4.17191
+],
+  "geometry": {"coordinates":[143.76501000000005,-4.17191],"type":"Point"}
+}

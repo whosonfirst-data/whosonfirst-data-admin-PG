@@ -1,0 +1,67 @@
+{
+  "id": 1277065803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.23026,-4.59305,152.23026,-4.59305",
+    "geom:latitude":-4.59305,
+    "geom:longitude":152.23026,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Simbum",
+    "gn:country_code":"PG",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086680,
+    "gn:latitude":-4.59305,
+    "gn:longitude":152.23026,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Simbum",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091704139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086680
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9eb30287014176765031462c40348a7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704139,
+            "locality_id":1277065803,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1277065803,
+    "wof:lastmodified":1536792118,
+    "wof:name":"Simbum",
+    "wof:parent_id":1091704139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.23026000000004,
+    -4.59305,
+    152.23026000000004,
+    -4.59305
+],
+  "geometry": {"coordinates":[152.23026000000004,-4.59305],"type":"Point"}
+}

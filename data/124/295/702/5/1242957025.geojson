@@ -1,0 +1,67 @@
+{
+  "id": 1242957025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.76224,-5.45499,151.76224,-5.45499",
+    "geom:latitude":-5.45499,
+    "geom:longitude":151.76224,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ram",
+    "gn:country_code":"PG",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087826,
+    "gn:latitude":-5.45499,
+    "gn:longitude":151.76224,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Ram",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091704139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087826
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c19a085709c071091c021c2921106447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704139,
+            "locality_id":1242957025,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1242957025,
+    "wof:lastmodified":1537013525,
+    "wof:name":"Ram",
+    "wof:parent_id":1091704139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.76224,
+    -5.45499,
+    151.76224,
+    -5.45499
+],
+  "geometry": {"coordinates":[151.76223999999999,-5.45499],"type":"Point"}
+}

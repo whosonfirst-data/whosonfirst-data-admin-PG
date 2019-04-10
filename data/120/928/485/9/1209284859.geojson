@@ -1,0 +1,61 @@
+{
+  "id": 1209284859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.95713,-1.11695,112.95713,-1.11695",
+    "geom:latitude":-1.11695,
+    "geom:longitude":112.95713,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Katingan",
+    "gn:country_code":"PG",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094449,
+    "gn:latitude":-1.11695,
+    "gn:longitude":112.95713,
+    "gn:modification_date":"2017-06-11",
+    "gn:name":"Katingan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Pontianak",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094449
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4ad0db96e7f75761af1cd0ce955f8d65",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209284859
+        }
+    ],
+    "wof:id":1209284859,
+    "wof:lastmodified":1536291895,
+    "wof:name":"Katingan",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.95713,
+    -1.11695,
+    112.95713,
+    -1.11695
+],
+  "geometry": {"coordinates":[112.95713000000001,-1.11695],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343332563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.58333,-6.61667,147.58333,-6.61667",
+    "geom:latitude":-6.61667,
+    "geom:longitude":147.58333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Sambiang",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087299,
+    "gn:latitude":-6.61667,
+    "gn:longitude":147.58333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sambiang",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sambeang",
+        "Sambiang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087299
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"eabdbfd3c4c4b32777620d192477ae09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702351,
+            "locality_id":1343332563,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1343332563,
+    "wof:lastmodified":1537677066,
+    "wof:name":"Sambiang",
+    "wof:parent_id":1091702351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.58333000000005,
+    -6.61667,
+    147.58333000000005,
+    -6.61667
+],
+  "geometry": {"coordinates":[147.58333000000005,-6.61667],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1327210997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.74161,-4.04952,144.74161,-4.04952",
+    "geom:latitude":-4.04952,
+    "geom:longitude":144.74161,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Botbot",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099071,
+    "gn:latitude":-4.04952,
+    "gn:longitude":144.74161,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Botbot",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099071
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1ef23b25ce001a864892822a00f32a9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1327210997,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327210997,
+    "wof:lastmodified":1536999858,
+    "wof:name":"Botbot",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.74161,
+    -4.04952,
+    144.74161,
+    -4.04952
+],
+  "geometry": {"coordinates":[144.74161000000001,-4.04952],"type":"Point"}
+}

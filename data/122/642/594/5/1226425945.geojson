@@ -1,0 +1,72 @@
+{
+  "id": 1226425945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.06992,-7.10054,147.06992,-7.10054",
+    "geom:latitude":-7.10054,
+    "geom:longitude":147.06992,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Lokanu",
+    "gn:country_code":"PG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092236,
+    "gn:latitude":-7.10054,
+    "gn:longitude":147.06992,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lokanu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lokanda",
+        "Lokanu Villages",
+        "Lokanu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092236
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c7be5a3de40917c6a69e7713e0968161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702453,
+            "locality_id":1226425945,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1226425945,
+    "wof:lastmodified":1537677117,
+    "wof:name":"Lokanu",
+    "wof:parent_id":1091702453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.06992,
+    -7.10054,
+    147.06992,
+    -7.10054
+],
+  "geometry": {"coordinates":[147.06992,-7.10054],"type":"Point"}
+}

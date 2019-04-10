@@ -1,0 +1,67 @@
+{
+  "id": 1259507495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.9,-8.56667,147.9,-8.56667",
+    "geom:latitude":-8.56667,
+    "geom:longitude":147.9,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Saraititi",
+    "gn:country_code":"PG",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087174,
+    "gn:latitude":-8.56667,
+    "gn:longitude":147.9,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Saraititi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091704393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087174
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"96e32e12e86c27ab5887a4eb0d42838e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704393,
+            "locality_id":1259507495,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1259507495,
+    "wof:lastmodified":1536823409,
+    "wof:name":"Saraititi",
+    "wof:parent_id":1091704393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.9,
+    -8.56667,
+    147.9,
+    -8.56667
+],
+  "geometry": {"coordinates":[147.90000000000001,-8.56667],"type":"Point"}
+}

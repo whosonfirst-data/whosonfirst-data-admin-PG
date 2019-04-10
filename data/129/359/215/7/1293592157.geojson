@@ -1,0 +1,67 @@
+{
+  "id": 1293592157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.59279,-7.9348,145.59279,-7.9348",
+    "geom:latitude":-7.9348,
+    "geom:longitude":145.59279,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Aivau",
+    "gn:country_code":"PG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101159,
+    "gn:latitude":-7.9348,
+    "gn:longitude":145.59279,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Aivau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091703049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101159
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c8c2e0d1cd52e56cfc0a5700fa97942c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703049,
+            "locality_id":1293592157,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1293592157,
+    "wof:lastmodified":1536634916,
+    "wof:name":"Aivau",
+    "wof:parent_id":1091703049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.59278999999995,
+    -7.9348,
+    145.59278999999995,
+    -7.9348
+],
+  "geometry": {"coordinates":[145.59278999999995,-7.9348],"type":"Point"}
+}

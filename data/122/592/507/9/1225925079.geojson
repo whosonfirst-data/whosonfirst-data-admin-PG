@@ -1,0 +1,71 @@
+{
+  "id": 1225925079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.87357,-3.73547,142.87357,-3.73547",
+    "geom:latitude":-3.73547,
+    "geom:longitude":142.87357,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Yabanakor 2",
+    "gn:country_code":"PG",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083246,
+    "gn:latitude":-3.73547,
+    "gn:longitude":142.87357,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yabanakor 2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yubanakor Number 2",
+        "Yabanakor 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083246
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"39cf6b55b973b9252e4a6abe63896b62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702053,
+            "locality_id":1225925079,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1225925079,
+    "wof:lastmodified":1537677024,
+    "wof:name":"Yabanakor 2",
+    "wof:parent_id":1091702053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.87357,
+    -3.73547,
+    142.87357,
+    -3.73547
+],
+  "geometry": {"coordinates":[142.87357,-3.73547],"type":"Point"}
+}

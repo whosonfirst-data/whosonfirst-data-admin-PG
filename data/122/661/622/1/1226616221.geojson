@@ -1,0 +1,61 @@
+{
+  "id": 1226616221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.99181,-2.72776,151.99181,-2.72776",
+    "geom:latitude":-2.72776,
+    "geom:longitude":151.99181,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Pekinberiu",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088478,
+    "gn:latitude":-2.72776,
+    "gn:longitude":151.99181,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Pekinberiu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088478
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1859fedc9a3cac4f889b466e1c74d744",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226616221,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226616221,
+    "wof:lastmodified":1536901768,
+    "wof:name":"Pekinberiu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.99181000000004,
+    -2.72776,
+    151.99181000000004,
+    -2.72776
+],
+  "geometry": {"coordinates":[151.99181000000004,-2.72776],"type":"Point"}
+}

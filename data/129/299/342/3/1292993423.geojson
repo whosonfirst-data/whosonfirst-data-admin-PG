@@ -1,0 +1,70 @@
+{
+  "id": 1292993423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.67392,-8.08363,143.67392,-8.08363",
+    "geom:latitude":-8.08363,
+    "geom:longitude":143.67392,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bina Two",
+    "gn:country_code":"PG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425490,
+    "gn:latitude":-8.08363,
+    "gn:longitude":143.67392,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Bina Two",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bina Two"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091703673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425490
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ff7b989b8d41a449dd1735aef5ac5654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703673,
+            "locality_id":1292993423,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1292993423,
+    "wof:lastmodified":1537677227,
+    "wof:name":"Bina Two",
+    "wof:parent_id":1091703673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.67391999999995,
+    -8.08363,
+    143.67391999999995,
+    -8.08363
+],
+  "geometry": {"coordinates":[143.67391999999995,-8.08363],"type":"Point"}
+}

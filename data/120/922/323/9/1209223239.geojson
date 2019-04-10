@@ -1,0 +1,61 @@
+{
+  "id": 1209223239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.16667,-7.53333,145.16667,-7.53333",
+    "geom:latitude":-7.53333,
+    "geom:longitude":145.16667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ebala",
+    "gn:country_code":"PG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097843,
+    "gn:latitude":-7.53333,
+    "gn:longitude":145.16667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Ebala",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097843
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0721307cbd1bcdf24dd81ac7d3d492aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209223239
+        }
+    ],
+    "wof:id":1209223239,
+    "wof:lastmodified":1536293887,
+    "wof:name":"Ebala",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.16666999999995,
+    -7.53333,
+    145.16666999999995,
+    -7.53333
+],
+  "geometry": {"coordinates":[145.16666999999995,-7.53333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327037569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.38333,-9.93333,149.38333,-9.93333",
+    "geom:latitude":-9.93333,
+    "geom:longitude":149.38333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Gaunani",
+    "gn:country_code":"PG",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097114,
+    "gn:latitude":-9.93333,
+    "gn:longitude":149.38333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Gaunani",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097114
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a9e62ae485922045fd36dd4751719e68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702001,
+            "locality_id":1327037569,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1327037569,
+    "wof:lastmodified":1536752869,
+    "wof:name":"Gaunani",
+    "wof:parent_id":1091702001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.38333,
+    -9.93333,
+    149.38333,
+    -9.93333
+],
+  "geometry": {"coordinates":[149.38333,-9.93333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343241137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.31594,-7.29466,146.31594,-7.29466",
+    "geom:latitude":-7.29466,
+    "geom:longitude":146.31594,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Pingamunga",
+    "gn:country_code":"PG",
+    "gn:dem":1644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088346,
+    "gn:latitude":-7.29466,
+    "gn:longitude":146.31594,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pingamunga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pinamanga",
+        "Pingamunga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088346
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"7ee57b78a5681749ed594b941f86ac75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703633,
+            "locality_id":1343241137,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1343241137,
+    "wof:lastmodified":1537677075,
+    "wof:name":"Pingamunga",
+    "wof:parent_id":1091703633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.31593999999996,
+    -7.29466,
+    146.31593999999996,
+    -7.29466
+],
+  "geometry": {"coordinates":[146.31593999999996,-7.29466],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209492335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.7,-4.85,145.7,-4.85",
+    "geom:latitude":-4.85,
+    "geom:longitude":145.7,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Bargam",
+    "gn:country_code":"PG",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099839,
+    "gn:latitude":-4.85,
+    "gn:longitude":145.7,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Bargam",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099839
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"66e0671f05dd4898d4c1938729991afd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209492335
+        }
+    ],
+    "wof:id":1209492335,
+    "wof:lastmodified":1536285445,
+    "wof:name":"Bargam",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.7,
+    -4.85,
+    145.7,
+    -4.85
+],
+  "geometry": {"coordinates":[145.69999999999999,-4.85],"type":"Point"}
+}

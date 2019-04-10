@@ -1,0 +1,67 @@
+{
+  "id": 1243056255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.76777,-3.50058,142.76777,-3.50058",
+    "geom:latitude":-3.50058,
+    "geom:longitude":142.76777,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Yasum",
+    "gn:country_code":"PG",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083034,
+    "gn:latitude":-3.50058,
+    "gn:longitude":142.76777,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Yasum",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083034
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2363c3b2711666a07757cd07b11cbcfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702053,
+            "locality_id":1243056255,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1243056255,
+    "wof:lastmodified":1536869932,
+    "wof:name":"Yasum",
+    "wof:parent_id":1091702053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.76776999999996,
+    -3.50058,
+    142.76776999999996,
+    -3.50058
+],
+  "geometry": {"coordinates":[142.76776999999996,-3.50058],"type":"Point"}
+}

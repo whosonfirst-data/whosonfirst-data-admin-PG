@@ -1,0 +1,61 @@
+{
+  "id": 1209247653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.9608,-8.87253,147.9608,-8.87253",
+    "geom:latitude":-8.87253,
+    "geom:longitude":147.9608,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Hamara",
+    "gn:country_code":"PG",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096400,
+    "gn:latitude":-8.87253,
+    "gn:longitude":147.9608,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Hamara",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096400
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0c7481989cb4bbf2fabe3b68bd906ff6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209247653
+        }
+    ],
+    "wof:id":1209247653,
+    "wof:lastmodified":1536293108,
+    "wof:name":"Hamara",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.9608,
+    -8.872530000000003,
+    147.9608,
+    -8.872530000000003
+],
+  "geometry": {"coordinates":[147.96080000000001,-8.87253],"type":"Point"}
+}

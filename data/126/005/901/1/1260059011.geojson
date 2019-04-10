@@ -1,0 +1,67 @@
+{
+  "id": 1260059011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.18168,-7.95685,147.18168,-7.95685",
+    "geom:latitude":-7.95685,
+    "geom:longitude":147.18168,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Muniwa",
+    "gn:country_code":"PG",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090266,
+    "gn:latitude":-7.95685,
+    "gn:longitude":147.18168,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Muniwa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090266
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b6b0d02bb36c43d12b44f967fd832630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702091,
+            "locality_id":1260059011,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1260059011,
+    "wof:lastmodified":1537022346,
+    "wof:name":"Muniwa",
+    "wof:parent_id":1091702091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.18168,
+    -7.95685,
+    147.18168,
+    -7.95685
+],
+  "geometry": {"coordinates":[147.18168,-7.95685],"type":"Point"}
+}

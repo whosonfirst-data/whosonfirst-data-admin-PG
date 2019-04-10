@@ -1,0 +1,67 @@
+{
+  "id": 1226668267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.01605,-6.18502,142.01605,-6.18502",
+    "geom:latitude":-6.18502,
+    "geom:longitude":142.01605,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Idiena",
+    "gn:country_code":"PG",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095805,
+    "gn:latitude":-6.18502,
+    "gn:longitude":142.01605,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Idiena",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091703673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095805
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"78e45771f56d462e9e1e84c842909d6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703673,
+            "locality_id":1226668267,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1226668267,
+    "wof:lastmodified":1536826165,
+    "wof:name":"Idiena",
+    "wof:parent_id":1091703673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.01605,
+    -6.18502,
+    142.01605,
+    -6.18502
+],
+  "geometry": {"coordinates":[142.01605000000001,-6.18502],"type":"Point"}
+}

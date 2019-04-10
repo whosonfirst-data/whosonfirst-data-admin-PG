@@ -1,0 +1,71 @@
+{
+  "id": 1276864159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.31885,-5.92416,141.31885,-5.92416",
+    "geom:latitude":-5.92416,
+    "geom:longitude":141.31885,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Somaidemasuk",
+    "gn:country_code":"PG",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086410,
+    "gn:latitude":-5.92416,
+    "gn:longitude":141.31885,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Somaidemasuk",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Somaidumasuk",
+        "Somaidemasuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086410
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0984e2a4c04139b6487638e272cf430e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1276864159,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1276864159,
+    "wof:lastmodified":1537677057,
+    "wof:name":"Somaidemasuk",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.31885,
+    -5.92416,
+    141.31885,
+    -5.92416
+],
+  "geometry": {"coordinates":[141.31885,-5.92416],"type":"Point"}
+}

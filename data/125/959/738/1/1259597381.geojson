@@ -1,0 +1,61 @@
+{
+  "id": 1259597381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.34614,-10.3462,149.34614,-10.3462",
+    "geom:latitude":-10.3462,
+    "geom:longitude":149.34614,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Laluoro",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133053,
+    "gn:latitude":-10.3462,
+    "gn:longitude":149.34614,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Laluoro",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133053
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2c49ffa1dcffb9deadcfae0b8a08d3a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259597381,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259597381,
+    "wof:lastmodified":1536694890,
+    "wof:name":"Laluoro",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.34614,
+    -10.3462,
+    149.34614,
+    -10.3462
+],
+  "geometry": {"coordinates":[149.34613999999999,-10.3462],"type":"Point"}
+}

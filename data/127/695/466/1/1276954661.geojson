@@ -1,0 +1,61 @@
+{
+  "id": 1276954661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.75,-5.86667,148.75,-5.86667",
+    "geom:latitude":-5.86667,
+    "geom:longitude":148.75,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Molo",
+    "gn:country_code":"PG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090586,
+    "gn:latitude":-5.86667,
+    "gn:longitude":148.75,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Molo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090586
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"5460be473e0c1b68df0a6dd612e8c41b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276954661,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276954661,
+    "wof:lastmodified":1536941736,
+    "wof:name":"Molo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.75,
+    -5.86667,
+    148.75,
+    -5.86667
+],
+  "geometry": {"coordinates":[148.75,-5.86667],"type":"Point"}
+}

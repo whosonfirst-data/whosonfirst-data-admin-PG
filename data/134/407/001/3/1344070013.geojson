@@ -1,0 +1,67 @@
+{
+  "id": 1344070013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.756,-7.67785,145.756,-7.67785",
+    "geom:latitude":-7.67785,
+    "geom:longitude":145.756,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Paingoba",
+    "gn:country_code":"PG",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088790,
+    "gn:latitude":-7.67785,
+    "gn:longitude":145.756,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Paingoba",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091702955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088790
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1c00e836608432bea569b5abd8c10cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702955,
+            "locality_id":1344070013,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1344070013,
+    "wof:lastmodified":1536860332,
+    "wof:name":"Paingoba",
+    "wof:parent_id":1091702955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.756,
+    -7.67785,
+    145.756,
+    -7.67785
+],
+  "geometry": {"coordinates":[145.756,-7.67785],"type":"Point"}
+}

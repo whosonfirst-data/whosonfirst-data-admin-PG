@@ -1,0 +1,67 @@
+{
+  "id": 1360262345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.8,-5.03333,145.8,-5.03333",
+    "geom:latitude":-5.03333,
+    "geom:longitude":145.8,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Bomasa",
+    "gn:country_code":"PG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099198,
+    "gn:latitude":-5.03333,
+    "gn:longitude":145.8,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Bomasa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099198
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d9ba24bec7b8349844d7f8c1d765ad78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704517,
+            "locality_id":1360262345,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1360262345,
+    "wof:lastmodified":1536690110,
+    "wof:name":"Bomasa",
+    "wof:parent_id":1091704517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.8,
+    -5.03333,
+    145.8,
+    -5.03333
+],
+  "geometry": {"coordinates":[145.80000000000001,-5.03333],"type":"Point"}
+}

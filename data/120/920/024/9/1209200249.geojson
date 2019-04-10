@@ -1,0 +1,61 @@
+{
+  "id": 1209200249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.05,-6.35,145.05,-6.35",
+    "geom:latitude":-6.35,
+    "geom:longitude":145.05,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kerum",
+    "gn:country_code":"PG",
+    "gn:dem":2141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094119,
+    "gn:latitude":-6.35,
+    "gn:longitude":145.05,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kerum",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094119
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"74f05624c4a5d27b447cf669a0d84478",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209200249
+        }
+    ],
+    "wof:id":1209200249,
+    "wof:lastmodified":1536294636,
+    "wof:name":"Kerum",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.05,
+    -6.35,
+    145.05,
+    -6.35
+],
+  "geometry": {"coordinates":[145.05000000000001,-6.35],"type":"Point"}
+}

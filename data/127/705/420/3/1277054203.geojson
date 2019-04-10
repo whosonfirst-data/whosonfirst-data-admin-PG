@@ -1,0 +1,67 @@
+{
+  "id": 1277054203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.01667,-3.88333,143.01667,-3.88333",
+    "geom:latitude":-3.88333,
+    "geom:longitude":143.01667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Yambi",
+    "gn:country_code":"PG",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2083143,
+    "gn:latitude":-3.88333,
+    "gn:longitude":143.01667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Yambi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083143
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"132a72754fd0973e4601d2dad5a4f51b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705131,
+            "locality_id":1277054203,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1277054203,
+    "wof:lastmodified":1536807146,
+    "wof:name":"Yambi",
+    "wof:parent_id":1091705131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.01667,
+    -3.88333,
+    143.01667,
+    -3.88333
+],
+  "geometry": {"coordinates":[143.01667,-3.88333],"type":"Point"}
+}

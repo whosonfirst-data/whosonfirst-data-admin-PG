@@ -1,0 +1,61 @@
+{
+  "id": 1276666511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.21667,-7.85,145.21667,-7.85",
+    "geom:latitude":-7.85,
+    "geom:longitude":145.21667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nomu",
+    "gn:country_code":"PG",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2113767,
+    "gn:latitude":-7.85,
+    "gn:longitude":145.21667,
+    "gn:modification_date":"1997-01-27",
+    "gn:name":"Nomu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2113767
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b842f1bf2af4375de8eb9481b2efcd23",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276666511,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276666511,
+    "wof:lastmodified":1536828288,
+    "wof:name":"Nomu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.21667,
+    -7.85,
+    145.21667,
+    -7.85
+],
+  "geometry": {"coordinates":[145.21666999999999,-7.85],"type":"Point"}
+}

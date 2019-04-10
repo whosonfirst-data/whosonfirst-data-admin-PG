@@ -1,0 +1,67 @@
+{
+  "id": 1242773165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.478,-4.20048,152.478,-4.20048",
+    "geom:latitude":-4.20048,
+    "geom:longitude":152.478,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Urou",
+    "gn:country_code":"PG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084557,
+    "gn:latitude":-4.20048,
+    "gn:longitude":152.478,
+    "gn:modification_date":"2015-04-27",
+    "gn:name":"Urou",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091703131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084557
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"dc194c63156bb3653720e6008aa267a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703131,
+            "locality_id":1242773165,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1242773165,
+    "wof:lastmodified":1536782523,
+    "wof:name":"Urou",
+    "wof:parent_id":1091703131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.47799999999995,
+    -4.20048,
+    152.47799999999995,
+    -4.20048
+],
+  "geometry": {"coordinates":[152.47799999999995,-4.20048],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193006247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.34815,-4.64127,144.34815,-4.64127",
+    "geom:latitude":-4.64127,
+    "geom:longitude":144.34815,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rangwik",
+    "gn:country_code":"PG",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087790,
+    "gn:latitude":-4.64127,
+    "gn:longitude":144.34815,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Rangwik",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rongwik",
+        "Rangwik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087790
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4a21e184591e09cc8d4fa6912ad89b55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702059,
+            "locality_id":1193006247,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1193006247,
+    "wof:lastmodified":1537677071,
+    "wof:name":"Rangwik",
+    "wof:parent_id":1091702059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.34815,
+    -4.64127,
+    144.34815,
+    -4.64127
+],
+  "geometry": {"coordinates":[144.34815,-4.64127],"type":"Point"}
+}

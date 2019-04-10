@@ -1,0 +1,70 @@
+{
+  "id": 1226232987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.03055,-6.08925,145.03055,-6.08925",
+    "geom:latitude":-6.08925,
+    "geom:longitude":145.03055,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Muana",
+    "gn:country_code":"PG",
+    "gn:dem":1912,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8439679,
+    "gn:latitude":-6.08925,
+    "gn:longitude":145.03055,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Muana",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Muana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091704349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8439679
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"417cb68636442dea2a8848b3ad257300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704349,
+            "locality_id":1226232987,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1226232987,
+    "wof:lastmodified":1537677228,
+    "wof:name":"Muana",
+    "wof:parent_id":1091704349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.03055,
+    -6.08925,
+    145.03055,
+    -6.08925
+],
+  "geometry": {"coordinates":[145.03055000000001,-6.08925],"type":"Point"}
+}

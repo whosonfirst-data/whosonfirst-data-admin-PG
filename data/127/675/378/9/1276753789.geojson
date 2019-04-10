@@ -1,0 +1,67 @@
+{
+  "id": 1276753789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.36354,-6.55275,145.36354,-6.55275",
+    "geom:latitude":-6.55275,
+    "geom:longitude":145.36354,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Mino",
+    "gn:country_code":"PG",
+    "gn:dem":1824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090756,
+    "gn:latitude":-6.55275,
+    "gn:longitude":145.36354,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Mino",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091704103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090756
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"27f086381ba439a2cdc532b7282f9d52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704103,
+            "locality_id":1276753789,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1276753789,
+    "wof:lastmodified":1536712806,
+    "wof:name":"Mino",
+    "wof:parent_id":1091704103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.36354,
+    -6.55275,
+    145.36354,
+    -6.55275
+],
+  "geometry": {"coordinates":[145.36354,-6.55275],"type":"Point"}
+}

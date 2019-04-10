@@ -1,0 +1,63 @@
+{
+  "id": 1327244591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.93333,-7.93333,143.93333,-7.93333",
+    "geom:latitude":-7.93333,
+    "geom:longitude":143.93333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bora",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099138,
+    "gn:latitude":-7.93333,
+    "gn:longitude":143.93333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Bora",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099138
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"de17923de519734ccbcb94c84c9971d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1327244591,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327244591,
+    "wof:lastmodified":1536952024,
+    "wof:name":"Bora",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.93333,
+    -7.93333,
+    143.93333,
+    -7.93333
+],
+  "geometry": {"coordinates":[143.93333000000001,-7.93333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209994755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.15874,-3.922,143.15874,-3.922",
+    "geom:latitude":-3.922,
+    "geom:longitude":143.15874,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Nagokimbi",
+    "gn:country_code":"PG",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090110,
+    "gn:latitude":-3.922,
+    "gn:longitude":143.15874,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nagokimbi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nagotimbi",
+        "Nagokimbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090110
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"609b1be522b1a62da4b442c3423b4c16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705131,
+            "locality_id":1209994755,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1209994755,
+    "wof:lastmodified":1537677094,
+    "wof:name":"Nagokimbi",
+    "wof:parent_id":1091705131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.15874,
+    -3.922,
+    143.15874,
+    -3.922
+],
+  "geometry": {"coordinates":[143.15873999999999,-3.922],"type":"Point"}
+}

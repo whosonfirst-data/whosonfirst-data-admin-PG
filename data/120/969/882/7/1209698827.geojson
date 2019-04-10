@@ -1,0 +1,63 @@
+{
+  "id": 1209698827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.3595,-3.53995,152.3595,-3.53995",
+    "geom:latitude":-3.53995,
+    "geom:longitude":152.3595,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Bakan",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100050,
+    "gn:latitude":-3.53995,
+    "gn:longitude":152.3595,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Bakan",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100050
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8f173ef44baaad6fa9a7616ebefe2d38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1209698827,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209698827,
+    "wof:lastmodified":1536395916,
+    "wof:name":"Bakan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.3595,
+    -3.53995,
+    152.3595,
+    -3.53995
+],
+  "geometry": {"coordinates":[152.3595,-3.53995],"type":"Point"}
+}

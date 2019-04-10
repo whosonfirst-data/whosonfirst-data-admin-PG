@@ -1,0 +1,73 @@
+{
+  "id": 1242844705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.04449,-2.51527,150.04449,-2.51527",
+    "geom:latitude":-2.51527,
+    "geom:longitude":150.04449,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Beliwaia",
+    "gn:country_code":"PG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099677,
+    "gn:latitude":-2.51527,
+    "gn:longitude":150.04449,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Beliwaia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Belewaia",
+        "Belliwea",
+        "Belliwia",
+        "Beliwaia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091702917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099677
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"73b349921abdce8e94f292139bfd2a72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702917,
+            "locality_id":1242844705,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1242844705,
+    "wof:lastmodified":1537677199,
+    "wof:name":"Beliwaia",
+    "wof:parent_id":1091702917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.04449,
+    -2.51527,
+    150.04449,
+    -2.51527
+],
+  "geometry": {"coordinates":[150.04449,-2.51527],"type":"Point"}
+}

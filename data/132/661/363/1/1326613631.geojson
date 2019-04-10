@@ -1,0 +1,68 @@
+{
+  "id": 1326613631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.03552,-6.68583,147.03552,-6.68583",
+    "geom:latitude":-6.68583,
+    "geom:longitude":147.03552,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Malahang Mission",
+    "gn:country_code":"PG",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091775,
+    "gn:latitude":-6.68583,
+    "gn:longitude":147.03552,
+    "gn:modification_date":"2014-09-27",
+    "gn:name":"Malahang Mission",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091775,
+        "wk:page":"Malahang_Mission_Station,_Lae"
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"72f293b7b9d3be48c73e558f1946e61b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703335,
+            "locality_id":1326613631,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1326613631,
+    "wof:lastmodified":1537570312,
+    "wof:name":"Malahang Mission",
+    "wof:parent_id":1091703335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.03552,
+    -6.68583,
+    147.03552,
+    -6.68583
+],
+  "geometry": {"coordinates":[147.03551999999999,-6.68583],"type":"Point"}
+}

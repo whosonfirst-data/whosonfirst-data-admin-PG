@@ -1,0 +1,67 @@
+{
+  "id": 1327142053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.98333,-10.53333,149.98333,-10.53333",
+    "geom:latitude":-10.53333,
+    "geom:longitude":149.98333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Veri Veri",
+    "gn:country_code":"PG",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2132364,
+    "gn:latitude":-10.53333,
+    "gn:longitude":149.98333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Veri Veri",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2132364
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"15a6e074e287304a8edef2462d30d098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702001,
+            "locality_id":1327142053,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1327142053,
+    "wof:lastmodified":1537096718,
+    "wof:name":"Veri Veri",
+    "wof:parent_id":1091702001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.98333,
+    -10.53333,
+    149.98333,
+    -10.53333
+],
+  "geometry": {"coordinates":[149.98333,-10.53333],"type":"Point"}
+}

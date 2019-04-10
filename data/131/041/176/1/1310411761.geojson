@@ -1,0 +1,72 @@
+{
+  "id": 1310411761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.32447,-8.71302,148.32447,-8.71302",
+    "geom:latitude":-8.71302,
+    "geom:longitude":148.32447,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Soputa",
+    "gn:country_code":"PG",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086371,
+    "gn:latitude":-8.71302,
+    "gn:longitude":148.32447,
+    "gn:modification_date":"2018-03-14",
+    "gn:name":"Soputa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saputa",
+        "Soputa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091702531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086371,
+        "wk:page":"Soputa,_Papua_New_Guinea"
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"49b1a17dd1238e9a8c76d8145b85067c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702531,
+            "locality_id":1310411761,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1310411761,
+    "wof:lastmodified":1537677057,
+    "wof:name":"Soputa",
+    "wof:parent_id":1091702531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.32447,
+    -8.71302,
+    148.32447,
+    -8.71302
+],
+  "geometry": {"coordinates":[148.32446999999999,-8.71302],"type":"Point"}
+}

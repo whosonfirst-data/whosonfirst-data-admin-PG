@@ -1,0 +1,67 @@
+{
+  "id": 1193159771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.79279,-5.65183,142.79279,-5.65183",
+    "geom:latitude":-5.65183,
+    "geom:longitude":142.79279,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tadei",
+    "gn:country_code":"PG",
+    "gn:dem":1700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8528089,
+    "gn:latitude":-5.65183,
+    "gn:longitude":142.79279,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Tadei",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        1108805615,
+        1091703247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8528089
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"96d7e1d8b53a48bc80f62b1c3dd07d53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703247,
+            "locality_id":1193159771,
+            "region_id":1108805615
+        }
+    ],
+    "wof:id":1193159771,
+    "wof:lastmodified":1536369208,
+    "wof:name":"Tadei",
+    "wof:parent_id":1091703247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.79279,
+    -5.65183,
+    142.79279,
+    -5.65183
+],
+  "geometry": {"coordinates":[142.79279,-5.65183],"type":"Point"}
+}

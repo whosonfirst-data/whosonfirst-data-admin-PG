@@ -1,0 +1,67 @@
+{
+  "id": 1293670217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.05,-4.56667,144.05,-4.56667",
+    "geom:latitude":-4.56667,
+    "geom:longitude":144.05,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Makaton",
+    "gn:country_code":"PG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091809,
+    "gn:latitude":-4.56667,
+    "gn:longitude":144.05,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Makaton",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091809
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4b990d73948b6bb917b70b2d4791a217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702059,
+            "locality_id":1293670217,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1293670217,
+    "wof:lastmodified":1537020012,
+    "wof:name":"Makaton",
+    "wof:parent_id":1091702059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.05,
+    -4.56667,
+    144.05,
+    -4.56667
+],
+  "geometry": {"coordinates":[144.05000000000001,-4.56667],"type":"Point"}
+}

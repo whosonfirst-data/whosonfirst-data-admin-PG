@@ -1,0 +1,67 @@
+{
+  "id": 1243241735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.83823,-3.79527,143.83823,-3.79527",
+    "geom:latitude":-3.79527,
+    "geom:longitude":143.83823,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Tring",
+    "gn:country_code":"PG",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085126,
+    "gn:latitude":-3.79527,
+    "gn:longitude":143.83823,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Tring",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085126
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9d9c82905c08b911d1635b5a9505e5cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705089,
+            "locality_id":1243241735,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1243241735,
+    "wof:lastmodified":1536600520,
+    "wof:name":"Tring",
+    "wof:parent_id":1091705089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.83823,
+    -3.79527,
+    143.83823,
+    -3.79527
+],
+  "geometry": {"coordinates":[143.83823000000001,-3.79527],"type":"Point"}
+}

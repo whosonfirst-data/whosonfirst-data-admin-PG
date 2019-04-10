@@ -1,0 +1,67 @@
+{
+  "id": 1259884645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.71392,-6.2161,143.71392,-6.2161",
+    "geom:latitude":-6.2161,
+    "geom:longitude":143.71392,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Lumbi",
+    "gn:country_code":"PG",
+    "gn:dem":1778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092077,
+    "gn:latitude":-6.2161,
+    "gn:longitude":143.71392,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Lumbi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092077
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"253451ea74f006273197805b65107026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702573,
+            "locality_id":1259884645,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1259884645,
+    "wof:lastmodified":1536777951,
+    "wof:name":"Lumbi",
+    "wof:parent_id":1091702573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.71392,
+    -6.2161,
+    143.71392,
+    -6.2161
+],
+  "geometry": {"coordinates":[143.71392,-6.2161],"type":"Point"}
+}

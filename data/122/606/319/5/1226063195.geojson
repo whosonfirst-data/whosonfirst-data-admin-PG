@@ -1,0 +1,66 @@
+{
+  "id": 1226063195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.08333,-4.1,152.08333,-4.1",
+    "geom:latitude":-4.1,
+    "geom:longitude":152.08333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Rakival",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087851,
+    "gn:latitude":-4.1,
+    "gn:longitude":152.08333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Rakival",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rakiwal",
+        "Rakival"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087851
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"eb5958ee52d50f0d38828b4de741bdb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226063195,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226063195,
+    "wof:lastmodified":1537677071,
+    "wof:name":"Rakival",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.08333000000005,
+    -4.1,
+    152.08333000000005,
+    -4.1
+],
+  "geometry": {"coordinates":[152.08333000000005,-4.1],"type":"Point"}
+}

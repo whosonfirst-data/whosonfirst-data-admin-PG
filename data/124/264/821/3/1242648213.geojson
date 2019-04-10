@@ -1,0 +1,67 @@
+{
+  "id": 1242648213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.54471,-7.23426,146.54471,-7.23426",
+    "geom:latitude":-7.23426,
+    "geom:longitude":146.54471,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Yauwipu",
+    "gn:country_code":"PG",
+    "gn:dem":916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083003,
+    "gn:latitude":-7.23426,
+    "gn:longitude":146.54471,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Yauwipu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083003
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c170fd923eea10eddffd917e8a026671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702091,
+            "locality_id":1242648213,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1242648213,
+    "wof:lastmodified":1536962112,
+    "wof:name":"Yauwipu",
+    "wof:parent_id":1091702091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.54471,
+    -7.23426,
+    146.54471,
+    -7.23426
+],
+  "geometry": {"coordinates":[146.54471000000001,-7.23426],"type":"Point"}
+}

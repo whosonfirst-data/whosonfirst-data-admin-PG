@@ -1,0 +1,63 @@
+{
+  "id": 1276196093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.04606,-3.27652,152.04606,-3.27652",
+    "geom:latitude":-3.27652,
+    "geom:longitude":152.04606,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Atlamau",
+    "gn:country_code":"PG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100396,
+    "gn:latitude":-3.27652,
+    "gn:longitude":152.04606,
+    "gn:modification_date":"2017-06-11",
+    "gn:name":"Atlamau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100396
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"14458c8c3ab2f7bdfac3b04ed38268c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1276196093,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276196093,
+    "wof:lastmodified":1536962809,
+    "wof:name":"Atlamau",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.04606,
+    -3.27652,
+    152.04606,
+    -3.27652
+],
+  "geometry": {"coordinates":[152.04606000000001,-3.27652],"type":"Point"}
+}

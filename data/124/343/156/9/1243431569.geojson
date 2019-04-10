@@ -1,0 +1,67 @@
+{
+  "id": 1243431569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.92321,-5.49415,145.92321,-5.49415",
+    "geom:latitude":-5.49415,
+    "geom:longitude":145.92321,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Arawum",
+    "gn:country_code":"PG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100623,
+    "gn:latitude":-5.49415,
+    "gn:longitude":145.92321,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Arawum",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100623
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"6d779afa265dd6bb077ce060bff66b23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704219,
+            "locality_id":1243431569,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1243431569,
+    "wof:lastmodified":1536826050,
+    "wof:name":"Arawum",
+    "wof:parent_id":1091704219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.92321,
+    -5.49415,
+    145.92321,
+    -5.49415
+],
+  "geometry": {"coordinates":[145.92321000000001,-5.49415],"type":"Point"}
+}

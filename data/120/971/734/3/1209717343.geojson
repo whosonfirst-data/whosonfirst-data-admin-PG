@@ -1,0 +1,67 @@
+{
+  "id": 1209717343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.80225,-9.03873,152.80225,-9.03873",
+    "geom:latitude":-9.03873,
+    "geom:longitude":152.80225,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kaurai",
+    "gn:country_code":"PG",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094385,
+    "gn:latitude":-9.03873,
+    "gn:longitude":152.80225,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kaurai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091704299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094385
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0c3ce6393bb0929294c53558d00fae08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704299,
+            "locality_id":1209717343,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1209717343,
+    "wof:lastmodified":1536387965,
+    "wof:name":"Kaurai",
+    "wof:parent_id":1091704299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.80225,
+    -9.03873,
+    152.80225,
+    -9.03873
+],
+  "geometry": {"coordinates":[152.80224999999999,-9.03873],"type":"Point"}
+}

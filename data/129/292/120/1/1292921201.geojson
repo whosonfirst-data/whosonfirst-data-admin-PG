@@ -1,0 +1,67 @@
+{
+  "id": 1292921201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.52008,-9.80075,147.52008,-9.80075",
+    "geom:latitude":-9.80075,
+    "geom:longitude":147.52008,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kapala",
+    "gn:country_code":"PG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9612223,
+    "gn:latitude":-9.80075,
+    "gn:longitude":147.52008,
+    "gn:modification_date":"2014-09-27",
+    "gn:name":"Kapala",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091704253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9612223
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"33bcb89c91fd110277f811527b2cdc99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704253,
+            "locality_id":1292921201,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1292921201,
+    "wof:lastmodified":1536606409,
+    "wof:name":"Kapala",
+    "wof:parent_id":1091704253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.52008,
+    -9.80075,
+    147.52008,
+    -9.80075
+],
+  "geometry": {"coordinates":[147.52008000000001,-9.80075],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327337571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.05363,-8.17461,147.05363,-8.17461",
+    "geom:latitude":-8.17461,
+    "geom:longitude":147.05363,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ponialavava",
+    "gn:country_code":"PG",
+    "gn:dem":2149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088176,
+    "gn:latitude":-8.17461,
+    "gn:longitude":147.05363,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Ponialavava",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091702425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088176
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"38a0a8453556a0faeb36a4cdd07b020b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702425,
+            "locality_id":1327337571,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1327337571,
+    "wof:lastmodified":1536816897,
+    "wof:name":"Ponialavava",
+    "wof:parent_id":1091702425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.05363,
+    -8.17461,
+    147.05363,
+    -8.17461
+],
+  "geometry": {"coordinates":[147.05363,-8.17461],"type":"Point"}
+}

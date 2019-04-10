@@ -1,0 +1,67 @@
+{
+  "id": 1260094387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.30232,-8.75933,147.30232,-8.75933",
+    "geom:latitude":-8.75933,
+    "geom:longitude":147.30232,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Enende",
+    "gn:country_code":"PG",
+    "gn:dem":1971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097657,
+    "gn:latitude":-8.75933,
+    "gn:longitude":147.30232,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Enende",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091702425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097657
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4b4d20d20df599a3ed58f45ec68fe721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702425,
+            "locality_id":1260094387,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1260094387,
+    "wof:lastmodified":1536971883,
+    "wof:name":"Enende",
+    "wof:parent_id":1091702425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.30232,
+    -8.75933,
+    147.30232,
+    -8.75933
+],
+  "geometry": {"coordinates":[147.30232000000001,-8.75933],"type":"Point"}
+}

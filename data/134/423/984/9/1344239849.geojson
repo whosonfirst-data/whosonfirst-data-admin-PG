@@ -1,0 +1,67 @@
+{
+  "id": 1344239849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.95494,-1.66065,149.95494,-1.66065",
+    "geom:latitude":-1.66065,
+    "geom:longitude":149.95494,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Tabilu",
+    "gn:country_code":"PG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086057,
+    "gn:latitude":-1.66065,
+    "gn:longitude":149.95494,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Tabilu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091702917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086057
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b3900bf1f729284f38cfe12fa26af650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702917,
+            "locality_id":1344239849,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1344239849,
+    "wof:lastmodified":1536614411,
+    "wof:name":"Tabilu",
+    "wof:parent_id":1091702917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.95494,
+    -1.66065,
+    149.95494,
+    -1.66065
+],
+  "geometry": {"coordinates":[149.95493999999999,-1.66065],"type":"Point"}
+}

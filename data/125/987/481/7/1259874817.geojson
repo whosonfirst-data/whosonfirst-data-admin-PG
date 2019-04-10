@@ -1,0 +1,67 @@
+{
+  "id": 1259874817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.97378,-4.9598,151.97378,-4.9598",
+    "geom:latitude":-4.9598,
+    "geom:longitude":151.97378,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Kaubademki",
+    "gn:country_code":"PG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094433,
+    "gn:latitude":-4.9598,
+    "gn:longitude":151.97378,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Kaubademki",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091704139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094433
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9a040584b66319fca0c1c829453ec169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704139,
+            "locality_id":1259874817,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1259874817,
+    "wof:lastmodified":1536792037,
+    "wof:name":"Kaubademki",
+    "wof:parent_id":1091704139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.97378,
+    -4.9598,
+    151.97378,
+    -4.9598
+],
+  "geometry": {"coordinates":[151.97378,-4.9598],"type":"Point"}
+}

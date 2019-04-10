@@ -1,0 +1,70 @@
+{
+  "id": 1276295259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.02656,-5.32378,151.02656,-5.32378",
+    "geom:latitude":-5.32378,
+    "geom:longitude":151.02656,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Bialla",
+    "gn:country_code":"PG",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7648670,
+    "gn:latitude":-5.32378,
+    "gn:longitude":151.02656,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"Bialla",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bialla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676599,
+        1091704547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7648670
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b0fdd645df8b76cee5f9187ab3a0632b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704547,
+            "locality_id":1276295259,
+            "region_id":85676599
+        }
+    ],
+    "wof:id":1276295259,
+    "wof:lastmodified":1537677227,
+    "wof:name":"Bialla",
+    "wof:parent_id":1091704547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.02656000000005,
+    -5.32378,
+    151.02656000000005,
+    -5.32378
+],
+  "geometry": {"coordinates":[151.02656000000005,-5.32378],"type":"Point"}
+}

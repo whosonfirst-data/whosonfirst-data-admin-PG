@@ -1,0 +1,67 @@
+{
+  "id": 1293276793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.40771,-6.5406,145.40771,-6.5406",
+    "geom:latitude":-6.5406,
+    "geom:longitude":145.40771,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Aramasu",
+    "gn:country_code":"PG",
+    "gn:dem":1578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100662,
+    "gn:latitude":-6.5406,
+    "gn:longitude":145.40771,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Aramasu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091704103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100662
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"41fe2c646506d9124f3b3d0da6ee31c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704103,
+            "locality_id":1293276793,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1293276793,
+    "wof:lastmodified":1537087615,
+    "wof:name":"Aramasu",
+    "wof:parent_id":1091704103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.40771,
+    -6.5406,
+    145.40771,
+    -6.5406
+],
+  "geometry": {"coordinates":[145.40771000000001,-6.5406],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259759177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.09695,-3.55926,141.09695,-3.55926",
+    "geom:latitude":-3.55926,
+    "geom:longitude":141.09695,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Kabaineri",
+    "gn:country_code":"PG",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095214,
+    "gn:latitude":-3.55926,
+    "gn:longitude":141.09695,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Kabaineri",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091704901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095214
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b412e4bc8128c85c793d4613ee0eac8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704901,
+            "locality_id":1259759177,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1259759177,
+    "wof:lastmodified":1536958166,
+    "wof:name":"Kabaineri",
+    "wof:parent_id":1091704901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.09695,
+    -3.55926,
+    141.09695,
+    -3.55926
+],
+  "geometry": {"coordinates":[141.09694999999999,-3.55926],"type":"Point"}
+}

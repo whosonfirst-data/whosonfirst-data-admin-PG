@@ -1,0 +1,67 @@
+{
+  "id": 1276635693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.66667,-5.88333,146.66667,-5.88333",
+    "geom:latitude":-5.88333,
+    "geom:longitude":146.66667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Windluk",
+    "gn:country_code":"PG",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083468,
+    "gn:latitude":-5.88333,
+    "gn:longitude":146.66667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Windluk",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083468
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c5a3c4dcb69d0ba5bb4a0b670382c08c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704219,
+            "locality_id":1276635693,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1276635693,
+    "wof:lastmodified":1536869793,
+    "wof:name":"Windluk",
+    "wof:parent_id":1091704219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.66666999999995,
+    -5.88333,
+    146.66666999999995,
+    -5.88333
+],
+  "geometry": {"coordinates":[146.66666999999995,-5.88333],"type":"Point"}
+}

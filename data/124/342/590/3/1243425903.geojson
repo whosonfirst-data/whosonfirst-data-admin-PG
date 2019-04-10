@@ -1,0 +1,61 @@
+{
+  "id": 1243425903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.00597,-6.15376,149.00597,-6.15376",
+    "geom:latitude":-6.15376,
+    "geom:longitude":149.00597,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Kumbun",
+    "gn:country_code":"PG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093129,
+    "gn:latitude":-6.15376,
+    "gn:longitude":149.00597,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kumbun",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093129
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"6ab0cdbf1606d2193d3ed31067728a63",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243425903,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243425903,
+    "wof:lastmodified":1536834152,
+    "wof:name":"Kumbun",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.00597,
+    -6.15376,
+    149.00597,
+    -6.15376
+],
+  "geometry": {"coordinates":[149.00596999999999,-6.15376],"type":"Point"}
+}

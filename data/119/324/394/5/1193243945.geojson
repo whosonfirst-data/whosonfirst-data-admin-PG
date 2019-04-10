@@ -1,0 +1,67 @@
+{
+  "id": 1193243945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.30684,-5.3736,143.30684,-5.3736",
+    "geom:latitude":-5.3736,
+    "geom:longitude":143.30684,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Tumundan",
+    "gn:country_code":"PG",
+    "gn:dem":2300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085007,
+    "gn:latitude":-5.3736,
+    "gn:longitude":143.30684,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Tumundan",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676513,
+        1091703371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085007
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"28513e4163c6f59be011da19dca47c15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703371,
+            "locality_id":1193243945,
+            "region_id":85676513
+        }
+    ],
+    "wof:id":1193243945,
+    "wof:lastmodified":1536375400,
+    "wof:name":"Tumundan",
+    "wof:parent_id":1091703371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.30684,
+    -5.3736,
+    143.30684,
+    -5.3736
+],
+  "geometry": {"coordinates":[143.30683999999999,-5.3736],"type":"Point"}
+}

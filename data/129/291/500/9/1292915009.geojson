@@ -1,0 +1,68 @@
+{
+  "id": 1292915009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"153.54454,-11.6408,153.54454,-11.6408",
+    "geom:latitude":-11.6408,
+    "geom:longitude":153.54454,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"8657199",
+    "gn:asciiname":"Rewe",
+    "gn:country_code":"PG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425443,
+    "gn:latitude":-11.6408,
+    "gn:longitude":153.54454,
+    "gn:modification_date":"2014-08-20",
+    "gn:name":"Rewe",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091704299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425443
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e0634f37f53a932762d2c1f1b93009b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704299,
+            "locality_id":1292915009,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1292915009,
+    "wof:lastmodified":1536615924,
+    "wof:name":"Rewe",
+    "wof:parent_id":1091704299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    153.54453999999996,
+    -11.6408,
+    153.54453999999996,
+    -11.6408
+],
+  "geometry": {"coordinates":[153.54453999999996,-11.6408],"type":"Point"}
+}

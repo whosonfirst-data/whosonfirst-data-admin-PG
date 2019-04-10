@@ -1,0 +1,67 @@
+{
+  "id": 1277142515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.97926,-5.54756,143.97926,-5.54756",
+    "geom:latitude":-5.54756,
+    "geom:longitude":143.97926,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Tiatesa",
+    "gn:country_code":"PG",
+    "gn:dem":1414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085498,
+    "gn:latitude":-5.54756,
+    "gn:longitude":143.97926,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Tiatesa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676513,
+        1091705055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085498
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2d7d18735cf88e6d8b19482dfdfbab06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705055,
+            "locality_id":1277142515,
+            "region_id":85676513
+        }
+    ],
+    "wof:id":1277142515,
+    "wof:lastmodified":1536681540,
+    "wof:name":"Tiatesa",
+    "wof:parent_id":1091705055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.97926,
+    -5.54756,
+    143.97926,
+    -5.54756
+],
+  "geometry": {"coordinates":[143.97926000000001,-5.54756],"type":"Point"}
+}

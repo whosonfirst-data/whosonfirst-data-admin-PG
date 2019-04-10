@@ -1,0 +1,67 @@
+{
+  "id": 1226113251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.71968,-6.59712,147.71968,-6.59712",
+    "geom:latitude":-6.59712,
+    "geom:longitude":147.71968,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kangarua",
+    "gn:country_code":"PG",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094733,
+    "gn:latitude":-6.59712,
+    "gn:longitude":147.71968,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kangarua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094733
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2f85acd1d0ee5237b21052b483ddc12a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702351,
+            "locality_id":1226113251,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1226113251,
+    "wof:lastmodified":1536625918,
+    "wof:name":"Kangarua",
+    "wof:parent_id":1091702351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.71968,
+    -6.59712,
+    147.71968,
+    -6.59712
+],
+  "geometry": {"coordinates":[147.71968000000001,-6.59712],"type":"Point"}
+}

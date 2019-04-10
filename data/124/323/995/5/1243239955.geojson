@@ -1,0 +1,67 @@
+{
+  "id": 1243239955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.71341,-2.13815,146.71341,-2.13815",
+    "geom:latitude":-2.13815,
+    "geom:longitude":146.71341,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Puju",
+    "gn:country_code":"PG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088048,
+    "gn:latitude":-2.13815,
+    "gn:longitude":146.71341,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Puju",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676569,
+        1091703475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088048
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a93c5f2b40440043a890c962a888e5c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703475,
+            "locality_id":1243239955,
+            "region_id":85676569
+        }
+    ],
+    "wof:id":1243239955,
+    "wof:lastmodified":1536603222,
+    "wof:name":"Puju",
+    "wof:parent_id":1091703475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.71341,
+    -2.13815,
+    146.71341,
+    -2.13815
+],
+  "geometry": {"coordinates":[146.71341000000001,-2.13815],"type":"Point"}
+}

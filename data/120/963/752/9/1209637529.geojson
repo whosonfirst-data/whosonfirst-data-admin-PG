@@ -1,0 +1,61 @@
+{
+  "id": 1209637529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.3,-7.55,143.3,-7.55",
+    "geom:latitude":-7.55,
+    "geom:longitude":143.3,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Forusio",
+    "gn:country_code":"PG",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097354,
+    "gn:latitude":-7.55,
+    "gn:longitude":143.3,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Forusio",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097354
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1ca8e6ea7bf098a10dd2287acb8e5839",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209637529
+        }
+    ],
+    "wof:id":1209637529,
+    "wof:lastmodified":1536280994,
+    "wof:name":"Forusio",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.3,
+    -7.55,
+    143.3,
+    -7.55
+],
+  "geometry": {"coordinates":[143.30000000000001,-7.55],"type":"Point"}
+}

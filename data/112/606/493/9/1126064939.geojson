@@ -1,0 +1,105 @@
+{
+  "id": 1126064939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.19582,-9.46755,147.19582,-9.46755",
+    "geom:latitude":-9.46755,
+    "geom:longitude":147.19582,
+    "gn:gn_country":"PG",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":-9.46913,
+    "gn:longitude":147.19869,
+    "iso:country":"PG",
+    "lbl:latitude":-9.46755,
+    "lbl:longitude":147.19582,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Boroko"
+    ],
+    "name:pol_x_preferred":[
+        "Boroko"
+    ],
+    "name:unk_x_variant":[
+        "Boroko"
+    ],
+    "qs_pg:aaroncc":"PG",
+    "qs_pg:gn_country":"PG",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":2099101,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Boroko",
+    "qs_pg:name_adm0":"Papua New Guinea",
+    "qs_pg:name_adm1":"National Capital",
+    "qs_pg:photos":71,
+    "qs_pg:photos_1k":14,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":71,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1167855,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424926,
+    "qs_pg:woe_id":1052273,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424926,
+    "woe:name_adm0":"Papua New Guinea",
+    "woe:name_adm1":"National Capital",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85676581,
+        102191583,
+        85632347,
+        1091703859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099101,
+        "gp:id":1052273,
+        "qs:id":1167855,
+        "qs_pg:id":1167855,
+        "wd:id":"Q4946224",
+        "wk:page":"Boroko"
+    },
+    "wof:country":"PG",
+    "wof:created":1497308717,
+    "wof:geomhash":"7bb4d8dc0eba0120ca3338c297457832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703859,
+            "locality_id":-1,
+            "neighbourhood_id":1126064939,
+            "region_id":85676581
+        }
+    ],
+    "wof:id":1126064939,
+    "wof:lastmodified":1534379399,
+    "wof:name":"Boroko",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85768625
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.19582,
+    -9.46755,
+    147.19582,
+    -9.46755
+],
+  "geometry": {"coordinates":[147.19582,-9.46755],"type":"Point"}
+}

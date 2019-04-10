@@ -1,0 +1,61 @@
+{
+  "id": 1360268185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.13333,-2.76667,151.13333,-2.76667",
+    "geom:latitude":-2.76667,
+    "geom:longitude":151.13333,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Boif",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099258,
+    "gn:latitude":-2.76667,
+    "gn:longitude":151.13333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Boif",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099258
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"7951834f1b11aaa698ed34f5d1562186",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1360268185,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360268185,
+    "wof:lastmodified":1536681519,
+    "wof:name":"Boif",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.13333,
+    -2.76667,
+    151.13333,
+    -2.76667
+],
+  "geometry": {"coordinates":[151.13333,-2.76667],"type":"Point"}
+}

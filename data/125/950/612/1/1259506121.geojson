@@ -1,0 +1,67 @@
+{
+  "id": 1259506121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.65,-6.36667,143.65,-6.36667",
+    "geom:latitude":-6.36667,
+    "geom:longitude":143.65,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Imani",
+    "gn:country_code":"PG",
+    "gn:dem":1413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095685,
+    "gn:latitude":-6.36667,
+    "gn:longitude":143.65,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Imani",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095685
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1b2424c1a7dd5b54216e6c4ae8fee169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702665,
+            "locality_id":1259506121,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1259506121,
+    "wof:lastmodified":1536825359,
+    "wof:name":"Imani",
+    "wof:parent_id":1091702665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.65,
+    -6.36667,
+    143.65,
+    -6.36667
+],
+  "geometry": {"coordinates":[143.65000000000001,-6.36667],"type":"Point"}
+}

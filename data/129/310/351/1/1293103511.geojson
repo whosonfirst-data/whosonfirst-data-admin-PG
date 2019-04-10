@@ -1,0 +1,67 @@
+{
+  "id": 1293103511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.61986,-6.35045,143.61986,-6.35045",
+    "geom:latitude":-6.35045,
+    "geom:longitude":143.61986,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Poroma",
+    "gn:country_code":"PG",
+    "gn:dem":1493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088133,
+    "gn:latitude":-6.35045,
+    "gn:longitude":143.61986,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Poroma",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091703941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088133
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"29113c244b8ebce3b3f8d6e8a94b4da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703941,
+            "locality_id":1293103511,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1293103511,
+    "wof:lastmodified":1536842565,
+    "wof:name":"Poroma",
+    "wof:parent_id":1091703941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.61986000000005,
+    -6.35045,
+    143.61986000000005,
+    -6.35045
+],
+  "geometry": {"coordinates":[143.61986000000005,-6.35045],"type":"Point"}
+}

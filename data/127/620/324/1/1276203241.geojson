@@ -1,0 +1,67 @@
+{
+  "id": 1276203241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.98333,-4.53333,145.98333,-4.53333",
+    "geom:latitude":-4.53333,
+    "geom:longitude":145.98333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Tugatuga",
+    "gn:country_code":"PG",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085062,
+    "gn:latitude":-4.53333,
+    "gn:longitude":145.98333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Tugatuga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085062
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9c743cbe898e8f04a781f7e5e762fd79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704517,
+            "locality_id":1276203241,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1276203241,
+    "wof:lastmodified":1536953499,
+    "wof:name":"Tugatuga",
+    "wof:parent_id":1091704517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.98333,
+    -4.53333,
+    145.98333,
+    -4.53333
+],
+  "geometry": {"coordinates":[145.98333,-4.53333],"type":"Point"}
+}

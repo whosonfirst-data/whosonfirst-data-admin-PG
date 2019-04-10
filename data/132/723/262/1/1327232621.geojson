@@ -1,0 +1,67 @@
+{
+  "id": 1327232621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.27749,-9.08078,149.27749,-9.08078",
+    "geom:latitude":-9.08078,
+    "geom:longitude":149.27749,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kikita",
+    "gn:country_code":"PG",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094007,
+    "gn:latitude":-9.08078,
+    "gn:longitude":149.27749,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kikita",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091702531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094007
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8b4347d1380e3c14ff43fde82814753a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702531,
+            "locality_id":1327232621,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1327232621,
+    "wof:lastmodified":1536968976,
+    "wof:name":"Kikita",
+    "wof:parent_id":1091702531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.27749,
+    -9.08078,
+    149.27749,
+    -9.08078
+],
+  "geometry": {"coordinates":[149.27749,-9.08078],"type":"Point"}
+}

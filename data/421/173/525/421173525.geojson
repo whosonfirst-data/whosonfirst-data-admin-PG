@@ -1,0 +1,75 @@
+{
+  "id": 421173525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"150.08263,-5.42403,150.08263,-5.42403",
+    "geom:latitude":-5.42403,
+    "geom:longitude":150.08263,
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Rilu"
+    ],
+    "qs:gn_country":"PG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2093973,
+    "qs:gn_pop":0,
+    "qs:name":"Kilu",
+    "qs:name_adm0":"Papua New Guinea",
+    "qs:name_adm1":"West New Britain",
+    "qs:photos":19,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":19,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":507236,
+    "qs:woe_adm0":23424926,
+    "qs:woe_id":1062253,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093973,
+        "gp:id":1062253,
+        "qs:id":507236
+    },
+    "wof:country":"PG",
+    "wof:created":1459008988,
+    "wof:geomhash":"f093f6054c541777f694b1ef2dac27ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "locality_id":421173525,
+            "region_id":85676599
+        }
+    ],
+    "wof:id":421173525,
+    "wof:lastmodified":1501229252,
+    "wof:name":"Kilu",
+    "wof:parent_id":85676599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.08263,
+    -5.42403,
+    150.08263,
+    -5.42403
+],
+  "geometry": {"coordinates":[150.08262999999999,-5.42403],"type":"Point"}
+}

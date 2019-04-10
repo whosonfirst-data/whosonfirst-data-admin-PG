@@ -1,0 +1,70 @@
+{
+  "id": 1309998599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.42986,-5.28962,141.42986,-5.28962",
+    "geom:latitude":-5.28962,
+    "geom:longitude":141.42986,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bolongong",
+    "gn:country_code":"PG",
+    "gn:dem":1566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8527743,
+    "gn:latitude":-5.28962,
+    "gn:longitude":141.42986,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Bolongong",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tebip"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8527743
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"db5b57182172adeff1860b4551b5d3c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1309998599,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1309998599,
+    "wof:lastmodified":1537677229,
+    "wof:name":"Bolongong",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.42986000000005,
+    -5.28962,
+    141.42986000000005,
+    -5.28962
+],
+  "geometry": {"coordinates":[141.42986000000005,-5.28962],"type":"Point"}
+}

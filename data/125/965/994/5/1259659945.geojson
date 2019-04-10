@@ -1,0 +1,71 @@
+{
+  "id": 1259659945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.38777,-5.47362,150.38777,-5.47362",
+    "geom:latitude":-5.47362,
+    "geom:longitude":150.38777,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Kwalakesi",
+    "gn:country_code":"PG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092878,
+    "gn:latitude":-5.47362,
+    "gn:longitude":150.38777,
+    "gn:modification_date":"2015-04-06",
+    "gn:name":"Kwalakesi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwalakessi",
+        "Kwalakesi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676599,
+        1091704547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092878
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ef7aabf8b04e8e0223c4c856fee43aa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704547,
+            "locality_id":1259659945,
+            "region_id":85676599
+        }
+    ],
+    "wof:id":1259659945,
+    "wof:lastmodified":1537677123,
+    "wof:name":"Kwalakesi",
+    "wof:parent_id":1091704547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.38777,
+    -5.47362,
+    150.38777,
+    -5.47362
+],
+  "geometry": {"coordinates":[150.38776999999999,-5.47362],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1260266579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.36667,-4.75,152.36667,-4.75",
+    "geom:latitude":-4.75,
+    "geom:longitude":152.36667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tatongal",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085727,
+    "gn:latitude":-4.75,
+    "gn:longitude":152.36667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Tatongal",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085727
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"62ab8d799dc7982be38708ac09ecf731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1260266579,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260266579,
+    "wof:lastmodified":1536734755,
+    "wof:name":"Tatongal",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.36667,
+    -4.75,
+    152.36667,
+    -4.75
+],
+  "geometry": {"coordinates":[152.36667,-4.75],"type":"Point"}
+}

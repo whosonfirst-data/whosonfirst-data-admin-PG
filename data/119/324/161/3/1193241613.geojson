@@ -1,0 +1,67 @@
+{
+  "id": 1193241613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.07294,-3.2636,141.07294,-3.2636",
+    "geom:latitude":-3.2636,
+    "geom:longitude":141.07294,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Swach Ketjil",
+    "gn:country_code":"PG",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086085,
+    "gn:latitude":-3.2636,
+    "gn:longitude":141.07294,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Swach Ketjil",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091704901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086085
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"92ddee4446c361af60dc15ace1e44189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704901,
+            "locality_id":1193241613,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1193241613,
+    "wof:lastmodified":1536377812,
+    "wof:name":"Swach Ketjil",
+    "wof:parent_id":1091704901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.07294,
+    -3.2636,
+    141.07294,
+    -3.2636
+],
+  "geometry": {"coordinates":[141.07293999999999,-3.2636],"type":"Point"}
+}

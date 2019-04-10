@@ -1,0 +1,61 @@
+{
+  "id": 1192982171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.61064,-5.50228,148.61064,-5.50228",
+    "geom:latitude":-5.50228,
+    "geom:longitude":148.61064,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Mareka",
+    "gn:country_code":"PG",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091389,
+    "gn:latitude":-5.50228,
+    "gn:longitude":148.61064,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Mareka",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091389
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"7fbd63d91fd55780037aec9af2e08d7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1192982171,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1192982171,
+    "wof:lastmodified":1536366916,
+    "wof:name":"Mareka",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.61064,
+    -5.50228,
+    148.61064,
+    -5.50228
+],
+  "geometry": {"coordinates":[148.61063999999999,-5.50228],"type":"Point"}
+}

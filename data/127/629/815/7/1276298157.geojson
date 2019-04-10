@@ -1,0 +1,73 @@
+{
+  "id": 1276298157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.04683,-3.41125,141.04683,-3.41125",
+    "geom:latitude":-3.41125,
+    "geom:longitude":141.04683,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Waina Hamlets",
+    "gn:country_code":"PG",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084105,
+    "gn:latitude":-3.41125,
+    "gn:longitude":141.04683,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Waina Hamlets",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Waina 2",
+        "Waina 1",
+        "Waina",
+        "Waina Hamlets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091704901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084105
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ba45183a3d01f03d7476d4e8fc49ab83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704901,
+            "locality_id":1276298157,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1276298157,
+    "wof:lastmodified":1537677034,
+    "wof:name":"Waina Hamlets",
+    "wof:parent_id":1091704901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.04683,
+    -3.41125,
+    141.04683,
+    -3.41125
+],
+  "geometry": {"coordinates":[141.04683,-3.41125],"type":"Point"}
+}

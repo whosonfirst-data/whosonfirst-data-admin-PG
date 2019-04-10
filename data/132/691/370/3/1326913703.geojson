@@ -1,0 +1,67 @@
+{
+  "id": 1326913703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.31664,-6.74025,147.31664,-6.74025",
+    "geom:latitude":-6.74025,
+    "geom:longitude":147.31664,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Buharu",
+    "gn:country_code":"PG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098933,
+    "gn:latitude":-6.74025,
+    "gn:longitude":147.31664,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Buharu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098933
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"75b8772ea9fbea923f168fcf645d2bda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703899,
+            "locality_id":1326913703,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1326913703,
+    "wof:lastmodified":1536932253,
+    "wof:name":"Buharu",
+    "wof:parent_id":1091703899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.31663999999995,
+    -6.74025,
+    147.31663999999995,
+    -6.74025
+],
+  "geometry": {"coordinates":[147.31663999999995,-6.74025],"type":"Point"}
+}

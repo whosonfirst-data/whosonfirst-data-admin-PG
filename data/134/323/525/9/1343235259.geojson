@@ -1,0 +1,61 @@
+{
+  "id": 1343235259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.14138,-3.36887,152.14138,-3.36887",
+    "geom:latitude":-3.36887,
+    "geom:longitude":152.14138,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Lokon",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092233,
+    "gn:latitude":-3.36887,
+    "gn:longitude":152.14138,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Lokon",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092233
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d3c07cd541b5311b6acfd8402ee55cac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343235259,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343235259,
+    "wof:lastmodified":1537068458,
+    "wof:name":"Lokon",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.14138,
+    -3.36887,
+    152.14138,
+    -3.36887
+],
+  "geometry": {"coordinates":[152.14138,-3.36887],"type":"Point"}
+}

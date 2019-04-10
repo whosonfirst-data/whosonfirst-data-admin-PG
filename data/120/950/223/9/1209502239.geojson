@@ -1,0 +1,61 @@
+{
+  "id": 1209502239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.83333,-4.31667,144.83333,-4.31667",
+    "geom:latitude":-4.31667,
+    "geom:longitude":144.83333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Banang",
+    "gn:country_code":"PG",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099936,
+    "gn:latitude":-4.31667,
+    "gn:longitude":144.83333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Banang",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099936
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"dd1dd2309c38f6f7c5d917e8f9628318",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209502239
+        }
+    ],
+    "wof:id":1209502239,
+    "wof:lastmodified":1536285145,
+    "wof:name":"Banang",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.83333000000005,
+    -4.3166699999999985,
+    144.83333000000005,
+    -4.3166699999999985
+],
+  "geometry": {"coordinates":[144.83333000000005,-4.31667],"type":"Point"}
+}

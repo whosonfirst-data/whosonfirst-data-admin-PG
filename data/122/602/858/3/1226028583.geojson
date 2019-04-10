@@ -1,0 +1,67 @@
+{
+  "id": 1226028583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.53333,-5.5,151.53333,-5.5",
+    "geom:latitude":-5.5,
+    "geom:longitude":151.53333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Olaipun",
+    "gn:country_code":"PG",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089190,
+    "gn:latitude":-5.5,
+    "gn:longitude":151.53333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Olaipun",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091704139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089190
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a5d06571e514b456121cc73f6c3a21ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704139,
+            "locality_id":1226028583,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1226028583,
+    "wof:lastmodified":1536749811,
+    "wof:name":"Olaipun",
+    "wof:parent_id":1091704139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.53333,
+    -5.5,
+    151.53333,
+    -5.5
+],
+  "geometry": {"coordinates":[151.53333000000001,-5.5],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326509117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.78033,-6.41329,147.78033,-6.41329",
+    "geom:latitude":-6.41329,
+    "geom:longitude":147.78033,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kwenliki",
+    "gn:country_code":"PG",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092822,
+    "gn:latitude":-6.41329,
+    "gn:longitude":147.78033,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kwenliki",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwemliki",
+        "Kwenliki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092822
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"11c9468cfb85a3211445eeb22062198c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702351,
+            "locality_id":1326509117,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1326509117,
+    "wof:lastmodified":1537677123,
+    "wof:name":"Kwenliki",
+    "wof:parent_id":1091702351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.78033,
+    -6.41329,
+    147.78033,
+    -6.41329
+],
+  "geometry": {"coordinates":[147.78032999999999,-6.41329],"type":"Point"}
+}

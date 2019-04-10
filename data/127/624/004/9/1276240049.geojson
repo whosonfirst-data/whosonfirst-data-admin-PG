@@ -1,0 +1,67 @@
+{
+  "id": 1276240049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.00139,-10.28767,151.00139,-10.28767",
+    "geom:latitude":-10.28767,
+    "geom:longitude":151.00139,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mufuiuwabwahibiga",
+    "gn:country_code":"PG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2132866,
+    "gn:latitude":-10.28767,
+    "gn:longitude":151.00139,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Mufuiuwabwahibiga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2132866
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0d77c71ae4c113261ac6d8d7ac2b8ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702001,
+            "locality_id":1276240049,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1276240049,
+    "wof:lastmodified":1536903739,
+    "wof:name":"Mufuiuwabwahibiga",
+    "wof:parent_id":1091702001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.00139,
+    -10.28767,
+    151.00139,
+    -10.28767
+],
+  "geometry": {"coordinates":[151.00138999999999,-10.28767],"type":"Point"}
+}

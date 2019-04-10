@@ -1,0 +1,72 @@
+{
+  "id": 1225819201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.78333,-7.16667,145.78333,-7.16667",
+    "geom:latitude":-7.16667,
+    "geom:longitude":145.78333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Yandabome",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":1392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083105,
+    "gn:latitude":-7.16667,
+    "gn:longitude":145.78333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yandabome",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yandabome Village",
+        "Yandabome"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083105
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f588f5cd5023a609be6c5a9194477fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703633,
+            "locality_id":1225819201,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1225819201,
+    "wof:lastmodified":1537677022,
+    "wof:name":"Yandabome",
+    "wof:parent_id":1091703633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.78333,
+    -7.16667,
+    145.78333,
+    -7.16667
+],
+  "geometry": {"coordinates":[145.78333000000001,-7.16667],"type":"Point"}
+}

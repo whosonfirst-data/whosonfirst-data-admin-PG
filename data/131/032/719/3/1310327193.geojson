@@ -1,0 +1,67 @@
+{
+  "id": 1310327193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.05,-5.78333,141.05,-5.78333",
+    "geom:latitude":-5.78333,
+    "geom:longitude":141.05,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bambiran",
+    "gn:country_code":"PG",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099962,
+    "gn:latitude":-5.78333,
+    "gn:longitude":141.05,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Bambiran",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099962
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0ec8a2b6964369054211ffd39b55563d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1310327193,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1310327193,
+    "wof:lastmodified":1536676703,
+    "wof:name":"Bambiran",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.05,
+    -5.78333,
+    141.05,
+    -5.78333
+],
+  "geometry": {"coordinates":[141.05000000000001,-5.78333],"type":"Point"}
+}

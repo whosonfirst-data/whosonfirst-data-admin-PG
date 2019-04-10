@@ -1,0 +1,61 @@
+{
+  "id": 1242799199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"154.54239,-5.07228,154.54239,-5.07228",
+    "geom:latitude":-5.07228,
+    "geom:longitude":154.54239,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Lontis",
+    "gn:country_code":"PG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2113781,
+    "gn:latitude":-5.07228,
+    "gn:longitude":154.54239,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Lontis",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2113781
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b96d65cc99d92036f85349fa539177c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242799199,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242799199,
+    "wof:lastmodified":1536744246,
+    "wof:name":"Lontis",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    154.54238999999995,
+    -5.07228,
+    154.54238999999995,
+    -5.07228
+],
+  "geometry": {"coordinates":[154.54238999999995,-5.07228],"type":"Point"}
+}

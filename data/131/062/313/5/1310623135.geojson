@@ -1,0 +1,67 @@
+{
+  "id": 1310623135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.29988,-6.11836,141.29988,-6.11836",
+    "geom:latitude":-6.11836,
+    "geom:longitude":141.29988,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mepu",
+    "gn:country_code":"PG",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090946,
+    "gn:latitude":-6.11836,
+    "gn:longitude":141.29988,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Mepu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090946
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"99fdcd619e41468b7f3b107766ece5e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1310623135,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1310623135,
+    "wof:lastmodified":1536747054,
+    "wof:name":"Mepu",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.29988,
+    -6.11836,
+    141.29988,
+    -6.11836
+],
+  "geometry": {"coordinates":[141.29988,-6.11836],"type":"Point"}
+}

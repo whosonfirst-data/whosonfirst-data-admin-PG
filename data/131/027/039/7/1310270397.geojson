@@ -1,0 +1,67 @@
+{
+  "id": 1310270397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.49467,-5.82039,143.49467,-5.82039",
+    "geom:latitude":-5.82039,
+    "geom:longitude":143.49467,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Kokasa Mission",
+    "gn:country_code":"PG",
+    "gn:dem":2364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093703,
+    "gn:latitude":-5.82039,
+    "gn:longitude":143.49467,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kokasa Mission",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676513,
+        1091702785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093703
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0d9d83a4a713d581bc39e4e1172d869c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702785,
+            "locality_id":1310270397,
+            "region_id":85676513
+        }
+    ],
+    "wof:id":1310270397,
+    "wof:lastmodified":1536758800,
+    "wof:name":"Kokasa Mission",
+    "wof:parent_id":1091702785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.49467,
+    -5.82039,
+    143.49467,
+    -5.82039
+],
+  "geometry": {"coordinates":[143.49467000000001,-5.82039],"type":"Point"}
+}

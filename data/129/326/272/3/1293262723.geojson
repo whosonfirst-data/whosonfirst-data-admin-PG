@@ -1,0 +1,68 @@
+{
+  "id": 1293262723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.18836,-2.81825,151.18836,-2.81825",
+    "geom:latitude":-2.81825,
+    "geom:longitude":151.18836,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Lemakot",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092431,
+    "gn:latitude":-2.81825,
+    "gn:longitude":151.18836,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lemakot",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lemakot Plantation",
+        "Lemacot Plantation",
+        "Lemakot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092431
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e5a5296dbff617308089d4b7a9ee5eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1293262723,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293262723,
+    "wof:lastmodified":1537677119,
+    "wof:name":"Lemakot",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.18836000000005,
+    -2.81825,
+    151.18836000000005,
+    -2.81825
+],
+  "geometry": {"coordinates":[151.18836000000005,-2.81825],"type":"Point"}
+}

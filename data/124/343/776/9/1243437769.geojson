@@ -1,0 +1,71 @@
+{
+  "id": 1243437769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.54929,-6.38609,147.54929,-6.38609",
+    "geom:latitude":-6.38609,
+    "geom:longitude":147.54929,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Besibong",
+    "gn:country_code":"PG",
+    "gn:dem":1396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099590,
+    "gn:latitude":-6.38609,
+    "gn:longitude":147.54929,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Besibong",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beribong",
+        "Besibong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099590
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ad8556f0c97f5cf156442310d2331619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702351,
+            "locality_id":1243437769,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1243437769,
+    "wof:lastmodified":1537677198,
+    "wof:name":"Besibong",
+    "wof:parent_id":1091702351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.54928999999996,
+    -6.38609,
+    147.54928999999996,
+    -6.38609
+],
+  "geometry": {"coordinates":[147.54928999999996,-6.38609],"type":"Point"}
+}

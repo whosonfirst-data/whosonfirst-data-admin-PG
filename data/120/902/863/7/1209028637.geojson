@@ -1,0 +1,61 @@
+{
+  "id": 1209028637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.19703,-8.00694,143.19703,-8.00694",
+    "geom:latitude":-8.00694,
+    "geom:longitude":143.19703,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kenewa",
+    "gn:country_code":"PG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094189,
+    "gn:latitude":-8.00694,
+    "gn:longitude":143.19703,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kenewa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094189
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"5e0ddf936543a0d92f3394aa770072b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209028637
+        }
+    ],
+    "wof:id":1209028637,
+    "wof:lastmodified":1536299915,
+    "wof:name":"Kenewa",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.19703,
+    -8.00694,
+    143.19703,
+    -8.00694
+],
+  "geometry": {"coordinates":[143.19703000000001,-8.00694],"type":"Point"}
+}

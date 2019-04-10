@@ -1,0 +1,67 @@
+{
+  "id": 1243553857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.32645,-6.65375,144.32645,-6.65375",
+    "geom:latitude":-6.65375,
+    "geom:longitude":144.32645,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Wopasali",
+    "gn:country_code":"PG",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083346,
+    "gn:latitude":-6.65375,
+    "gn:longitude":144.32645,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Wopasali",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083346
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0aef96fc0a5a69fbe385ca888dfd9951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702665,
+            "locality_id":1243553857,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1243553857,
+    "wof:lastmodified":1536650547,
+    "wof:name":"Wopasali",
+    "wof:parent_id":1091702665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.32645,
+    -6.65375,
+    144.32645,
+    -6.65375
+],
+  "geometry": {"coordinates":[144.32644999999999,-6.65375],"type":"Point"}
+}

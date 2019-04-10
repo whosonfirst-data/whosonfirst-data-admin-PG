@@ -1,0 +1,67 @@
+{
+  "id": 1243457441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.87329,-6.88762,144.87329,-6.88762",
+    "geom:latitude":-6.88762,
+    "geom:longitude":144.87329,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Uraru",
+    "gn:country_code":"PG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8529199,
+    "gn:latitude":-6.88762,
+    "gn:longitude":144.87329,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Uraru",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091703049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8529199
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2d95013062a74caedbf7ea7f9a4895f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703049,
+            "locality_id":1243457441,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1243457441,
+    "wof:lastmodified":1536790040,
+    "wof:name":"Uraru",
+    "wof:parent_id":1091703049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.87329,
+    -6.88762,
+    144.87329,
+    -6.88762
+],
+  "geometry": {"coordinates":[144.87329,-6.88762],"type":"Point"}
+}

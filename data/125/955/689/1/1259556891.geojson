@@ -1,0 +1,63 @@
+{
+  "id": 1259556891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.54202,-3.77153,152.54202,-3.77153",
+    "geom:latitude":-3.77153,
+    "geom:longitude":152.54202,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Kisela",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093868,
+    "gn:latitude":-3.77153,
+    "gn:longitude":152.54202,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kisela",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093868
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ee52f6c90e48ce0a43eb48c0f3a9a0fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1259556891,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259556891,
+    "wof:lastmodified":1536753236,
+    "wof:name":"Kisela",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.54202,
+    -3.77153,
+    152.54202,
+    -3.77153
+],
+  "geometry": {"coordinates":[152.54202000000001,-3.77153],"type":"Point"}
+}

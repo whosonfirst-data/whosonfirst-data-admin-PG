@@ -1,0 +1,67 @@
+{
+  "id": 1344038725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.4755,-3.44281,143.4755,-3.44281",
+    "geom:latitude":-3.44281,
+    "geom:longitude":143.4755,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kwabun Villages",
+    "gn:country_code":"PG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092907,
+    "gn:latitude":-3.44281,
+    "gn:longitude":143.4755,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Kwabun Villages",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092907
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"22fbd3687b8619196f42c882508cdaab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705089,
+            "locality_id":1344038725,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1344038725,
+    "wof:lastmodified":1536907301,
+    "wof:name":"Kwabun Villages",
+    "wof:parent_id":1091705089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.4755,
+    -3.44281,
+    143.4755,
+    -3.44281
+],
+  "geometry": {"coordinates":[143.47550000000001,-3.44281],"type":"Point"}
+}

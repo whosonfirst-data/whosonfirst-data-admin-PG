@@ -1,0 +1,72 @@
+{
+  "id": 1309786073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.6,-5.76667,145.6,-5.76667",
+    "geom:latitude":-5.76667,
+    "geom:longitude":145.6,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kesawai",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094116,
+    "gn:latitude":-5.76667,
+    "gn:longitude":145.6,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kesawai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kesawai Number 3",
+        "Kesawai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094116
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0fdf504195e42084b5597bb2f8677bf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704819,
+            "locality_id":1309786073,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1309786073,
+    "wof:lastmodified":1537677139,
+    "wof:name":"Kesawai",
+    "wof:parent_id":1091704819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.6,
+    -5.76667,
+    145.6,
+    -5.76667
+],
+  "geometry": {"coordinates":[145.59999999999999,-5.76667],"type":"Point"}
+}

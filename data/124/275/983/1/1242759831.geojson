@@ -1,0 +1,67 @@
+{
+  "id": 1242759831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.31821,-5.55464,144.31821,-5.55464",
+    "geom:latitude":-5.55464,
+    "geom:longitude":144.31821,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Noindil",
+    "gn:country_code":"PG",
+    "gn:dem":1468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089550,
+    "gn:latitude":-5.55464,
+    "gn:longitude":144.31821,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Noindil",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676551,
+        1091702251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089550
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c06996938698bb4457602ab9be87220a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702251,
+            "locality_id":1242759831,
+            "region_id":85676551
+        }
+    ],
+    "wof:id":1242759831,
+    "wof:lastmodified":1536801243,
+    "wof:name":"Noindil",
+    "wof:parent_id":1091702251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.31821000000005,
+    -5.55464,
+    144.31821000000005,
+    -5.55464
+],
+  "geometry": {"coordinates":[144.31821000000005,-5.55464],"type":"Point"}
+}

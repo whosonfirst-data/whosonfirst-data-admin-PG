@@ -1,0 +1,67 @@
+{
+  "id": 1209794549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.76203,-6.5785,146.76203,-6.5785",
+    "geom:latitude":-6.5785,
+    "geom:longitude":146.76203,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Gabsonkek",
+    "gn:country_code":"PG",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097296,
+    "gn:latitude":-6.5785,
+    "gn:longitude":146.76203,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Gabsonkek",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097296
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"cee8747ce5b470be3bdf7701d43cbfb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702453,
+            "locality_id":1209794549,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1209794549,
+    "wof:lastmodified":1536393488,
+    "wof:name":"Gabsonkek",
+    "wof:parent_id":1091702453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.76203,
+    -6.5785,
+    146.76203,
+    -6.5785
+],
+  "geometry": {"coordinates":[146.76203000000001,-6.5785],"type":"Point"}
+}

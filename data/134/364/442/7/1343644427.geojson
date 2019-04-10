@@ -1,0 +1,61 @@
+{
+  "id": 1343644427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.0,-2.51667,150.0,-2.51667",
+    "geom:latitude":-2.51667,
+    "geom:longitude":150.0,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Umbukul",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084726,
+    "gn:latitude":-2.51667,
+    "gn:longitude":150.0,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Umbukul",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084726
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"7861c34b2a1d438067336f9985090bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343644427,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343644427,
+    "wof:lastmodified":1536977650,
+    "wof:name":"Umbukul",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.0,
+    -2.51667,
+    150.0,
+    -2.51667
+],
+  "geometry": {"coordinates":[150.0,-2.51667],"type":"Point"}
+}

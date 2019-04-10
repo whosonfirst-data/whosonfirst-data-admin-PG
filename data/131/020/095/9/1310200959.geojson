@@ -1,0 +1,75 @@
+{
+  "id": 1310200959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.89609,-6.34234,145.89609,-6.34234",
+    "geom:latitude":-6.34234,
+    "geom:longitude":145.89609,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Aiyura",
+    "gn:country_code":"PG",
+    "gn:dem":1630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101136,
+    "gn:latitude":-6.34234,
+    "gn:longitude":145.89609,
+    "gn:modification_date":"2013-05-16",
+    "gn:name":"Aiyura",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aiyura"
+    ],
+    "name:und_x_variant":[
+        "Aijura",
+        "Aiyura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091702711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101136,
+        "wk:page":"Aiyura"
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a8c542b9bd9b5f21ec910d2a400dcc0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702711,
+            "locality_id":1310200959,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1310200959,
+    "wof:lastmodified":1537677217,
+    "wof:name":"Aiyura",
+    "wof:parent_id":1091702711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.89609,
+    -6.34234,
+    145.89609,
+    -6.34234
+],
+  "geometry": {"coordinates":[145.89608999999999,-6.34234],"type":"Point"}
+}

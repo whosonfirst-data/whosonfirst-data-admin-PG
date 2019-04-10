@@ -1,0 +1,67 @@
+{
+  "id": 1242935659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.97567,-5.3053,143.97567,-5.3053",
+    "geom:latitude":-5.3053,
+    "geom:longitude":143.97567,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Labalama",
+    "gn:country_code":"PG",
+    "gn:dem":1253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8528945,
+    "gn:latitude":-5.3053,
+    "gn:longitude":143.97567,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Labalama",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676513,
+        1091703207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8528945
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e5d726563f2a79f08051525757bc92fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703207,
+            "locality_id":1242935659,
+            "region_id":85676513
+        }
+    ],
+    "wof:id":1242935659,
+    "wof:lastmodified":1537043326,
+    "wof:name":"Labalama",
+    "wof:parent_id":1091703207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.97567,
+    -5.3053,
+    143.97567,
+    -5.3053
+],
+  "geometry": {"coordinates":[143.97567000000001,-5.3053],"type":"Point"}
+}

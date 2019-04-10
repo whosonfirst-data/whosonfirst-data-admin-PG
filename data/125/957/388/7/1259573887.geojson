@@ -1,0 +1,67 @@
+{
+  "id": 1259573887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.01667,-6.21667,145.01667,-6.21667",
+    "geom:latitude":-6.21667,
+    "geom:longitude":145.01667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Oinama",
+    "gn:country_code":"PG",
+    "gn:dem":1592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089216,
+    "gn:latitude":-6.21667,
+    "gn:longitude":145.01667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Oinama",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091702873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089216
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"078ddb3d013a32edf2e4888ed7e137b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702873,
+            "locality_id":1259573887,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1259573887,
+    "wof:lastmodified":1536729101,
+    "wof:name":"Oinama",
+    "wof:parent_id":1091702873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.01667,
+    -6.21667,
+    145.01667,
+    -6.21667
+],
+  "geometry": {"coordinates":[145.01667,-6.21667],"type":"Point"}
+}

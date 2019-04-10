@@ -1,0 +1,73 @@
+{
+  "id": 1344136919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.86667,-4.98333,144.86667,-4.98333",
+    "geom:latitude":-4.98333,
+    "geom:longitude":144.86667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Parapasam",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088618,
+    "gn:latitude":-4.98333,
+    "gn:longitude":144.86667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Parapasam",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pararum",
+        "Pararam",
+        "Parapasam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091703709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088618
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"14e0f45ab6370778fd423377a3c613bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703709,
+            "locality_id":1344136919,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1344136919,
+    "wof:lastmodified":1537677078,
+    "wof:name":"Parapasam",
+    "wof:parent_id":1091703709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.86667,
+    -4.98333,
+    144.86667,
+    -4.98333
+],
+  "geometry": {"coordinates":[144.86667,-4.98333],"type":"Point"}
+}

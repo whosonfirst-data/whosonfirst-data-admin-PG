@@ -1,0 +1,70 @@
+{
+  "id": 1343434085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.22736,-2.94458,151.22736,-2.94458",
+    "geom:latitude":-2.94458,
+    "geom:longitude":151.22736,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Panemecho",
+    "gn:country_code":"PG",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088679,
+    "gn:latitude":-2.94458,
+    "gn:longitude":151.22736,
+    "gn:modification_date":"2015-08-18",
+    "gn:name":"Panemecho",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Panemeko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091702917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088679
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"7823c698b23841faab44e7eff27dd1cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702917,
+            "locality_id":1343434085,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1343434085,
+    "wof:lastmodified":1537677078,
+    "wof:name":"Panemecho",
+    "wof:parent_id":1091702917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.22736,
+    -2.94458,
+    151.22736,
+    -2.94458
+],
+  "geometry": {"coordinates":[151.22736,-2.94458],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293190553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.52378,-6.04081,145.52378,-6.04081",
+    "geom:latitude":-6.04081,
+    "geom:longitude":145.52378,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Koritafa",
+    "gn:country_code":"PG",
+    "gn:dem":2152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093415,
+    "gn:latitude":-6.04081,
+    "gn:longitude":145.52378,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Koritafa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091704771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093415
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"5a8f8b16c757a324e8c645636ee7981b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704771,
+            "locality_id":1293190553,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1293190553,
+    "wof:lastmodified":1536718532,
+    "wof:name":"Koritafa",
+    "wof:parent_id":1091704771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.52378000000004,
+    -6.04081,
+    145.52378000000004,
+    -6.04081
+],
+  "geometry": {"coordinates":[145.52378000000004,-6.04081],"type":"Point"}
+}

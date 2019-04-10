@@ -1,0 +1,72 @@
+{
+  "id": 1293411071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"154.93333,-5.58333,154.93333,-5.58333",
+    "geom:latitude":-5.58333,
+    "geom:longitude":154.93333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Namkerio",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089982,
+    "gn:latitude":-5.58333,
+    "gn:longitude":154.93333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Namkerio",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Namkario",
+        "Namkerio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676543,
+        1091703967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089982
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f817c1d7e4281ef44f24c09c6d94759b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703967,
+            "locality_id":1293411071,
+            "region_id":85676543
+        }
+    ],
+    "wof:id":1293411071,
+    "wof:lastmodified":1537677092,
+    "wof:name":"Namkerio",
+    "wof:parent_id":1091703967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    154.93333,
+    -5.58333,
+    154.93333,
+    -5.58333
+],
+  "geometry": {"coordinates":[154.93333000000001,-5.58333],"type":"Point"}
+}

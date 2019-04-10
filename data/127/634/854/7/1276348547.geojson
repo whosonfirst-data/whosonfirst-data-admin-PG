@@ -1,0 +1,71 @@
+{
+  "id": 1276348547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.8196,-7.47961,143.8196,-7.47961",
+    "geom:latitude":-7.47961,
+    "geom:longitude":143.8196,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kibeni",
+    "gn:country_code":"PG",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094050,
+    "gn:latitude":-7.47961,
+    "gn:longitude":143.8196,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kibeni",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kiberi",
+        "Kibeni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091703049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094050
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e8bb212a8a486e016dff8255a4bc86ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703049,
+            "locality_id":1276348547,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1276348547,
+    "wof:lastmodified":1537677138,
+    "wof:name":"Kibeni",
+    "wof:parent_id":1091703049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.8196,
+    -7.47961,
+    143.8196,
+    -7.47961
+],
+  "geometry": {"coordinates":[143.81960000000001,-7.47961],"type":"Point"}
+}

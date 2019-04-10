@@ -1,0 +1,61 @@
+{
+  "id": 1209189509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.41909,-5.87639,143.41909,-5.87639",
+    "geom:latitude":-5.87639,
+    "geom:longitude":143.41909,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Rumbipaga",
+    "gn:country_code":"PG",
+    "gn:dem":2382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087505,
+    "gn:latitude":-5.87639,
+    "gn:longitude":143.41909,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Rumbipaga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087505
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"145b74636703a0ff3b5d059f70882b61",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209189509
+        }
+    ],
+    "wof:id":1209189509,
+    "wof:lastmodified":1536294982,
+    "wof:name":"Rumbipaga",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.41908999999995,
+    -5.87639,
+    143.41908999999995,
+    -5.87639
+],
+  "geometry": {"coordinates":[143.41908999999995,-5.87639],"type":"Point"}
+}

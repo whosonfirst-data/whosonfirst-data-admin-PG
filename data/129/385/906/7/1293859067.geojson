@@ -1,0 +1,67 @@
+{
+  "id": 1293859067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.9792,-5.40621,142.9792,-5.40621",
+    "geom:latitude":-5.40621,
+    "geom:longitude":142.9792,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Orei",
+    "gn:country_code":"PG",
+    "gn:dem":1986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088976,
+    "gn:latitude":-5.40621,
+    "gn:longitude":142.9792,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Orei",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676513,
+        1091703371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088976
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"fdd9bacb6ab0917822b50293351d81d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703371,
+            "locality_id":1293859067,
+            "region_id":85676513
+        }
+    ],
+    "wof:id":1293859067,
+    "wof:lastmodified":1536748395,
+    "wof:name":"Orei",
+    "wof:parent_id":1091703371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.9792,
+    -5.40621,
+    142.9792,
+    -5.40621
+],
+  "geometry": {"coordinates":[142.97919999999999,-5.40621],"type":"Point"}
+}

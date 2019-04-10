@@ -1,0 +1,67 @@
+{
+  "id": 1293793485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.60964,-10.34749,149.60964,-10.34749",
+    "geom:latitude":-10.34749,
+    "geom:longitude":149.60964,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Oibada",
+    "gn:country_code":"PG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2132795,
+    "gn:latitude":-10.34749,
+    "gn:longitude":149.60964,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Oibada",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091701919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2132795
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b00aed86b260a46dbda0ed233f77bb2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091701919,
+            "locality_id":1293793485,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1293793485,
+    "wof:lastmodified":1536841882,
+    "wof:name":"Oibada",
+    "wof:parent_id":1091701919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.60963999999996,
+    -10.34749,
+    149.60963999999996,
+    -10.34749
+],
+  "geometry": {"coordinates":[149.60963999999996,-10.34749],"type":"Point"}
+}

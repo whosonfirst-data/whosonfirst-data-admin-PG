@@ -1,0 +1,63 @@
+{
+  "id": 1310176833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.4023,-6.27238,150.4023,-6.27238",
+    "geom:latitude":-6.27238,
+    "geom:longitude":150.4023,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Akiwok",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101096,
+    "gn:latitude":-6.27238,
+    "gn:longitude":150.4023,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Akiwok",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101096
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"12dc1d4166b78da0731c45f363e39629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1310176833,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310176833,
+    "wof:lastmodified":1536893500,
+    "wof:name":"Akiwok",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.4023,
+    -6.27238,
+    150.4023,
+    -6.27238
+],
+  "geometry": {"coordinates":[150.4023,-6.27238],"type":"Point"}
+}

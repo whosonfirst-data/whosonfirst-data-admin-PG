@@ -1,0 +1,67 @@
+{
+  "id": 1260290693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.83145,-8.36273,147.83145,-8.36273",
+    "geom:latitude":-8.36273,
+    "geom:longitude":147.83145,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ioma",
+    "gn:country_code":"PG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095546,
+    "gn:latitude":-8.36273,
+    "gn:longitude":147.83145,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ioma",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091704393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095546
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4d4e50319b0c6483c4ba00cc0fee1e4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704393,
+            "locality_id":1260290693,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1260290693,
+    "wof:lastmodified":1536702515,
+    "wof:name":"Ioma",
+    "wof:parent_id":1091704393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.83145,
+    -8.36273,
+    147.83145,
+    -8.36273
+],
+  "geometry": {"coordinates":[147.83144999999999,-8.36273],"type":"Point"}
+}

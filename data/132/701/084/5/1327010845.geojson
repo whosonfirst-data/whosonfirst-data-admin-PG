@@ -1,0 +1,67 @@
+{
+  "id": 1327010845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.64506,-4.75389,143.64506,-4.75389",
+    "geom:latitude":-4.75389,
+    "geom:longitude":143.64506,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Yamandim",
+    "gn:country_code":"PG",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083152,
+    "gn:latitude":-4.75389,
+    "gn:longitude":143.64506,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Yamandim",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083152
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"fe9ffc3f59724486b33eceb594472081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702059,
+            "locality_id":1327010845,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1327010845,
+    "wof:lastmodified":1536791963,
+    "wof:name":"Yamandim",
+    "wof:parent_id":1091702059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.64506,
+    -4.75389,
+    143.64506,
+    -4.75389
+],
+  "geometry": {"coordinates":[143.64506,-4.75389],"type":"Point"}
+}

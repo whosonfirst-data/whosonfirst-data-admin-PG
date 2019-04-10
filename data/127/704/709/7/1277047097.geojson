@@ -1,0 +1,67 @@
+{
+  "id": 1277047097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.97874,-5.33288,149.97874,-5.33288",
+    "geom:latitude":-5.33288,
+    "geom:longitude":149.97874,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Ganemboku",
+    "gn:country_code":"PG",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097204,
+    "gn:latitude":-5.33288,
+    "gn:longitude":149.97874,
+    "gn:modification_date":"2015-04-09",
+    "gn:name":"Ganemboku",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676599,
+        1091704547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097204
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"dce5ea6f7b68735312d79e3754234041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704547,
+            "locality_id":1277047097,
+            "region_id":85676599
+        }
+    ],
+    "wof:id":1277047097,
+    "wof:lastmodified":1536816285,
+    "wof:name":"Ganemboku",
+    "wof:parent_id":1091704547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.97874,
+    -5.33288,
+    149.97874,
+    -5.33288
+],
+  "geometry": {"coordinates":[149.97873999999999,-5.33288],"type":"Point"}
+}

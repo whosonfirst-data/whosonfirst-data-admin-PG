@@ -1,0 +1,63 @@
+{
+  "id": 1242854693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.97257,-4.29036,144.97257,-4.29036",
+    "geom:latitude":-4.29036,
+    "geom:longitude":144.97257,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Sepa",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086912,
+    "gn:latitude":-4.29036,
+    "gn:longitude":144.97257,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Sepa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086912
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c1eb23317556f1edd5fbcab1d875c4d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1242854693,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242854693,
+    "wof:lastmodified":1536664582,
+    "wof:name":"Sepa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.97257,
+    -4.29036,
+    144.97257,
+    -4.29036
+],
+  "geometry": {"coordinates":[144.97256999999999,-4.29036],"type":"Point"}
+}

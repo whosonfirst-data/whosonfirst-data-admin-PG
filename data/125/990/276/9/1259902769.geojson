@@ -1,0 +1,67 @@
+{
+  "id": 1259902769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.38466,-6.08867,143.38466,-6.08867",
+    "geom:latitude":-6.08867,
+    "geom:longitude":143.38466,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ombal",
+    "gn:country_code":"PG",
+    "gn:dem":1923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089117,
+    "gn:latitude":-6.08867,
+    "gn:longitude":143.38466,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Ombal",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        1108805615,
+        1091703179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089117
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0347028a2f8b7413ca812e2b2f8276a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703179,
+            "locality_id":1259902769,
+            "region_id":1108805615
+        }
+    ],
+    "wof:id":1259902769,
+    "wof:lastmodified":1536751279,
+    "wof:name":"Ombal",
+    "wof:parent_id":1091703179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.38466,
+    -6.08867,
+    143.38466,
+    -6.08867
+],
+  "geometry": {"coordinates":[143.38466,-6.08867],"type":"Point"}
+}

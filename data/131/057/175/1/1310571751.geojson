@@ -1,0 +1,67 @@
+{
+  "id": 1310571751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.48049,-3.64159,152.48049,-3.64159",
+    "geom:latitude":-3.64159,
+    "geom:longitude":152.48049,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Rasese",
+    "gn:country_code":"PG",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087748,
+    "gn:latitude":-3.64159,
+    "gn:longitude":152.48049,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Rasese",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091703829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087748
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8a727a3915fb1dab852a5dea16e61564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703829,
+            "locality_id":1310571751,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1310571751,
+    "wof:lastmodified":1536820601,
+    "wof:name":"Rasese",
+    "wof:parent_id":1091703829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.48049,
+    -3.64159,
+    152.48049,
+    -3.64159
+],
+  "geometry": {"coordinates":[152.48049,-3.64159],"type":"Point"}
+}

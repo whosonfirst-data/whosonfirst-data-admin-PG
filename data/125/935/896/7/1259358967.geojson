@@ -1,0 +1,74 @@
+{
+  "id": 1259358967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.42506,-3.17866,142.42506,-3.17866",
+    "geom:latitude":-3.17866,
+    "geom:longitude":142.42506,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Vokau",
+    "gn:country_code":"PG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084338,
+    "gn:latitude":-3.17866,
+    "gn:longitude":142.42506,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Vokau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makao",
+        "Koruko",
+        "Koroko",
+        "Korako",
+        "Vokau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091701955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084338
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"abc5040e5da96117ac0df061c85063c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091701955,
+            "locality_id":1259358967,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1259358967,
+    "wof:lastmodified":1537677037,
+    "wof:name":"Vokau",
+    "wof:parent_id":1091701955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.42506,
+    -3.17866,
+    142.42506,
+    -3.17866
+],
+  "geometry": {"coordinates":[142.42506,-3.17866],"type":"Point"}
+}

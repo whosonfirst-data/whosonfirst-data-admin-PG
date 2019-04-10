@@ -1,0 +1,72 @@
+{
+  "id": 1327207181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.85883,-4.78421,152.85883,-4.78421",
+    "geom:latitude":-4.78421,
+    "geom:longitude":152.85883,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Lambom",
+    "gn:country_code":"PG",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092620,
+    "gn:latitude":-4.78421,
+    "gn:longitude":152.85883,
+    "gn:modification_date":"2015-08-18",
+    "gn:name":"Lambom",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lambon",
+        "Lambom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091703829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092620,
+        "wk:page":"Lambom"
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c4411d2f04f7a87fd34d3a938bc3fd87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703829,
+            "locality_id":1327207181,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1327207181,
+    "wof:lastmodified":1537677121,
+    "wof:name":"Lambom",
+    "wof:parent_id":1091703829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.85883,
+    -4.78421,
+    152.85883,
+    -4.78421
+],
+  "geometry": {"coordinates":[152.85883000000001,-4.78421],"type":"Point"}
+}

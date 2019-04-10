@@ -1,0 +1,67 @@
+{
+  "id": 1277143157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.41241,-5.11029,141.41241,-5.11029",
+    "geom:latitude":-5.11029,
+    "geom:longitude":141.41241,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Tifalmin",
+    "gn:country_code":"PG",
+    "gn:dem":1368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085484,
+    "gn:latitude":-5.11029,
+    "gn:longitude":141.41241,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Tifalmin",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091704679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085484
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d340207fd8beb02e1dd7610179da5537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704679,
+            "locality_id":1277143157,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1277143157,
+    "wof:lastmodified":1536680619,
+    "wof:name":"Tifalmin",
+    "wof:parent_id":1091704679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.41241000000005,
+    -5.11029,
+    141.41241000000005,
+    -5.11029
+],
+  "geometry": {"coordinates":[141.41241000000005,-5.11029],"type":"Point"}
+}

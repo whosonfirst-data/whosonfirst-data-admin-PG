@@ -1,0 +1,67 @@
+{
+  "id": 1226631767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.0,-6.21667,145.0,-6.21667",
+    "geom:latitude":-6.21667,
+    "geom:longitude":145.0,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Aiwaku",
+    "gn:country_code":"PG",
+    "gn:dem":1787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101150,
+    "gn:latitude":-6.21667,
+    "gn:longitude":145.0,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Aiwaku",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091702873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101150
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"6f6decd2c1500c0204ef4047e8def838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702873,
+            "locality_id":1226631767,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1226631767,
+    "wof:lastmodified":1536878851,
+    "wof:name":"Aiwaku",
+    "wof:parent_id":1091702873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.0,
+    -6.21667,
+    145.0,
+    -6.21667
+],
+  "geometry": {"coordinates":[145.0,-6.21667],"type":"Point"}
+}

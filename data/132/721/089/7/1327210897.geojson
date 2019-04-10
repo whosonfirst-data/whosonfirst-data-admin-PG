@@ -1,0 +1,67 @@
+{
+  "id": 1327210897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.36115,-5.44723,145.36115,-5.44723",
+    "geom:latitude":-5.44723,
+    "geom:longitude":145.36115,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Bil",
+    "gn:country_code":"PG",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099498,
+    "gn:latitude":-5.44723,
+    "gn:longitude":145.36115,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Bil",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099498
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"01d7f8d644d392009d047e80ffa11543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704819,
+            "locality_id":1327210897,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1327210897,
+    "wof:lastmodified":1536999998,
+    "wof:name":"Bil",
+    "wof:parent_id":1091704819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.36115,
+    -5.44723,
+    145.36115,
+    -5.44723
+],
+  "geometry": {"coordinates":[145.36115000000001,-5.44723],"type":"Point"}
+}

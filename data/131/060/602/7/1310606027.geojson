@@ -1,0 +1,67 @@
+{
+  "id": 1310606027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.9925,-6.47389,143.9925,-6.47389",
+    "geom:latitude":-6.47389,
+    "geom:longitude":143.9925,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kalabeli",
+    "gn:country_code":"PG",
+    "gn:dem":1848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094966,
+    "gn:latitude":-6.47389,
+    "gn:longitude":143.9925,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kalabeli",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094966
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"7b8e89623ff59614afc4d3e58fbf83df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702665,
+            "locality_id":1310606027,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1310606027,
+    "wof:lastmodified":1536772468,
+    "wof:name":"Kalabeli",
+    "wof:parent_id":1091702665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.9925,
+    -6.47389,
+    143.9925,
+    -6.47389
+],
+  "geometry": {"coordinates":[143.99250000000001,-6.47389],"type":"Point"}
+}

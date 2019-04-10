@@ -1,0 +1,67 @@
+{
+  "id": 1310382687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.71923,-4.2919,144.71923,-4.2919",
+    "geom:latitude":-4.2919,
+    "geom:longitude":144.71923,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kominung",
+    "gn:country_code":"PG",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093579,
+    "gn:latitude":-4.2919,
+    "gn:longitude":144.71923,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kominung",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091702063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093579
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"186914cf704b0bee855b6d6786dcd8d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702063,
+            "locality_id":1310382687,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1310382687,
+    "wof:lastmodified":1537090946,
+    "wof:name":"Kominung",
+    "wof:parent_id":1091702063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.71923,
+    -4.2919,
+    144.71923,
+    -4.2919
+],
+  "geometry": {"coordinates":[144.71923000000001,-4.2919],"type":"Point"}
+}

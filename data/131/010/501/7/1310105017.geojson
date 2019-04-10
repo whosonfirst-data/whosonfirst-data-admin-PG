@@ -1,0 +1,67 @@
+{
+  "id": 1310105017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.8,-6.48333,143.8,-6.48333",
+    "geom:latitude":-6.48333,
+    "geom:longitude":143.8,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tongka",
+    "gn:country_code":"PG",
+    "gn:dem":1588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085225,
+    "gn:latitude":-6.48333,
+    "gn:longitude":143.8,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Tongka",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085225
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"45f1abbc82152eb0a021f5f33280148f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702665,
+            "locality_id":1310105017,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1310105017,
+    "wof:lastmodified":1536996402,
+    "wof:name":"Tongka",
+    "wof:parent_id":1091702665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.8,
+    -6.48333,
+    143.8,
+    -6.48333
+],
+  "geometry": {"coordinates":[143.80000000000001,-6.48333],"type":"Point"}
+}

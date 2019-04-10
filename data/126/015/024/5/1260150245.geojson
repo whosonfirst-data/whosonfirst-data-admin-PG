@@ -1,0 +1,72 @@
+{
+  "id": 1260150245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.06667,-5.53333,144.06667,-5.53333",
+    "geom:latitude":-5.53333,
+    "geom:longitude":144.06667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Pinapais",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":1493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088355,
+    "gn:latitude":-5.53333,
+    "gn:longitude":144.06667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pinapais",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pinyapais",
+        "Pinapais"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676551,
+        1091703785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088355
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"27576f5ba14913abc358ca149c94374f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703785,
+            "locality_id":1260150245,
+            "region_id":85676551
+        }
+    ],
+    "wof:id":1260150245,
+    "wof:lastmodified":1537677075,
+    "wof:name":"Pinapais",
+    "wof:parent_id":1091703785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.06667,
+    -5.53333,
+    144.06667,
+    -5.53333
+],
+  "geometry": {"coordinates":[144.06666999999999,-5.53333],"type":"Point"}
+}

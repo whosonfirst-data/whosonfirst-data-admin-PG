@@ -1,0 +1,67 @@
+{
+  "id": 1343325449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.95,-5.55,150.95,-5.55",
+    "geom:latitude":-5.55,
+    "geom:longitude":150.95,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Gogosi",
+    "gn:country_code":"PG",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096840,
+    "gn:latitude":-5.55,
+    "gn:longitude":150.95,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Gogosi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676599,
+        1091704547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096840
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"dbe58e4533e44c05c4d908960f3356c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704547,
+            "locality_id":1343325449,
+            "region_id":85676599
+        }
+    ],
+    "wof:id":1343325449,
+    "wof:lastmodified":1536941834,
+    "wof:name":"Gogosi",
+    "wof:parent_id":1091704547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.95,
+    -5.55,
+    150.95,
+    -5.55
+],
+  "geometry": {"coordinates":[150.94999999999999,-5.55],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344021335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.16654,-3.83998,141.16654,-3.83998",
+    "geom:latitude":-3.83998,
+    "geom:longitude":141.16654,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Samanai",
+    "gn:country_code":"PG",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087325,
+    "gn:latitude":-3.83998,
+    "gn:longitude":141.16654,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Samanai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samanai 1",
+        "Samanai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091704901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087325
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4d634ff3e9575b186cbb51c74d09367e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704901,
+            "locality_id":1344021335,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1344021335,
+    "wof:lastmodified":1537677067,
+    "wof:name":"Samanai",
+    "wof:parent_id":1091704901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.16654,
+    -3.83998,
+    141.16654,
+    -3.83998
+],
+  "geometry": {"coordinates":[141.16654,-3.83998],"type":"Point"}
+}

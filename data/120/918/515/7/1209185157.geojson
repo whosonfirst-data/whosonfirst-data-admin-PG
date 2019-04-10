@@ -1,0 +1,61 @@
+{
+  "id": 1209185157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.27054,-6.0504,147.27054,-6.0504",
+    "geom:latitude":-6.0504,
+    "geom:longitude":147.27054,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Belombibi",
+    "gn:country_code":"PG",
+    "gn:dem":862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099671,
+    "gn:latitude":-6.0504,
+    "gn:longitude":147.27054,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Belombibi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099671
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0ef524a909139fe6d6242a25e81aeb64",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209185157
+        }
+    ],
+    "wof:id":1209185157,
+    "wof:lastmodified":1536295126,
+    "wof:name":"Belombibi",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.27053999999995,
+    -6.0504,
+    147.27053999999995,
+    -6.0504
+],
+  "geometry": {"coordinates":[147.27053999999995,-6.0504],"type":"Point"}
+}

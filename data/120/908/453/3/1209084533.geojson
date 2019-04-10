@@ -1,0 +1,61 @@
+{
+  "id": 1209084533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.17263,-3.6326,143.17263,-3.6326",
+    "geom:latitude":-3.6326,
+    "geom:longitude":143.17263,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Ulunkohoitu",
+    "gn:country_code":"PG",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084763,
+    "gn:latitude":-3.6326,
+    "gn:longitude":143.17263,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Ulunkohoitu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084763
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ec289d772532cf52f838509aa07a733a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209084533
+        }
+    ],
+    "wof:id":1209084533,
+    "wof:lastmodified":1536298230,
+    "wof:name":"Ulunkohoitu",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.17263,
+    -3.6326,
+    143.17263,
+    -3.6326
+],
+  "geometry": {"coordinates":[143.17263,-3.6326],"type":"Point"}
+}

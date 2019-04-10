@@ -1,0 +1,67 @@
+{
+  "id": 1226464835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.1198,-5.66838,141.1198,-5.66838",
+    "geom:latitude":-5.66838,
+    "geom:longitude":141.1198,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tikam",
+    "gn:country_code":"PG",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085469,
+    "gn:latitude":-5.66838,
+    "gn:longitude":141.1198,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Tikam",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085469
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"95fd44556d91fee3b4d3a9eb6762cf01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1226464835,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1226464835,
+    "wof:lastmodified":1536615683,
+    "wof:name":"Tikam",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.1198,
+    -5.66838,
+    141.1198,
+    -5.66838
+],
+  "geometry": {"coordinates":[141.1198,-5.66838],"type":"Point"}
+}

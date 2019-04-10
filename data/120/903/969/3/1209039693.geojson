@@ -1,0 +1,61 @@
+{
+  "id": 1209039693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.01271,-8.91522,148.01271,-8.91522",
+    "geom:latitude":-8.91522,
+    "geom:longitude":148.01271,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sorape",
+    "gn:country_code":"PG",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086367,
+    "gn:latitude":-8.91522,
+    "gn:longitude":148.01271,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Sorape",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086367
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2bb7d5aabff60220ff8e4e48e07192c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209039693
+        }
+    ],
+    "wof:id":1209039693,
+    "wof:lastmodified":1536299585,
+    "wof:name":"Sorape",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.01271,
+    -8.91522,
+    148.01271,
+    -8.91522
+],
+  "geometry": {"coordinates":[148.01271,-8.91522],"type":"Point"}
+}

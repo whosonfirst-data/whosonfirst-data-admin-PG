@@ -1,0 +1,72 @@
+{
+  "id": 1226736835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.43534,-5.78555,146.43534,-5.78555",
+    "geom:latitude":-5.78555,
+    "geom:longitude":146.43534,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Tarikngan",
+    "gn:country_code":"PG",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085767,
+    "gn:latitude":-5.78555,
+    "gn:longitude":146.43534,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tarikngan",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tariknan",
+        "Tarikgnan",
+        "Tarikngan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085767
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1cc0021806c8dc1ac1e9f096f38c592a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704219,
+            "locality_id":1226736835,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1226736835,
+    "wof:lastmodified":1537677050,
+    "wof:name":"Tarikngan",
+    "wof:parent_id":1091704219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.43534,
+    -5.78555,
+    146.43534,
+    -5.78555
+],
+  "geometry": {"coordinates":[146.43534,-5.78555],"type":"Point"}
+}

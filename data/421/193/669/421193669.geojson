@@ -1,0 +1,80 @@
+{
+  "id": 421193669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.97698,-6.57903,145.97698,-6.57903",
+    "geom:latitude":-6.57903,
+    "geom:longitude":145.97698,
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "Asaro"
+    ],
+    "qs:gn_country":"PG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2100481,
+    "qs:gn_pop":0,
+    "qs:name":"Asaro",
+    "qs:name_adm0":"Papua New Guinea",
+    "qs:name_adm1":"Eastern Highlands",
+    "qs:photos":15,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":15,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":58553,
+    "qs:woe_adm0":23424926,
+    "qs:woe_id":1062080,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":50,
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091704061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100481,
+        "gp:id":1062080,
+        "qs:id":58553
+    },
+    "wof:country":"PG",
+    "wof:created":1459009779,
+    "wof:geomhash":"e9c9116ad0e4ce2a0a850bd3e1c1095f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704061,
+            "locality_id":421193669,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":421193669,
+    "wof:lastmodified":1527716143,
+    "wof:name":"Asaro",
+    "wof:parent_id":1091704061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.97698,
+    -6.57903,
+    145.97698,
+    -6.57903
+],
+  "geometry": {"coordinates":[145.97698,-6.57903],"type":"Point"}
+}

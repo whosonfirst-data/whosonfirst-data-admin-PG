@@ -1,0 +1,67 @@
+{
+  "id": 1293569405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.83698,-4.21753,144.83698,-4.21753",
+    "geom:latitude":-4.21753,
+    "geom:longitude":144.83698,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Iku",
+    "gn:country_code":"PG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095732,
+    "gn:latitude":-4.21753,
+    "gn:longitude":144.83698,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Iku",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091702063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095732
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3c465f2e534a546be4808d47131af664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702063,
+            "locality_id":1293569405,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1293569405,
+    "wof:lastmodified":1536669048,
+    "wof:name":"Iku",
+    "wof:parent_id":1091702063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.83698,
+    -4.21753,
+    144.83698,
+    -4.21753
+],
+  "geometry": {"coordinates":[144.83698000000001,-4.21753],"type":"Point"}
+}

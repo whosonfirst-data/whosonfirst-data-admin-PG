@@ -1,0 +1,73 @@
+{
+  "id": 1260309929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.08622,-8.88791,148.08622,-8.88791",
+    "geom:latitude":-8.88791,
+    "geom:longitude":148.08622,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"2093690",
+    "gn:asciiname":"Sasembata Mission",
+    "gn:country_code":"PG",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087126,
+    "gn:latitude":-8.88791,
+    "gn:longitude":148.08622,
+    "gn:modification_date":"2016-02-25",
+    "gn:name":"Sasembata Mission",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sasembata",
+        "Sasembata Number 1",
+        "Sasambata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091704393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087126
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"01f76b66398f9bc0037a4c9d75ac6ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704393,
+            "locality_id":1260309929,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1260309929,
+    "wof:lastmodified":1537677065,
+    "wof:name":"Sasembata Mission",
+    "wof:parent_id":1091704393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.08622,
+    -8.88791,
+    148.08622,
+    -8.88791
+],
+  "geometry": {"coordinates":[148.08622,-8.88791],"type":"Point"}
+}

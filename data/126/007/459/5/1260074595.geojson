@@ -1,0 +1,67 @@
+{
+  "id": 1260074595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.25342,-6.35412,145.25342,-6.35412",
+    "geom:latitude":-6.35412,
+    "geom:longitude":145.25342,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Hogabi",
+    "gn:country_code":"PG",
+    "gn:dem":1605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096105,
+    "gn:latitude":-6.35412,
+    "gn:longitude":145.25342,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Hogabi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091703417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096105
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c679ab0badb7dd5acef98e0ddf352264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703417,
+            "locality_id":1260074595,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1260074595,
+    "wof:lastmodified":1537000118,
+    "wof:name":"Hogabi",
+    "wof:parent_id":1091703417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.25342,
+    -6.35412,
+    145.25342,
+    -6.35412
+],
+  "geometry": {"coordinates":[145.25342000000001,-6.35412],"type":"Point"}
+}

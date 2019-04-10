@@ -1,0 +1,61 @@
+{
+  "id": 1209395975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.97515,-3.59846,142.97515,-3.59846",
+    "geom:latitude":-3.59846,
+    "geom:longitude":142.97515,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Ami",
+    "gn:country_code":"PG",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100901,
+    "gn:latitude":-3.59846,
+    "gn:longitude":142.97515,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Ami",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100901
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a88d16816d56d606dc0d0553e624c642",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209395975
+        }
+    ],
+    "wof:id":1209395975,
+    "wof:lastmodified":1536288300,
+    "wof:name":"Ami",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.97515,
+    -3.59846,
+    142.97515,
+    -3.59846
+],
+  "geometry": {"coordinates":[142.97515000000001,-3.59846],"type":"Point"}
+}

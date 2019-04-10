@@ -1,0 +1,71 @@
+{
+  "id": 1326703381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.33671,-2.90511,151.33671,-2.90511",
+    "geom:latitude":-2.90511,
+    "geom:longitude":151.33671,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Larislaba",
+    "gn:country_code":"PG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092549,
+    "gn:latitude":-2.90511,
+    "gn:longitude":151.33671,
+    "gn:modification_date":"2014-08-22",
+    "gn:name":"Larislaba",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laraslaba",
+        "Larislaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091702917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092549
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"feca81553aad023ead1f7f07c6333739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702917,
+            "locality_id":1326703381,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1326703381,
+    "wof:lastmodified":1537677120,
+    "wof:name":"Larislaba",
+    "wof:parent_id":1091702917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.33671,
+    -2.90511,
+    151.33671,
+    -2.90511
+],
+  "geometry": {"coordinates":[151.33671000000001,-2.90511],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293105049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.72582,-9.6121,148.72582,-9.6121",
+    "geom:latitude":-9.6121,
+    "geom:longitude":148.72582,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Obeia",
+    "gn:country_code":"PG",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089296,
+    "gn:latitude":-9.6121,
+    "gn:longitude":148.72582,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Obeia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091702531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089296
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"096d473e8d31fc7934b2c82ec501d82b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702531,
+            "locality_id":1293105049,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1293105049,
+    "wof:lastmodified":1536840332,
+    "wof:name":"Obeia",
+    "wof:parent_id":1091702531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.72582,
+    -9.6121,
+    148.72582,
+    -9.6121
+],
+  "geometry": {"coordinates":[148.72582,-9.6121],"type":"Point"}
+}

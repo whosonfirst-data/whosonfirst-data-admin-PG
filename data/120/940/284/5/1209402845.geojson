@@ -1,0 +1,61 @@
+{
+  "id": 1209402845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.78573,-3.52177,142.78573,-3.52177",
+    "geom:latitude":-3.52177,
+    "geom:longitude":142.78573,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Sahik",
+    "gn:country_code":"PG",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087419,
+    "gn:latitude":-3.52177,
+    "gn:longitude":142.78573,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Sahik",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087419
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d3f1a8ff9565be134d144a95787bfd66",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209402845
+        }
+    ],
+    "wof:id":1209402845,
+    "wof:lastmodified":1536288088,
+    "wof:name":"Sahik",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.78573,
+    -3.52177,
+    142.78573,
+    -3.52177
+],
+  "geometry": {"coordinates":[142.78573,-3.52177],"type":"Point"}
+}

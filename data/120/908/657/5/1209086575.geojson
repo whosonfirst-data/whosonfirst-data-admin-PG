@@ -1,0 +1,65 @@
+{
+  "id": 1209086575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.81436,-4.44352,144.81436,-4.44352",
+    "geom:latitude":-4.44352,
+    "geom:longitude":144.81436,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Gun 1",
+    "gn:country_code":"PG",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096586,
+    "gn:latitude":-4.44352,
+    "gn:longitude":144.81436,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gun 1",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gun Number 1",
+        "Gun 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096586
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"117e2d994930b6fe7f690a6089b79afc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209086575
+        }
+    ],
+    "wof:id":1209086575,
+    "wof:lastmodified":1537677167,
+    "wof:name":"Gun 1",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.81436000000005,
+    -4.44352,
+    144.81436000000005,
+    -4.44352
+],
+  "geometry": {"coordinates":[144.81436000000005,-4.44352],"type":"Point"}
+}

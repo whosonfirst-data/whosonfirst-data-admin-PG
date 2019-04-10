@@ -1,0 +1,67 @@
+{
+  "id": 1259670941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.80655,-4.23694,144.80655,-4.23694",
+    "geom:latitude":-4.23694,
+    "geom:longitude":144.80655,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Sepen Number 2",
+    "gn:country_code":"PG",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086908,
+    "gn:latitude":-4.23694,
+    "gn:longitude":144.80655,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Sepen Number 2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091702063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086908
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3979baf39a2dfa514ec6f7416cd183ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702063,
+            "locality_id":1259670941,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1259670941,
+    "wof:lastmodified":1537081944,
+    "wof:name":"Sepen Number 2",
+    "wof:parent_id":1091702063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.80655,
+    -4.23694,
+    144.80655,
+    -4.23694
+],
+  "geometry": {"coordinates":[144.80654999999999,-4.23694],"type":"Point"}
+}

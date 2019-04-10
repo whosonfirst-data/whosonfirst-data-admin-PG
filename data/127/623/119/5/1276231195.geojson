@@ -1,0 +1,67 @@
+{
+  "id": 1276231195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.55319,-6.84502,143.55319,-6.84502",
+    "geom:latitude":-6.84502,
+    "geom:longitude":143.55319,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tama",
+    "gn:country_code":"PG",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085918,
+    "gn:latitude":-6.84502,
+    "gn:longitude":143.55319,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Tama",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091703049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085918
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"67b0e81e4de62dfd0e7e615778b7a9e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703049,
+            "locality_id":1276231195,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1276231195,
+    "wof:lastmodified":1536916183,
+    "wof:name":"Tama",
+    "wof:parent_id":1091703049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.55319,
+    -6.84502,
+    143.55319,
+    -6.84502
+],
+  "geometry": {"coordinates":[143.55319,-6.84502],"type":"Point"}
+}

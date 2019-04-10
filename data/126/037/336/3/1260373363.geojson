@@ -1,0 +1,67 @@
+{
+  "id": 1260373363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.02932,-2.98195,152.02932,-2.98195",
+    "geom:latitude":-2.98195,
+    "geom:longitude":152.02932,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Wang",
+    "gn:country_code":"PG",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083914,
+    "gn:latitude":-2.98195,
+    "gn:longitude":152.02932,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Wang",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091703829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083914
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"fb2e0053da710a31bf4ded067fc51025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703829,
+            "locality_id":1260373363,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1260373363,
+    "wof:lastmodified":1537085307,
+    "wof:name":"Wang",
+    "wof:parent_id":1091703829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.02931999999996,
+    -2.98195,
+    152.02931999999996,
+    -2.98195
+],
+  "geometry": {"coordinates":[152.02931999999996,-2.98195],"type":"Point"}
+}

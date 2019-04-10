@@ -1,0 +1,67 @@
+{
+  "id": 1360061243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.16667,-3.33333,141.16667,-3.33333",
+    "geom:latitude":-3.33333,
+    "geom:longitude":141.16667,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Imonda on the Rocks",
+    "gn:country_code":"PG",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095650,
+    "gn:latitude":-3.33333,
+    "gn:longitude":141.16667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Imonda on the Rocks",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091704901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095650
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f24f2d4db8c47a412b9f8c9a8950618d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704901,
+            "locality_id":1360061243,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1360061243,
+    "wof:lastmodified":1536979518,
+    "wof:name":"Imonda on the Rocks",
+    "wof:parent_id":1091704901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.16666999999995,
+    -3.33333,
+    141.16666999999995,
+    -3.33333
+],
+  "geometry": {"coordinates":[141.16666999999995,-3.33333],"type":"Point"}
+}

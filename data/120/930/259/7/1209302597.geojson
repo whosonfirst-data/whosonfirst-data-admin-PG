@@ -1,0 +1,66 @@
+{
+  "id": 1209302597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.11203,-3.65651,143.11203,-3.65651",
+    "geom:latitude":-3.65651,
+    "geom:longitude":143.11203,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Malba 1 Villages",
+    "gn:country_code":"PG",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091720,
+    "gn:latitude":-3.65651,
+    "gn:longitude":143.11203,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Malba 1 Villages",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malba 1",
+        "Malba Number 1",
+        "Malba 1 Villages"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091720
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"91b2f0f6a04bb3ac6ed0bcb202c656e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209302597
+        }
+    ],
+    "wof:id":1209302597,
+    "wof:lastmodified":1537677112,
+    "wof:name":"Malba 1 Villages",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.11203,
+    -3.65651,
+    143.11203,
+    -3.65651
+],
+  "geometry": {"coordinates":[143.11203,-3.65651],"type":"Point"}
+}

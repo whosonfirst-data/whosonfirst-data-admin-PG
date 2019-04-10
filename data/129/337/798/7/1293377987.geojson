@@ -1,0 +1,67 @@
+{
+  "id": 1293377987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.62871,-3.55837,142.62871,-3.55837",
+    "geom:latitude":-3.55837,
+    "geom:longitude":142.62871,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mimbiok",
+    "gn:country_code":"PG",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090810,
+    "gn:latitude":-3.55837,
+    "gn:longitude":142.62871,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Mimbiok",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090810
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d73b3df2aee7716426335c89334e68ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702053,
+            "locality_id":1293377987,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1293377987,
+    "wof:lastmodified":1536945332,
+    "wof:name":"Mimbiok",
+    "wof:parent_id":1091702053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.62871,
+    -3.55837,
+    142.62871,
+    -3.55837
+],
+  "geometry": {"coordinates":[142.62871000000001,-3.55837],"type":"Point"}
+}

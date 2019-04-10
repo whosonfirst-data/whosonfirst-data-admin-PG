@@ -1,0 +1,67 @@
+{
+  "id": 1343536523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.3524,-5.70702,143.3524,-5.70702",
+    "geom:latitude":-5.70702,
+    "geom:longitude":143.3524,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Minjip",
+    "gn:country_code":"PG",
+    "gn:dem":2660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090761,
+    "gn:latitude":-5.70702,
+    "gn:longitude":143.3524,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Minjip",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676513,
+        1091702785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090761
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"aae150e3466eb3996623916293aad268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702785,
+            "locality_id":1343536523,
+            "region_id":85676513
+        }
+    ],
+    "wof:id":1343536523,
+    "wof:lastmodified":1536635271,
+    "wof:name":"Minjip",
+    "wof:parent_id":1091702785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.3524,
+    -5.70702,
+    143.3524,
+    -5.70702
+],
+  "geometry": {"coordinates":[143.35239999999999,-5.70702],"type":"Point"}
+}

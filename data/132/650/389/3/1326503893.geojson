@@ -1,0 +1,67 @@
+{
+  "id": 1326503893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.11068,-7.85102,147.11068,-7.85102",
+    "geom:latitude":-7.85102,
+    "geom:longitude":147.11068,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kapiso",
+    "gn:country_code":"PG",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094673,
+    "gn:latitude":-7.85102,
+    "gn:longitude":147.11068,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kapiso",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094673
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"6cdf90dcf1b77a39c4685e804b2feafa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702091,
+            "locality_id":1326503893,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1326503893,
+    "wof:lastmodified":1537023895,
+    "wof:name":"Kapiso",
+    "wof:parent_id":1091702091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.11068,
+    -7.85102,
+    147.11068,
+    -7.85102
+],
+  "geometry": {"coordinates":[147.11068,-7.85102],"type":"Point"}
+}

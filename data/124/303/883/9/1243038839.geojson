@@ -1,0 +1,70 @@
+{
+  "id": 1243038839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.12567,-6.70791,147.12567,-6.70791",
+    "geom:latitude":-6.70791,
+    "geom:longitude":147.12567,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Singaua",
+    "gn:country_code":"PG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086628,
+    "gn:latitude":-6.70791,
+    "gn:longitude":147.12567,
+    "gn:modification_date":"2015-03-07",
+    "gn:name":"Singaua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Singaua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086628
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"27e1253ddff613f224e6f4fba2ca6c45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703899,
+            "locality_id":1243038839,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1243038839,
+    "wof:lastmodified":1537677060,
+    "wof:name":"Singaua",
+    "wof:parent_id":1091703899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.12567,
+    -6.70791,
+    147.12567,
+    -6.70791
+],
+  "geometry": {"coordinates":[147.12567000000001,-6.70791],"type":"Point"}
+}

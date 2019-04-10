@@ -1,0 +1,67 @@
+{
+  "id": 1276879083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.737,-8.901,147.737,-8.901",
+    "geom:latitude":-8.901,
+    "geom:longitude":147.737,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kovelo",
+    "gn:country_code":"PG",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11072301,
+    "gn:latitude":-8.901,
+    "gn:longitude":147.737,
+    "gn:modification_date":"2016-02-25",
+    "gn:name":"Kovelo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091704393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11072301
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"5bd055aa49b738022f729188a75b7a79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704393,
+            "locality_id":1276879083,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1276879083,
+    "wof:lastmodified":1537040432,
+    "wof:name":"Kovelo",
+    "wof:parent_id":1091704393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.737,
+    -8.901,
+    147.737,
+    -8.901
+],
+  "geometry": {"coordinates":[147.73699999999999,-8.901],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276886549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.52246,-7.36149,144.52246,-7.36149",
+    "geom:latitude":-7.36149,
+    "geom:longitude":144.52246,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Wowobo",
+    "gn:country_code":"PG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083322,
+    "gn:latitude":-7.36149,
+    "gn:longitude":144.52246,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Wowobo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091703049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083322
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"905303a55e418dc238bfe4cfbe1467a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703049,
+            "locality_id":1276886549,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1276886549,
+    "wof:lastmodified":1537030813,
+    "wof:name":"Wowobo",
+    "wof:parent_id":1091703049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.52246,
+    -7.36149,
+    144.52246,
+    -7.36149
+],
+  "geometry": {"coordinates":[144.52246,-7.36149],"type":"Point"}
+}

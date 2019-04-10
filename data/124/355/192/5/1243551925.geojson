@@ -1,0 +1,71 @@
+{
+  "id": 1243551925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.32119,-6.34522,142.32119,-6.34522",
+    "geom:latitude":-6.34522,
+    "geom:longitude":142.32119,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Wailibi",
+    "gn:country_code":"PG",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084112,
+    "gn:latitude":-6.34522,
+    "gn:longitude":142.32119,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Wailibi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Walibi",
+        "Wailibi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091703673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084112
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"dc8d3b52366bc9932d3e51f59695515f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703673,
+            "locality_id":1243551925,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1243551925,
+    "wof:lastmodified":1537677034,
+    "wof:name":"Wailibi",
+    "wof:parent_id":1091703673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.32119,
+    -6.34522,
+    142.32119,
+    -6.34522
+],
+  "geometry": {"coordinates":[142.32119,-6.34522],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327125869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"155.42819,-6.35385,155.42819,-6.35385",
+    "geom:latitude":-6.35385,
+    "geom:longitude":155.42819,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Onovi",
+    "gn:country_code":"PG",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089024,
+    "gn:latitude":-6.35385,
+    "gn:longitude":155.42819,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Onovi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Onovei",
+        "Onovi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676543,
+        1091702121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089024
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b9dc515eac3199870a847536fd645882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702121,
+            "locality_id":1327125869,
+            "region_id":85676543
+        }
+    ],
+    "wof:id":1327125869,
+    "wof:lastmodified":1537677081,
+    "wof:name":"Onovi",
+    "wof:parent_id":1091702121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    155.42819,
+    -6.35385,
+    155.42819,
+    -6.35385
+],
+  "geometry": {"coordinates":[155.42819,-6.35385],"type":"Point"}
+}

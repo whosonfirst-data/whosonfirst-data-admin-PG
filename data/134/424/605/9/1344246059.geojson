@@ -1,0 +1,67 @@
+{
+  "id": 1344246059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.21227,-4.21614,152.21227,-4.21614",
+    "geom:latitude":-4.21614,
+    "geom:longitude":152.21227,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Baai",
+    "gn:country_code":"PG",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100178,
+    "gn:latitude":-4.21614,
+    "gn:longitude":152.21227,
+    "gn:modification_date":"2016-06-27",
+    "gn:name":"Baai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091704181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100178
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"250720e0e73d3c281d5d6f9670d63e46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704181,
+            "locality_id":1344246059,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1344246059,
+    "wof:lastmodified":1536604766,
+    "wof:name":"Baai",
+    "wof:parent_id":1091704181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.21227,
+    -4.21614,
+    152.21227,
+    -4.21614
+],
+  "geometry": {"coordinates":[152.21226999999999,-4.21614],"type":"Point"}
+}

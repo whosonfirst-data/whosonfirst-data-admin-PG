@@ -1,0 +1,67 @@
+{
+  "id": 1276461667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.28193,-10.08339,149.28193,-10.08339",
+    "geom:latitude":-10.08339,
+    "geom:longitude":149.28193,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Arau",
+    "gn:country_code":"PG",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133970,
+    "gn:latitude":-10.08339,
+    "gn:longitude":149.28193,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Arau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091701919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133970
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"62c306cc52c7b5de44cc87592de0fb57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091701919,
+            "locality_id":1276461667,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1276461667,
+    "wof:lastmodified":1536603698,
+    "wof:name":"Arau",
+    "wof:parent_id":1091701919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.28193000000005,
+    -10.08339,
+    149.28193000000005,
+    -10.08339
+],
+  "geometry": {"coordinates":[149.28193000000005,-10.08339],"type":"Point"}
+}

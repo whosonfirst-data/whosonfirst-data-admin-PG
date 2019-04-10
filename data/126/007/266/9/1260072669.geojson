@@ -1,0 +1,73 @@
+{
+  "id": 1260072669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.58333,-8.63333,143.58333,-8.63333",
+    "geom:latitude":-8.63333,
+    "geom:longitude":143.58333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sagasia",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087430,
+    "gn:latitude":-8.63333,
+    "gn:longitude":143.58333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sagasia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Segasia",
+        "Sagasio",
+        "Sagasia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087430
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"167143fe2c2438dea12b512b580785bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704467,
+            "locality_id":1260072669,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1260072669,
+    "wof:lastmodified":1537677068,
+    "wof:name":"Sagasia",
+    "wof:parent_id":1091704467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.58333000000005,
+    -8.63333,
+    143.58333000000005,
+    -8.63333
+],
+  "geometry": {"coordinates":[143.58333000000005,-8.63333],"type":"Point"}
+}

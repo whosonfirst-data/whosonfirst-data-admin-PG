@@ -1,0 +1,61 @@
+{
+  "id": 1209079289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.6198,-4.09206,152.6198,-4.09206",
+    "geom:latitude":-4.09206,
+    "geom:longitude":152.6198,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Suralil",
+    "gn:country_code":"PG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086121,
+    "gn:latitude":-4.09206,
+    "gn:longitude":152.6198,
+    "gn:modification_date":"2015-08-18",
+    "gn:name":"Suralil",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086121
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8fb80b6d934d5747c69595006d252a40",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209079289
+        }
+    ],
+    "wof:id":1209079289,
+    "wof:lastmodified":1536298392,
+    "wof:name":"Suralil",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.6198,
+    -4.09206,
+    152.6198,
+    -4.09206
+],
+  "geometry": {"coordinates":[152.6198,-4.09206],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1277155333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.50988,-3.73771,143.50988,-3.73771",
+    "geom:latitude":-3.73771,
+    "geom:longitude":143.50988,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Hanyak 2",
+    "gn:country_code":"PG",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096348,
+    "gn:latitude":-3.73771,
+    "gn:longitude":143.50988,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hanyak 2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hanyak Number 2",
+        "Hanyak 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096348
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"575c5befb11f46043e5c223ced99f58c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705179,
+            "locality_id":1277155333,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1277155333,
+    "wof:lastmodified":1537677163,
+    "wof:name":"Hanyak 2",
+    "wof:parent_id":1091705179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.50988,
+    -3.73771,
+    143.50988,
+    -3.73771
+],
+  "geometry": {"coordinates":[143.50988000000001,-3.73771],"type":"Point"}
+}

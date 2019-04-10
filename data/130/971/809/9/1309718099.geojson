@@ -1,0 +1,71 @@
+{
+  "id": 1309718099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.81512,-9.24414,148.81512,-9.24414",
+    "geom:latitude":-9.24414,
+    "geom:longitude":148.81512,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Momoiogo",
+    "gn:country_code":"PG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090571,
+    "gn:latitude":-9.24414,
+    "gn:longitude":148.81512,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Momoiogo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Momoiogu",
+        "Momoiogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091702531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090571
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f6375144eb8bd5a43096b0e0fed27074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702531,
+            "locality_id":1309718099,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1309718099,
+    "wof:lastmodified":1537677098,
+    "wof:name":"Momoiogo",
+    "wof:parent_id":1091702531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.81512,
+    -9.24414,
+    148.81512,
+    -9.24414
+],
+  "geometry": {"coordinates":[148.81512000000001,-9.24414],"type":"Point"}
+}

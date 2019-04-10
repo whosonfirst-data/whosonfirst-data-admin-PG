@@ -1,0 +1,72 @@
+{
+  "id": 1226668749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.05636,-6.62799,143.05636,-6.62799",
+    "geom:latitude":-6.62799,
+    "geom:longitude":143.05636,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ai'iaka",
+    "gn:country_code":"PG",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101231,
+    "gn:latitude":-6.62799,
+    "gn:longitude":143.05636,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ai\u2019iaka",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ai\u2019iaga",
+        "Ai\u2019ago",
+        "Ai\u2019iaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091703941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101231
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2e6043bf14e1bcc58bec9fb60476c0a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703941,
+            "locality_id":1226668749,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1226668749,
+    "wof:lastmodified":1537677218,
+    "wof:name":"Ai'iaka",
+    "wof:parent_id":1091703941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.05636,
+    -6.62799,
+    143.05636,
+    -6.62799
+],
+  "geometry": {"coordinates":[143.05636000000001,-6.62799],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360068841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.96667,-7.85,146.96667,-7.85",
+    "geom:latitude":-7.85,
+    "geom:longitude":146.96667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Pagua",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":1896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088817,
+    "gn:latitude":-7.85,
+    "gn:longitude":146.96667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pagua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pagau",
+        "Pagua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088817
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"342934e9cfac6389a2fcbfa0683af9e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702091,
+            "locality_id":1360068841,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1360068841,
+    "wof:lastmodified":1537677079,
+    "wof:name":"Pagua",
+    "wof:parent_id":1091702091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.96667,
+    -7.85,
+    146.96667,
+    -7.85
+],
+  "geometry": {"coordinates":[146.96666999999999,-7.85],"type":"Point"}
+}

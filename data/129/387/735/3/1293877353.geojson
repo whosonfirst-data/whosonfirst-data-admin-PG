@@ -1,0 +1,67 @@
+{
+  "id": 1293877353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.01667,-4.2,152.01667,-4.2",
+    "geom:latitude":-4.2,
+    "geom:longitude":152.01667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Rambabat",
+    "gn:country_code":"PG",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087809,
+    "gn:latitude":-4.2,
+    "gn:longitude":152.01667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Rambabat",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091702397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087809
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c3d0cd70f18ce7c3e682e74099f3bbcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702397,
+            "locality_id":1293877353,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1293877353,
+    "wof:lastmodified":1536722558,
+    "wof:name":"Rambabat",
+    "wof:parent_id":1091702397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.01667,
+    -4.2,
+    152.01667,
+    -4.2
+],
+  "geometry": {"coordinates":[152.01667,-4.2],"type":"Point"}
+}

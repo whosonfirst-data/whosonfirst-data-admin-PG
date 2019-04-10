@@ -1,0 +1,67 @@
+{
+  "id": 1259472089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.49028,-4.15447,152.49028,-4.15447",
+    "geom:latitude":-4.15447,
+    "geom:longitude":152.49028,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Watara",
+    "gn:country_code":"PG",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083685,
+    "gn:latitude":-4.15447,
+    "gn:longitude":152.49028,
+    "gn:modification_date":"2015-04-27",
+    "gn:name":"Watara",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091703131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083685
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3b57870e3907f6d88152255e5828b297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703131,
+            "locality_id":1259472089,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1259472089,
+    "wof:lastmodified":1536874244,
+    "wof:name":"Watara",
+    "wof:parent_id":1091703131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.49028,
+    -4.15447,
+    152.49028,
+    -4.15447
+],
+  "geometry": {"coordinates":[152.49028000000001,-4.15447],"type":"Point"}
+}

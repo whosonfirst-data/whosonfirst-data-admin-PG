@@ -1,0 +1,66 @@
+{
+  "id": 1209695953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.9671,-6.09931,145.9671,-6.09931",
+    "geom:latitude":-6.09931,
+    "geom:longitude":145.9671,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Gusap",
+    "gn:country_code":"PG",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096546,
+    "gn:latitude":-6.09931,
+    "gn:longitude":145.9671,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Gusap",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Susua",
+        "Goosap",
+        "Gusap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096546
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"608e9f8c4bdb4e0db82b2fd8c775f77e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209695953
+        }
+    ],
+    "wof:id":1209695953,
+    "wof:lastmodified":1537677166,
+    "wof:name":"Gusap",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.9671,
+    -6.09931,
+    145.9671,
+    -6.09931
+],
+  "geometry": {"coordinates":[145.96709999999999,-6.09931],"type":"Point"}
+}

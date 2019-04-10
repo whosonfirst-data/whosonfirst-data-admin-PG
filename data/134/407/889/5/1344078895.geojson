@@ -1,0 +1,70 @@
+{
+  "id": 1344078895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.03115,-5.55815,141.03115,-5.55815",
+    "geom:latitude":-5.55815,
+    "geom:longitude":141.03115,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Okao",
+    "gn:country_code":"PG",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8714909,
+    "gn:latitude":-5.55815,
+    "gn:longitude":141.03115,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Okao",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Okao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8714909
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9121eadbc7aeae183cf774acfbf07873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1344078895,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1344078895,
+    "wof:lastmodified":1537677229,
+    "wof:name":"Okao",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.03115,
+    -5.55815,
+    141.03115,
+    -5.55815
+],
+  "geometry": {"coordinates":[141.03115,-5.55815],"type":"Point"}
+}

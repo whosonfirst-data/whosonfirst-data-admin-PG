@@ -1,0 +1,67 @@
+{
+  "id": 1242755981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.51986,-4.20493,143.51986,-4.20493",
+    "geom:latitude":-4.20493,
+    "geom:longitude":143.51986,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Timbunke",
+    "gn:country_code":"PG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085452,
+    "gn:latitude":-4.20493,
+    "gn:longitude":143.51986,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Timbunke",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085452
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"88291b579d7777b23883b5d6b13c90a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702059,
+            "locality_id":1242755981,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1242755981,
+    "wof:lastmodified":1536806557,
+    "wof:name":"Timbunke",
+    "wof:parent_id":1091702059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.51986000000005,
+    -4.20493,
+    143.51986000000005,
+    -4.20493
+],
+  "geometry": {"coordinates":[143.51986000000005,-4.20493],"type":"Point"}
+}

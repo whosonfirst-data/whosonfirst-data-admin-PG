@@ -1,0 +1,64 @@
+{
+  "id": 1209612759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.54827,-8.08333,143.54827,-8.08333",
+    "geom:latitude":-8.08333,
+    "geom:longitude":143.54827,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sistama One",
+    "gn:country_code":"PG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425494,
+    "gn:latitude":-8.08333,
+    "gn:longitude":143.54827,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Sistama One",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sistama One"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425494
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0108a14a2c853dc79bcbe01cf9682650",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209612759
+        }
+    ],
+    "wof:id":1209612759,
+    "wof:lastmodified":1537677227,
+    "wof:name":"Sistama One",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.54827,
+    -8.08333,
+    143.54827,
+    -8.08333
+],
+  "geometry": {"coordinates":[143.54827,-8.08333],"type":"Point"}
+}

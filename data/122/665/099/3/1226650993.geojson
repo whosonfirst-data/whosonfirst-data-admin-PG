@@ -1,0 +1,67 @@
+{
+  "id": 1226650993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.2298,-6.44824,144.2298,-6.44824",
+    "geom:latitude":-6.44824,
+    "geom:longitude":144.2298,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Undiapu",
+    "gn:country_code":"PG",
+    "gn:dem":1473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084686,
+    "gn:latitude":-6.44824,
+    "gn:longitude":144.2298,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Undiapu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084686
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"045af7e3a889312950e1a871a9403612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702491,
+            "locality_id":1226650993,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1226650993,
+    "wof:lastmodified":1536850717,
+    "wof:name":"Undiapu",
+    "wof:parent_id":1091702491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.2298,
+    -6.44824,
+    144.2298,
+    -6.44824
+],
+  "geometry": {"coordinates":[144.22980000000001,-6.44824],"type":"Point"}
+}

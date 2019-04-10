@@ -1,0 +1,67 @@
+{
+  "id": 1309782245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.35,-5.98333,149.35,-5.98333",
+    "geom:latitude":-5.98333,
+    "geom:longitude":149.35,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Giring",
+    "gn:country_code":"PG",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096915,
+    "gn:latitude":-5.98333,
+    "gn:longitude":149.35,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Giring",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676599,
+        1091702827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096915
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a4d80335b9410b6f91ffec5540e1bfd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702827,
+            "locality_id":1309782245,
+            "region_id":85676599
+        }
+    ],
+    "wof:id":1309782245,
+    "wof:lastmodified":1536964904,
+    "wof:name":"Giring",
+    "wof:parent_id":1091702827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.35,
+    -5.98333,
+    149.35,
+    -5.98333
+],
+  "geometry": {"coordinates":[149.34999999999999,-5.98333],"type":"Point"}
+}

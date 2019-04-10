@@ -1,0 +1,67 @@
+{
+  "id": 1326615559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.07504,-6.21066,145.07504,-6.21066",
+    "geom:latitude":-6.21066,
+    "geom:longitude":145.07504,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Maina",
+    "gn:country_code":"PG",
+    "gn:dem":2097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091877,
+    "gn:latitude":-6.21066,
+    "gn:longitude":145.07504,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Maina",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091702163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091877
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"674126b5ee587408f88f1b45d3ab4a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702163,
+            "locality_id":1326615559,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1326615559,
+    "wof:lastmodified":1536862559,
+    "wof:name":"Maina",
+    "wof:parent_id":1091702163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.07504,
+    -6.21066,
+    145.07504,
+    -6.21066
+],
+  "geometry": {"coordinates":[145.07504,-6.21066],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344063237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.22909,-8.68437,148.22909,-8.68437",
+    "geom:latitude":-8.68437,
+    "geom:longitude":148.22909,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ahora",
+    "gn:country_code":"PG",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101267,
+    "gn:latitude":-8.68437,
+    "gn:longitude":148.22909,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Ahora",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091704393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101267
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e8074b7d26b193802161e0589bb86e16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704393,
+            "locality_id":1344063237,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1344063237,
+    "wof:lastmodified":1536870399,
+    "wof:name":"Ahora",
+    "wof:parent_id":1091704393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.22909,
+    -8.68437,
+    148.22909,
+    -8.68437
+],
+  "geometry": {"coordinates":[148.22909000000001,-8.68437],"type":"Point"}
+}

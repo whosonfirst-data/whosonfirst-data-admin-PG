@@ -1,0 +1,67 @@
+{
+  "id": 1226655543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.16667,-9.15,147.16667,-9.15",
+    "geom:latitude":-9.15,
+    "geom:longitude":147.16667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Berere",
+    "gn:country_code":"PG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099609,
+    "gn:latitude":-9.15,
+    "gn:longitude":147.16667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Berere",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091702751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099609
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"936e6cc0dbb139b376d79efebe8b7bda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702751,
+            "locality_id":1226655543,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1226655543,
+    "wof:lastmodified":1536844150,
+    "wof:name":"Berere",
+    "wof:parent_id":1091702751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.16666999999995,
+    -9.15,
+    147.16666999999995,
+    -9.15
+],
+  "geometry": {"coordinates":[147.16666999999995,-9.15],"type":"Point"}
+}

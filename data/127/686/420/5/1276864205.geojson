@@ -1,0 +1,73 @@
+{
+  "id": 1276864205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.18333,-6.23333,141.18333,-6.23333",
+    "geom:latitude":-6.23333,
+    "geom:longitude":141.18333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Iowi",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095513,
+    "gn:latitude":-6.23333,
+    "gn:longitude":141.18333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Iowi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iowa",
+        "Iovi",
+        "Iowi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095513
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e752b0d4b34e839c3d214ea2665d4b7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1276864205,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1276864205,
+    "wof:lastmodified":1537677154,
+    "wof:name":"Iowi",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.18333,
+    -6.23333,
+    141.18333,
+    -6.23333
+],
+  "geometry": {"coordinates":[141.18333000000001,-6.23333],"type":"Point"}
+}

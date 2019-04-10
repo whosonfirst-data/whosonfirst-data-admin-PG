@@ -1,0 +1,67 @@
+{
+  "id": 1243226141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.78758,-5.62003,143.78758,-5.62003",
+    "geom:latitude":-5.62003,
+    "geom:longitude":143.78758,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Wamatesa",
+    "gn:country_code":"PG",
+    "gn:dem":2270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083988,
+    "gn:latitude":-5.62003,
+    "gn:longitude":143.78758,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Wamatesa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676513,
+        1091705055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083988
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"689c3b93925432c09d0f9c6681124123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705055,
+            "locality_id":1243226141,
+            "region_id":85676513
+        }
+    ],
+    "wof:id":1243226141,
+    "wof:lastmodified":1536624284,
+    "wof:name":"Wamatesa",
+    "wof:parent_id":1091705055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.78758,
+    -5.62003,
+    143.78758,
+    -5.62003
+],
+  "geometry": {"coordinates":[143.78757999999999,-5.62003],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309893629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.36563,-4.59589,143.36563,-4.59589",
+    "geom:latitude":-4.59589,
+    "geom:longitude":143.36563,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Sevenbuk",
+    "gn:country_code":"PG",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086866,
+    "gn:latitude":-4.59589,
+    "gn:longitude":143.36563,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Sevenbuk",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086866
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1e9d933f9487f5cc8a2a90d602bdf627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702059,
+            "locality_id":1309893629,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1309893629,
+    "wof:lastmodified":1536804389,
+    "wof:name":"Sevenbuk",
+    "wof:parent_id":1091702059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.36563,
+    -4.59589,
+    143.36563,
+    -4.59589
+],
+  "geometry": {"coordinates":[143.36563000000001,-4.59589],"type":"Point"}
+}

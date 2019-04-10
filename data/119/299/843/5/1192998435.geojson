@@ -1,0 +1,67 @@
+{
+  "id": 1192998435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.81184,-4.36068,144.81184,-4.36068",
+    "geom:latitude":-4.36068,
+    "geom:longitude":144.81184,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Dinam",
+    "gn:country_code":"PG",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098139,
+    "gn:latitude":-4.36068,
+    "gn:longitude":144.81184,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Dinam",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091702063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098139
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"97c72d1d9cc2852f715b9783129de4a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702063,
+            "locality_id":1192998435,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1192998435,
+    "wof:lastmodified":1536373301,
+    "wof:name":"Dinam",
+    "wof:parent_id":1091702063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.81184,
+    -4.36068,
+    144.81184,
+    -4.36068
+],
+  "geometry": {"coordinates":[144.81183999999999,-4.36068],"type":"Point"}
+}

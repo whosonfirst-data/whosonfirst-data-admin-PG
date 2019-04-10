@@ -1,0 +1,67 @@
+{
+  "id": 1293269311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.21953,-5.70603,145.21953,-5.70603",
+    "geom:latitude":-5.70603,
+    "geom:longitude":145.21953,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mendi",
+    "gn:country_code":"PG",
+    "gn:dem":1239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090991,
+    "gn:latitude":-5.70603,
+    "gn:longitude":145.21953,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Mendi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090991
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"01c6d02b3b2a72f0c63da7703f714bb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704819,
+            "locality_id":1293269311,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1293269311,
+    "wof:lastmodified":1536601449,
+    "wof:name":"Mendi",
+    "wof:parent_id":1091704819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.21953,
+    -5.70603,
+    145.21953,
+    -5.70603
+],
+  "geometry": {"coordinates":[145.21952999999999,-5.70603],"type":"Point"}
+}

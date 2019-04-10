@@ -1,0 +1,61 @@
+{
+  "id": 1209201629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.17512,-5.64039,146.17512,-5.64039",
+    "geom:latitude":-5.64039,
+    "geom:longitude":146.17512,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Wado",
+    "gn:country_code":"PG",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084192,
+    "gn:latitude":-5.64039,
+    "gn:longitude":146.17512,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Wado",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084192
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"512bf178833649cf6719d147610c11ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209201629
+        }
+    ],
+    "wof:id":1209201629,
+    "wof:lastmodified":1536294589,
+    "wof:name":"Wado",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.17512,
+    -5.64039,
+    146.17512,
+    -5.64039
+],
+  "geometry": {"coordinates":[146.17511999999999,-5.64039],"type":"Point"}
+}

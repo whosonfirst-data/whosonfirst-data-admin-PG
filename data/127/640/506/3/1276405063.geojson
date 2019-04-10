@@ -1,0 +1,67 @@
+{
+  "id": 1276405063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.95223,-5.47688,143.95223,-5.47688",
+    "geom:latitude":-5.47688,
+    "geom:longitude":143.95223,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Ogowanda",
+    "gn:country_code":"PG",
+    "gn:dem":1512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8528933,
+    "gn:latitude":-5.47688,
+    "gn:longitude":143.95223,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Ogowanda",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676513,
+        1091703207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8528933
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"29acb8c03d51a3c5226546f452f77573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703207,
+            "locality_id":1276405063,
+            "region_id":85676513
+        }
+    ],
+    "wof:id":1276405063,
+    "wof:lastmodified":1536682527,
+    "wof:name":"Ogowanda",
+    "wof:parent_id":1091703207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.95223,
+    -5.47688,
+    143.95223,
+    -5.47688
+],
+  "geometry": {"coordinates":[143.95222999999999,-5.47688],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209792045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.75292,-2.33008,147.75292,-2.33008",
+    "geom:latitude":-2.33008,
+    "geom:longitude":147.75292,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Penchal",
+    "gn:country_code":"PG",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088450,
+    "gn:latitude":-2.33008,
+    "gn:longitude":147.75292,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Penchal",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676569,
+        1091703475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088450
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"6da52f59f712ed7ff6d7b3f86c28e94a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703475,
+            "locality_id":1209792045,
+            "region_id":85676569
+        }
+    ],
+    "wof:id":1209792045,
+    "wof:lastmodified":1536394567,
+    "wof:name":"Penchal",
+    "wof:parent_id":1091703475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.75292,
+    -2.33008,
+    147.75292,
+    -2.33008
+],
+  "geometry": {"coordinates":[147.75291999999999,-2.33008],"type":"Point"}
+}

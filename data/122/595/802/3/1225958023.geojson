@@ -1,0 +1,63 @@
+{
+  "id": 1225958023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.71602,-10.08585,147.71602,-10.08585",
+    "geom:latitude":-10.08585,
+    "geom:longitude":147.71602,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Alewai",
+    "gn:country_code":"PG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133995,
+    "gn:latitude":-10.08585,
+    "gn:longitude":147.71602,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Alewai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133995
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"266606bb6ccda4b475fe9295bcc6db52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1225958023,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225958023,
+    "wof:lastmodified":1536850425,
+    "wof:name":"Alewai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.71602,
+    -10.08585,
+    147.71602,
+    -10.08585
+],
+  "geometry": {"coordinates":[147.71601999999999,-10.08585],"type":"Point"}
+}

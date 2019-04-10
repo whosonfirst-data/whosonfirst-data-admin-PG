@@ -1,0 +1,71 @@
+{
+  "id": 1242954247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.05569,-4.41145,144.05569,-4.41145",
+    "geom:latitude":-4.41145,
+    "geom:longitude":144.05569,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Simbir",
+    "gn:country_code":"PG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086684,
+    "gn:latitude":-4.41145,
+    "gn:longitude":144.05569,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Simbir",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Simbiri",
+        "Simbir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086684
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"76bc8a64249a88f39295b0671e8f96fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702059,
+            "locality_id":1242954247,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1242954247,
+    "wof:lastmodified":1537677061,
+    "wof:name":"Simbir",
+    "wof:parent_id":1091702059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.05569,
+    -4.41145,
+    144.05569,
+    -4.41145
+],
+  "geometry": {"coordinates":[144.05569,-4.41145],"type":"Point"}
+}

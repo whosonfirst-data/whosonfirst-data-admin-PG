@@ -1,0 +1,67 @@
+{
+  "id": 1260368269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.1,-4.6,143.1,-4.6",
+    "geom:latitude":-4.6,
+    "geom:longitude":143.1,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Meskia",
+    "gn:country_code":"PG",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090915,
+    "gn:latitude":-4.6,
+    "gn:longitude":143.1,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Meskia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090915
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"cd7b0a1875d1266f712bc596dff7eba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702059,
+            "locality_id":1260368269,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1260368269,
+    "wof:lastmodified":1537092084,
+    "wof:name":"Meskia",
+    "wof:parent_id":1091702059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.1,
+    -4.6,
+    143.1,
+    -4.6
+],
+  "geometry": {"coordinates":[143.09999999999999,-4.6],"type":"Point"}
+}

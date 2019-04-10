@@ -1,0 +1,61 @@
+{
+  "id": 1209224203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.3762,-10.25404,149.3762,-10.25404",
+    "geom:latitude":-10.25404,
+    "geom:longitude":149.3762,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Oraoro",
+    "gn:country_code":"PG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2132780,
+    "gn:latitude":-10.25404,
+    "gn:longitude":149.3762,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Oraoro",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2132780
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"491b509c06f7299d6a316175dbb3a71e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209224203
+        }
+    ],
+    "wof:id":1209224203,
+    "wof:lastmodified":1536293853,
+    "wof:name":"Oraoro",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.3762,
+    -10.25404,
+    149.3762,
+    -10.25404
+],
+  "geometry": {"coordinates":[149.37620000000001,-10.25404],"type":"Point"}
+}

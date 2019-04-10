@@ -1,0 +1,67 @@
+{
+  "id": 1242662017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.41667,-6.1,145.41667,-6.1",
+    "geom:latitude":-6.1,
+    "geom:longitude":145.41667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kami",
+    "gn:country_code":"PG",
+    "gn:dem":1461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094813,
+    "gn:latitude":-6.1,
+    "gn:longitude":145.41667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kami",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091702429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094813
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"76678e3d7360fc10aa763c246d9e568d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702429,
+            "locality_id":1242662017,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1242662017,
+    "wof:lastmodified":1536942800,
+    "wof:name":"Kami",
+    "wof:parent_id":1091702429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.41666999999995,
+    -6.1,
+    145.41666999999995,
+    -6.1
+],
+  "geometry": {"coordinates":[145.41666999999995,-6.1],"type":"Point"}
+}

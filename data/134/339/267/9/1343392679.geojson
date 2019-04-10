@@ -1,0 +1,67 @@
+{
+  "id": 1343392679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.85,-6.36667,143.85,-6.36667",
+    "geom:latitude":-6.36667,
+    "geom:longitude":143.85,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Taleloma",
+    "gn:country_code":"PG",
+    "gn:dem":1644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085936,
+    "gn:latitude":-6.36667,
+    "gn:longitude":143.85,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Taleloma",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085936
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a0e48ec18acf686340a80744f1dcedb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702665,
+            "locality_id":1343392679,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1343392679,
+    "wof:lastmodified":1536843060,
+    "wof:name":"Taleloma",
+    "wof:parent_id":1091702665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.85,
+    -6.36667,
+    143.85,
+    -6.36667
+],
+  "geometry": {"coordinates":[143.84999999999999,-6.36667],"type":"Point"}
+}

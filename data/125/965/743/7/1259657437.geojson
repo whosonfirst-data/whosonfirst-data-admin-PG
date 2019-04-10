@@ -1,0 +1,63 @@
+{
+  "id": 1259657437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.03408,-7.0385,147.03408,-7.0385",
+    "geom:latitude":-7.0385,
+    "geom:longitude":147.03408,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Keila",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094266,
+    "gn:latitude":-7.0385,
+    "gn:longitude":147.03408,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Keila",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094266
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c7e1a6d32dab60d5e79e1bb6dc5eb9a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1259657437,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259657437,
+    "wof:lastmodified":1536605232,
+    "wof:name":"Keila",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.03408000000005,
+    -7.0385,
+    147.03408000000005,
+    -7.0385
+],
+  "geometry": {"coordinates":[147.03408000000005,-7.0385],"type":"Point"}
+}

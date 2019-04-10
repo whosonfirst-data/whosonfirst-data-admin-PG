@@ -1,0 +1,65 @@
+{
+  "id": 1209481507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.94372,-2.96493,141.94372,-2.96493",
+    "geom:latitude":-2.96493,
+    "geom:longitude":141.94372,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Serai",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086894,
+    "gn:latitude":-2.96493,
+    "gn:longitude":141.94372,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Serai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Serra",
+        "Serai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086894
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"527c1d051d082ea471d9f901db00499e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209481507
+        }
+    ],
+    "wof:id":1209481507,
+    "wof:lastmodified":1537677063,
+    "wof:name":"Serai",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.94371999999996,
+    -2.96493,
+    141.94371999999996,
+    -2.96493
+],
+  "geometry": {"coordinates":[141.94371999999996,-2.96493],"type":"Point"}
+}

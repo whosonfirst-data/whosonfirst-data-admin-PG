@@ -1,0 +1,71 @@
+{
+  "id": 1343476525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.04127,-9.41879,147.04127,-9.41879",
+    "geom:latitude":-9.41879,
+    "geom:longitude":147.04127,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Porebada",
+    "gn:country_code":"PG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088147,
+    "gn:latitude":-9.41879,
+    "gn:longitude":147.04127,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"Porebada",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borebada",
+        "Porebada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091702751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088147
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1f6923c284566c6655a164bf92f8887e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702751,
+            "locality_id":1343476525,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1343476525,
+    "wof:lastmodified":1537677073,
+    "wof:name":"Porebada",
+    "wof:parent_id":1091702751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.04127,
+    -9.41879,
+    147.04127,
+    -9.41879
+],
+  "geometry": {"coordinates":[147.04127,-9.41879],"type":"Point"}
+}

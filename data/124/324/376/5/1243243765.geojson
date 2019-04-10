@@ -1,0 +1,71 @@
+{
+  "id": 1243243765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.4873,-5.28437,145.4873,-5.28437",
+    "geom:latitude":-5.28437,
+    "geom:longitude":145.4873,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Bema",
+    "gn:country_code":"PG",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099669,
+    "gn:latitude":-5.28437,
+    "gn:longitude":145.4873,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bema",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bemal",
+        "Bema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091703451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099669
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"dfe04840dc0d248cba30ec0a56f137a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703451,
+            "locality_id":1243243765,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1243243765,
+    "wof:lastmodified":1537677199,
+    "wof:name":"Bema",
+    "wof:parent_id":1091703451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.4873,
+    -5.28437,
+    145.4873,
+    -5.28437
+],
+  "geometry": {"coordinates":[145.4873,-5.28437],"type":"Point"}
+}

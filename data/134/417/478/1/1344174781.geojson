@@ -1,0 +1,67 @@
+{
+  "id": 1344174781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.56827,-8.61167,146.56827,-8.61167",
+    "geom:latitude":-8.61167,
+    "geom:longitude":146.56827,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jesubaibua",
+    "gn:country_code":"PG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095264,
+    "gn:latitude":-8.61167,
+    "gn:longitude":146.56827,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Jesubaibua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091702751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095264
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"403908ad34996a954fa2ab3c3e55b5fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702751,
+            "locality_id":1344174781,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1344174781,
+    "wof:lastmodified":1536710926,
+    "wof:name":"Jesubaibua",
+    "wof:parent_id":1091702751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.56826999999996,
+    -8.61167,
+    146.56826999999996,
+    -8.61167
+],
+  "geometry": {"coordinates":[146.56826999999996,-8.61167],"type":"Point"}
+}

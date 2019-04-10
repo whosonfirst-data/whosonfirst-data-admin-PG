@@ -1,0 +1,67 @@
+{
+  "id": 1277157305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.8,-4.7,144.8,-4.7",
+    "geom:latitude":-4.7,
+    "geom:longitude":144.8,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Isarikan",
+    "gn:country_code":"PG",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095457,
+    "gn:latitude":-4.7,
+    "gn:longitude":144.8,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Isarikan",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091703709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095457
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ea3652d7e26b01944df58ee2ca1d1885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703709,
+            "locality_id":1277157305,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1277157305,
+    "wof:lastmodified":1536660282,
+    "wof:name":"Isarikan",
+    "wof:parent_id":1091703709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.8,
+    -4.7,
+    144.8,
+    -4.7
+],
+  "geometry": {"coordinates":[144.80000000000001,-4.7],"type":"Point"}
+}

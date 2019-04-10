@@ -1,0 +1,84 @@
+{
+  "id": 890437913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.76667,-5.28333,143.76667,-5.28333",
+    "geom:latitude":-5.28333,
+    "geom:longitude":143.76667,
+    "gn:country":"PG",
+    "gn:fcode":"PPL",
+    "gn:pop":921,
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u0438\u0430\u0433\u0430\u043c"
+    ],
+    "name:dut_x_preferred":[
+        "Laiagam"
+    ],
+    "name:eng_x_preferred":[
+        "Laiagam"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0438\u0430\u0433\u0430\u043c"
+    ],
+    "name:unk_x_variant":[
+        "Lai-aram"
+    ],
+    "qs:name":"Laiagam",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":50,
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676513,
+        1091703207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092705,
+        "gp:id":1061648,
+        "qs:id":1033721,
+        "wd:id":"Q4351903",
+        "wk:page":"Laiagam"
+    },
+    "wof:country":"PG",
+    "wof:created":1469052171,
+    "wof:geomhash":"5251db146b3cd59a8b5ebf08a37896a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703207,
+            "locality_id":890437913,
+            "region_id":85676513
+        }
+    ],
+    "wof:id":890437913,
+    "wof:lastmodified":1527729751,
+    "wof:name":"Laiagam",
+    "wof:parent_id":1091703207,
+    "wof:placetype":"locality",
+    "wof:population":921,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.76667,
+    -5.28333,
+    143.76667,
+    -5.28333
+],
+  "geometry": {"coordinates":[143.76667,-5.28333],"type":"Point"}
+}

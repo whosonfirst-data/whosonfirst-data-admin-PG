@@ -1,0 +1,71 @@
+{
+  "id": 1209712975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.25028,-7.8622,143.25028,-7.8622",
+    "geom:latitude":-7.8622,
+    "geom:longitude":143.25028,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Emeti",
+    "gn:country_code":"PG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097694,
+    "gn:latitude":-7.8622,
+    "gn:longitude":143.25028,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Emeti",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buruburu Mission",
+        "Emeti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091703673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097694
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c39b5c7a91f09e29d80d1036c2c04b6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703673,
+            "locality_id":1209712975,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1209712975,
+    "wof:lastmodified":1537677179,
+    "wof:name":"Emeti",
+    "wof:parent_id":1091703673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.25028,
+    -7.8622,
+    143.25028,
+    -7.8622
+],
+  "geometry": {"coordinates":[143.25028,-7.8622],"type":"Point"}
+}

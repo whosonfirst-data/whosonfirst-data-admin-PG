@@ -1,0 +1,71 @@
+{
+  "id": 1226047353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.72147,-6.05664,143.72147,-6.05664",
+    "geom:latitude":-6.05664,
+    "geom:longitude":143.72147,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Klareg",
+    "gn:country_code":"PG",
+    "gn:dem":2325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093830,
+    "gn:latitude":-6.05664,
+    "gn:longitude":143.72147,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Klareg",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karil",
+        "Klareg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091703589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093830
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"eff4986f92d338cdc767d905b02b2f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703589,
+            "locality_id":1226047353,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1226047353,
+    "wof:lastmodified":1537677136,
+    "wof:name":"Klareg",
+    "wof:parent_id":1091703589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.72146999999995,
+    -6.05664,
+    143.72146999999995,
+    -6.05664
+],
+  "geometry": {"coordinates":[143.72146999999995,-6.05664],"type":"Point"}
+}

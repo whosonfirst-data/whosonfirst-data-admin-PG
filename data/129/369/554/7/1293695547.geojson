@@ -1,0 +1,71 @@
+{
+  "id": 1293695547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.96761,-7.56024,145.96761,-7.56024",
+    "geom:latitude":-7.56024,
+    "geom:longitude":145.96761,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mambainya",
+    "gn:country_code":"PG",
+    "gn:dem":1122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091661,
+    "gn:latitude":-7.56024,
+    "gn:longitude":145.96761,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mambainya",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mambanya",
+        "Mambainya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091702955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091661
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"85698357a69d6fcd497da13dad3663d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702955,
+            "locality_id":1293695547,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1293695547,
+    "wof:lastmodified":1537677111,
+    "wof:name":"Mambainya",
+    "wof:parent_id":1091702955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.96761,
+    -7.56024,
+    145.96761,
+    -7.56024
+],
+  "geometry": {"coordinates":[145.96761000000001,-7.56024],"type":"Point"}
+}

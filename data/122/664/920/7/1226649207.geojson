@@ -1,0 +1,67 @@
+{
+  "id": 1226649207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.7,-7.15,143.7,-7.15",
+    "geom:latitude":-7.15,
+    "geom:longitude":143.7,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kai-Imi",
+    "gn:country_code":"PG",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095062,
+    "gn:latitude":-7.15,
+    "gn:longitude":143.7,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kai-Imi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091703049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095062
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a400f8fde6c6b926b8b64dcd419ab07c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703049,
+            "locality_id":1226649207,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1226649207,
+    "wof:lastmodified":1536853283,
+    "wof:name":"Kai-Imi",
+    "wof:parent_id":1091703049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.7,
+    -7.15,
+    143.7,
+    -7.15
+],
+  "geometry": {"coordinates":[143.69999999999999,-7.15],"type":"Point"}
+}

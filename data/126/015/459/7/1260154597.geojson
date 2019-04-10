@@ -1,0 +1,63 @@
+{
+  "id": 1260154597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.97268,-6.97713,146.97268,-6.97713",
+    "geom:latitude":-6.97713,
+    "geom:longitude":146.97268,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Awasa-Busama",
+    "gn:country_code":"PG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100215,
+    "gn:latitude":-6.97713,
+    "gn:longitude":146.97268,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Awasa-Busama",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100215
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4b468e76c1707f6df4360344ecb79f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1260154597,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260154597,
+    "wof:lastmodified":1536887192,
+    "wof:name":"Awasa-Busama",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.97268,
+    -6.97713,
+    146.97268,
+    -6.97713
+],
+  "geometry": {"coordinates":[146.97268,-6.97713],"type":"Point"}
+}

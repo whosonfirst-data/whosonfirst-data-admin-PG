@@ -1,0 +1,71 @@
+{
+  "id": 1360059851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.23012,-9.40601,147.23012,-9.40601",
+    "geom:latitude":-9.40601,
+    "geom:longitude":147.23012,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"9855526",
+    "gn:asciiname":"9 Mile",
+    "gn:country_code":"PG",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9972495,
+    "gn:latitude":-9.40601,
+    "gn:longitude":147.23012,
+    "gn:modification_date":"2015-04-03",
+    "gn:name":"9 Mile",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nine Mile"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676581,
+        1091703859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9972495
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4418c0b188f17d1ebb310d4c4d5aae2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703859,
+            "locality_id":1360059851,
+            "region_id":85676581
+        }
+    ],
+    "wof:id":1360059851,
+    "wof:lastmodified":1537677230,
+    "wof:name":"9 Mile",
+    "wof:parent_id":1091703859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.23012,
+    -9.40601,
+    147.23012,
+    -9.40601
+],
+  "geometry": {"coordinates":[147.23012,-9.40601],"type":"Point"}
+}

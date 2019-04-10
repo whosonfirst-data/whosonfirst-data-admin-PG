@@ -1,0 +1,61 @@
+{
+  "id": 1327216633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.99934,-2.82585,151.99934,-2.82585",
+    "geom:latitude":-2.82585,
+    "geom:longitude":151.99934,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Tokara",
+    "gn:country_code":"PG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085306,
+    "gn:latitude":-2.82585,
+    "gn:longitude":151.99934,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Tokara",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085306
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2cbcd5d4d2387c354eaa306aeb16f322",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327216633,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327216633,
+    "wof:lastmodified":1536991603,
+    "wof:name":"Tokara",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.99934,
+    -2.82585,
+    151.99934,
+    -2.82585
+],
+  "geometry": {"coordinates":[151.99933999999999,-2.82585],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242799181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"155.36667,-6.43333,155.36667,-6.43333",
+    "geom:latitude":-6.43333,
+    "geom:longitude":155.36667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mokokolio",
+    "gn:country_code":"PG",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090600,
+    "gn:latitude":-6.43333,
+    "gn:longitude":155.36667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Mokokolio",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676543,
+        1091704421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090600
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f0339a34c5a0b6e2ff5cd7e0d2aceddf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704421,
+            "locality_id":1242799181,
+            "region_id":85676543
+        }
+    ],
+    "wof:id":1242799181,
+    "wof:lastmodified":1536744270,
+    "wof:name":"Mokokolio",
+    "wof:parent_id":1091704421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    155.36667,
+    -6.43333,
+    155.36667,
+    -6.43333
+],
+  "geometry": {"coordinates":[155.36667,-6.43333],"type":"Point"}
+}

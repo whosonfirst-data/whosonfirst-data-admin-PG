@@ -1,0 +1,71 @@
+{
+  "id": 1209938699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.0742,-8.45258,143.0742,-8.45258",
+    "geom:latitude":-8.45258,
+    "geom:longitude":143.0742,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Wederehiamo",
+    "gn:country_code":"PG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083615,
+    "gn:latitude":-8.45258,
+    "gn:longitude":143.0742,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Wederehiamo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wederihamo",
+        "Wederehiamo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083615
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c0dd8eabd2906353250d08ee2d4a726a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704467,
+            "locality_id":1209938699,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1209938699,
+    "wof:lastmodified":1537677028,
+    "wof:name":"Wederehiamo",
+    "wof:parent_id":1091704467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.0742,
+    -8.45258,
+    143.0742,
+    -8.45258
+],
+  "geometry": {"coordinates":[143.07419999999999,-8.45258],"type":"Point"}
+}

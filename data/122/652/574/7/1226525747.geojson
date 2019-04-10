@@ -1,0 +1,72 @@
+{
+  "id": 1226525747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.02602,-6.66713,147.02602,-6.66713",
+    "geom:latitude":-6.66713,
+    "geom:longitude":147.02602,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Butibum 1",
+    "gn:country_code":"PG",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098700,
+    "gn:latitude":-6.66713,
+    "gn:longitude":147.02602,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Butibum 1",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bitibum",
+        "Butibum",
+        "Butibum 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098700
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"78fd4de0c384170445b89f570c6d3e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703335,
+            "locality_id":1226525747,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1226525747,
+    "wof:lastmodified":1537677186,
+    "wof:name":"Butibum 1",
+    "wof:parent_id":1091703335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.02602,
+    -6.66713,
+    147.02602,
+    -6.66713
+],
+  "geometry": {"coordinates":[147.02601999999999,-6.66713],"type":"Point"}
+}

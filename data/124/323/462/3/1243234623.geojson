@@ -1,0 +1,67 @@
+{
+  "id": 1243234623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.37833,-6.77737,146.37833,-6.77737",
+    "geom:latitude":-6.77737,
+    "geom:longitude":146.37833,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Wuruf",
+    "gn:country_code":"PG",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083265,
+    "gn:latitude":-6.77737,
+    "gn:longitude":146.37833,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Wuruf",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083265
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e4686e17e11eb97ef2c8cc753d3206cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702453,
+            "locality_id":1243234623,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1243234623,
+    "wof:lastmodified":1536611490,
+    "wof:name":"Wuruf",
+    "wof:parent_id":1091702453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.37833,
+    -6.77737,
+    146.37833,
+    -6.77737
+],
+  "geometry": {"coordinates":[146.37833000000001,-6.77737],"type":"Point"}
+}

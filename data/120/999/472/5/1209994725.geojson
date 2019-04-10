@@ -1,0 +1,67 @@
+{
+  "id": 1209994725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.53333,-4.33333,144.53333,-4.33333",
+    "geom:latitude":-4.33333,
+    "geom:longitude":144.53333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Erenog",
+    "gn:country_code":"PG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097596,
+    "gn:latitude":-4.33333,
+    "gn:longitude":144.53333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Erenog",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097596
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ba03063b46c97d1da3d01094b0f45295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702059,
+            "locality_id":1209994725,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1209994725,
+    "wof:lastmodified":1536384810,
+    "wof:name":"Erenog",
+    "wof:parent_id":1091702059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.53333,
+    -4.33333,
+    144.53333,
+    -4.33333
+],
+  "geometry": {"coordinates":[144.53333000000001,-4.33333],"type":"Point"}
+}

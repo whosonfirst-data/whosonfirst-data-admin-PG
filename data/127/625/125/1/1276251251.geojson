@@ -1,0 +1,71 @@
+{
+  "id": 1276251251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.69199,-8.00973,142.69199,-8.00973",
+    "geom:latitude":-8.00973,
+    "geom:longitude":142.69199,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Isagu",
+    "gn:country_code":"PG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095463,
+    "gn:latitude":-8.00973,
+    "gn:longitude":142.69199,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Isagu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Isago",
+        "Isagu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091703673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095463
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"36185bbe65d5e319388be2ab27afad55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703673,
+            "locality_id":1276251251,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1276251251,
+    "wof:lastmodified":1537677154,
+    "wof:name":"Isagu",
+    "wof:parent_id":1091703673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.69199,
+    -8.00973,
+    142.69199,
+    -8.00973
+],
+  "geometry": {"coordinates":[142.69199,-8.00973],"type":"Point"}
+}

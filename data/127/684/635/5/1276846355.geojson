@@ -1,0 +1,67 @@
+{
+  "id": 1276846355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.98133,-3.46386,141.98133,-3.46386",
+    "geom:latitude":-3.46386,
+    "geom:longitude":141.98133,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Twaitei",
+    "gn:country_code":"PG",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084917,
+    "gn:latitude":-3.46386,
+    "gn:longitude":141.98133,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Twaitei",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091701955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084917
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"10ce128528337108c5ce1c9c48f16552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091701955,
+            "locality_id":1276846355,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1276846355,
+    "wof:lastmodified":1537082882,
+    "wof:name":"Twaitei",
+    "wof:parent_id":1091701955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.98133,
+    -3.46386,
+    141.98133,
+    -3.46386
+],
+  "geometry": {"coordinates":[141.98133000000001,-3.46386],"type":"Point"}
+}

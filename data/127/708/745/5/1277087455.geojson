@@ -1,0 +1,67 @@
+{
+  "id": 1277087455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.7,-7.86667,145.7,-7.86667",
+    "geom:latitude":-7.86667,
+    "geom:longitude":145.7,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Opau",
+    "gn:country_code":"PG",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089012,
+    "gn:latitude":-7.86667,
+    "gn:longitude":145.7,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Opau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091702955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089012
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"eec13726e30139a3dc535d6c70dbb9a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702955,
+            "locality_id":1277087455,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1277087455,
+    "wof:lastmodified":1536760962,
+    "wof:name":"Opau",
+    "wof:parent_id":1091702955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.7,
+    -7.86667,
+    145.7,
+    -7.86667
+],
+  "geometry": {"coordinates":[145.69999999999999,-7.86667],"type":"Point"}
+}

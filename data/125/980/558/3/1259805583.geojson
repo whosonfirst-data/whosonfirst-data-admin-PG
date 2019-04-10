@@ -1,0 +1,68 @@
+{
+  "id": 1259805583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.51666,-5.38729,141.51666,-5.38729",
+    "geom:latitude":-5.38729,
+    "geom:longitude":141.51666,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Olsobip",
+    "gn:country_code":"PG",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089137,
+    "gn:latitude":-5.38729,
+    "gn:longitude":141.51666,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Olsobip",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089137,
+        "wk:page":"Olsobip"
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"76701071218b50f0c70e849f7387446c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1259805583,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1259805583,
+    "wof:lastmodified":1537570308,
+    "wof:name":"Olsobip",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.51666,
+    -5.38729,
+    141.51666,
+    -5.38729
+],
+  "geometry": {"coordinates":[141.51666,-5.38729],"type":"Point"}
+}

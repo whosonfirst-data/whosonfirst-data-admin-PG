@@ -1,0 +1,67 @@
+{
+  "id": 1225927363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.24282,-6.22474,147.24282,-6.22474",
+    "geom:latitude":-6.22474,
+    "geom:longitude":147.24282,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Musep",
+    "gn:country_code":"PG",
+    "gn:dem":1717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090192,
+    "gn:latitude":-6.22474,
+    "gn:longitude":147.24282,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Musep",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090192
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"293e8d46c91929cd1cfe0970afc71a59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702647,
+            "locality_id":1225927363,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1225927363,
+    "wof:lastmodified":1536895830,
+    "wof:name":"Musep",
+    "wof:parent_id":1091702647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.24282,
+    -6.22474,
+    147.24282,
+    -6.22474
+],
+  "geometry": {"coordinates":[147.24281999999999,-6.22474],"type":"Point"}
+}

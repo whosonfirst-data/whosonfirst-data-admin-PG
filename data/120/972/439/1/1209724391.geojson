@@ -1,0 +1,67 @@
+{
+  "id": 1209724391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.45,-7.11667,143.45,-7.11667",
+    "geom:latitude":-7.11667,
+    "geom:longitude":143.45,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kondei'iu",
+    "gn:country_code":"PG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093539,
+    "gn:latitude":-7.11667,
+    "gn:longitude":143.45,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kondei\u2019iu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091703049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093539
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4ba15b7c0a5249ea98c82b5291baa0c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703049,
+            "locality_id":1209724391,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1209724391,
+    "wof:lastmodified":1536384910,
+    "wof:name":"Kondei'iu",
+    "wof:parent_id":1091703049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.45,
+    -7.11667,
+    143.45,
+    -7.11667
+],
+  "geometry": {"coordinates":[143.44999999999999,-7.11667],"type":"Point"}
+}

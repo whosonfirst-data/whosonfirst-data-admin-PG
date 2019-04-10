@@ -1,0 +1,67 @@
+{
+  "id": 1242766713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.258,-4.64151,152.258,-4.64151",
+    "geom:latitude":-4.64151,
+    "geom:longitude":152.258,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Marambu",
+    "gn:country_code":"PG",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091434,
+    "gn:latitude":-4.64151,
+    "gn:longitude":152.258,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Marambu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091704139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091434
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9bd1318e53d4158377eecfe3094b4647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704139,
+            "locality_id":1242766713,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1242766713,
+    "wof:lastmodified":1536791640,
+    "wof:name":"Marambu",
+    "wof:parent_id":1091704139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.25799999999995,
+    -4.64151,
+    152.25799999999995,
+    -4.64151
+],
+  "geometry": {"coordinates":[152.25799999999995,-4.64151],"type":"Point"}
+}

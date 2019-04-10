@@ -1,0 +1,67 @@
+{
+  "id": 1326813791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.01667,-6.65,147.01667,-6.65",
+    "geom:latitude":-6.65,
+    "geom:longitude":147.01667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Nabak",
+    "gn:country_code":"PG",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090156,
+    "gn:latitude":-6.65,
+    "gn:longitude":147.01667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Nabak",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090156
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a09051a469b3d901210c4a9976859417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703335,
+            "locality_id":1326813791,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1326813791,
+    "wof:lastmodified":1537072258,
+    "wof:name":"Nabak",
+    "wof:parent_id":1091703335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.01667,
+    -6.65,
+    147.01667,
+    -6.65
+],
+  "geometry": {"coordinates":[147.01667,-6.65],"type":"Point"}
+}

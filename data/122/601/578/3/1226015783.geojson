@@ -1,0 +1,68 @@
+{
+  "id": 1226015783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.20317,-5.97056,147.20317,-5.97056",
+    "geom:latitude":-5.97056,
+    "geom:longitude":147.20317,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Wasu",
+    "gn:country_code":"PG",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083708,
+    "gn:latitude":-5.97056,
+    "gn:longitude":147.20317,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Wasu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091704719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083708,
+        "wk:page":"Wasu,_Papua_New_Guinea"
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ec35d15fb0af6013972b93304c9c03fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704719,
+            "locality_id":1226015783,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1226015783,
+    "wof:lastmodified":1537570300,
+    "wof:name":"Wasu",
+    "wof:parent_id":1091704719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.20317,
+    -5.97056,
+    147.20317,
+    -5.97056
+],
+  "geometry": {"coordinates":[147.20317,-5.97056],"type":"Point"}
+}

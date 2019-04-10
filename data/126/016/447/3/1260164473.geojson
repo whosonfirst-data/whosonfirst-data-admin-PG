@@ -1,0 +1,72 @@
+{
+  "id": 1260164473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.93333,-7.76667,146.93333,-7.76667",
+    "geom:latitude":-7.76667,
+    "geom:longitude":146.93333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kasangari Number 2",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":1836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094513,
+    "gn:latitude":-7.76667,
+    "gn:longitude":146.93333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kasangari Number 2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasangari 2",
+        "Kasangari Number 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094513
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"6f37f032163c22776e3b2aed057466e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702091,
+            "locality_id":1260164473,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1260164473,
+    "wof:lastmodified":1537677142,
+    "wof:name":"Kasangari Number 2",
+    "wof:parent_id":1091702091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.93333,
+    -7.76667,
+    146.93333,
+    -7.76667
+],
+  "geometry": {"coordinates":[146.93333000000001,-7.76667],"type":"Point"}
+}

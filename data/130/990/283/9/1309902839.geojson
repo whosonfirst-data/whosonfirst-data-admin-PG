@@ -1,0 +1,67 @@
+{
+  "id": 1309902839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.8,-5.83333,144.8,-5.83333",
+    "geom:latitude":-5.83333,
+    "geom:longitude":144.8,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Pumapo",
+    "gn:country_code":"PG",
+    "gn:dem":1943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088012,
+    "gn:latitude":-5.83333,
+    "gn:longitude":144.8,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Pumapo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091703003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088012
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c3c4fd3f2334b9b08907ffcf56c5be30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703003,
+            "locality_id":1309902839,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1309902839,
+    "wof:lastmodified":1536791600,
+    "wof:name":"Pumapo",
+    "wof:parent_id":1091703003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.8,
+    -5.83333,
+    144.8,
+    -5.83333
+],
+  "geometry": {"coordinates":[144.80000000000001,-5.83333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1360155649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.67892,-6.18174,147.67892,-6.18174",
+    "geom:latitude":-6.18174,
+    "geom:longitude":147.67892,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kanomi",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094711,
+    "gn:latitude":-6.18174,
+    "gn:longitude":147.67892,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kanomi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094711
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f8ac8500cb08fa3047adf8ad0b2ab723",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1360155649,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360155649,
+    "wof:lastmodified":1536842941,
+    "wof:name":"Kanomi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.67892,
+    -6.18174,
+    147.67892,
+    -6.18174
+],
+  "geometry": {"coordinates":[147.67892000000001,-6.18174],"type":"Point"}
+}

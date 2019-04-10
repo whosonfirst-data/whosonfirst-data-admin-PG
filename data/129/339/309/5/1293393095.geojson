@@ -1,0 +1,67 @@
+{
+  "id": 1293393095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.44834,-7.67972,145.44834,-7.67972",
+    "geom:latitude":-7.67972,
+    "geom:longitude":145.44834,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nakoro",
+    "gn:country_code":"PG",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090068,
+    "gn:latitude":-7.67972,
+    "gn:longitude":145.44834,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Nakoro",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091703049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090068
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e0a6591b5237a3d26d70fb73ac163465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703049,
+            "locality_id":1293393095,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1293393095,
+    "wof:lastmodified":1536923778,
+    "wof:name":"Nakoro",
+    "wof:parent_id":1091703049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.44834,
+    -7.67972,
+    145.44834,
+    -7.67972
+],
+  "geometry": {"coordinates":[145.44834,-7.67972],"type":"Point"}
+}

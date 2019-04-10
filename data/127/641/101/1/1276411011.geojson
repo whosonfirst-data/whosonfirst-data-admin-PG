@@ -1,0 +1,63 @@
+{
+  "id": 1276411011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.52882,-6.7463,147.52882,-6.7463",
+    "geom:latitude":-6.7463,
+    "geom:longitude":147.52882,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Buengim",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098949,
+    "gn:latitude":-6.7463,
+    "gn:longitude":147.52882,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Buengim",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098949
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"7fcd224335382fb165a21122cd33d387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1276411011,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276411011,
+    "wof:lastmodified":1536674601,
+    "wof:name":"Buengim",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.52882,
+    -6.7463,
+    147.52882,
+    -6.7463
+],
+  "geometry": {"coordinates":[147.52882,-6.7463],"type":"Point"}
+}

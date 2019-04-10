@@ -1,0 +1,61 @@
+{
+  "id": 1209094413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.90323,-4.49951,143.90323,-4.49951",
+    "geom:latitude":-4.49951,
+    "geom:longitude":143.90323,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Bun",
+    "gn:country_code":"PG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098834,
+    "gn:latitude":-4.49951,
+    "gn:longitude":143.90323,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Bun",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098834
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"eb76dbd1152173525be37dd6a2760937",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209094413
+        }
+    ],
+    "wof:id":1209094413,
+    "wof:lastmodified":1536297933,
+    "wof:name":"Bun",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.90323,
+    -4.49951,
+    143.90323,
+    -4.49951
+],
+  "geometry": {"coordinates":[143.90323000000001,-4.49951],"type":"Point"}
+}

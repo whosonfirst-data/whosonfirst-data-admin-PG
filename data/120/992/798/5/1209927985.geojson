@@ -1,0 +1,71 @@
+{
+  "id": 1209927985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.96859,-8.26667,146.96859,-8.26667",
+    "geom:latitude":-8.26667,
+    "geom:longitude":146.96859,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Matsialavava",
+    "gn:country_code":"PG",
+    "gn:dem":1668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091162,
+    "gn:latitude":-8.26667,
+    "gn:longitude":146.96859,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Matsialavava",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matialavava",
+        "Matsialavava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091702425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091162
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"11352d0450dbbc730df058e3d05b17ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702425,
+            "locality_id":1209927985,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1209927985,
+    "wof:lastmodified":1537677105,
+    "wof:name":"Matsialavava",
+    "wof:parent_id":1091702425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.96858999999995,
+    -8.26667,
+    146.96858999999995,
+    -8.26667
+],
+  "geometry": {"coordinates":[146.96858999999995,-8.26667],"type":"Point"}
+}

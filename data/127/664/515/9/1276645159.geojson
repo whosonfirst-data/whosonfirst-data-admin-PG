@@ -1,0 +1,67 @@
+{
+  "id": 1276645159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.98069,-5.83146,150.98069,-5.83146",
+    "geom:latitude":-5.83146,
+    "geom:longitude":150.98069,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ulutu",
+    "gn:country_code":"PG",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084753,
+    "gn:latitude":-5.83146,
+    "gn:longitude":150.98069,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Ulutu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091704139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084753
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"6e06ce88be65d316cf98e8c7629912d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704139,
+            "locality_id":1276645159,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1276645159,
+    "wof:lastmodified":1536856784,
+    "wof:name":"Ulutu",
+    "wof:parent_id":1091704139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.98068999999995,
+    -5.83146,
+    150.98068999999995,
+    -5.83146
+],
+  "geometry": {"coordinates":[150.98068999999995,-5.83146],"type":"Point"}
+}

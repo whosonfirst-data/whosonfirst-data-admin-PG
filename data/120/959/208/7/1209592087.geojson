@@ -1,0 +1,61 @@
+{
+  "id": 1209592087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.2856,-2.53998,147.2856,-2.53998",
+    "geom:latitude":-2.53998,
+    "geom:longitude":147.2856,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Parioi",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088599,
+    "gn:latitude":-2.53998,
+    "gn:longitude":147.2856,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Parioi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088599
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"70cff7bd7027bb6ebea5eae4cb117663",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209592087
+        }
+    ],
+    "wof:id":1209592087,
+    "wof:lastmodified":1536282446,
+    "wof:name":"Parioi",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.2856,
+    -2.53998,
+    147.2856,
+    -2.53998
+],
+  "geometry": {"coordinates":[147.28559999999999,-2.53998],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1259655153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.55,-6.23333,149.55,-6.23333",
+    "geom:latitude":-6.23333,
+    "geom:longitude":149.55,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Apugi",
+    "gn:country_code":"PG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100686,
+    "gn:latitude":-6.23333,
+    "gn:longitude":149.55,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Apugi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100686
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e1a2ee9331cc67b1e41124ca4285432a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259655153,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259655153,
+    "wof:lastmodified":1536608819,
+    "wof:name":"Apugi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.55,
+    -6.23333,
+    149.55,
+    -6.23333
+],
+  "geometry": {"coordinates":[149.55000000000001,-6.23333],"type":"Point"}
+}

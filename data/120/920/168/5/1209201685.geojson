@@ -1,0 +1,66 @@
+{
+  "id": 1209201685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.63333,-4.93333,145.63333,-4.93333",
+    "geom:latitude":-4.93333,
+    "geom:longitude":145.63333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Ugap",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084849,
+    "gn:latitude":-4.93333,
+    "gn:longitude":145.63333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ugap",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ugap Mission",
+        "Ugap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084849
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1dc9bd7990a806ab2732ba9373cec8bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209201685
+        }
+    ],
+    "wof:id":1209201685,
+    "wof:lastmodified":1537677041,
+    "wof:name":"Ugap",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.63333,
+    -4.93333,
+    145.63333,
+    -4.93333
+],
+  "geometry": {"coordinates":[145.63333,-4.93333],"type":"Point"}
+}

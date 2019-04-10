@@ -1,0 +1,67 @@
+{
+  "id": 1225834115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.23333,-4.35,152.23333,-4.35",
+    "geom:latitude":-4.35,
+    "geom:longitude":152.23333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bitarebarebe",
+    "gn:country_code":"PG",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099383,
+    "gn:latitude":-4.35,
+    "gn:longitude":152.23333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Bitarebarebe",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091703131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099383
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"bdbaa5183c4a59405bca7181dae724e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703131,
+            "locality_id":1225834115,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1225834115,
+    "wof:lastmodified":1537029193,
+    "wof:name":"Bitarebarebe",
+    "wof:parent_id":1091703131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.23333,
+    -4.35,
+    152.23333,
+    -4.35
+],
+  "geometry": {"coordinates":[152.23333,-4.35],"type":"Point"}
+}

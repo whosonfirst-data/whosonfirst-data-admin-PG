@@ -1,0 +1,73 @@
+{
+  "id": 1276466203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.63333,-8.7,143.63333,-8.7",
+    "geom:latitude":-8.7,
+    "geom:longitude":143.63333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sanguane",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087214,
+    "gn:latitude":-8.7,
+    "gn:longitude":143.63333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sanguane",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sagoana",
+        "Saguane",
+        "Sanguane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087214
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3e29e7b7efb482874c1aab2e4b05eb6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704467,
+            "locality_id":1276466203,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1276466203,
+    "wof:lastmodified":1537677065,
+    "wof:name":"Sanguane",
+    "wof:parent_id":1091704467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.63333,
+    -8.7,
+    143.63333,
+    -8.7
+],
+  "geometry": {"coordinates":[143.63333,-8.7],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276122147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.60854,-9.79782,147.60854,-9.79782",
+    "geom:latitude":-9.79782,
+    "geom:longitude":147.60854,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gidobada",
+    "gn:country_code":"PG",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096983,
+    "gn:latitude":-9.79782,
+    "gn:longitude":147.60854,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Gidobada",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091704253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096983
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"510c18c8ebded22ecb6f701cf24e9aea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704253,
+            "locality_id":1276122147,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1276122147,
+    "wof:lastmodified":1537058961,
+    "wof:name":"Gidobada",
+    "wof:parent_id":1091704253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.60853999999995,
+    -9.79782,
+    147.60853999999995,
+    -9.79782
+],
+  "geometry": {"coordinates":[147.60853999999995,-9.79782],"type":"Point"}
+}

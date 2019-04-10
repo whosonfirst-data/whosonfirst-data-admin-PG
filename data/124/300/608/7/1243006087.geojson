@@ -1,0 +1,67 @@
+{
+  "id": 1243006087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.87922,-8.109,147.87922,-8.109",
+    "geom:latitude":-8.109,
+    "geom:longitude":147.87922,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Batari",
+    "gn:country_code":"PG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099785,
+    "gn:latitude":-8.109,
+    "gn:longitude":147.87922,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Batari",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091704393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099785
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c0e75884d6cdde605524c07a5971eb59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704393,
+            "locality_id":1243006087,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1243006087,
+    "wof:lastmodified":1536943994,
+    "wof:name":"Batari",
+    "wof:parent_id":1091704393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.87922,
+    -8.109,
+    147.87922,
+    -8.109
+],
+  "geometry": {"coordinates":[147.87922,-8.109],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293413847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.56667,-9.61667,148.56667,-9.61667",
+    "geom:latitude":-9.61667,
+    "geom:longitude":148.56667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Samage",
+    "gn:country_code":"PG",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087329,
+    "gn:latitude":-9.61667,
+    "gn:longitude":148.56667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Samage",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091702531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087329
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3c06837a7724c4aa861d7e0c44f20c2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702531,
+            "locality_id":1293413847,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1293413847,
+    "wof:lastmodified":1536892960,
+    "wof:name":"Samage",
+    "wof:parent_id":1091702531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.56667,
+    -9.61667,
+    148.56667,
+    -9.61667
+],
+  "geometry": {"coordinates":[148.56666999999999,-9.61667],"type":"Point"}
+}

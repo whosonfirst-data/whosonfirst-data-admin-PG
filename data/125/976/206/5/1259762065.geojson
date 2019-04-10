@@ -1,0 +1,67 @@
+{
+  "id": 1259762065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.54996,-6.70195,147.54996,-6.70195",
+    "geom:latitude":-6.70195,
+    "geom:longitude":147.54996,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Bugang",
+    "gn:country_code":"PG",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098942,
+    "gn:latitude":-6.70195,
+    "gn:longitude":147.54996,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Bugang",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098942
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b6ef266da100e30b14e521437c8c0cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703899,
+            "locality_id":1259762065,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1259762065,
+    "wof:lastmodified":1536954118,
+    "wof:name":"Bugang",
+    "wof:parent_id":1091703899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.54996,
+    -6.70195,
+    147.54996,
+    -6.70195
+],
+  "geometry": {"coordinates":[147.54996,-6.70195],"type":"Point"}
+}

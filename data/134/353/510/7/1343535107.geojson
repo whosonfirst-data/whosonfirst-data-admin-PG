@@ -1,0 +1,67 @@
+{
+  "id": 1343535107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.03363,-6.09644,147.03363,-6.09644",
+    "geom:latitude":-6.09644,
+    "geom:longitude":147.03363,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Etaitno",
+    "gn:country_code":"PG",
+    "gn:dem":1308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097558,
+    "gn:latitude":-6.09644,
+    "gn:longitude":147.03363,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Etaitno",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097558
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2b5bab6313a230635276b97589954a11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702647,
+            "locality_id":1343535107,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1343535107,
+    "wof:lastmodified":1536637457,
+    "wof:name":"Etaitno",
+    "wof:parent_id":1091702647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.03363000000004,
+    -6.09644,
+    147.03363000000004,
+    -6.09644
+],
+  "geometry": {"coordinates":[147.03363000000004,-6.09644],"type":"Point"}
+}

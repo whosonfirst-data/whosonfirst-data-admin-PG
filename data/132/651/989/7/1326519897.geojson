@@ -1,0 +1,67 @@
+{
+  "id": 1326519897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.83946,-6.26671,145.83946,-6.26671",
+    "geom:latitude":-6.26671,
+    "geom:longitude":145.83946,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bai'anofi",
+    "gn:country_code":"PG",
+    "gn:dem":1662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100101,
+    "gn:latitude":-6.26671,
+    "gn:longitude":145.83946,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Bai\u2019anofi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091702711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100101
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b1f05e9ce0d35580582691e3e21ccf02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702711,
+            "locality_id":1326519897,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1326519897,
+    "wof:lastmodified":1537001091,
+    "wof:name":"Bai'anofi",
+    "wof:parent_id":1091702711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.83946,
+    -6.26671,
+    145.83946,
+    -6.26671
+],
+  "geometry": {"coordinates":[145.83946,-6.26671],"type":"Point"}
+}

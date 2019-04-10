@@ -1,0 +1,61 @@
+{
+  "id": 1209689043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.6167,-3.20288,152.6167,-3.20288",
+    "geom:latitude":-3.20288,
+    "geom:longitude":152.6167,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Komat",
+    "gn:country_code":"PG",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093622,
+    "gn:latitude":-3.20288,
+    "gn:longitude":152.6167,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Komat",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093622
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"01eb6e915e8adaf2c2d0becd82012a3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209689043
+        }
+    ],
+    "wof:id":1209689043,
+    "wof:lastmodified":1536279309,
+    "wof:name":"Komat",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.6167,
+    -3.20288,
+    152.6167,
+    -3.20288
+],
+  "geometry": {"coordinates":[152.61670000000001,-3.20288],"type":"Point"}
+}

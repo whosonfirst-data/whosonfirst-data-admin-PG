@@ -1,0 +1,65 @@
+{
+  "id": 1277004047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.64253,-8.00385,143.64253,-8.00385",
+    "geom:latitude":-8.00385,
+    "geom:longitude":143.64253,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bunigi",
+    "gn:country_code":"PG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098802,
+    "gn:latitude":-8.00385,
+    "gn:longitude":143.64253,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bunigi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buniki",
+        "Bunigi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098802
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4c15c646d724283a2c3ad2ca97c06708",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1277004047,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277004047,
+    "wof:lastmodified":1537677188,
+    "wof:name":"Bunigi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.64253,
+    -8.00385,
+    143.64253,
+    -8.00385
+],
+  "geometry": {"coordinates":[143.64252999999999,-8.00385],"type":"Point"}
+}

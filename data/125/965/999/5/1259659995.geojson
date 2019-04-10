@@ -1,0 +1,61 @@
+{
+  "id": 1259659995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.30945,-5.6387,148.30945,-5.6387",
+    "geom:latitude":-5.6387,
+    "geom:longitude":148.30945,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Ura",
+    "gn:country_code":"PG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2113412,
+    "gn:latitude":-5.6387,
+    "gn:longitude":148.30945,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Ura",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2113412
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"33c265dbeb3661031f5b3b7a03f577b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259659995,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259659995,
+    "wof:lastmodified":1536601304,
+    "wof:name":"Ura",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.30945,
+    -5.6387,
+    148.30945,
+    -5.6387
+],
+  "geometry": {"coordinates":[148.30945,-5.6387],"type":"Point"}
+}

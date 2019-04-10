@@ -1,0 +1,65 @@
+{
+  "id": 1209401795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.05096,-4.8235,145.05096,-4.8235",
+    "geom:latitude":-4.8235,
+    "geom:longitude":145.05096,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Katiati",
+    "gn:country_code":"PG",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094452,
+    "gn:latitude":-4.8235,
+    "gn:longitude":145.05096,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Katiati",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katiata",
+        "Katiati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094452
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9465839759cff882dabdc5c4b8755ebc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209401795
+        }
+    ],
+    "wof:id":1209401795,
+    "wof:lastmodified":1537677142,
+    "wof:name":"Katiati",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.05096,
+    -4.8235,
+    145.05096,
+    -4.8235
+],
+  "geometry": {"coordinates":[145.05096,-4.8235],"type":"Point"}
+}

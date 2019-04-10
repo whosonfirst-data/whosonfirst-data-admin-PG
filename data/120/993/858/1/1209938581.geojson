@@ -1,0 +1,67 @@
+{
+  "id": 1209938581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.25231,-5.50384,141.25231,-5.50384",
+    "geom:latitude":-5.50384,
+    "geom:longitude":141.25231,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Wurimkanatgo",
+    "gn:country_code":"PG",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083273,
+    "gn:latitude":-5.50384,
+    "gn:longitude":141.25231,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Wurimkanatgo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083273
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4e128891544ff8532d9edbca596e8376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1209938581,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1209938581,
+    "wof:lastmodified":1536389506,
+    "wof:name":"Wurimkanatgo",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.25231000000005,
+    -5.50384,
+    141.25231000000005,
+    -5.50384
+],
+  "geometry": {"coordinates":[141.25231000000005,-5.50384],"type":"Point"}
+}

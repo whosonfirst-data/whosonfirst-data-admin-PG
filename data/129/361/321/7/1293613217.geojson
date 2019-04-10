@@ -1,0 +1,67 @@
+{
+  "id": 1293613217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.33333,-8.68333,148.33333,-8.68333",
+    "geom:latitude":-8.68333,
+    "geom:longitude":148.33333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Gewoto",
+    "gn:country_code":"PG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096995,
+    "gn:latitude":-8.68333,
+    "gn:longitude":148.33333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Gewoto",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091702531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096995
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"739aa20c9d28bf42a41688768d791c7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702531,
+            "locality_id":1293613217,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1293613217,
+    "wof:lastmodified":1536602797,
+    "wof:name":"Gewoto",
+    "wof:parent_id":1091702531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.33333000000005,
+    -8.68333,
+    148.33333000000005,
+    -8.68333
+],
+  "geometry": {"coordinates":[148.33333000000005,-8.68333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276466311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.21667,-7.7,143.21667,-7.7",
+    "geom:latitude":-7.7,
+    "geom:longitude":143.21667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bebisa",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099729,
+    "gn:latitude":-7.7,
+    "gn:longitude":143.21667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bebisa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bibisa",
+        "Bebisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091703673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099729
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c3e56d3a45c16a90335da3356bd13fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703673,
+            "locality_id":1276466311,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1276466311,
+    "wof:lastmodified":1537677200,
+    "wof:name":"Bebisa",
+    "wof:parent_id":1091703673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.21667,
+    -7.7,
+    143.21667,
+    -7.7
+],
+  "geometry": {"coordinates":[143.21666999999999,-7.7],"type":"Point"}
+}

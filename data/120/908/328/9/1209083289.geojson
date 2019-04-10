@@ -1,0 +1,61 @@
+{
+  "id": 1209083289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.06667,-4.7,145.06667,-4.7",
+    "geom:latitude":-4.7,
+    "geom:longitude":145.06667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Sambadam",
+    "gn:country_code":"PG",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087311,
+    "gn:latitude":-4.7,
+    "gn:longitude":145.06667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Sambadam",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087311
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c0b1700e15f09b85ba815025049e5062",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209083289
+        }
+    ],
+    "wof:id":1209083289,
+    "wof:lastmodified":1536298267,
+    "wof:name":"Sambadam",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.06667,
+    -4.7,
+    145.06667,
+    -4.7
+],
+  "geometry": {"coordinates":[145.06666999999999,-4.7],"type":"Point"}
+}

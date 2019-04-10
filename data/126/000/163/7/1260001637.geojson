@@ -1,0 +1,67 @@
+{
+  "id": 1260001637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.59198,-7.01375,141.59198,-7.01375",
+    "geom:latitude":-7.01375,
+    "geom:longitude":141.59198,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dimu",
+    "gn:country_code":"PG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2098144,
+    "gn:latitude":-7.01375,
+    "gn:longitude":141.59198,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Dimu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091703673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098144
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d1badc28c46a0662a9b397e8b7ec6a00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703673,
+            "locality_id":1260001637,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1260001637,
+    "wof:lastmodified":1536606107,
+    "wof:name":"Dimu",
+    "wof:parent_id":1091703673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.59198,
+    -7.01375,
+    141.59198,
+    -7.01375
+],
+  "geometry": {"coordinates":[141.59198000000001,-7.01375],"type":"Point"}
+}

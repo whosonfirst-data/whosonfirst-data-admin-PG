@@ -1,0 +1,67 @@
+{
+  "id": 1310505625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.74019,-9.9075,147.74019,-9.9075",
+    "geom:latitude":-9.9075,
+    "geom:longitude":147.74019,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bigairuka",
+    "gn:country_code":"PG",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099518,
+    "gn:latitude":-9.9075,
+    "gn:longitude":147.74019,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Bigairuka",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091704253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099518
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"80d012f7aed5e4316cd0b54c8f4b11fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704253,
+            "locality_id":1310505625,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1310505625,
+    "wof:lastmodified":1536917217,
+    "wof:name":"Bigairuka",
+    "wof:parent_id":1091704253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.74018999999996,
+    -9.9075,
+    147.74018999999996,
+    -9.9075
+],
+  "geometry": {"coordinates":[147.74018999999996,-9.9075],"type":"Point"}
+}

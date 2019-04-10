@@ -1,0 +1,67 @@
+{
+  "id": 1293773557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.36667,-6.28333,145.36667,-6.28333",
+    "geom:latitude":-6.28333,
+    "geom:longitude":145.36667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Habi",
+    "gn:country_code":"PG",
+    "gn:dem":2101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096470,
+    "gn:latitude":-6.28333,
+    "gn:longitude":145.36667,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Habi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091703417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096470
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"5dbfd98715071e42989cd89331d7f462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703417,
+            "locality_id":1293773557,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1293773557,
+    "wof:lastmodified":1536870641,
+    "wof:name":"Habi",
+    "wof:parent_id":1091703417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.36667,
+    -6.28333,
+    145.36667,
+    -6.28333
+],
+  "geometry": {"coordinates":[145.36667,-6.28333],"type":"Point"}
+}

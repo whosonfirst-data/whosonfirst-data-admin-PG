@@ -1,0 +1,61 @@
+{
+  "id": 1343756315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"154.21698,-4.46543,154.21698,-4.46543",
+    "geom:latitude":-4.46543,
+    "geom:longitude":154.21698,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Salapem",
+    "gn:country_code":"PG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087360,
+    "gn:latitude":-4.46543,
+    "gn:longitude":154.21698,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Salapem",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087360
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"89d5c35f5e3fe3b27ed7d9a5a8558abb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343756315,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343756315,
+    "wof:lastmodified":1536816173,
+    "wof:name":"Salapem",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    154.21698,
+    -4.46543,
+    154.21698,
+    -4.46543
+],
+  "geometry": {"coordinates":[154.21698000000001,-4.46543],"type":"Point"}
+}

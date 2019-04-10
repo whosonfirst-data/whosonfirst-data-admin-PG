@@ -1,0 +1,67 @@
+{
+  "id": 1344040871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.09724,-7.184,146.09724,-7.184",
+    "geom:latitude":-7.184,
+    "geom:longitude":146.09724,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Akwanje",
+    "gn:country_code":"PG",
+    "gn:dem":1520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101078,
+    "gn:latitude":-7.184,
+    "gn:longitude":146.09724,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Akwanje",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101078
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"50989312ba82f4aa6729ce7cb98052c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703633,
+            "locality_id":1344040871,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1344040871,
+    "wof:lastmodified":1536904078,
+    "wof:name":"Akwanje",
+    "wof:parent_id":1091703633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.09724,
+    -7.184,
+    146.09724,
+    -7.184
+],
+  "geometry": {"coordinates":[146.09724,-7.184],"type":"Point"}
+}

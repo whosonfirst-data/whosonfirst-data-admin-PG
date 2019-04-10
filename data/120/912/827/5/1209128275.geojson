@@ -1,0 +1,61 @@
+{
+  "id": 1209128275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.03333,-6.23333,142.03333,-6.23333",
+    "geom:latitude":-6.23333,
+    "geom:longitude":142.03333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ibitida",
+    "gn:country_code":"PG",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095828,
+    "gn:latitude":-6.23333,
+    "gn:longitude":142.03333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Ibitida",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095828
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8134dc5dce3bcdd698720176857d796a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209128275
+        }
+    ],
+    "wof:id":1209128275,
+    "wof:lastmodified":1536296887,
+    "wof:name":"Ibitida",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.03333,
+    -6.2333300000000005,
+    142.03333,
+    -6.2333300000000005
+],
+  "geometry": {"coordinates":[142.03333000000001,-6.23333],"type":"Point"}
+}

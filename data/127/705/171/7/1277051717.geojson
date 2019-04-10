@@ -1,0 +1,72 @@
+{
+  "id": 1277051717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.90803,-3.09549,141.90803,-3.09549",
+    "geom:latitude":-3.09549,
+    "geom:longitude":141.90803,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Mori",
+    "gn:country_code":"PG",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090485,
+    "gn:latitude":-3.09549,
+    "gn:longitude":141.90803,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mori",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mori Number 1",
+        "Mori 1",
+        "Mori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091701955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090485
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"04c363300824a42dc42cb09685efe3f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091701955,
+            "locality_id":1277051717,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1277051717,
+    "wof:lastmodified":1537677097,
+    "wof:name":"Mori",
+    "wof:parent_id":1091701955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.90803,
+    -3.09549,
+    141.90803,
+    -3.09549
+],
+  "geometry": {"coordinates":[141.90803,-3.09549],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1360069121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.43577,-4.23091,152.43577,-4.23091",
+    "geom:latitude":-4.23091,
+    "geom:longitude":152.43577,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Utuan Number 1",
+    "gn:country_code":"PG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084501,
+    "gn:latitude":-4.23091,
+    "gn:longitude":152.43577,
+    "gn:modification_date":"2015-04-27",
+    "gn:name":"Utuan Number 1",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084501
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"11be4ce8e416ab55a06a70aca26df68a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1360069121,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360069121,
+    "wof:lastmodified":1536968455,
+    "wof:name":"Utuan Number 1",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.43577,
+    -4.23091,
+    152.43577,
+    -4.23091
+],
+  "geometry": {"coordinates":[152.43576999999999,-4.23091],"type":"Point"}
+}

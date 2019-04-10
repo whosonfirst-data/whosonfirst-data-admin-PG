@@ -1,0 +1,65 @@
+{
+  "id": 1209439043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.79804,-8.17037,147.79804,-8.17037",
+    "geom:latitude":-8.17037,
+    "geom:longitude":147.79804,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Wadi",
+    "gn:country_code":"PG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084196,
+    "gn:latitude":-8.17037,
+    "gn:longitude":147.79804,
+    "gn:modification_date":"2012-04-29",
+    "gn:name":"Wadi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wade",
+        "Wadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084196
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ff898a7658d77092b6ae1b21621a896c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209439043
+        }
+    ],
+    "wof:id":1209439043,
+    "wof:lastmodified":1537677035,
+    "wof:name":"Wadi",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.79804,
+    -8.17037,
+    147.79804,
+    -8.17037
+],
+  "geometry": {"coordinates":[147.79803999999999,-8.17037],"type":"Point"}
+}

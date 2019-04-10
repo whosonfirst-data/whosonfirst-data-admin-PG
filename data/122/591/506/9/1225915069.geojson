@@ -1,0 +1,67 @@
+{
+  "id": 1225915069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.24567,-7.42595,146.24567,-7.42595",
+    "geom:latitude":-7.42595,
+    "geom:longitude":146.24567,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kalasu",
+    "gn:country_code":"PG",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094946,
+    "gn:latitude":-7.42595,
+    "gn:longitude":146.24567,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kalasu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094946
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a0203a33eb5c728ab9e772e5f35bee95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703633,
+            "locality_id":1225915069,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1225915069,
+    "wof:lastmodified":1536914271,
+    "wof:name":"Kalasu",
+    "wof:parent_id":1091703633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.24567,
+    -7.42595,
+    146.24567,
+    -7.42595
+],
+  "geometry": {"coordinates":[146.24566999999999,-7.42595],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 421167539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.99354,-6.28208,143.99354,-6.28208",
+    "geom:latitude":-6.28208,
+    "geom:longitude":143.99354,
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fas_x_preferred":[
+        "\u06cc\u0627\u0644\u06cc\u0628\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Ialibu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0419\u0430\u043b\u0438\u0431\u0443"
+    ],
+    "qs:gn_country":"PG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2095925,
+    "qs:gn_pop":6915,
+    "qs:name":"Ialibu",
+    "qs:name_adm0":"Papua New Guinea",
+    "qs:name_adm1":"Southern Highlands",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":138361,
+    "qs:woe_adm0":23424926,
+    "qs:woe_id":1061770,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":709,
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095925,
+        "gp:id":1061770,
+        "qs:id":138361,
+        "wd:id":"Q4352076"
+    },
+    "wof:country":"PG",
+    "wof:created":1459008735,
+    "wof:geomhash":"ef5eb8b8cf7926ae01e6f08f58834a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702491,
+            "locality_id":421167539,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":421167539,
+    "wof:lastmodified":1527716158,
+    "wof:name":"Ialibu",
+    "wof:parent_id":1091702491,
+    "wof:placetype":"locality",
+    "wof:population":6915,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.99354,
+    -6.28208,
+    143.99354,
+    -6.28208
+],
+  "geometry": {"coordinates":[143.99354,-6.28208],"type":"Point"}
+}

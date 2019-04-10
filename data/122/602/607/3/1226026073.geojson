@@ -1,0 +1,67 @@
+{
+  "id": 1226026073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.20035,-3.84456,143.20035,-3.84456",
+    "geom:latitude":-3.84456,
+    "geom:longitude":143.20035,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kworo",
+    "gn:country_code":"PG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092771,
+    "gn:latitude":-3.84456,
+    "gn:longitude":143.20035,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kworo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092771
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e0a9b4c97058b92179d290b2723303af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705179,
+            "locality_id":1226026073,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1226026073,
+    "wof:lastmodified":1536753546,
+    "wof:name":"Kworo",
+    "wof:parent_id":1091705179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.20035,
+    -3.84456,
+    143.20035,
+    -3.84456
+],
+  "geometry": {"coordinates":[143.20034999999999,-3.84456],"type":"Point"}
+}

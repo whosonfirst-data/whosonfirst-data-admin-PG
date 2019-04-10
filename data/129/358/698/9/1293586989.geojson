@@ -1,0 +1,67 @@
+{
+  "id": 1293586989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.59092,-8.48498,141.59092,-8.48498",
+    "geom:latitude":-8.48498,
+    "geom:longitude":141.59092,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Setavi",
+    "gn:country_code":"PG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086870,
+    "gn:latitude":-8.48498,
+    "gn:longitude":141.59092,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Setavi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086870
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b9afb77ac4a26554dd3bd8873cb09ca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704467,
+            "locality_id":1293586989,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1293586989,
+    "wof:lastmodified":1536642966,
+    "wof:name":"Setavi",
+    "wof:parent_id":1091704467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.59091999999995,
+    -8.48498,
+    141.59091999999995,
+    -8.48498
+],
+  "geometry": {"coordinates":[141.59091999999995,-8.48498],"type":"Point"}
+}

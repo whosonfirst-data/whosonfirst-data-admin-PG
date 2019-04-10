@@ -1,0 +1,67 @@
+{
+  "id": 1259965209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.00347,-6.10799,145.00347,-6.10799",
+    "geom:latitude":-6.10799,
+    "geom:longitude":145.00347,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Golumkane",
+    "gn:country_code":"PG",
+    "gn:dem":1928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096803,
+    "gn:latitude":-6.10799,
+    "gn:longitude":145.00347,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Golumkane",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091704349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096803
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"becae4937349c6be8f9747927ec00178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704349,
+            "locality_id":1259965209,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1259965209,
+    "wof:lastmodified":1536661530,
+    "wof:name":"Golumkane",
+    "wof:parent_id":1091704349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.00347,
+    -6.10799,
+    145.00347,
+    -6.10799
+],
+  "geometry": {"coordinates":[145.00346999999999,-6.10799],"type":"Point"}
+}

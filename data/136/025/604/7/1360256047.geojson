@@ -1,0 +1,67 @@
+{
+  "id": 1360256047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.18379,-6.20563,146.18379,-6.20563",
+    "geom:latitude":-6.20563,
+    "geom:longitude":146.18379,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Waium",
+    "gn:country_code":"PG",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8439206,
+    "gn:latitude":-6.20563,
+    "gn:longitude":146.18379,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Waium",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8439206
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a808aa2c689297c94671e4d204d3b805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703565,
+            "locality_id":1360256047,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1360256047,
+    "wof:lastmodified":1536699370,
+    "wof:name":"Waium",
+    "wof:parent_id":1091703565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.18379,
+    -6.20563,
+    146.18379,
+    -6.20563
+],
+  "geometry": {"coordinates":[146.18378999999999,-6.20563],"type":"Point"}
+}

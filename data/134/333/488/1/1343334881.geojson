@@ -1,0 +1,72 @@
+{
+  "id": 1343334881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.43739,-2.64812,150.43739,-2.64812",
+    "geom:latitude":-2.64812,
+    "geom:longitude":150.43739,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Mataniu",
+    "gn:country_code":"PG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091202,
+    "gn:latitude":-2.64812,
+    "gn:longitude":150.43739,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mataniu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mantania",
+        "Matanui",
+        "Mataniu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091702917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091202
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"71ff7de23b5758412b1b664891d2e401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702917,
+            "locality_id":1343334881,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1343334881,
+    "wof:lastmodified":1537677105,
+    "wof:name":"Mataniu",
+    "wof:parent_id":1091702917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.43739,
+    -2.64812,
+    150.43739,
+    -2.64812
+],
+  "geometry": {"coordinates":[150.43738999999999,-2.64812],"type":"Point"}
+}

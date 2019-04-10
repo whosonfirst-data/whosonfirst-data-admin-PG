@@ -1,0 +1,71 @@
+{
+  "id": 1309781867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.22472,-3.48436,142.22472,-3.48436",
+    "geom:latitude":-3.48436,
+    "geom:longitude":142.22472,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Soloku",
+    "gn:country_code":"PG",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086422,
+    "gn:latitude":-3.48436,
+    "gn:longitude":142.22472,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Soloku",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sukulum",
+        "Soloku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091704057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086422
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0ac9ae90de1636d9bda8aaf7753d0327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704057,
+            "locality_id":1309781867,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1309781867,
+    "wof:lastmodified":1537677057,
+    "wof:name":"Soloku",
+    "wof:parent_id":1091704057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.22472,
+    -3.48436,
+    142.22472,
+    -3.48436
+],
+  "geometry": {"coordinates":[142.22471999999999,-3.48436],"type":"Point"}
+}

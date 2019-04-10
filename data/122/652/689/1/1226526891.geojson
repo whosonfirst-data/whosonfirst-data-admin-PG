@@ -1,0 +1,67 @@
+{
+  "id": 1226526891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.21808,-6.63915,145.21808,-6.63915",
+    "geom:latitude":-6.63915,
+    "geom:longitude":145.21808,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Somai",
+    "gn:country_code":"PG",
+    "gn:dem":1338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086411,
+    "gn:latitude":-6.63915,
+    "gn:longitude":145.21808,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Somai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091703417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086411
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9b878a3161eb726a75ae21c0c1d2704a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703417,
+            "locality_id":1226526891,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1226526891,
+    "wof:lastmodified":1537024177,
+    "wof:name":"Somai",
+    "wof:parent_id":1091703417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.21808,
+    -6.63915,
+    145.21808,
+    -6.63915
+],
+  "geometry": {"coordinates":[145.21807999999999,-6.63915],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360091027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.16667,-9.33333,149.16667,-9.33333",
+    "geom:latitude":-9.33333,
+    "geom:longitude":149.16667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Waijug",
+    "gn:country_code":"PG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084118,
+    "gn:latitude":-9.33333,
+    "gn:longitude":149.16667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Waijug",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091702531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084118
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f9b16cb16fa764b891fc4468db2b8d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702531,
+            "locality_id":1360091027,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1360091027,
+    "wof:lastmodified":1536937805,
+    "wof:name":"Waijug",
+    "wof:parent_id":1091702531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.16666999999995,
+    -9.33333,
+    149.16666999999995,
+    -9.33333
+],
+  "geometry": {"coordinates":[149.16666999999995,-9.33333],"type":"Point"}
+}

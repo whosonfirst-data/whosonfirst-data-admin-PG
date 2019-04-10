@@ -1,0 +1,67 @@
+{
+  "id": 1242743519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.9,-5.4,143.9,-5.4",
+    "geom:latitude":-5.4,
+    "geom:longitude":143.9,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Aiyulities",
+    "gn:country_code":"PG",
+    "gn:dem":1844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101137,
+    "gn:latitude":-5.4,
+    "gn:longitude":143.9,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Aiyulities",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676513,
+        1091703207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101137
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"cf8e712aec939ee99a74d31769f54f5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703207,
+            "locality_id":1242743519,
+            "region_id":85676513
+        }
+    ],
+    "wof:id":1242743519,
+    "wof:lastmodified":1536823951,
+    "wof:name":"Aiyulities",
+    "wof:parent_id":1091703207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.9,
+    -5.4,
+    143.9,
+    -5.4
+],
+  "geometry": {"coordinates":[143.90000000000001,-5.4],"type":"Point"}
+}

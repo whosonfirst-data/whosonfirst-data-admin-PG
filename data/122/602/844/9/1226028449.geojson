@@ -1,0 +1,61 @@
+{
+  "id": 1226028449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.0676,-4.20347,152.0676,-4.20347",
+    "geom:latitude":-4.20347,
+    "geom:longitude":152.0676,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Putanagororoi",
+    "gn:country_code":"PG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087936,
+    "gn:latitude":-4.20347,
+    "gn:longitude":152.0676,
+    "gn:modification_date":"2016-04-14",
+    "gn:name":"Putanagororoi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087936
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b0bb146796f17b831bb8dc6a16180e5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226028449,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226028449,
+    "wof:lastmodified":1536750001,
+    "wof:name":"Putanagororoi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.0676,
+    -4.20347,
+    152.0676,
+    -4.20347
+],
+  "geometry": {"coordinates":[152.0676,-4.20347],"type":"Point"}
+}

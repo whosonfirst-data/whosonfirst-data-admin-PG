@@ -1,0 +1,67 @@
+{
+  "id": 1226339997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.3,-6.0,141.3,-6.0",
+    "geom:latitude":-6.0,
+    "geom:longitude":141.3,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Gre",
+    "gn:country_code":"PG",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096709,
+    "gn:latitude":-6.0,
+    "gn:longitude":141.3,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Gre",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096709
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"635fa3879064c007fb82618b17d73e7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1226339997,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1226339997,
+    "wof:lastmodified":1536797906,
+    "wof:name":"Gre",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.3,
+    -6.0,
+    141.3,
+    -6.0
+],
+  "geometry": {"coordinates":[141.30000000000001,-6.0],"type":"Point"}
+}

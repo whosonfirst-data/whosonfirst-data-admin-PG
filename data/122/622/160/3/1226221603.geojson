@@ -1,0 +1,61 @@
+{
+  "id": 1226221603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.78383,-2.22566,147.78383,-2.22566",
+    "geom:latitude":-2.22566,
+    "geom:longitude":147.78383,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Ndriol",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089807,
+    "gn:latitude":-2.22566,
+    "gn:longitude":147.78383,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Ndriol",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089807
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"624a5baa9e4213c6d44870cbf2f806de",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226221603,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226221603,
+    "wof:lastmodified":1536968197,
+    "wof:name":"Ndriol",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.78383,
+    -2.22566,
+    147.78383,
+    -2.22566
+],
+  "geometry": {"coordinates":[147.78382999999999,-2.22566],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209309645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.21667,-4.31667,152.21667,-4.31667",
+    "geom:latitude":-4.31667,
+    "geom:longitude":152.21667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ranguna",
+    "gn:country_code":"PG",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087791,
+    "gn:latitude":-4.31667,
+    "gn:longitude":152.21667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Ranguna",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087791
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c449781a646dc1628ef9ceae02d76146",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209309645
+        }
+    ],
+    "wof:id":1209309645,
+    "wof:lastmodified":1536291073,
+    "wof:name":"Ranguna",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.21667,
+    -4.3166699999999985,
+    152.21667,
+    -4.3166699999999985
+],
+  "geometry": {"coordinates":[152.21666999999999,-4.31667],"type":"Point"}
+}

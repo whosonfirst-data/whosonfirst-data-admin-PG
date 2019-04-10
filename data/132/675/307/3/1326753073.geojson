@@ -1,0 +1,67 @@
+{
+  "id": 1326753073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.18943,-6.06692,144.18943,-6.06692",
+    "geom:latitude":-6.06692,
+    "geom:longitude":144.18943,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Pabarabuk",
+    "gn:country_code":"PG",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088846,
+    "gn:latitude":-6.06692,
+    "gn:longitude":144.18943,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Pabarabuk",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676551,
+        1091704589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088846
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"eb91cf3826a093679ae6fe11844c9635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704589,
+            "locality_id":1326753073,
+            "region_id":85676551
+        }
+    ],
+    "wof:id":1326753073,
+    "wof:lastmodified":1536665672,
+    "wof:name":"Pabarabuk",
+    "wof:parent_id":1091704589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.18943000000004,
+    -6.06692,
+    144.18943000000004,
+    -6.06692
+],
+  "geometry": {"coordinates":[144.18943000000004,-6.06692],"type":"Point"}
+}

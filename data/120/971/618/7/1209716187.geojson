@@ -1,0 +1,73 @@
+{
+  "id": 1209716187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.8431,-8.43086,147.8431,-8.43086",
+    "geom:latitude":-8.43086,
+    "geom:longitude":147.8431,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dabo",
+    "gn:country_code":"PG",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8714913,
+    "gn:latitude":-8.43086,
+    "gn:longitude":147.8431,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Dabo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dabo"
+    ],
+    "name:fra_x_preferred":[
+        "Dabo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091704393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8714913
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9f61d38e33ec3efa9a38be9123e7cbfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704393,
+            "locality_id":1209716187,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1209716187,
+    "wof:lastmodified":1537677229,
+    "wof:name":"Dabo",
+    "wof:parent_id":1091704393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.8431,
+    -8.43086,
+    147.8431,
+    -8.43086
+],
+  "geometry": {"coordinates":[147.84309999999999,-8.43086],"type":"Point"}
+}

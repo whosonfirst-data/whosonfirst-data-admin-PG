@@ -1,0 +1,67 @@
+{
+  "id": 1210005713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.04307,-6.00376,151.04307,-6.00376",
+    "geom:latitude":-6.00376,
+    "geom:longitude":151.04307,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Meninga",
+    "gn:country_code":"PG",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090964,
+    "gn:latitude":-6.00376,
+    "gn:longitude":151.04307,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Meninga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091704139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090964
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e96a686d68a898a71d566d0c8a1ea948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704139,
+            "locality_id":1210005713,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1210005713,
+    "wof:lastmodified":1536373928,
+    "wof:name":"Meninga",
+    "wof:parent_id":1091704139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.04307,
+    -6.00376,
+    151.04307,
+    -6.00376
+],
+  "geometry": {"coordinates":[151.04307,-6.00376],"type":"Point"}
+}

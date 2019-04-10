@@ -1,0 +1,72 @@
+{
+  "id": 1309685375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.15,-2.46667,150.15,-2.46667",
+    "geom:latitude":-2.46667,
+    "geom:longitude":150.15,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Neikonomon",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089780,
+    "gn:latitude":-2.46667,
+    "gn:longitude":150.15,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Neikonomon",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nekonomon",
+        "Neikonomon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091702917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089780
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2b7144c8e31282e10128caf76aa0eb94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702917,
+            "locality_id":1309685375,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1309685375,
+    "wof:lastmodified":1537677090,
+    "wof:name":"Neikonomon",
+    "wof:parent_id":1091702917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.15,
+    -2.46667,
+    150.15,
+    -2.46667
+],
+  "geometry": {"coordinates":[150.15000000000001,-2.46667],"type":"Point"}
+}

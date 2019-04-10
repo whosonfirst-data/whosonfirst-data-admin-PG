@@ -1,0 +1,67 @@
+{
+  "id": 1276476689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.01667,-6.2,144.01667,-6.2",
+    "geom:latitude":-6.2,
+    "geom:longitude":144.01667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kongibugl",
+    "gn:country_code":"PG",
+    "gn:dem":2127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093521,
+    "gn:latitude":-6.2,
+    "gn:longitude":144.01667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kongibugl",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093521
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4e47cc372cb7fc56cd0358c9b35d49aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702573,
+            "locality_id":1276476689,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1276476689,
+    "wof:lastmodified":1537080816,
+    "wof:name":"Kongibugl",
+    "wof:parent_id":1091702573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.01667,
+    -6.2,
+    144.01667,
+    -6.2
+],
+  "geometry": {"coordinates":[144.01667,-6.2],"type":"Point"}
+}

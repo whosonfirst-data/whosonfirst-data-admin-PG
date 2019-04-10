@@ -1,0 +1,67 @@
+{
+  "id": 1226627495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.1762,-3.6791,143.1762,-3.6791",
+    "geom:latitude":-3.6791,
+    "geom:longitude":143.1762,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Suanumbo",
+    "gn:country_code":"PG",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086253,
+    "gn:latitude":-3.6791,
+    "gn:longitude":143.1762,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Suanumbo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091703523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086253
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"978c23939163edd8be922d97ea12004c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703523,
+            "locality_id":1226627495,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1226627495,
+    "wof:lastmodified":1536885317,
+    "wof:name":"Suanumbo",
+    "wof:parent_id":1091703523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.1762,
+    -3.6791,
+    143.1762,
+    -3.6791
+],
+  "geometry": {"coordinates":[143.17619999999999,-3.6791],"type":"Point"}
+}

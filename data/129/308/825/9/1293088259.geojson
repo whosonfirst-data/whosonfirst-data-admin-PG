@@ -1,0 +1,71 @@
+{
+  "id": 1293088259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.96804,-4.73488,145.96804,-4.73488",
+    "geom:latitude":-4.73488,
+    "geom:longitude":145.96804,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Pain",
+    "gn:country_code":"PG",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088793,
+    "gn:latitude":-4.73488,
+    "gn:longitude":145.96804,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pain",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pein",
+        "Pain"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088793
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9b2958efe0bd42fd923e02c2d6883531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704517,
+            "locality_id":1293088259,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1293088259,
+    "wof:lastmodified":1537677079,
+    "wof:name":"Pain",
+    "wof:parent_id":1091704517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.96804,
+    -4.73488,
+    145.96804,
+    -4.73488
+],
+  "geometry": {"coordinates":[145.96804,-4.73488],"type":"Point"}
+}

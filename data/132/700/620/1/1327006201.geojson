@@ -1,0 +1,72 @@
+{
+  "id": 1327006201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.05,-5.26667,151.05,-5.26667",
+    "geom:latitude":-5.26667,
+    "geom:longitude":151.05,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Kahei",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095086,
+    "gn:latitude":-5.26667,
+    "gn:longitude":151.05,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kahei",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kapei",
+        "Kahei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676599,
+        1091704547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095086
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ccab1538b6c8ce9164fff7b80c5a273b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704547,
+            "locality_id":1327006201,
+            "region_id":85676599
+        }
+    ],
+    "wof:id":1327006201,
+    "wof:lastmodified":1537677150,
+    "wof:name":"Kahei",
+    "wof:parent_id":1091704547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.05,
+    -5.26667,
+    151.05,
+    -5.26667
+],
+  "geometry": {"coordinates":[151.05000000000001,-5.26667],"type":"Point"}
+}

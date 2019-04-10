@@ -1,0 +1,67 @@
+{
+  "id": 1226547553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.73689,-9.91766,149.73689,-9.91766",
+    "geom:latitude":-9.91766,
+    "geom:longitude":149.73689,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Auguwana",
+    "gn:country_code":"PG",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100360,
+    "gn:latitude":-9.91766,
+    "gn:longitude":149.73689,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Auguwana",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100360
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f0f3596b44f9af042be66ff595cfb088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702001,
+            "locality_id":1226547553,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1226547553,
+    "wof:lastmodified":1536994568,
+    "wof:name":"Auguwana",
+    "wof:parent_id":1091702001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.73689,
+    -9.91766,
+    149.73689,
+    -9.91766
+],
+  "geometry": {"coordinates":[149.73688999999999,-9.91766],"type":"Point"}
+}

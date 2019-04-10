@@ -1,0 +1,68 @@
+{
+  "id": 1260355505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.9144,-3.33487,142.9144,-3.33487",
+    "geom:latitude":-3.33487,
+    "geom:longitude":142.9144,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Suain Number 1",
+    "gn:country_code":"PG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086261,
+    "gn:latitude":-3.33487,
+    "gn:longitude":142.9144,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Suain Number 1",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suain",
+        "Suain 1",
+        "Suain Number 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086261
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"5434a166b34cb5a10cc1c4f37e06c47d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1260355505,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260355505,
+    "wof:lastmodified":1537677056,
+    "wof:name":"Suain Number 1",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.9144,
+    -3.33487,
+    142.9144,
+    -3.33487
+],
+  "geometry": {"coordinates":[142.9144,-3.33487],"type":"Point"}
+}

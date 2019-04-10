@@ -1,0 +1,67 @@
+{
+  "id": 1225828831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.07776,-6.92718,146.07776,-6.92718",
+    "geom:latitude":-6.92718,
+    "geom:longitude":146.07776,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Itongwapa",
+    "gn:country_code":"PG",
+    "gn:dem":1433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8439777,
+    "gn:latitude":-6.92718,
+    "gn:longitude":146.07776,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Itongwapa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8439777
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"eba1b73655946acd6e878ef6bb526f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703633,
+            "locality_id":1225828831,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1225828831,
+    "wof:lastmodified":1537036499,
+    "wof:name":"Itongwapa",
+    "wof:parent_id":1091703633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.07776,
+    -6.92718,
+    146.07776,
+    -6.92718
+],
+  "geometry": {"coordinates":[146.07776000000001,-6.92718],"type":"Point"}
+}

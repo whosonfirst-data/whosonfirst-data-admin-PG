@@ -1,0 +1,67 @@
+{
+  "id": 1327308371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.23333,-9.48333,147.23333,-9.48333",
+    "geom:latitude":-9.48333,
+    "geom:longitude":147.23333,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Dokura",
+    "gn:country_code":"PG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098067,
+    "gn:latitude":-9.48333,
+    "gn:longitude":147.23333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Dokura",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676581,
+        1091703859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098067
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9ac938b35b1f7174fd5ae7274a8361c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703859,
+            "locality_id":1327308371,
+            "region_id":85676581
+        }
+    ],
+    "wof:id":1327308371,
+    "wof:lastmodified":1536858699,
+    "wof:name":"Dokura",
+    "wof:parent_id":1091703859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.23333,
+    -9.48333,
+    147.23333,
+    -9.48333
+],
+  "geometry": {"coordinates":[147.23333,-9.48333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293000899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.3,-8.81667,148.3,-8.81667",
+    "geom:latitude":-8.81667,
+    "geom:longitude":148.3,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mosou",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090442,
+    "gn:latitude":-8.81667,
+    "gn:longitude":148.3,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mosou",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Inonda",
+        "Mosou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091702531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090442
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c5b5fd70450c68cf00dc0589b5f35650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702531,
+            "locality_id":1293000899,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1293000899,
+    "wof:lastmodified":1537677097,
+    "wof:name":"Mosou",
+    "wof:parent_id":1091702531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.3,
+    -8.81667,
+    148.3,
+    -8.81667
+],
+  "geometry": {"coordinates":[148.30000000000001,-8.81667],"type":"Point"}
+}

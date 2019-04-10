@@ -1,0 +1,61 @@
+{
+  "id": 1360055879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.6708,-2.94016,152.6708,-2.94016",
+    "geom:latitude":-2.94016,
+    "geom:longitude":152.6708,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Musoi",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090179,
+    "gn:latitude":-2.94016,
+    "gn:longitude":152.6708,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Musoi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090179
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"afe2cc0dfdda3f3619a7b52daa7c4556",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1360055879,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360055879,
+    "wof:lastmodified":1536987145,
+    "wof:name":"Musoi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.6708,
+    -2.94016,
+    152.6708,
+    -2.94016
+],
+  "geometry": {"coordinates":[152.67080000000001,-2.94016],"type":"Point"}
+}

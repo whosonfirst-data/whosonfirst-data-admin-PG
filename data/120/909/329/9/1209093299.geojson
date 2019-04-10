@@ -1,0 +1,61 @@
+{
+  "id": 1209093299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.69294,-5.0348,145.69294,-5.0348",
+    "geom:latitude":-5.0348,
+    "geom:longitude":145.69294,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Garigut",
+    "gn:country_code":"PG",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097162,
+    "gn:latitude":-5.0348,
+    "gn:longitude":145.69294,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Garigut",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097162
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9f55513aaab1ca976bb68e6ba73826f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209093299
+        }
+    ],
+    "wof:id":1209093299,
+    "wof:lastmodified":1536297967,
+    "wof:name":"Garigut",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.69294,
+    -5.0348,
+    145.69294,
+    -5.0348
+],
+  "geometry": {"coordinates":[145.69293999999999,-5.0348],"type":"Point"}
+}

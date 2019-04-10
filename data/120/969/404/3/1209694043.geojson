@@ -1,0 +1,65 @@
+{
+  "id": 1209694043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.97486,-3.70164,142.97486,-3.70164",
+    "geom:latitude":-3.70164,
+    "geom:longitude":142.97486,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Ningaumbi 2",
+    "gn:country_code":"PG",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089601,
+    "gn:latitude":-3.70164,
+    "gn:longitude":142.97486,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ningaumbi 2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ningilimbi Number 2",
+        "Ningaumbi 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089601
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"40a0e5e4cf392cc69526a54978f5c4f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209694043
+        }
+    ],
+    "wof:id":1209694043,
+    "wof:lastmodified":1537677088,
+    "wof:name":"Ningaumbi 2",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.97486,
+    -3.70164,
+    142.97486,
+    -3.70164
+],
+  "geometry": {"coordinates":[142.97486000000001,-3.70164],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209390659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.15,-2.95,141.15,-2.95",
+    "geom:latitude":-2.95,
+    "geom:longitude":141.15,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Onepi",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2089059,
+    "gn:latitude":-2.95,
+    "gn:longitude":141.15,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Onepi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Onei",
+        "Onepi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089059
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"081751646ea6ccb7f7182910000a40df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209390659
+        }
+    ],
+    "wof:id":1209390659,
+    "wof:lastmodified":1537677082,
+    "wof:name":"Onepi",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.15,
+    -2.95,
+    141.15,
+    -2.95
+],
+  "geometry": {"coordinates":[141.15000000000001,-2.95],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309693397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.75946,-3.6214,143.75946,-3.6214",
+    "geom:latitude":-3.6214,
+    "geom:longitude":143.75946,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Forok 1",
+    "gn:country_code":"PG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097361,
+    "gn:latitude":-3.6214,
+    "gn:longitude":143.75946,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Forok 1",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Forok Number 1",
+        "Forok 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097361
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a30f6540eb62df1a00a67343dab5d495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705089,
+            "locality_id":1309693397,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1309693397,
+    "wof:lastmodified":1537677176,
+    "wof:name":"Forok 1",
+    "wof:parent_id":1091705089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.75946000000005,
+    -3.6214,
+    143.75946000000005,
+    -3.6214
+],
+  "geometry": {"coordinates":[143.75946000000005,-3.6214],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326637433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.868,-10.675,152.868,-10.675",
+    "geom:latitude":-10.675,
+    "geom:longitude":152.868,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Barmatana",
+    "gn:country_code":"PG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425427,
+    "gn:latitude":-10.675,
+    "gn:longitude":152.868,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Barmatana",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091704299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425427
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1b2c5981f28350e8d1988c99c0fc774f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704299,
+            "locality_id":1326637433,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1326637433,
+    "wof:lastmodified":1536831246,
+    "wof:name":"Barmatana",
+    "wof:parent_id":1091704299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.868,
+    -10.675,
+    152.868,
+    -10.675
+],
+  "geometry": {"coordinates":[152.86799999999999,-10.675],"type":"Point"}
+}

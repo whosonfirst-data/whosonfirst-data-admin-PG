@@ -1,0 +1,71 @@
+{
+  "id": 1309695073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.77317,-3.88393,152.77317,-3.88393",
+    "geom:latitude":-3.88393,
+    "geom:longitude":152.77317,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Tekedan",
+    "gn:country_code":"PG",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085591,
+    "gn:latitude":-3.88393,
+    "gn:longitude":152.77317,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tekedan",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Takedan",
+        "Tekedan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091703829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085591
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"469d6846f953932d8334112a34231cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703829,
+            "locality_id":1309695073,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1309695073,
+    "wof:lastmodified":1537677048,
+    "wof:name":"Tekedan",
+    "wof:parent_id":1091703829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.77317,
+    -3.88393,
+    152.77317,
+    -3.88393
+],
+  "geometry": {"coordinates":[152.77316999999999,-3.88393],"type":"Point"}
+}

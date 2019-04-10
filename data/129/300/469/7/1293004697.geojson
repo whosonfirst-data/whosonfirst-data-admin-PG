@@ -1,0 +1,67 @@
+{
+  "id": 1293004697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.85493,-9.73018,147.85493,-9.73018",
+    "geom:latitude":-9.73018,
+    "geom:longitude":147.85493,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Taukomana",
+    "gn:country_code":"PG",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085705,
+    "gn:latitude":-9.73018,
+    "gn:longitude":147.85493,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Taukomana",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091704253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085705
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3ce201c634fa6be3062b77a099f0e5b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704253,
+            "locality_id":1293004697,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1293004697,
+    "wof:lastmodified":1536985176,
+    "wof:name":"Taukomana",
+    "wof:parent_id":1091704253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.85493,
+    -9.73018,
+    147.85493,
+    -9.73018
+],
+  "geometry": {"coordinates":[147.85493,-9.73018],"type":"Point"}
+}

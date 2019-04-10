@@ -1,0 +1,71 @@
+{
+  "id": 1242600325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.31076,-6.70589,144.31076,-6.70589",
+    "geom:latitude":-6.70589,
+    "geom:longitude":144.31076,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tomo",
+    "gn:country_code":"PG",
+    "gn:dem":1148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085247,
+    "gn:latitude":-6.70589,
+    "gn:longitude":144.31076,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tomo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tono",
+        "Tomo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085247
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1b8283b3dc418693e7ebc7459a122376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702665,
+            "locality_id":1242600325,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1242600325,
+    "wof:lastmodified":1537677045,
+    "wof:name":"Tomo",
+    "wof:parent_id":1091702665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.31076000000004,
+    -6.70589,
+    144.31076000000004,
+    -6.70589
+],
+  "geometry": {"coordinates":[144.31076000000004,-6.70589],"type":"Point"}
+}

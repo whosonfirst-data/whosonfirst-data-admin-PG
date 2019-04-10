@@ -1,0 +1,67 @@
+{
+  "id": 1242858271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.21667,-4.31667,152.21667,-4.31667",
+    "geom:latitude":-4.31667,
+    "geom:longitude":152.21667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Vunatagia",
+    "gn:country_code":"PG",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084267,
+    "gn:latitude":-4.31667,
+    "gn:longitude":152.21667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Vunatagia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091703131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084267
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0d91261132c6adc6cfb3ce37e8ad3be5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703131,
+            "locality_id":1242858271,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1242858271,
+    "wof:lastmodified":1536659484,
+    "wof:name":"Vunatagia",
+    "wof:parent_id":1091703131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.21667,
+    -4.31667,
+    152.21667,
+    -4.31667
+],
+  "geometry": {"coordinates":[152.21666999999999,-4.31667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327105543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.68366,-7.82934,147.68366,-7.82934",
+    "geom:latitude":-7.82934,
+    "geom:longitude":147.68366,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kobo",
+    "gn:country_code":"PG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093790,
+    "gn:latitude":-7.82934,
+    "gn:longitude":147.68366,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Kobo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093790
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8c3976370e8c2f1e450e964e9a38fc76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702453,
+            "locality_id":1327105543,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1327105543,
+    "wof:lastmodified":1536655049,
+    "wof:name":"Kobo",
+    "wof:parent_id":1091702453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.68366,
+    -7.82934,
+    147.68366,
+    -7.82934
+],
+  "geometry": {"coordinates":[147.68366,-7.82934],"type":"Point"}
+}

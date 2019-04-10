@@ -1,0 +1,67 @@
+{
+  "id": 1310275939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.82761,-6.38197,147.82761,-6.38197",
+    "geom:latitude":-6.38197,
+    "geom:longitude":147.82761,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Lakona",
+    "gn:country_code":"PG",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092675,
+    "gn:latitude":-6.38197,
+    "gn:longitude":147.82761,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Lakona",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092675
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"107822afcf4840b7430b3cfe058a4840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702351,
+            "locality_id":1310275939,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1310275939,
+    "wof:lastmodified":1536750544,
+    "wof:name":"Lakona",
+    "wof:parent_id":1091702351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.82761000000005,
+    -6.38197,
+    147.82761000000005,
+    -6.38197
+],
+  "geometry": {"coordinates":[147.82761000000005,-6.38197],"type":"Point"}
+}

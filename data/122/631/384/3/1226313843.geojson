@@ -1,0 +1,68 @@
+{
+  "id": 1226313843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.03333,-6.73333,147.03333,-6.73333",
+    "geom:latitude":-6.73333,
+    "geom:longitude":147.03333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Wagang",
+    "gn:country_code":"PG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084176,
+    "gn:latitude":-6.73333,
+    "gn:longitude":147.03333,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Wagang",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084176,
+        "wk:page":"Wagang"
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"513c2c37cea81713b86cf80e716d852f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703335,
+            "locality_id":1226313843,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1226313843,
+    "wof:lastmodified":1537570301,
+    "wof:name":"Wagang",
+    "wof:parent_id":1091703335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.03333,
+    -6.73333,
+    147.03333,
+    -6.73333
+],
+  "geometry": {"coordinates":[147.03333000000001,-6.73333],"type":"Point"}
+}

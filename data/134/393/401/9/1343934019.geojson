@@ -1,0 +1,67 @@
+{
+  "id": 1343934019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.95,-5.3,149.95,-5.3",
+    "geom:latitude":-5.3,
+    "geom:longitude":149.95,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Dami",
+    "gn:country_code":"PG",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098391,
+    "gn:latitude":-5.3,
+    "gn:longitude":149.95,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Dami",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676599,
+        1091704547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098391
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1c3cd6c5b5fd518ffed954005b746f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704547,
+            "locality_id":1343934019,
+            "region_id":85676599
+        }
+    ],
+    "wof:id":1343934019,
+    "wof:lastmodified":1537055801,
+    "wof:name":"Dami",
+    "wof:parent_id":1091704547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.95,
+    -5.3,
+    149.95,
+    -5.3
+],
+  "geometry": {"coordinates":[149.94999999999999,-5.3],"type":"Point"}
+}

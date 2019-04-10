@@ -1,0 +1,71 @@
+{
+  "id": 1242943919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.68904,-7.87103,147.68904,-7.87103",
+    "geom:latitude":-7.87103,
+    "geom:longitude":147.68904,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Wainsodina",
+    "gn:country_code":"PG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084098,
+    "gn:latitude":-7.87103,
+    "gn:longitude":147.68904,
+    "gn:modification_date":"2014-10-30",
+    "gn:name":"Wainsodina",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wainsoduna",
+        "Wainsodina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084098
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"93c4d8c0cb153825f8f01446c8336b0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702453,
+            "locality_id":1242943919,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1242943919,
+    "wof:lastmodified":1537677034,
+    "wof:name":"Wainsodina",
+    "wof:parent_id":1091702453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.68903999999995,
+    -7.87103,
+    147.68903999999995,
+    -7.87103
+],
+  "geometry": {"coordinates":[147.68903999999995,-7.87103],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310404879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.70242,-6.01041,143.70242,-6.01041",
+    "geom:latitude":-6.01041,
+    "geom:longitude":143.70242,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Egari",
+    "gn:country_code":"PG",
+    "gn:dem":2194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097809,
+    "gn:latitude":-6.01041,
+    "gn:longitude":143.70242,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Egari",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091703589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097809
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"91da66387feca1bc2241880a2aa9a99a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703589,
+            "locality_id":1310404879,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1310404879,
+    "wof:lastmodified":1537059576,
+    "wof:name":"Egari",
+    "wof:parent_id":1091703589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.70242,
+    -6.01041,
+    143.70242,
+    -6.01041
+],
+  "geometry": {"coordinates":[143.70241999999999,-6.01041],"type":"Point"}
+}

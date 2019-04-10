@@ -1,0 +1,67 @@
+{
+  "id": 1193120047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.88233,-3.20109,151.88233,-3.20109",
+    "geom:latitude":-3.20109,
+    "geom:longitude":151.88233,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Kimadan",
+    "gn:country_code":"PG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093972,
+    "gn:latitude":-3.20109,
+    "gn:longitude":151.88233,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kimadan",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malom 1",
+        "Kimadan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093972
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"90db3c24af3459434d93ec6d65e7262e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1193120047,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193120047,
+    "wof:lastmodified":1537677137,
+    "wof:name":"Kimadan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.88233,
+    -3.20109,
+    151.88233,
+    -3.20109
+],
+  "geometry": {"coordinates":[151.88233,-3.20109],"type":"Point"}
+}

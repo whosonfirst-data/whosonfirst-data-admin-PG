@@ -1,0 +1,61 @@
+{
+  "id": 1209686147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.82754,-3.91385,152.82754,-3.91385",
+    "geom:latitude":-3.91385,
+    "geom:longitude":152.82754,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Likas",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092341,
+    "gn:latitude":-3.91385,
+    "gn:longitude":152.82754,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Likas",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092341
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"5d6997ecc7437078122bcd23040a26f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209686147
+        }
+    ],
+    "wof:id":1209686147,
+    "wof:lastmodified":1536279403,
+    "wof:name":"Likas",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.82754,
+    -3.91385,
+    152.82754,
+    -3.91385
+],
+  "geometry": {"coordinates":[152.82754,-3.91385],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1344129953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.30286,-3.50759,152.30286,-3.50759",
+    "geom:latitude":-3.50759,
+    "geom:longitude":152.30286,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Kolonoboi",
+    "gn:country_code":"PG",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093652,
+    "gn:latitude":-3.50759,
+    "gn:longitude":152.30286,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kolonoboi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolonubo",
+        "Kolanaboi",
+        "Kolonoboi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091703829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093652
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0278db7d8691d16261028391cb1073c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703829,
+            "locality_id":1344129953,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1344129953,
+    "wof:lastmodified":1537677134,
+    "wof:name":"Kolonoboi",
+    "wof:parent_id":1091703829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.30286,
+    -3.50759,
+    152.30286,
+    -3.50759
+],
+  "geometry": {"coordinates":[152.30286000000001,-3.50759],"type":"Point"}
+}

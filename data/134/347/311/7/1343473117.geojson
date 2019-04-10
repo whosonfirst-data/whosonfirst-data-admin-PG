@@ -1,0 +1,74 @@
+{
+  "id": 1343473117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.25082,-8.76608,147.25082,-8.76608",
+    "geom:latitude":-8.76608,
+    "geom:longitude":147.25082,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Oro",
+    "gn:country_code":"PG",
+    "gn:dem":1317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088942,
+    "gn:latitude":-8.76608,
+    "gn:longitude":147.25082,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Oro",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u043e"
+    ],
+    "name:und_x_variant":[
+        "Vetapu",
+        "Oro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091702425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088942
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b65a352f38691c7e7c46a0dc16238a3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702425,
+            "locality_id":1343473117,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1343473117,
+    "wof:lastmodified":1537677080,
+    "wof:name":"Oro",
+    "wof:parent_id":1091702425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.25082,
+    -8.76608,
+    147.25082,
+    -8.76608
+],
+  "geometry": {"coordinates":[147.25082,-8.76608],"type":"Point"}
+}

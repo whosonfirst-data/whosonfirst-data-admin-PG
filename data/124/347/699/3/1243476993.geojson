@@ -1,0 +1,67 @@
+{
+  "id": 1243476993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.98333,-6.3,143.98333,-6.3",
+    "geom:latitude":-6.3,
+    "geom:longitude":143.98333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kebigi",
+    "gn:country_code":"PG",
+    "gn:dem":1993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094281,
+    "gn:latitude":-6.3,
+    "gn:longitude":143.98333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kebigi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094281
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"171c18b50d67f6bc939bedb7af159628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702491,
+            "locality_id":1243476993,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1243476993,
+    "wof:lastmodified":1536761749,
+    "wof:name":"Kebigi",
+    "wof:parent_id":1091702491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.98333,
+    -6.3,
+    143.98333,
+    -6.3
+],
+  "geometry": {"coordinates":[143.98333,-6.3],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209896421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.71161,-5.06008,144.71161,-5.06008",
+    "geom:latitude":-5.06008,
+    "geom:longitude":144.71161,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Atiapi",
+    "gn:country_code":"PG",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100403,
+    "gn:latitude":-5.06008,
+    "gn:longitude":144.71161,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Atiapi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091703709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100403
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"6ebb67e8d6665831163ebe3d0c3ac485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703709,
+            "locality_id":1209896421,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1209896421,
+    "wof:lastmodified":1536388408,
+    "wof:name":"Atiapi",
+    "wof:parent_id":1091703709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.71161,
+    -5.06008,
+    144.71161,
+    -5.06008
+],
+  "geometry": {"coordinates":[144.71161000000001,-5.06008],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1260200911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.33331,-10.14044,148.33331,-10.14044",
+    "geom:latitude":-10.14044,
+    "geom:longitude":148.33331,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Viriolo",
+    "gn:country_code":"PG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2132360,
+    "gn:latitude":-10.14044,
+    "gn:longitude":148.33331,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Viriolo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2132360
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e39143fdb00fc11532723bf08024a937",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1260200911,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260200911,
+    "wof:lastmodified":1536823181,
+    "wof:name":"Viriolo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.33331,
+    -10.14044,
+    148.33331,
+    -10.14044
+],
+  "geometry": {"coordinates":[148.33331000000001,-10.14044],"type":"Point"}
+}

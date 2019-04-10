@@ -1,0 +1,71 @@
+{
+  "id": 1344041855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.41807,-6.18587,145.41807,-6.18587",
+    "geom:latitude":-6.18587,
+    "geom:longitude":145.41807,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ketarobo",
+    "gn:country_code":"PG",
+    "gn:dem":1448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094101,
+    "gn:latitude":-6.18587,
+    "gn:longitude":145.41807,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ketarobo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ketarabo",
+        "Ketarobo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091704771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094101
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"855f52e7b499543cf69a2d6cfd95aa29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704771,
+            "locality_id":1344041855,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1344041855,
+    "wof:lastmodified":1537677139,
+    "wof:name":"Ketarobo",
+    "wof:parent_id":1091704771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.41807,
+    -6.18587,
+    145.41807,
+    -6.18587
+],
+  "geometry": {"coordinates":[145.41807,-6.18587],"type":"Point"}
+}

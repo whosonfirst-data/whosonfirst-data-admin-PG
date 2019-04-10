@@ -1,0 +1,61 @@
+{
+  "id": 1209612133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.88376,-6.17919,144.88376,-6.17919",
+    "geom:latitude":-6.17919,
+    "geom:longitude":144.88376,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Yani",
+    "gn:country_code":"PG",
+    "gn:dem":1810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8529228,
+    "gn:latitude":-6.17919,
+    "gn:longitude":144.88376,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Yani",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8529228
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"05e9fb845c0a1dfe91e5ef9c63236025",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209612133
+        }
+    ],
+    "wof:id":1209612133,
+    "wof:lastmodified":1536281813,
+    "wof:name":"Yani",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.88376,
+    -6.17919,
+    144.88376,
+    -6.17919
+],
+  "geometry": {"coordinates":[144.88376,-6.17919],"type":"Point"}
+}

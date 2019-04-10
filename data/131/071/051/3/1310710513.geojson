@@ -1,0 +1,73 @@
+{
+  "id": 1310710513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.13851,-7.69694,144.13851,-7.69694",
+    "geom:latitude":-7.69694,
+    "geom:longitude":144.13851,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Pai'ia'a Number 1",
+    "gn:country_code":"PG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2088798,
+    "gn:latitude":-7.69694,
+    "gn:longitude":144.13851,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pai\u2019ia\u2019a Number 1",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Pai-a",
+        "Pai\u2019ai\u2019a 1",
+        "Pai-a-a",
+        "Pai\u2019ia\u2019a Number 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091703049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088798
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a597d5edb899b2aa7336e6568e6f2e14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703049,
+            "locality_id":1310710513,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1310710513,
+    "wof:lastmodified":1537677079,
+    "wof:name":"Pai'ia'a Number 1",
+    "wof:parent_id":1091703049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.13851,
+    -7.69694,
+    144.13851,
+    -7.69694
+],
+  "geometry": {"coordinates":[144.13851,-7.69694],"type":"Point"}
+}

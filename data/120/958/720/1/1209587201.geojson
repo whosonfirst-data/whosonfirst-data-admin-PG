@@ -1,0 +1,61 @@
+{
+  "id": 1209587201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.68333,-6.13333,149.68333,-6.13333",
+    "geom:latitude":-6.13333,
+    "geom:longitude":149.68333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Saihi",
+    "gn:country_code":"PG",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087411,
+    "gn:latitude":-6.13333,
+    "gn:longitude":149.68333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Saihi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087411
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"712cc723a08d91ccd089cc3c72875598",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209587201
+        }
+    ],
+    "wof:id":1209587201,
+    "wof:lastmodified":1536282596,
+    "wof:name":"Saihi",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.68333,
+    -6.13333,
+    149.68333,
+    -6.13333
+],
+  "geometry": {"coordinates":[149.68333000000001,-6.13333],"type":"Point"}
+}

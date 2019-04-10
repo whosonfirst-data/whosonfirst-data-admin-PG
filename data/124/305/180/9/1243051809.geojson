@@ -1,0 +1,67 @@
+{
+  "id": 1243051809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.1525,-4.67188,152.1525,-4.67188",
+    "geom:latitude":-4.67188,
+    "geom:longitude":152.1525,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Lemingi",
+    "gn:country_code":"PG",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092418,
+    "gn:latitude":-4.67188,
+    "gn:longitude":152.1525,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Lemingi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091704139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092418
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"443b5fffd2d1715212e55a3148501556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704139,
+            "locality_id":1243051809,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1243051809,
+    "wof:lastmodified":1536876601,
+    "wof:name":"Lemingi",
+    "wof:parent_id":1091704139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.1525,
+    -4.67188,
+    152.1525,
+    -4.67188
+],
+  "geometry": {"coordinates":[152.1525,-4.67188],"type":"Point"}
+}

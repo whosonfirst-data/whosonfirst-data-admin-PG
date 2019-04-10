@@ -1,0 +1,67 @@
+{
+  "id": 1343279617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.79032,-10.04657,147.79032,-10.04657",
+    "geom:latitude":-10.04657,
+    "geom:longitude":147.79032,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kalo",
+    "gn:country_code":"PG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133220,
+    "gn:latitude":-10.04657,
+    "gn:longitude":147.79032,
+    "gn:modification_date":"2016-04-14",
+    "gn:name":"Kalo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091704253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133220
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a313ce3d49476f14d229b32f52162d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704253,
+            "locality_id":1343279617,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1343279617,
+    "wof:lastmodified":1537006528,
+    "wof:name":"Kalo",
+    "wof:parent_id":1091704253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.79032,
+    -10.04657,
+    147.79032,
+    -10.04657
+],
+  "geometry": {"coordinates":[147.79032000000001,-10.04657],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327024507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.66375,-6.14889,145.66375,-6.14889",
+    "geom:latitude":-6.14889,
+    "geom:longitude":145.66375,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kemina",
+    "gn:country_code":"PG",
+    "gn:dem":1956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094213,
+    "gn:latitude":-6.14889,
+    "gn:longitude":145.66375,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kemina",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091702433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094213
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ac5ace60144e7da248e65a85483cb4fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702433,
+            "locality_id":1327024507,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1327024507,
+    "wof:lastmodified":1536772472,
+    "wof:name":"Kemina",
+    "wof:parent_id":1091702433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.66375,
+    -6.14889,
+    145.66375,
+    -6.14889
+],
+  "geometry": {"coordinates":[145.66374999999999,-6.14889],"type":"Point"}
+}

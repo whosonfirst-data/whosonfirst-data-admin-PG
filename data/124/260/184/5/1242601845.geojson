@@ -1,0 +1,67 @@
+{
+  "id": 1242601845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.13999,-9.33976,149.13999,-9.33976",
+    "geom:latitude":-9.33976,
+    "geom:longitude":149.13999,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Koreaf",
+    "gn:country_code":"PG",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093435,
+    "gn:latitude":-9.33976,
+    "gn:longitude":149.13999,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Koreaf",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091702531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093435
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"79829b98f537aa1a7218e208f81b5d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702531,
+            "locality_id":1242601845,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1242601845,
+    "wof:lastmodified":1537027552,
+    "wof:name":"Koreaf",
+    "wof:parent_id":1091702531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.13998999999995,
+    -9.33976,
+    149.13998999999995,
+    -9.33976
+],
+  "geometry": {"coordinates":[149.13998999999995,-9.33976],"type":"Point"}
+}

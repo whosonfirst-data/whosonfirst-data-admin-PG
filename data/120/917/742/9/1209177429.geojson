@@ -1,0 +1,66 @@
+{
+  "id": 1209177429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.0569,-3.41581,142.0569,-3.41581",
+    "geom:latitude":-3.41581,
+    "geom:longitude":142.0569,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Yongitei",
+    "gn:country_code":"PG",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2082854,
+    "gn:latitude":-3.41581,
+    "gn:longitude":142.0569,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yongitei",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yongiti",
+        "Yongetei",
+        "Yongitei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2082854
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9c5563c4214fea52f7dd498b45243b58",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209177429
+        }
+    ],
+    "wof:id":1209177429,
+    "wof:lastmodified":1537677018,
+    "wof:name":"Yongitei",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.0569,
+    -3.41581,
+    142.0569,
+    -3.41581
+],
+  "geometry": {"coordinates":[142.05690000000001,-3.41581],"type":"Point"}
+}

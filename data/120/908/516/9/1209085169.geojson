@@ -1,0 +1,61 @@
+{
+  "id": 1209085169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.63331,-6.22346,147.63331,-6.22346",
+    "geom:latitude":-6.22346,
+    "geom:longitude":147.63331,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Samep",
+    "gn:country_code":"PG",
+    "gn:dem":952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087289,
+    "gn:latitude":-6.22346,
+    "gn:longitude":147.63331,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Samep",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087289
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"fc41c5c6c7a4fe09d30c22b80e8332ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209085169
+        }
+    ],
+    "wof:id":1209085169,
+    "wof:lastmodified":1536298211,
+    "wof:name":"Samep",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.63331000000005,
+    -6.22346,
+    147.63331000000005,
+    -6.22346
+],
+  "geometry": {"coordinates":[147.63331000000005,-6.22346],"type":"Point"}
+}

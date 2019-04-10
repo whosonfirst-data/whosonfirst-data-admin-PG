@@ -1,0 +1,67 @@
+{
+  "id": 1193134271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.89884,-6.0246,144.89884,-6.0246",
+    "geom:latitude":-6.0246,
+    "geom:longitude":144.89884,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Naru",
+    "gn:country_code":"PG",
+    "gn:dem":1886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089880,
+    "gn:latitude":-6.0246,
+    "gn:longitude":144.89884,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Naru",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091703309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089880
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"27d9773bce131e9f87f625fd74cfc943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703309,
+            "locality_id":1193134271,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1193134271,
+    "wof:lastmodified":1536372463,
+    "wof:name":"Naru",
+    "wof:parent_id":1091703309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.89883999999995,
+    -6.0246,
+    144.89883999999995,
+    -6.0246
+],
+  "geometry": {"coordinates":[144.89883999999995,-6.0246],"type":"Point"}
+}

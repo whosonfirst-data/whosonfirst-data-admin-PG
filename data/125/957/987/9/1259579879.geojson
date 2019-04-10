@@ -1,0 +1,67 @@
+{
+  "id": 1259579879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.2243,-6.38317,145.2243,-6.38317",
+    "geom:latitude":-6.38317,
+    "geom:longitude":145.2243,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Nagiali",
+    "gn:country_code":"PG",
+    "gn:dem":1720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090119,
+    "gn:latitude":-6.38317,
+    "gn:longitude":145.2243,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Nagiali",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091703417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090119
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f83d6f1a81450d1fd46777898ca3e50c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703417,
+            "locality_id":1259579879,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1259579879,
+    "wof:lastmodified":1536720419,
+    "wof:name":"Nagiali",
+    "wof:parent_id":1091703417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.2243,
+    -6.38317,
+    145.2243,
+    -6.38317
+],
+  "geometry": {"coordinates":[145.2243,-6.38317],"type":"Point"}
+}

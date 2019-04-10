@@ -1,0 +1,67 @@
+{
+  "id": 1309905119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.65801,-6.01761,143.65801,-6.01761",
+    "geom:latitude":-6.01761,
+    "geom:longitude":143.65801,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Abua",
+    "gn:country_code":"PG",
+    "gn:dem":2122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101386,
+    "gn:latitude":-6.01761,
+    "gn:longitude":143.65801,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Abua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091703589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101386
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1e2eadfea2dd0ea73c065e2d945375e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703589,
+            "locality_id":1309905119,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1309905119,
+    "wof:lastmodified":1536788405,
+    "wof:name":"Abua",
+    "wof:parent_id":1091703589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.65801000000005,
+    -6.01761,
+    143.65801000000005,
+    -6.01761
+],
+  "geometry": {"coordinates":[143.65801000000005,-6.01761],"type":"Point"}
+}

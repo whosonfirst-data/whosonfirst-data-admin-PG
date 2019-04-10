@@ -1,0 +1,67 @@
+{
+  "id": 1310001125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.33333,-4.41667,152.33333,-4.41667",
+    "geom:latitude":-4.41667,
+    "geom:longitude":152.33333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Korai",
+    "gn:country_code":"PG",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093451,
+    "gn:latitude":-4.41667,
+    "gn:longitude":152.33333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Korai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091703131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093451
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e6c6572ddfd2d74bc4222506d1945569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703131,
+            "locality_id":1310001125,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1310001125,
+    "wof:lastmodified":1536649364,
+    "wof:name":"Korai",
+    "wof:parent_id":1091703131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.33333000000005,
+    -4.41667,
+    152.33333000000005,
+    -4.41667
+],
+  "geometry": {"coordinates":[152.33333000000005,-4.41667],"type":"Point"}
+}

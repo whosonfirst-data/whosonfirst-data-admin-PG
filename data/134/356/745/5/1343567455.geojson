@@ -1,0 +1,67 @@
+{
+  "id": 1343567455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.67164,-8.75531,147.67164,-8.75531",
+    "geom:latitude":-8.75531,
+    "geom:longitude":147.67164,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kanga",
+    "gn:country_code":"PG",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094740,
+    "gn:latitude":-8.75531,
+    "gn:longitude":147.67164,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kanga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091704393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094740
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e9b41b816fc216f6ee7c1e4420468c51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704393,
+            "locality_id":1343567455,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1343567455,
+    "wof:lastmodified":1537086130,
+    "wof:name":"Kanga",
+    "wof:parent_id":1091704393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.67164,
+    -8.75531,
+    147.67164,
+    -8.75531
+],
+  "geometry": {"coordinates":[147.67164,-8.75531],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260165665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.00364,-6.61795,146.00364,-6.61795",
+    "geom:latitude":-6.61795,
+    "geom:longitude":146.00364,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"To'okena",
+    "gn:country_code":"PG",
+    "gn:dem":1855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085209,
+    "gn:latitude":-6.61795,
+    "gn:longitude":146.00364,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"To\u2019okena",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091704061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085209
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"fde7b5bdd7396fd6cf26822f6e83a827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704061,
+            "locality_id":1260165665,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1260165665,
+    "wof:lastmodified":1536871386,
+    "wof:name":"To'okena",
+    "wof:parent_id":1091704061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.00364,
+    -6.61795,
+    146.00364,
+    -6.61795
+],
+  "geometry": {"coordinates":[146.00363999999999,-6.61795],"type":"Point"}
+}

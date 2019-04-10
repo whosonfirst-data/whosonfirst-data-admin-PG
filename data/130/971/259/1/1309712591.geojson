@@ -1,0 +1,67 @@
+{
+  "id": 1309712591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.26667,-9.01667,149.26667,-9.01667",
+    "geom:latitude":-9.01667,
+    "geom:longitude":149.26667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Teniaru",
+    "gn:country_code":"PG",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085559,
+    "gn:latitude":-9.01667,
+    "gn:longitude":149.26667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Teniaru",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091702531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085559
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4c0c24ba9a98593422c3117e46ec1651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702531,
+            "locality_id":1309712591,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1309712591,
+    "wof:lastmodified":1537062707,
+    "wof:name":"Teniaru",
+    "wof:parent_id":1091702531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.26667,
+    -9.01667,
+    149.26667,
+    -9.01667
+],
+  "geometry": {"coordinates":[149.26667,-9.01667],"type":"Point"}
+}

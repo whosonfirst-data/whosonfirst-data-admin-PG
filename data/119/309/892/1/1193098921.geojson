@@ -1,0 +1,67 @@
+{
+  "id": 1193098921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.21619,-9.5174,147.21619,-9.5174",
+    "geom:latitude":-9.5174,
+    "geom:longitude":147.21619,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Pari",
+    "gn:country_code":"PG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088608,
+    "gn:latitude":-9.5174,
+    "gn:longitude":147.21619,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Pari",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676581,
+        1091703859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088608
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b939c3ccf3b79bdf7f3159e959dcd48d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703859,
+            "locality_id":1193098921,
+            "region_id":85676581
+        }
+    ],
+    "wof:id":1193098921,
+    "wof:lastmodified":1536364008,
+    "wof:name":"Pari",
+    "wof:parent_id":1091703859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.21618999999995,
+    -9.5174,
+    147.21618999999995,
+    -9.5174
+],
+  "geometry": {"coordinates":[147.21618999999995,-9.5174],"type":"Point"}
+}

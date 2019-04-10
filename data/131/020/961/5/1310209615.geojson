@@ -1,0 +1,67 @@
+{
+  "id": 1310209615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.81372,-6.28924,143.81372,-6.28924",
+    "geom:latitude":-6.28924,
+    "geom:longitude":143.81372,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Irawara",
+    "gn:country_code":"PG",
+    "gn:dem":1891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095491,
+    "gn:latitude":-6.28924,
+    "gn:longitude":143.81372,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Irawara",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095491
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2d83963d8ed3747a6899627962fd4e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702491,
+            "locality_id":1310209615,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1310209615,
+    "wof:lastmodified":1536845214,
+    "wof:name":"Irawara",
+    "wof:parent_id":1091702491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.81372,
+    -6.28924,
+    143.81372,
+    -6.28924
+],
+  "geometry": {"coordinates":[143.81371999999999,-6.28924],"type":"Point"}
+}

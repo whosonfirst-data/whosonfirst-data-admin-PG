@@ -1,0 +1,65 @@
+{
+  "id": 1343738591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.17272,-2.2021,147.17272,-2.2021",
+    "geom:latitude":-2.2021,
+    "geom:longitude":147.17272,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Peri",
+    "gn:country_code":"PG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088432,
+    "gn:latitude":-2.2021,
+    "gn:longitude":147.17272,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Peri",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pere",
+        "Peri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088432
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"238b0f67a1e56c554ad0784f24a55787",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343738591,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343738591,
+    "wof:lastmodified":1537677075,
+    "wof:name":"Peri",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.17272,
+    -2.2021,
+    147.17272,
+    -2.2021
+],
+  "geometry": {"coordinates":[147.17272,-2.2021],"type":"Point"}
+}

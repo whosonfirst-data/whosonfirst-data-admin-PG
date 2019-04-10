@@ -1,0 +1,71 @@
+{
+  "id": 1243160231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.88209,-3.76873,142.88209,-3.76873",
+    "geom:latitude":-3.76873,
+    "geom:longitude":142.88209,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Jimbakum",
+    "gn:country_code":"PG",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095254,
+    "gn:latitude":-3.76873,
+    "gn:longitude":142.88209,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Jimbakum",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jibakim",
+        "Jimbakum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095254
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e7aa45a13d5b1c9c6aa4a24826f50483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705131,
+            "locality_id":1243160231,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1243160231,
+    "wof:lastmodified":1537677151,
+    "wof:name":"Jimbakum",
+    "wof:parent_id":1091705131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.88208999999995,
+    -3.76873,
+    142.88208999999995,
+    -3.76873
+],
+  "geometry": {"coordinates":[142.88208999999995,-3.76873],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326832149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.5328,-10.21557,150.5328,-10.21557",
+    "geom:latitude":-10.21557,
+    "geom:longitude":150.5328,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ginewa",
+    "gn:country_code":"PG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133489,
+    "gn:latitude":-10.21557,
+    "gn:longitude":150.5328,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Ginewa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133489
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"75f0b39f8429782475797426ad62f499",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702001,
+            "locality_id":1326832149,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1326832149,
+    "wof:lastmodified":1537046926,
+    "wof:name":"Ginewa",
+    "wof:parent_id":1091702001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.5328,
+    -10.21557,
+    150.5328,
+    -10.21557
+],
+  "geometry": {"coordinates":[150.53280000000001,-10.21557],"type":"Point"}
+}

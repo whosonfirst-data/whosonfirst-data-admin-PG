@@ -1,0 +1,67 @@
+{
+  "id": 1309784051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.71886,-4.2877,143.71886,-4.2877",
+    "geom:latitude":-4.2877,
+    "geom:longitude":143.71886,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Changriwa",
+    "gn:country_code":"PG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098616,
+    "gn:latitude":-4.2877,
+    "gn:longitude":143.71886,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Changriwa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098616
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"40aaca8fb82d7361b3cf44251d2ed774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702059,
+            "locality_id":1309784051,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1309784051,
+    "wof:lastmodified":1536962351,
+    "wof:name":"Changriwa",
+    "wof:parent_id":1091702059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.71886,
+    -4.2877,
+    143.71886,
+    -4.2877
+],
+  "geometry": {"coordinates":[143.71886000000001,-4.2877],"type":"Point"}
+}

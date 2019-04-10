@@ -1,0 +1,67 @@
+{
+  "id": 1310088961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.20084,-7.40637,146.20084,-7.40637",
+    "geom:latitude":-7.40637,
+    "geom:longitude":146.20084,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Aringi",
+    "gn:country_code":"PG",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100578,
+    "gn:latitude":-7.40637,
+    "gn:longitude":146.20084,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Aringi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100578
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"cd50606191535d8d8dbf9086589a3172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703633,
+            "locality_id":1310088961,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1310088961,
+    "wof:lastmodified":1537019539,
+    "wof:name":"Aringi",
+    "wof:parent_id":1091703633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.20084,
+    -7.40637,
+    146.20084,
+    -7.40637
+],
+  "geometry": {"coordinates":[146.20084,-7.40637],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293364857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.23417,-9.51,147.23417,-9.51",
+    "geom:latitude":-9.51,
+    "geom:longitude":147.23417,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Taurama",
+    "gn:country_code":"PG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2085693,
+    "gn:latitude":-9.51,
+    "gn:longitude":147.23417,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Taurama",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676581,
+        1091703859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085693
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b3e596cddab34c2c34017778e739357d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703859,
+            "locality_id":1293364857,
+            "region_id":85676581
+        }
+    ],
+    "wof:id":1293364857,
+    "wof:lastmodified":1536963729,
+    "wof:name":"Taurama",
+    "wof:parent_id":1091703859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.23417,
+    -9.51,
+    147.23417,
+    -9.51
+],
+  "geometry": {"coordinates":[147.23417000000001,-9.51],"type":"Point"}
+}

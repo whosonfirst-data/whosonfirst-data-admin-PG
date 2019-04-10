@@ -1,0 +1,67 @@
+{
+  "id": 1243343541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.90019,-5.97804,145.90019,-5.97804",
+    "geom:latitude":-5.97804,
+    "geom:longitude":145.90019,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Bumbu",
+    "gn:country_code":"PG",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098840,
+    "gn:latitude":-5.97804,
+    "gn:longitude":145.90019,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Bumbu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098840
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"42fe616974974d5cfefe324711225fbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704819,
+            "locality_id":1243343541,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1243343541,
+    "wof:lastmodified":1536954071,
+    "wof:name":"Bumbu",
+    "wof:parent_id":1091704819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.90018999999995,
+    -5.97804,
+    145.90018999999995,
+    -5.97804
+],
+  "geometry": {"coordinates":[145.90018999999995,-5.97804],"type":"Point"}
+}

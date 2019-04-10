@@ -1,0 +1,67 @@
+{
+  "id": 1343979473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"155.26134,-5.88947,155.26134,-5.88947",
+    "geom:latitude":-5.88947,
+    "geom:longitude":155.26134,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Teperoi",
+    "gn:country_code":"PG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085551,
+    "gn:latitude":-5.88947,
+    "gn:longitude":155.26134,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Teperoi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676543,
+        1091702121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085551
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3d0cfda2e17e2d4571eebfc8f20dca09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702121,
+            "locality_id":1343979473,
+            "region_id":85676543
+        }
+    ],
+    "wof:id":1343979473,
+    "wof:lastmodified":1536991812,
+    "wof:name":"Teperoi",
+    "wof:parent_id":1091702121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    155.26134,
+    -5.88947,
+    155.26134,
+    -5.88947
+],
+  "geometry": {"coordinates":[155.26133999999999,-5.88947],"type":"Point"}
+}

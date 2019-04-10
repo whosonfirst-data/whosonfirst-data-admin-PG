@@ -1,0 +1,67 @@
+{
+  "id": 1242578481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.01128,-9.05477,148.01128,-9.05477",
+    "geom:latitude":-9.05477,
+    "geom:longitude":148.01128,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Namanaia",
+    "gn:country_code":"PG",
+    "gn:dem":851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090035,
+    "gn:latitude":-9.05477,
+    "gn:longitude":148.01128,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Namanaia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091704393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090035
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9eb483e50128f13180027321d1b65ecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704393,
+            "locality_id":1242578481,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1242578481,
+    "wof:lastmodified":1537059753,
+    "wof:name":"Namanaia",
+    "wof:parent_id":1091704393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.01128,
+    -9.05477,
+    148.01128,
+    -9.05477
+],
+  "geometry": {"coordinates":[148.01128,-9.05477],"type":"Point"}
+}

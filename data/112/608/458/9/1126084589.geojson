@@ -1,0 +1,93 @@
+{
+  "id": 1126084589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.16013,-9.45958,147.16013,-9.45958",
+    "geom:latitude":-9.45958,
+    "geom:longitude":147.16013,
+    "gn:gn_country":"PG",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"PG",
+    "lbl:latitude":-9.45958,
+    "lbl:longitude":147.16013,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PG",
+    "qs_pg:gn_country":"PG",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":2096101,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Hohola",
+    "qs_pg:name_adm0":"Papua New Guinea",
+    "qs_pg:name_adm1":"National Capital",
+    "qs_pg:photos":30,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":30,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1318158,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424926,
+    "qs_pg:woe_id":1053910,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424926,
+    "woe:name_adm0":"Papua New Guinea",
+    "woe:name_adm1":"National Capital",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85676581,
+        102191583,
+        85632347,
+        1091703859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096101,
+        "gp:id":1053910,
+        "qs_pg:id":1318158
+    },
+    "wof:country":"PG",
+    "wof:created":1497312547,
+    "wof:geomhash":"831d6a2d26de8e5b1cd4c45dee18f400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703859,
+            "locality_id":-1,
+            "neighbourhood_id":1126084589,
+            "region_id":85676581
+        }
+    ],
+    "wof:id":1126084589,
+    "wof:lastmodified":1534379398,
+    "wof:name":"Hohola",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[
+        85768633
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.16013,
+    -9.45958,
+    147.16013,
+    -9.45958
+],
+  "geometry": {"coordinates":[147.16013000000001,-9.45958],"type":"Point"}
+}

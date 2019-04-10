@@ -1,0 +1,67 @@
+{
+  "id": 1293012077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.96869,-9.7451,149.96869,-9.7451",
+    "geom:latitude":-9.7451,
+    "geom:longitude":149.96869,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Banapa",
+    "gn:country_code":"PG",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099935,
+    "gn:latitude":-9.7451,
+    "gn:longitude":149.96869,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Banapa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099935
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"19b9f9f54b29fd96e6909fedef5009f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702001,
+            "locality_id":1293012077,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1293012077,
+    "wof:lastmodified":1536974846,
+    "wof:name":"Banapa",
+    "wof:parent_id":1091702001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.96868999999995,
+    -9.7451,
+    149.96868999999995,
+    -9.7451
+],
+  "geometry": {"coordinates":[149.96868999999995,-9.7451],"type":"Point"}
+}

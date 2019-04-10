@@ -1,0 +1,71 @@
+{
+  "id": 1310219419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.05994,-9.44072,147.05994,-9.44072",
+    "geom:latitude":-9.44072,
+    "geom:longitude":147.05994,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Koderika",
+    "gn:country_code":"PG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093778,
+    "gn:latitude":-9.44072,
+    "gn:longitude":147.05994,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"Koderika",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kouderika",
+        "Koderika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091702751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093778
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ca25570909bd3a77352a7b5e8917cc6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702751,
+            "locality_id":1310219419,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1310219419,
+    "wof:lastmodified":1537677135,
+    "wof:name":"Koderika",
+    "wof:parent_id":1091702751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.05993999999995,
+    -9.44072,
+    147.05993999999995,
+    -9.44072
+],
+  "geometry": {"coordinates":[147.05993999999995,-9.44072],"type":"Point"}
+}

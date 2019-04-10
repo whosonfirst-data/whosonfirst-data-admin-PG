@@ -1,0 +1,71 @@
+{
+  "id": 1293191461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.83102,-6.03258,144.83102,-6.03258",
+    "geom:latitude":-6.03258,
+    "geom:longitude":144.83102,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Damagauma Number 2",
+    "gn:country_code":"PG",
+    "gn:dem":1917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098408,
+    "gn:latitude":-6.03258,
+    "gn:longitude":144.83102,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Damagauma Number 2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Damagauma 2",
+        "Damagauma Number 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091703003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098408
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f250a0f25d3ccac066f12ae5af576fb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703003,
+            "locality_id":1293191461,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1293191461,
+    "wof:lastmodified":1537677185,
+    "wof:name":"Damagauma Number 2",
+    "wof:parent_id":1091703003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.83102,
+    -6.03258,
+    144.83102,
+    -6.03258
+],
+  "geometry": {"coordinates":[144.83102,-6.03258],"type":"Point"}
+}

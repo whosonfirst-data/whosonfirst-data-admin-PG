@@ -1,0 +1,106 @@
+{
+  "id": 421176839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.71798,-7.33514,146.71798,-7.33514",
+    "geom:latitude":-7.33514,
+    "geom:longitude":146.71798,
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Wau"
+    ],
+    "name:fin_x_preferred":[
+        "Wau"
+    ],
+    "name:fra_x_preferred":[
+        "Wau"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ef\u30a6"
+    ],
+    "name:pol_x_preferred":[
+        "Wau"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0443"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u70cf"
+    ],
+    "qs:gn_country":"PG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2083653,
+    "qs:gn_pop":14629,
+    "qs:name":"Wau",
+    "qs:name_adm0":"Papua New Guinea",
+    "qs:name_adm1":"Morobe",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1086714,
+    "qs:woe_adm0":23424926,
+    "qs:woe_id":1062185,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:elevation":1080.0,
+    "wd:latitude":-7.533333,
+    "wd:longitude":147.2,
+    "wd:wordcount":963,
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083653,
+        "gp:id":1062185,
+        "qs:id":1086714,
+        "wd:id":"Q954956",
+        "wk:page":"Wau, Papua New Guinea"
+    },
+    "wof:country":"PG",
+    "wof:created":1459009121,
+    "wof:geomhash":"ed89843f907b3077e2a95bd0df2208fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702091,
+            "locality_id":421176839,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":421176839,
+    "wof:lastmodified":1527726477,
+    "wof:name":"Wau",
+    "wof:parent_id":1091702091,
+    "wof:placetype":"locality",
+    "wof:population":14629,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.71798,
+    -7.33514,
+    146.71798,
+    -7.33514
+],
+  "geometry": {"coordinates":[146.71798000000001,-7.33514],"type":"Point"}
+}

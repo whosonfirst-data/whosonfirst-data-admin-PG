@@ -1,0 +1,66 @@
+{
+  "id": 1276881959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.95,-8.06667,145.95,-8.06667",
+    "geom:latitude":-8.06667,
+    "geom:longitude":145.95,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ivorika",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095363,
+    "gn:latitude":-8.06667,
+    "gn:longitude":145.95,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ivorika",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imefire",
+        "Ivorika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095363
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"19021c59dc0ee6938b8c163ac3f8d997",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276881959,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276881959,
+    "wof:lastmodified":1537677152,
+    "wof:name":"Ivorika",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.95,
+    -8.06667,
+    145.95,
+    -8.06667
+],
+  "geometry": {"coordinates":[145.94999999999999,-8.06667],"type":"Point"}
+}

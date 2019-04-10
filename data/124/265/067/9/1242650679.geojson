@@ -1,0 +1,61 @@
+{
+  "id": 1242650679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.15109,-2.34721,150.15109,-2.34721",
+    "geom:latitude":-2.34721,
+    "geom:longitude":150.15109,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Neitab",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089771,
+    "gn:latitude":-2.34721,
+    "gn:longitude":150.15109,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Neitab",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089771
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d53fe6d16b6e5005464454ae48a3d63d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242650679,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242650679,
+    "wof:lastmodified":1536958646,
+    "wof:name":"Neitab",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.15108999999995,
+    -2.34721,
+    150.15108999999995,
+    -2.34721
+],
+  "geometry": {"coordinates":[150.15108999999995,-2.34721],"type":"Point"}
+}

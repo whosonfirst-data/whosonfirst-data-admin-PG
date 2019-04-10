@@ -1,0 +1,67 @@
+{
+  "id": 1310186363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.59322,-3.51997,143.59322,-3.51997",
+    "geom:latitude":-3.51997,
+    "geom:longitude":143.59322,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Wom",
+    "gn:country_code":"PG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083383,
+    "gn:latitude":-3.51997,
+    "gn:longitude":143.59322,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Wom",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083383
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"bca39a07f50590a718e352fcc5fd24b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705089,
+            "locality_id":1310186363,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1310186363,
+    "wof:lastmodified":1536879157,
+    "wof:name":"Wom",
+    "wof:parent_id":1091705089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.59322,
+    -3.51997,
+    143.59322,
+    -3.51997
+],
+  "geometry": {"coordinates":[143.59322,-3.51997],"type":"Point"}
+}

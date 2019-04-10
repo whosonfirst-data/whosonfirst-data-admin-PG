@@ -1,0 +1,71 @@
+{
+  "id": 1210008977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.50583,-5.92032,141.50583,-5.92032",
+    "geom:latitude":-5.92032,
+    "geom:longitude":141.50583,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tupensomrae",
+    "gn:country_code":"PG",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084969,
+    "gn:latitude":-5.92032,
+    "gn:longitude":141.50583,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tupensomrae",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tupensomre",
+        "Tupensomrae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084969
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c245e1d8039cd1f713524a30941612c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1210008977,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1210008977,
+    "wof:lastmodified":1537677042,
+    "wof:name":"Tupensomrae",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.50583,
+    -5.92032,
+    141.50583,
+    -5.92032
+],
+  "geometry": {"coordinates":[141.50583,-5.92032],"type":"Point"}
+}

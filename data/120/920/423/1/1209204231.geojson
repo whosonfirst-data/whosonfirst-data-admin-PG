@@ -1,0 +1,66 @@
+{
+  "id": 1209204231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.38333,-6.38333,145.38333,-6.38333",
+    "geom:latitude":-6.38333,
+    "geom:longitude":145.38333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Habagabena Number 2",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":2469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096477,
+    "gn:latitude":-6.38333,
+    "gn:longitude":145.38333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Habagabena Number 2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Habagabena 2",
+        "Habagabena Number 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096477
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"63b2e340fc7680e1e178906dc57fb07a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209204231
+        }
+    ],
+    "wof:id":1209204231,
+    "wof:lastmodified":1537677165,
+    "wof:name":"Habagabena Number 2",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.38333,
+    -6.38333,
+    145.38333,
+    -6.38333
+],
+  "geometry": {"coordinates":[145.38333,-6.38333],"type":"Point"}
+}

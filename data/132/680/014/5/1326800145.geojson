@@ -1,0 +1,67 @@
+{
+  "id": 1326800145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.76667,-5.98333,144.76667,-5.98333",
+    "geom:latitude":-5.98333,
+    "geom:longitude":144.76667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Anunggabam",
+    "gn:country_code":"PG",
+    "gn:dem":1767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100729,
+    "gn:latitude":-5.98333,
+    "gn:longitude":144.76667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Anunggabam",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091703003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100729
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"09d0b7af9f8e8dd0be3a8a0751095acb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703003,
+            "locality_id":1326800145,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1326800145,
+    "wof:lastmodified":1537091886,
+    "wof:name":"Anunggabam",
+    "wof:parent_id":1091703003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.76667,
+    -5.98333,
+    144.76667,
+    -5.98333
+],
+  "geometry": {"coordinates":[144.76667,-5.98333],"type":"Point"}
+}

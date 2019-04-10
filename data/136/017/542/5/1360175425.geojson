@@ -1,0 +1,67 @@
+{
+  "id": 1360175425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.87548,-6.10164,144.87548,-6.10164",
+    "geom:latitude":-6.10164,
+    "geom:longitude":144.87548,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kebamiankani",
+    "gn:country_code":"PG",
+    "gn:dem":2260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094285,
+    "gn:latitude":-6.10164,
+    "gn:longitude":144.87548,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kebamiankani",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091702431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094285
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"588d525a7283df567a9bfa020e6964f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702431,
+            "locality_id":1360175425,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1360175425,
+    "wof:lastmodified":1536814662,
+    "wof:name":"Kebamiankani",
+    "wof:parent_id":1091702431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.87548,
+    -6.10164,
+    144.87548,
+    -6.10164
+],
+  "geometry": {"coordinates":[144.87548000000001,-6.10164],"type":"Point"}
+}

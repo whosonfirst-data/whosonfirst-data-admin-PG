@@ -1,0 +1,67 @@
+{
+  "id": 1259853349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.68744,-6.22824,147.68744,-6.22824",
+    "geom:latitude":-6.22824,
+    "geom:longitude":147.68744,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kanzarua",
+    "gn:country_code":"PG",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094692,
+    "gn:latitude":-6.22824,
+    "gn:longitude":147.68744,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kanzarua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091704719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094692
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"5ff2b5e170612c653117d2f6da9c56b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704719,
+            "locality_id":1259853349,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1259853349,
+    "wof:lastmodified":1536821787,
+    "wof:name":"Kanzarua",
+    "wof:parent_id":1091704719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.68743999999995,
+    -6.22824,
+    147.68743999999995,
+    -6.22824
+],
+  "geometry": {"coordinates":[147.68743999999995,-6.22824],"type":"Point"}
+}

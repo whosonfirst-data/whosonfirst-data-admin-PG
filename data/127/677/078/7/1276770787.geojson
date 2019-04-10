@@ -1,0 +1,71 @@
+{
+  "id": 1276770787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.70382,-10.65445,152.70382,-10.65445",
+    "geom:latitude":-10.65445,
+    "geom:longitude":152.70382,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Liak",
+    "gn:country_code":"PG",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133016,
+    "gn:latitude":-10.65445,
+    "gn:longitude":152.70382,
+    "gn:modification_date":"2015-05-31",
+    "gn:name":"Liak",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liag",
+        "Liak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091704299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133016
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"72208ec92920b873761cbdf2b859038b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704299,
+            "locality_id":1276770787,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1276770787,
+    "wof:lastmodified":1537677222,
+    "wof:name":"Liak",
+    "wof:parent_id":1091704299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.70382,
+    -10.65445,
+    152.70382,
+    -10.65445
+],
+  "geometry": {"coordinates":[152.70382000000001,-10.65445],"type":"Point"}
+}

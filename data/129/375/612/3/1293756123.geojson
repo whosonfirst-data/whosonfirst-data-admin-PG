@@ -1,0 +1,67 @@
+{
+  "id": 1293756123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.29493,-5.7583,144.29493,-5.7583",
+    "geom:latitude":-5.7583,
+    "geom:longitude":144.29493,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Gumants",
+    "gn:country_code":"PG",
+    "gn:dem":1591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8529120,
+    "gn:latitude":-5.7583,
+    "gn:longitude":144.29493,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Gumants",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676551,
+        1091702251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8529120
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"de8e2f28509dfd6160b549103668f095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702251,
+            "locality_id":1293756123,
+            "region_id":85676551
+        }
+    ],
+    "wof:id":1293756123,
+    "wof:lastmodified":1536896851,
+    "wof:name":"Gumants",
+    "wof:parent_id":1091702251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.29493,
+    -5.7583,
+    144.29493,
+    -5.7583
+],
+  "geometry": {"coordinates":[144.29492999999999,-5.7583],"type":"Point"}
+}

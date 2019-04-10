@@ -1,0 +1,71 @@
+{
+  "id": 1343348693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.20081,-4.79586,146.20081,-4.79586",
+    "geom:latitude":-4.79586,
+    "geom:longitude":146.20081,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Badilu",
+    "gn:country_code":"PG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100147,
+    "gn:latitude":-4.79586,
+    "gn:longitude":146.20081,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Badilu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Badulo",
+        "Badilu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100147
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c4fc23c2d362d28e235f46b0cd639317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704517,
+            "locality_id":1343348693,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1343348693,
+    "wof:lastmodified":1537677205,
+    "wof:name":"Badilu",
+    "wof:parent_id":1091704517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.20081000000005,
+    -4.79586,
+    146.20081000000005,
+    -4.79586
+],
+  "geometry": {"coordinates":[146.20081000000005,-4.79586],"type":"Point"}
+}

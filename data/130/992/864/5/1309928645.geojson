@@ -1,0 +1,67 @@
+{
+  "id": 1309928645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.45,-6.1,143.45,-6.1",
+    "geom:latitude":-6.1,
+    "geom:longitude":143.45,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ingin",
+    "gn:country_code":"PG",
+    "gn:dem":1886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095591,
+    "gn:latitude":-6.1,
+    "gn:longitude":143.45,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Ingin",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091703589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095591
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"6448ba38b1ae192e75262569c1ce18cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703589,
+            "locality_id":1309928645,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1309928645,
+    "wof:lastmodified":1536754072,
+    "wof:name":"Ingin",
+    "wof:parent_id":1091703589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.45,
+    -6.1,
+    143.45,
+    -6.1
+],
+  "geometry": {"coordinates":[143.44999999999999,-6.1],"type":"Point"}
+}

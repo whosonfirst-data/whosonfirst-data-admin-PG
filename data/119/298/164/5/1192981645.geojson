@@ -1,0 +1,67 @@
+{
+  "id": 1192981645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.14531,-4.69808,141.14531,-4.69808",
+    "geom:latitude":-4.69808,
+    "geom:longitude":141.14531,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Kaidagoyin",
+    "gn:country_code":"PG",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095069,
+    "gn:latitude":-4.69808,
+    "gn:longitude":141.14531,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kaidagoyin",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091704679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095069
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"682a7a91bc1e3eb9bbb04d4405677133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704679,
+            "locality_id":1192981645,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1192981645,
+    "wof:lastmodified":1536367286,
+    "wof:name":"Kaidagoyin",
+    "wof:parent_id":1091704679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.14531000000005,
+    -4.69808,
+    141.14531000000005,
+    -4.69808
+],
+  "geometry": {"coordinates":[141.14531000000005,-4.69808],"type":"Point"}
+}

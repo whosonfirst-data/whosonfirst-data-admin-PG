@@ -1,0 +1,72 @@
+{
+  "id": 1327154417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.93333,-5.9,144.93333,-5.9",
+    "geom:latitude":-5.9,
+    "geom:longitude":144.93333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Biakane",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":2606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099569,
+    "gn:latitude":-5.9,
+    "gn:longitude":144.93333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Biakane",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baikane",
+        "Biakane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091703003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099569
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"676bb58bbd158d7d31bec0dabb12c757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703003,
+            "locality_id":1327154417,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1327154417,
+    "wof:lastmodified":1537677198,
+    "wof:name":"Biakane",
+    "wof:parent_id":1091703003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.93333,
+    -5.9,
+    144.93333,
+    -5.9
+],
+  "geometry": {"coordinates":[144.93333000000001,-5.9],"type":"Point"}
+}

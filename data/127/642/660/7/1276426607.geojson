@@ -1,0 +1,67 @@
+{
+  "id": 1276426607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.95365,-6.0499,144.95365,-6.0499",
+    "geom:latitude":-6.0499,
+    "geom:longitude":144.95365,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Nuilgauma",
+    "gn:country_code":"PG",
+    "gn:dem":1599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089426,
+    "gn:latitude":-6.0499,
+    "gn:longitude":144.95365,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Nuilgauma",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091702431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089426
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"00317dee73f2503f07b0be380a0bf2da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702431,
+            "locality_id":1276426607,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1276426607,
+    "wof:lastmodified":1536653654,
+    "wof:name":"Nuilgauma",
+    "wof:parent_id":1091702431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.95365,
+    -6.0499,
+    144.95365,
+    -6.0499
+],
+  "geometry": {"coordinates":[144.95365000000001,-6.0499],"type":"Point"}
+}

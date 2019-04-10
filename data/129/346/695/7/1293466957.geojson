@@ -1,0 +1,67 @@
+{
+  "id": 1293466957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.70984,-4.48738,144.70984,-4.48738",
+    "geom:latitude":-4.48738,
+    "geom:longitude":144.70984,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Avunkum",
+    "gn:country_code":"PG",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100249,
+    "gn:latitude":-4.48738,
+    "gn:longitude":144.70984,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Avunkum",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091702063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100249
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"37f98b9e808dc6fa9e14b502be87d7e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702063,
+            "locality_id":1293466957,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1293466957,
+    "wof:lastmodified":1536816008,
+    "wof:name":"Avunkum",
+    "wof:parent_id":1091702063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.70984,
+    -4.48738,
+    144.70984,
+    -4.48738
+],
+  "geometry": {"coordinates":[144.70984000000001,-4.48738],"type":"Point"}
+}

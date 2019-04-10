@@ -1,0 +1,67 @@
+{
+  "id": 1309928019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.48601,-7.00391,141.48601,-7.00391",
+    "geom:latitude":-7.00391,
+    "geom:longitude":141.48601,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Lake Murray Patrol Post",
+    "gn:country_code":"PG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8527806,
+    "gn:latitude":-7.00391,
+    "gn:longitude":141.48601,
+    "gn:modification_date":"2014-11-02",
+    "gn:name":"Lake Murray Patrol Post",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091703673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8527806
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d9051acf0e21b63fb1cbf6c3a5aec8e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703673,
+            "locality_id":1309928019,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1309928019,
+    "wof:lastmodified":1536755026,
+    "wof:name":"Lake Murray Patrol Post",
+    "wof:parent_id":1091703673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.48601000000005,
+    -7.00391,
+    141.48601000000005,
+    -7.00391
+],
+  "geometry": {"coordinates":[141.48601000000005,-7.00391],"type":"Point"}
+}

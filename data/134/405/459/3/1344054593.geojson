@@ -1,0 +1,71 @@
+{
+  "id": 1344054593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.26457,-8.90271,141.26457,-8.90271",
+    "geom:latitude":-8.90271,
+    "geom:longitude":141.26457,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Wando",
+    "gn:country_code":"PG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083927,
+    "gn:latitude":-8.90271,
+    "gn:longitude":141.26457,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Wando",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kau",
+        "Wando"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083927
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"80dc361f6c93b820d922d035d532b048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704467,
+            "locality_id":1344054593,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1344054593,
+    "wof:lastmodified":1537677032,
+    "wof:name":"Wando",
+    "wof:parent_id":1091704467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.26457,
+    -8.90271,
+    141.26457,
+    -8.90271
+],
+  "geometry": {"coordinates":[141.26456999999999,-8.90271],"type":"Point"}
+}

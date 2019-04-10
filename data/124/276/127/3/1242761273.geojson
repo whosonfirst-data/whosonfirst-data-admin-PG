@@ -1,0 +1,67 @@
+{
+  "id": 1242761273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.30241,-6.0274,147.30241,-6.0274",
+    "geom:latitude":-6.0274,
+    "geom:longitude":147.30241,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Lebangande",
+    "gn:country_code":"PG",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092456,
+    "gn:latitude":-6.0274,
+    "gn:longitude":147.30241,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Lebangande",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091704719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092456
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"7a47a5338f41803480e583b68681cf52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704719,
+            "locality_id":1242761273,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1242761273,
+    "wof:lastmodified":1536799222,
+    "wof:name":"Lebangande",
+    "wof:parent_id":1091704719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.30241,
+    -6.0274,
+    147.30241,
+    -6.0274
+],
+  "geometry": {"coordinates":[147.30241000000001,-6.0274],"type":"Point"}
+}

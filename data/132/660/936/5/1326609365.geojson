@@ -1,0 +1,71 @@
+{
+  "id": 1326609365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.18406,-2.11197,147.18406,-2.11197",
+    "geom:latitude":-2.11197,
+    "geom:longitude":147.18406,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Karron",
+    "gn:country_code":"PG",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094535,
+    "gn:latitude":-2.11197,
+    "gn:longitude":147.18406,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Karron",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karon",
+        "Karron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676569,
+        1091703475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094535
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b48109821bd46b89df14e493df05283c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703475,
+            "locality_id":1326609365,
+            "region_id":85676569
+        }
+    ],
+    "wof:id":1326609365,
+    "wof:lastmodified":1537677143,
+    "wof:name":"Karron",
+    "wof:parent_id":1091703475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.18406000000004,
+    -2.11197,
+    147.18406000000004,
+    -2.11197
+],
+  "geometry": {"coordinates":[147.18406000000004,-2.11197],"type":"Point"}
+}

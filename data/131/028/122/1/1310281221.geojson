@@ -1,0 +1,61 @@
+{
+  "id": 1310281221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.48333,-5.55,149.48333,-5.55",
+    "geom:latitude":-5.55,
+    "geom:longitude":149.48333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Guhi",
+    "gn:country_code":"PG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096647,
+    "gn:latitude":-5.55,
+    "gn:longitude":149.48333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Guhi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096647
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"79d4497b31a4166bbba391c3c8d6bb65",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310281221,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310281221,
+    "wof:lastmodified":1536742733,
+    "wof:name":"Guhi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.48333,
+    -5.55,
+    149.48333,
+    -5.55
+],
+  "geometry": {"coordinates":[149.48333,-5.55],"type":"Point"}
+}

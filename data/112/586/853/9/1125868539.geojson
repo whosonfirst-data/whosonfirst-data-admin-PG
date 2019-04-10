@@ -1,0 +1,106 @@
+{
+  "id": 1125868539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.06609,-4.06253,144.06609,-4.06253",
+    "geom:latitude":-4.06253,
+    "geom:longitude":144.06609,
+    "gn:gn_country":"PG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1604,
+    "gn:population":1604,
+    "iso:country":"PG",
+    "lbl:latitude":-4.06253,
+    "lbl:longitude":144.06609,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Angoram"
+    ],
+    "name:eng_x_preferred":[
+        "Angoram"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30b4\u30e9\u30e0"
+    ],
+    "name:per_x_preferred":[
+        "\u0622\u0646\u06af\u0648\u0631\u0627\u0645"
+    ],
+    "name:pol_x_preferred":[
+        "Angoram"
+    ],
+    "name:por_x_preferred":[
+        "Angoram"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0433\u043e\u0440\u0430\u043c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0433\u043e\u0440\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Angorum"
+    ],
+    "qs_pg:aaroncc":"PG",
+    "qs_pg:gn_country":"PG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2100765,
+    "qs_pg:gn_pop":1604,
+    "qs_pg:name":"Angoram",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":138426,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100765,
+        "qs_pg:id":138426,
+        "wd:id":"Q1280462"
+    },
+    "wof:country":"PG",
+    "wof:created":1497294168,
+    "wof:geomhash":"1db53bea19cf357eef2d7cf8c08547bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702059,
+            "locality_id":1125868539,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1125868539,
+    "wof:lastmodified":1514495984,
+    "wof:name":"Angoram",
+    "wof:parent_id":1091702059,
+    "wof:placetype":"locality",
+    "wof:population":1604,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.06609,
+    -4.06253,
+    144.06609,
+    -4.06253
+],
+  "geometry": {"coordinates":[144.06609,-4.06253],"type":"Point"}
+}

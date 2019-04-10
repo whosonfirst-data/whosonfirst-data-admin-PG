@@ -1,0 +1,67 @@
+{
+  "id": 1360179869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.63333,-8.23333,143.63333,-8.23333",
+    "geom:latitude":-8.23333,
+    "geom:longitude":143.63333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dibiri",
+    "gn:country_code":"PG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098197,
+    "gn:latitude":-8.23333,
+    "gn:longitude":143.63333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Dibiri",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098197
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"93bc5d6b731d2ebe5c52fb2aadd81aaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704467,
+            "locality_id":1360179869,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1360179869,
+    "wof:lastmodified":1536808588,
+    "wof:name":"Dibiri",
+    "wof:parent_id":1091704467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.63333,
+    -8.23333,
+    143.63333,
+    -8.23333
+],
+  "geometry": {"coordinates":[143.63333,-8.23333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225818555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.68889,-2.69139,150.68889,-2.69139",
+    "geom:latitude":-2.69139,
+    "geom:longitude":150.68889,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Patitaun",
+    "gn:country_code":"PG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2114199,
+    "gn:latitude":-2.69139,
+    "gn:longitude":150.68889,
+    "gn:modification_date":"2002-10-03",
+    "gn:name":"Patitaun",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091702917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2114199
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"df73d01d3bfa870b713e08fa1e8d2d32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702917,
+            "locality_id":1225818555,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1225818555,
+    "wof:lastmodified":1537050850,
+    "wof:name":"Patitaun",
+    "wof:parent_id":1091702917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.68889,
+    -2.69139,
+    150.68889,
+    -2.69139
+],
+  "geometry": {"coordinates":[150.68888999999999,-2.69139],"type":"Point"}
+}

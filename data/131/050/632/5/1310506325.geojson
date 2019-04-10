@@ -1,0 +1,67 @@
+{
+  "id": 1310506325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.93333,-6.35,143.93333,-6.35",
+    "geom:latitude":-6.35,
+    "geom:longitude":143.93333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Urandorie",
+    "gn:country_code":"PG",
+    "gn:dem":1837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084604,
+    "gn:latitude":-6.35,
+    "gn:longitude":143.93333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Urandorie",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084604
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"bbe5088910be4471ac2498fa4eceacfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702491,
+            "locality_id":1310506325,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1310506325,
+    "wof:lastmodified":1536916192,
+    "wof:name":"Urandorie",
+    "wof:parent_id":1091702491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.93333,
+    -6.35,
+    143.93333,
+    -6.35
+],
+  "geometry": {"coordinates":[143.93333000000001,-6.35],"type":"Point"}
+}

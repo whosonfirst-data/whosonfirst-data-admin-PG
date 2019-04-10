@@ -1,0 +1,70 @@
+{
+  "id": 1344229467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.60273,-5.48454,144.60273,-5.48454",
+    "geom:latitude":-5.48454,
+    "geom:longitude":144.60273,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Koinambe",
+    "gn:country_code":"PG",
+    "gn:dem":888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093726,
+    "gn:latitude":-5.48454,
+    "gn:longitude":144.60273,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Koinambe",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koinambi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        1108805613,
+        1091702609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093726
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d5d59a2747ac88099eea201a52c25b86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702609,
+            "locality_id":1344229467,
+            "region_id":1108805613
+        }
+    ],
+    "wof:id":1344229467,
+    "wof:lastmodified":1537677134,
+    "wof:name":"Koinambe",
+    "wof:parent_id":1091702609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.60273,
+    -5.48454,
+    144.60273,
+    -5.48454
+],
+  "geometry": {"coordinates":[144.60273000000001,-5.48454],"type":"Point"}
+}

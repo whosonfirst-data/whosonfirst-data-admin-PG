@@ -1,0 +1,67 @@
+{
+  "id": 1310684599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.39947,-6.71335,147.39947,-6.71335",
+    "geom:latitude":-6.71335,
+    "geom:longitude":147.39947,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Yambo",
+    "gn:country_code":"PG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083138,
+    "gn:latitude":-6.71335,
+    "gn:longitude":147.39947,
+    "gn:modification_date":"2015-04-11",
+    "gn:name":"Yambo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083138
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1b7a8b09a9893e195e5e78081ec5cfab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703899,
+            "locality_id":1310684599,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1310684599,
+    "wof:lastmodified":1536658645,
+    "wof:name":"Yambo",
+    "wof:parent_id":1091703899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.39947,
+    -6.71335,
+    147.39947,
+    -6.71335
+],
+  "geometry": {"coordinates":[147.39947000000001,-6.71335],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209094251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.75232,-4.44117,143.75232,-4.44117",
+    "geom:latitude":-4.44117,
+    "geom:longitude":143.75232,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Araining",
+    "gn:country_code":"PG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100669,
+    "gn:latitude":-4.44117,
+    "gn:longitude":143.75232,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Araining",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100669
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"41af698c807e5d7fcb7414eecfe3af74",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209094251
+        }
+    ],
+    "wof:id":1209094251,
+    "wof:lastmodified":1536297938,
+    "wof:name":"Araining",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.75232,
+    -4.44117,
+    143.75232,
+    -4.44117
+],
+  "geometry": {"coordinates":[143.75232,-4.44117],"type":"Point"}
+}

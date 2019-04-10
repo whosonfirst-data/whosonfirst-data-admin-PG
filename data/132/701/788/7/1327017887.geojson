@@ -1,0 +1,67 @@
+{
+  "id": 1327017887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.31667,-4.2,143.31667,-4.2",
+    "geom:latitude":-4.2,
+    "geom:longitude":143.31667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Jegowi",
+    "gn:country_code":"PG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095269,
+    "gn:latitude":-4.2,
+    "gn:longitude":143.31667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Jegowi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095269
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1b438d1b08bca3d8a91c1d5238c0ffab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705131,
+            "locality_id":1327017887,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1327017887,
+    "wof:lastmodified":1536781926,
+    "wof:name":"Jegowi",
+    "wof:parent_id":1091705131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.31667,
+    -4.2,
+    143.31667,
+    -4.2
+],
+  "geometry": {"coordinates":[143.31666999999999,-4.2],"type":"Point"}
+}

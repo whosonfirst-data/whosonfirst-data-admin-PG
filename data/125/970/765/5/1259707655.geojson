@@ -1,0 +1,67 @@
+{
+  "id": 1259707655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.37979,-8.76339,148.37979,-8.76339",
+    "geom:latitude":-8.76339,
+    "geom:longitude":148.37979,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dobuduru",
+    "gn:country_code":"PG",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098094,
+    "gn:latitude":-8.76339,
+    "gn:longitude":148.37979,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Dobuduru",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091702531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098094
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"183716f0084cd4af1cba592611291b5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702531,
+            "locality_id":1259707655,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1259707655,
+    "wof:lastmodified":1537030953,
+    "wof:name":"Dobuduru",
+    "wof:parent_id":1091702531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.37979,
+    -8.76339,
+    148.37979,
+    -8.76339
+],
+  "geometry": {"coordinates":[148.37979000000001,-8.76339],"type":"Point"}
+}

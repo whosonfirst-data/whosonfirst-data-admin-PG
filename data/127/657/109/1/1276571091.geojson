@@ -1,0 +1,67 @@
+{
+  "id": 1276571091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.06101,-6.12392,145.06101,-6.12392",
+    "geom:latitude":-6.12392,
+    "geom:longitude":145.06101,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Emigi",
+    "gn:country_code":"PG",
+    "gn:dem":1928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097688,
+    "gn:latitude":-6.12392,
+    "gn:longitude":145.06101,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Emigi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091704349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097688
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f3a28055e784a5a45cd3ff4e21d814d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704349,
+            "locality_id":1276571091,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1276571091,
+    "wof:lastmodified":1536957655,
+    "wof:name":"Emigi",
+    "wof:parent_id":1091704349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.06101,
+    -6.12392,
+    145.06101,
+    -6.12392
+],
+  "geometry": {"coordinates":[145.06101000000001,-6.12392],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344249685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.56357,-7.18125,141.56357,-7.18125",
+    "geom:latitude":-7.18125,
+    "geom:longitude":141.56357,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Miwa",
+    "gn:country_code":"PG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090680,
+    "gn:latitude":-7.18125,
+    "gn:longitude":141.56357,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Miwa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091703673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090680
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0a2d60df4ed4f9c64a154904db237c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703673,
+            "locality_id":1344249685,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1344249685,
+    "wof:lastmodified":1537096543,
+    "wof:name":"Miwa",
+    "wof:parent_id":1091703673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.56357,
+    -7.18125,
+    141.56357,
+    -7.18125
+],
+  "geometry": {"coordinates":[141.56357,-7.18125],"type":"Point"}
+}

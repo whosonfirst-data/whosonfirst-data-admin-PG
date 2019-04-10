@@ -1,0 +1,67 @@
+{
+  "id": 1360164949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.03825,-4.35495,145.03825,-4.35495",
+    "geom:latitude":-4.35495,
+    "geom:longitude":145.03825,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Yambainbai",
+    "gn:country_code":"PG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083147,
+    "gn:latitude":-4.35495,
+    "gn:longitude":145.03825,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Yambainbai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091702063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083147
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"07ec981d742478d6a499161b4ebb14e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702063,
+            "locality_id":1360164949,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1360164949,
+    "wof:lastmodified":1536829510,
+    "wof:name":"Yambainbai",
+    "wof:parent_id":1091702063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.03825,
+    -4.35495,
+    145.03825,
+    -4.35495
+],
+  "geometry": {"coordinates":[145.03825000000001,-4.35495],"type":"Point"}
+}

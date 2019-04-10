@@ -1,0 +1,71 @@
+{
+  "id": 1193117359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.86409,-5.00369,144.86409,-5.00369",
+    "geom:latitude":-5.00369,
+    "geom:longitude":144.86409,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Pasikam",
+    "gn:country_code":"PG",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088583,
+    "gn:latitude":-5.00369,
+    "gn:longitude":144.86409,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pasikam",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pasinkam",
+        "Pasikam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091703709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088583
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f3c98c4e80b763dfe837ae60d38a1efa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703709,
+            "locality_id":1193117359,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1193117359,
+    "wof:lastmodified":1537677077,
+    "wof:name":"Pasikam",
+    "wof:parent_id":1091703709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.86409,
+    -5.00369,
+    144.86409,
+    -5.00369
+],
+  "geometry": {"coordinates":[144.86409,-5.00369],"type":"Point"}
+}

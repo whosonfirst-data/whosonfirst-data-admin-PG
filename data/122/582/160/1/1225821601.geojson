@@ -1,0 +1,67 @@
+{
+  "id": 1225821601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.93068,-5.73362,148.93068,-5.73362",
+    "geom:latitude":-5.73362,
+    "geom:longitude":148.93068,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Benim",
+    "gn:country_code":"PG",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099638,
+    "gn:latitude":-5.73362,
+    "gn:longitude":148.93068,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Benim",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676599,
+        1091702827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099638
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9caac00f33569f4f1fadfaf6ed2939d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702827,
+            "locality_id":1225821601,
+            "region_id":85676599
+        }
+    ],
+    "wof:id":1225821601,
+    "wof:lastmodified":1537046615,
+    "wof:name":"Benim",
+    "wof:parent_id":1091702827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.93068,
+    -5.73362,
+    148.93068,
+    -5.73362
+],
+  "geometry": {"coordinates":[148.93068,-5.73362],"type":"Point"}
+}

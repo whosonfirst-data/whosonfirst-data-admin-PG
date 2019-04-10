@@ -1,0 +1,94 @@
+{
+  "id": 1125940089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.55,-6.21667,149.55,-6.21667",
+    "geom:latitude":-6.21667,
+    "geom:longitude":149.55,
+    "gn:gn_country":"PG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1014,
+    "gn:population":1014,
+    "iso:country":"PG",
+    "lbl:latitude":-6.21667,
+    "lbl:longitude":149.55,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Kandrian"
+    ],
+    "name:eng_x_preferred":[
+        "Kandrian"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30f3\u30c9\u30ea\u30a2\u30f3"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0627\u0646\u062f\u0631\u06cc\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0434\u0440\u0438\u0430\u043d"
+    ],
+    "qs_pg:aaroncc":"PG",
+    "qs_pg:gn_country":"PG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2094746,
+    "qs_pg:gn_pop":1014,
+    "qs_pg:name":"Kandrian",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":138348,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676599,
+        1091702827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094746,
+        "qs_pg:id":138348,
+        "wd:id":"Q4352079"
+    },
+    "wof:country":"PG",
+    "wof:created":1497297090,
+    "wof:geomhash":"eb6cb4ec02c8b6cab961421cb472b0df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702827,
+            "locality_id":1125940089,
+            "region_id":85676599
+        }
+    ],
+    "wof:id":1125940089,
+    "wof:lastmodified":1514496028,
+    "wof:name":"Kandrian",
+    "wof:parent_id":1091702827,
+    "wof:placetype":"locality",
+    "wof:population":1014,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.55,
+    -6.21667,
+    149.55,
+    -6.21667
+],
+  "geometry": {"coordinates":[149.55000000000001,-6.21667],"type":"Point"}
+}

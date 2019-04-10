@@ -1,0 +1,71 @@
+{
+  "id": 1343463473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.60044,-6.0319,143.60044,-6.0319",
+    "geom:latitude":-6.0319,
+    "geom:longitude":143.60044,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Pembi",
+    "gn:country_code":"PG",
+    "gn:dem":2156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088463,
+    "gn:latitude":-6.0319,
+    "gn:longitude":143.60044,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pembi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pambi",
+        "Pembi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091703589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088463
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f1d2101980c4c8bd03c29edb579fa7b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703589,
+            "locality_id":1343463473,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1343463473,
+    "wof:lastmodified":1537677076,
+    "wof:name":"Pembi",
+    "wof:parent_id":1091703589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.60044,
+    -6.0319,
+    143.60044,
+    -6.0319
+],
+  "geometry": {"coordinates":[143.60043999999999,-6.0319],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293022207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"154.24024,-4.52886,154.24024,-4.52886",
+    "geom:latitude":-4.52886,
+    "geom:longitude":154.24024,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mapiri",
+    "gn:country_code":"PG",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091481,
+    "gn:latitude":-4.52886,
+    "gn:longitude":154.24024,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Mapiri",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676543,
+        1091703967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091481
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"eb2b3109e05fae6b237a7ee839eba0e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703967,
+            "locality_id":1293022207,
+            "region_id":85676543
+        }
+    ],
+    "wof:id":1293022207,
+    "wof:lastmodified":1536960800,
+    "wof:name":"Mapiri",
+    "wof:parent_id":1091703967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    154.24024,
+    -4.52886,
+    154.24024,
+    -4.52886
+],
+  "geometry": {"coordinates":[154.24024,-4.52886],"type":"Point"}
+}

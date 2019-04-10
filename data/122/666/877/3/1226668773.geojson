@@ -1,0 +1,67 @@
+{
+  "id": 1226668773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.88333,-6.05,142.88333,-6.05",
+    "geom:latitude":-6.05,
+    "geom:longitude":142.88333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mingili",
+    "gn:country_code":"PG",
+    "gn:dem":1528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090769,
+    "gn:latitude":-6.05,
+    "gn:longitude":142.88333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Mingili",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        1108805615,
+        1091703179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090769
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"390be06b3106dc1de253d8f625897abe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703179,
+            "locality_id":1226668773,
+            "region_id":1108805615
+        }
+    ],
+    "wof:id":1226668773,
+    "wof:lastmodified":1536825418,
+    "wof:name":"Mingili",
+    "wof:parent_id":1091703179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.88333,
+    -6.05,
+    142.88333,
+    -6.05
+],
+  "geometry": {"coordinates":[142.88333,-6.05],"type":"Point"}
+}

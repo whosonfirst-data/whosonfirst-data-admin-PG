@@ -1,0 +1,67 @@
+{
+  "id": 1193256437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.05258,-4.36157,144.05258,-4.36157",
+    "geom:latitude":-4.36157,
+    "geom:longitude":144.05258,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kambuku",
+    "gn:country_code":"PG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094825,
+    "gn:latitude":-4.36157,
+    "gn:longitude":144.05258,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kambuku",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094825
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2f765db026e6d45b6425212d67354833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702059,
+            "locality_id":1193256437,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1193256437,
+    "wof:lastmodified":1536363990,
+    "wof:name":"Kambuku",
+    "wof:parent_id":1091702059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.05258,
+    -4.36157,
+    144.05258,
+    -4.36157
+],
+  "geometry": {"coordinates":[144.05258000000001,-4.36157],"type":"Point"}
+}

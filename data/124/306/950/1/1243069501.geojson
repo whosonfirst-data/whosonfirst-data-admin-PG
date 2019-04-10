@@ -1,0 +1,67 @@
+{
+  "id": 1243069501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.78333,-9.78333,149.78333,-9.78333",
+    "geom:latitude":-9.78333,
+    "geom:longitude":149.78333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kwamererega",
+    "gn:country_code":"PG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092869,
+    "gn:latitude":-9.78333,
+    "gn:longitude":149.78333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kwamererega",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092869
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"76195571a389ab939f87fbd8de38605e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702001,
+            "locality_id":1243069501,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1243069501,
+    "wof:lastmodified":1536850812,
+    "wof:name":"Kwamererega",
+    "wof:parent_id":1091702001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.78333,
+    -9.78333,
+    149.78333,
+    -9.78333
+],
+  "geometry": {"coordinates":[149.78333000000001,-9.78333],"type":"Point"}
+}

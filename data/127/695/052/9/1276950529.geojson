@@ -1,0 +1,67 @@
+{
+  "id": 1276950529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.15095,-5.53441,144.15095,-5.53441",
+    "geom:latitude":-5.53441,
+    "geom:longitude":144.15095,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Baiyer River",
+    "gn:country_code":"PG",
+    "gn:dem":1206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100058,
+    "gn:latitude":-5.53441,
+    "gn:longitude":144.15095,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Baiyer River",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676551,
+        1091703785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100058
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ed010f1044e2579310d9a1002315cebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703785,
+            "locality_id":1276950529,
+            "region_id":85676551
+        }
+    ],
+    "wof:id":1276950529,
+    "wof:lastmodified":1536947067,
+    "wof:name":"Baiyer River",
+    "wof:parent_id":1091703785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.15095,
+    -5.53441,
+    144.15095,
+    -5.53441
+],
+  "geometry": {"coordinates":[144.15094999999999,-5.53441],"type":"Point"}
+}

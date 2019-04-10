@@ -1,0 +1,67 @@
+{
+  "id": 1209815787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.4948,-9.11774,148.4948,-9.11774",
+    "geom:latitude":-9.11774,
+    "geom:longitude":148.4948,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ondoro",
+    "gn:country_code":"PG",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089065,
+    "gn:latitude":-9.11774,
+    "gn:longitude":148.4948,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Ondoro",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091702531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089065
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f131c62ba6485d621d835383b8c2dcef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702531,
+            "locality_id":1209815787,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1209815787,
+    "wof:lastmodified":1536384045,
+    "wof:name":"Ondoro",
+    "wof:parent_id":1091702531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.4948,
+    -9.11774,
+    148.4948,
+    -9.11774
+],
+  "geometry": {"coordinates":[148.4948,-9.11774],"type":"Point"}
+}

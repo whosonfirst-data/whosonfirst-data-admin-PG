@@ -1,0 +1,61 @@
+{
+  "id": 1243154999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.93333,-2.65,151.93333,-2.65",
+    "geom:latitude":-2.65,
+    "geom:longitude":151.93333,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Sewason",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086861,
+    "gn:latitude":-2.65,
+    "gn:longitude":151.93333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Sewason",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086861
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"5ec1d10b07df24ed8a3715933480c218",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243154999,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243154999,
+    "wof:lastmodified":1536729179,
+    "wof:name":"Sewason",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.93333,
+    -2.65,
+    151.93333,
+    -2.65
+],
+  "geometry": {"coordinates":[151.93333000000001,-2.65],"type":"Point"}
+}

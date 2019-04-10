@@ -1,0 +1,67 @@
+{
+  "id": 1326993763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.4521,-5.97369,149.4521,-5.97369",
+    "geom:latitude":-5.97369,
+    "geom:longitude":149.4521,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Molopun",
+    "gn:country_code":"PG",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090583,
+    "gn:latitude":-5.97369,
+    "gn:longitude":149.4521,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Molopun",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676599,
+        1091702827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090583
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8746a8b172b0334e33884591c5960c29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702827,
+            "locality_id":1326993763,
+            "region_id":85676599
+        }
+    ],
+    "wof:id":1326993763,
+    "wof:lastmodified":1536815572,
+    "wof:name":"Molopun",
+    "wof:parent_id":1091702827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.4521,
+    -5.97369,
+    149.4521,
+    -5.97369
+],
+  "geometry": {"coordinates":[149.4521,-5.97369],"type":"Point"}
+}

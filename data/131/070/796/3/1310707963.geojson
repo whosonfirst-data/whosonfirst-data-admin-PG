@@ -1,0 +1,73 @@
+{
+  "id": 1310707963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.85267,-8.4191,147.85267,-8.4191",
+    "geom:latitude":-8.4191,
+    "geom:longitude":147.85267,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kurireda",
+    "gn:country_code":"PG",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092986,
+    "gn:latitude":-8.4191,
+    "gn:longitude":147.85267,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Kurireda",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kurireda"
+    ],
+    "name:und_x_variant":[
+        "Kurereda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091704393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092986
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0e5edcc2dc57e442fb0d93005326ddb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704393,
+            "locality_id":1310707963,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1310707963,
+    "wof:lastmodified":1537677125,
+    "wof:name":"Kurireda",
+    "wof:parent_id":1091704393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.85267,
+    -8.4191,
+    147.85267,
+    -8.4191
+],
+  "geometry": {"coordinates":[147.85266999999999,-8.4191],"type":"Point"}
+}

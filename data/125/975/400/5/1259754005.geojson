@@ -1,0 +1,63 @@
+{
+  "id": 1259754005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.66486,-6.70923,147.66486,-6.70923",
+    "geom:latitude":-6.70923,
+    "geom:longitude":147.66486,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Buseng",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098740,
+    "gn:latitude":-6.70923,
+    "gn:longitude":147.66486,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Buseng",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098740
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"bb587e0bc4c2e86497eede91eb3db1ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1259754005,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259754005,
+    "wof:lastmodified":1536965455,
+    "wof:name":"Buseng",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.66486,
+    -6.70923,
+    147.66486,
+    -6.70923
+],
+  "geometry": {"coordinates":[147.66486,-6.70923],"type":"Point"}
+}

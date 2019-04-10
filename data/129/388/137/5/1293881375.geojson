@@ -1,0 +1,67 @@
+{
+  "id": 1293881375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.02399,-5.79411,141.02399,-5.79411",
+    "geom:latitude":-5.79411,
+    "geom:longitude":141.02399,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kundubiran",
+    "gn:country_code":"PG",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093055,
+    "gn:latitude":-5.79411,
+    "gn:longitude":141.02399,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Kundubiran",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093055
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d3c44ad42e645f927919a7d57ff6cff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1293881375,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1293881375,
+    "wof:lastmodified":1536716769,
+    "wof:name":"Kundubiran",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.02399,
+    -5.79411,
+    141.02399,
+    -5.79411
+],
+  "geometry": {"coordinates":[141.02399,-5.79411],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209485615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.56266,-3.91442,152.56266,-3.91442",
+    "geom:latitude":-3.91442,
+    "geom:longitude":152.56266,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Kabahon",
+    "gn:country_code":"PG",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8435284,
+    "gn:latitude":-3.91442,
+    "gn:longitude":152.56266,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Kabahon",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8435284
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"88dd01b7b3eb27c3534c299a606826b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209485615
+        }
+    ],
+    "wof:id":1209485615,
+    "wof:lastmodified":1536285646,
+    "wof:name":"Kabahon",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.56266000000005,
+    -3.91442,
+    152.56266000000005,
+    -3.91442
+],
+  "geometry": {"coordinates":[152.56266000000005,-3.91442],"type":"Point"}
+}

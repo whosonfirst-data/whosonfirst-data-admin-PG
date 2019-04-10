@@ -1,0 +1,67 @@
+{
+  "id": 1327013683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.11667,-4.31667,152.11667,-4.31667",
+    "geom:latitude":-4.31667,
+    "geom:longitude":152.11667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Takakel",
+    "gn:country_code":"PG",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085978,
+    "gn:latitude":-4.31667,
+    "gn:longitude":152.11667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Takakel",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091702397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085978
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"abaa62f466ee012c693d6e265ff051eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702397,
+            "locality_id":1327013683,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1327013683,
+    "wof:lastmodified":1536787990,
+    "wof:name":"Takakel",
+    "wof:parent_id":1091702397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.11667,
+    -4.31667,
+    152.11667,
+    -4.31667
+],
+  "geometry": {"coordinates":[152.11667,-4.31667],"type":"Point"}
+}

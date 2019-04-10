@@ -1,0 +1,67 @@
+{
+  "id": 1226825087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.68333,-5.18333,141.68333,-5.18333",
+    "geom:latitude":-5.18333,
+    "geom:longitude":141.68333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Yengimup",
+    "gn:country_code":"PG",
+    "gn:dem":1387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2082945,
+    "gn:latitude":-5.18333,
+    "gn:longitude":141.68333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Yengimup",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091704679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2082945
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c8a5cebea04123c83ede33ffe2a48e75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704679,
+            "locality_id":1226825087,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1226825087,
+    "wof:lastmodified":1537094905,
+    "wof:name":"Yengimup",
+    "wof:parent_id":1091704679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.68333,
+    -5.18333,
+    141.68333,
+    -5.18333
+],
+  "geometry": {"coordinates":[141.68333000000001,-5.18333],"type":"Point"}
+}

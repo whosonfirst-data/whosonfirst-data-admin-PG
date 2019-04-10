@@ -1,0 +1,71 @@
+{
+  "id": 1293316735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.95962,-8.52526,147.95962,-8.52526",
+    "geom:latitude":-8.52526,
+    "geom:longitude":147.95962,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Usuindari",
+    "gn:country_code":"PG",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084520,
+    "gn:latitude":-8.52526,
+    "gn:longitude":147.95962,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Usuindari",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Usindari",
+        "Usuindari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091704393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084520
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0376a3566eba8ac615e9d7f724494ede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704393,
+            "locality_id":1293316735,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1293316735,
+    "wof:lastmodified":1537677038,
+    "wof:name":"Usuindari",
+    "wof:parent_id":1091704393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.95962,
+    -8.52526,
+    147.95962,
+    -8.52526
+],
+  "geometry": {"coordinates":[147.95962,-8.52526],"type":"Point"}
+}

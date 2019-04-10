@@ -1,0 +1,67 @@
+{
+  "id": 1276513309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.6,-5.15,141.6,-5.15",
+    "geom:latitude":-5.15,
+    "geom:longitude":141.6,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Kirarm",
+    "gn:country_code":"PG",
+    "gn:dem":1333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093889,
+    "gn:latitude":-5.15,
+    "gn:longitude":141.6,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kirarm",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091704679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093889
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3b60334338165cb4e12c8221c75f8a9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704679,
+            "locality_id":1276513309,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1276513309,
+    "wof:lastmodified":1537033535,
+    "wof:name":"Kirarm",
+    "wof:parent_id":1091704679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.6,
+    -5.15,
+    141.6,
+    -5.15
+],
+  "geometry": {"coordinates":[141.59999999999999,-5.15],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 421205525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.77121,-4.68388,152.77121,-4.68388",
+    "geom:latitude":-4.68388,
+    "geom:longitude":152.77121,
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Lamassa"
+    ],
+    "name:eng_x_preferred":[
+        "Lamassa"
+    ],
+    "name:unk_x_variant":[
+        "Lamassa Mission"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0645\u0627\u0633\u0627"
+    ],
+    "qs:gn_country":"PG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2092633,
+    "qs:gn_pop":0,
+    "qs:name":"Lamassa",
+    "qs:name_adm0":"Papua New Guinea",
+    "qs:name_adm1":"New Ireland",
+    "qs:photos":26,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":26,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":263677,
+    "qs:woe_adm0":23424926,
+    "qs:woe_id":1061597,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092633,
+        "gp:id":1061597,
+        "qs:id":263677,
+        "wd:id":"Q6480974",
+        "wk:page":"Lamassa"
+    },
+    "wof:country":"PG",
+    "wof:created":1459010227,
+    "wof:geomhash":"ca87020ef656efb1d585945e3511b37f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":421205525
+        }
+    ],
+    "wof:id":421205525,
+    "wof:lastmodified":1527716222,
+    "wof:name":"Lamassa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.77121,
+    -4.68388,
+    152.77121,
+    -4.68388
+],
+  "geometry": {"coordinates":[152.77121,-4.68388],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343344315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.54451,-1.36459,149.54451,-1.36459",
+    "geom:latitude":-1.36459,
+    "geom:longitude":149.54451,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Tanaliu",
+    "gn:country_code":"PG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085851,
+    "gn:latitude":-1.36459,
+    "gn:longitude":149.54451,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Tanaliu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Etanaliu",
+        "Eutanaliu",
+        "Tanaliu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091702917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085851
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4581ce3f2d809dbc61f982a860619c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702917,
+            "locality_id":1343344315,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1343344315,
+    "wof:lastmodified":1537677051,
+    "wof:name":"Tanaliu",
+    "wof:parent_id":1091702917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.54451,
+    -1.36459,
+    149.54451,
+    -1.36459
+],
+  "geometry": {"coordinates":[149.54451,-1.36459],"type":"Point"}
+}

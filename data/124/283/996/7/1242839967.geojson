@@ -1,0 +1,67 @@
+{
+  "id": 1242839967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.85423,-5.38018,143.85423,-5.38018",
+    "geom:latitude":-5.38018,
+    "geom:longitude":143.85423,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Sauanda",
+    "gn:country_code":"PG",
+    "gn:dem":1740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8528937,
+    "gn:latitude":-5.38018,
+    "gn:longitude":143.85423,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Sauanda",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676513,
+        1091703207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8528937
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"48b23ec9ea208dc17d972defc1978bd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703207,
+            "locality_id":1242839967,
+            "region_id":85676513
+        }
+    ],
+    "wof:id":1242839967,
+    "wof:lastmodified":1536685861,
+    "wof:name":"Sauanda",
+    "wof:parent_id":1091703207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.85423,
+    -5.38018,
+    143.85423,
+    -5.38018
+],
+  "geometry": {"coordinates":[143.85423,-5.38018],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259781011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.94758,-6.26661,141.94758,-6.26661",
+    "geom:latitude":-6.26661,
+    "geom:longitude":141.94758,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Disana",
+    "gn:country_code":"PG",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098112,
+    "gn:latitude":-6.26661,
+    "gn:longitude":141.94758,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Disana",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dissena",
+        "Disina",
+        "Disana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091703673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098112
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"6310456fb6d5d9923c0f31722827fd38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703673,
+            "locality_id":1259781011,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1259781011,
+    "wof:lastmodified":1537677182,
+    "wof:name":"Disana",
+    "wof:parent_id":1091703673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.94758000000004,
+    -6.26661,
+    141.94758000000004,
+    -6.26661
+],
+  "geometry": {"coordinates":[141.94758000000004,-6.26661],"type":"Point"}
+}

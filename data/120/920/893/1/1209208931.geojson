@@ -1,0 +1,61 @@
+{
+  "id": 1209208931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.13528,-4.20112,152.13528,-4.20112",
+    "geom:latitude":-4.20112,
+    "geom:longitude":152.13528,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ratung",
+    "gn:country_code":"PG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087732,
+    "gn:latitude":-4.20112,
+    "gn:longitude":152.13528,
+    "gn:modification_date":"2016-04-14",
+    "gn:name":"Ratung",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087732
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"04e4b8cd0ae412d550c0f6f1972628c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209208931
+        }
+    ],
+    "wof:id":1209208931,
+    "wof:lastmodified":1536294355,
+    "wof:name":"Ratung",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.13528,
+    -4.20112,
+    152.13528,
+    -4.20112
+],
+  "geometry": {"coordinates":[152.13527999999999,-4.20112],"type":"Point"}
+}

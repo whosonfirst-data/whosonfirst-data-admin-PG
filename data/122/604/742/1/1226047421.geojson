@@ -1,0 +1,67 @@
+{
+  "id": 1226047421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.00678,-6.37446,144.00678,-6.37446",
+    "geom:latitude":-6.37446,
+    "geom:longitude":144.00678,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mondanda",
+    "gn:country_code":"PG",
+    "gn:dem":1770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090560,
+    "gn:latitude":-6.37446,
+    "gn:longitude":144.00678,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Mondanda",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090560
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f7b2a23db9924307fff08a8f030d182b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702491,
+            "locality_id":1226047421,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1226047421,
+    "wof:lastmodified":1536723073,
+    "wof:name":"Mondanda",
+    "wof:parent_id":1091702491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.00678,
+    -6.37446,
+    144.00678,
+    -6.37446
+],
+  "geometry": {"coordinates":[144.00677999999999,-6.37446],"type":"Point"}
+}

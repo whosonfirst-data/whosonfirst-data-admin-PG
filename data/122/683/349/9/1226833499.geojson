@@ -1,0 +1,67 @@
+{
+  "id": 1226833499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.97523,-6.4828,145.97523,-6.4828",
+    "geom:latitude":-6.4828,
+    "geom:longitude":145.97523,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Suwaira",
+    "gn:country_code":"PG",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086090,
+    "gn:latitude":-6.4828,
+    "gn:longitude":145.97523,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Suwaira",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091702711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086090
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"887b786a1764eebf1db38a94040bc22d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702711,
+            "locality_id":1226833499,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1226833499,
+    "wof:lastmodified":1537082784,
+    "wof:name":"Suwaira",
+    "wof:parent_id":1091702711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.97523,
+    -6.4828,
+    145.97523,
+    -6.4828
+],
+  "geometry": {"coordinates":[145.97523000000001,-6.4828],"type":"Point"}
+}

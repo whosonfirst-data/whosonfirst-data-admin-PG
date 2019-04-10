@@ -1,0 +1,67 @@
+{
+  "id": 1310110629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.31282,-6.46245,144.31282,-6.46245",
+    "geom:latitude":-6.46245,
+    "geom:longitude":144.31282,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Laue",
+    "gn:country_code":"PG",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092520,
+    "gn:latitude":-6.46245,
+    "gn:longitude":144.31282,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Laue",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092520
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"cf3892d90db24b36d9b28e4e2dcc5924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702491,
+            "locality_id":1310110629,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1310110629,
+    "wof:lastmodified":1536988220,
+    "wof:name":"Laue",
+    "wof:parent_id":1091702491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.31282,
+    -6.46245,
+    144.31282,
+    -6.46245
+],
+  "geometry": {"coordinates":[144.31281999999999,-6.46245],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1242660433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.08333,-2.95,152.08333,-2.95",
+    "geom:latitude":-2.95,
+    "geom:longitude":152.08333,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Sinikima",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086616,
+    "gn:latitude":-2.95,
+    "gn:longitude":152.08333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Sinikima",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086616
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b8898a5086de4bd6ad944e8e0f8a7b3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242660433,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242660433,
+    "wof:lastmodified":1536944993,
+    "wof:name":"Sinikima",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.08333000000005,
+    -2.95,
+    152.08333000000005,
+    -2.95
+],
+  "geometry": {"coordinates":[152.08333000000005,-2.95],"type":"Point"}
+}

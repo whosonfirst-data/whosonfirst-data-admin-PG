@@ -1,0 +1,71 @@
+{
+  "id": 1193244757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.42923,-2.90546,141.42923,-2.90546",
+    "geom:latitude":-2.90546,
+    "geom:longitude":141.42923,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Imbio 1",
+    "gn:country_code":"PG",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095672,
+    "gn:latitude":-2.90546,
+    "gn:longitude":141.42923,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Imbio 1",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imbio",
+        "Imbio 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091704901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095672
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e67ec6a26d28d28826078879f14abfa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704901,
+            "locality_id":1193244757,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1193244757,
+    "wof:lastmodified":1537677156,
+    "wof:name":"Imbio 1",
+    "wof:parent_id":1091704901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.42923000000005,
+    -2.90546,
+    141.42923000000005,
+    -2.90546
+],
+  "geometry": {"coordinates":[141.42923000000005,-2.90546],"type":"Point"}
+}

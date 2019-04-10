@@ -1,0 +1,67 @@
+{
+  "id": 1242974839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.71255,-10.07615,147.71255,-10.07615",
+    "geom:latitude":-10.07615,
+    "geom:longitude":147.71255,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Irupara",
+    "gn:country_code":"PG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133268,
+    "gn:latitude":-10.07615,
+    "gn:longitude":147.71255,
+    "gn:modification_date":"2016-04-14",
+    "gn:name":"Irupara",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ru-para",
+        "Irupara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133268
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"cb3ffb5f2d768646fd766d132df231d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1242974839,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242974839,
+    "wof:lastmodified":1537677223,
+    "wof:name":"Irupara",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.71255,
+    -10.07615,
+    147.71255,
+    -10.07615
+],
+  "geometry": {"coordinates":[147.71254999999999,-10.07615],"type":"Point"}
+}

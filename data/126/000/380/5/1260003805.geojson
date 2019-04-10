@@ -1,0 +1,72 @@
+{
+  "id": 1260003805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.15,-8.8,148.15,-8.8",
+    "geom:latitude":-8.8,
+    "geom:longitude":148.15,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bumburata",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098837,
+    "gn:latitude":-8.8,
+    "gn:longitude":148.15,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bumburata",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bumbarata",
+        "Bumburata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091704393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098837
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"be5f040d8ed165f43c19fa86461003da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704393,
+            "locality_id":1260003805,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1260003805,
+    "wof:lastmodified":1537677188,
+    "wof:name":"Bumburata",
+    "wof:parent_id":1091704393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.15,
+    -8.8,
+    148.15,
+    -8.8
+],
+  "geometry": {"coordinates":[148.15000000000001,-8.8],"type":"Point"}
+}

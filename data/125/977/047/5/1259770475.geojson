@@ -1,0 +1,73 @@
+{
+  "id": 1259770475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.33333,-5.58333,146.33333,-5.58333",
+    "geom:latitude":-5.58333,
+    "geom:longitude":146.33333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Biliau Mission",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099488,
+    "gn:latitude":-5.58333,
+    "gn:longitude":146.33333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Biliau Mission",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Biliau Village",
+        "Beliau",
+        "Biliau Mission"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099488
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2d32d636a9fc438a003c11c52f496d1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704219,
+            "locality_id":1259770475,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1259770475,
+    "wof:lastmodified":1537677196,
+    "wof:name":"Biliau Mission",
+    "wof:parent_id":1091704219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.33333000000005,
+    -5.58333,
+    146.33333000000005,
+    -5.58333
+],
+  "geometry": {"coordinates":[146.33333000000005,-5.58333],"type":"Point"}
+}

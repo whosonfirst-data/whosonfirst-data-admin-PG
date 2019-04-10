@@ -1,0 +1,63 @@
+{
+  "id": 1310229123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.94784,-9.05328,148.94784,-9.05328",
+    "geom:latitude":-9.05328,
+    "geom:longitude":148.94784,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Karisoa",
+    "gn:country_code":"PG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094552,
+    "gn:latitude":-9.05328,
+    "gn:longitude":148.94784,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Karisoa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094552
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c97bee323b38729968076d60e4628907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1310229123,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310229123,
+    "wof:lastmodified":1536817379,
+    "wof:name":"Karisoa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.94784,
+    -9.05328,
+    148.94784,
+    -9.05328
+],
+  "geometry": {"coordinates":[148.94784000000001,-9.05328],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1210000091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.27601,-6.03488,147.27601,-6.03488",
+    "geom:latitude":-6.03488,
+    "geom:longitude":147.27601,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Karangan",
+    "gn:country_code":"PG",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094612,
+    "gn:latitude":-6.03488,
+    "gn:longitude":147.27601,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Karangan",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanangan",
+        "Karangan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091704719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094612
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9db469c5c1a769103279d84e76ae1373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704719,
+            "locality_id":1210000091,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1210000091,
+    "wof:lastmodified":1537677144,
+    "wof:name":"Karangan",
+    "wof:parent_id":1091704719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.27601,
+    -6.03488,
+    147.27601,
+    -6.03488
+],
+  "geometry": {"coordinates":[147.27601000000001,-6.03488],"type":"Point"}
+}

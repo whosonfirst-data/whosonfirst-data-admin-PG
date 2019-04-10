@@ -1,0 +1,67 @@
+{
+  "id": 1309784773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.93991,-6.30786,146.93991,-6.30786",
+    "geom:latitude":-6.30786,
+    "geom:longitude":146.93991,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Mogom",
+    "gn:country_code":"PG",
+    "gn:dem":1621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8439794,
+    "gn:latitude":-6.30786,
+    "gn:longitude":146.93991,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Mogom",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8439794
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"72bbd26fa38d06f361bad27420e1a5fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703899,
+            "locality_id":1309784773,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1309784773,
+    "wof:lastmodified":1536961330,
+    "wof:name":"Mogom",
+    "wof:parent_id":1091703899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.93991,
+    -6.30786,
+    146.93991,
+    -6.30786
+],
+  "geometry": {"coordinates":[146.93991,-6.30786],"type":"Point"}
+}

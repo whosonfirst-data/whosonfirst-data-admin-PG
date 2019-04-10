@@ -1,0 +1,67 @@
+{
+  "id": 1192995367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.15736,-4.4096,145.15736,-4.4096",
+    "geom:latitude":-4.4096,
+    "geom:longitude":145.15736,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Dalua",
+    "gn:country_code":"PG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098420,
+    "gn:latitude":-4.4096,
+    "gn:longitude":145.15736,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Dalua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091702063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098420
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"734e86c228bf661f225c6be3adecf15a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702063,
+            "locality_id":1192995367,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1192995367,
+    "wof:lastmodified":1536376444,
+    "wof:name":"Dalua",
+    "wof:parent_id":1091702063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.15736,
+    -4.4096,
+    145.15736,
+    -4.4096
+],
+  "geometry": {"coordinates":[145.15736000000001,-4.4096],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1327239127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.35,-9.45,150.35,-9.45",
+    "geom:latitude":-9.45,
+    "geom:longitude":150.35,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Auwali",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100292,
+    "gn:latitude":-9.45,
+    "gn:longitude":150.35,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Auwali",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Auwale",
+        "Auwali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100292
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"7082bcc81c51e0718103fe722bb3a47d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327239127,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327239127,
+    "wof:lastmodified":1537677207,
+    "wof:name":"Auwali",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.35,
+    -9.45,
+    150.35,
+    -9.45
+],
+  "geometry": {"coordinates":[150.34999999999999,-9.45],"type":"Point"}
+}

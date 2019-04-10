@@ -1,0 +1,70 @@
+{
+  "id": 1310590785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.76831,-6.44884,145.76831,-6.44884",
+    "geom:latitude":-6.44884,
+    "geom:longitude":145.76831,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Oiyana Number Two",
+    "gn:country_code":"PG",
+    "gn:dem":2168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8439711,
+    "gn:latitude":-6.44884,
+    "gn:longitude":145.76831,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Oiyana Number Two",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Oiyana Number Two"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091702711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8439711
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f9ad267b33d479bd47193f69127e4b38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702711,
+            "locality_id":1310590785,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1310590785,
+    "wof:lastmodified":1537677228,
+    "wof:name":"Oiyana Number Two",
+    "wof:parent_id":1091702711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.76831,
+    -6.44884,
+    145.76831,
+    -6.44884
+],
+  "geometry": {"coordinates":[145.76831000000001,-6.44884],"type":"Point"}
+}

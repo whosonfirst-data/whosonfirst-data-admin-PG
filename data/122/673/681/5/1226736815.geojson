@@ -1,0 +1,67 @@
+{
+  "id": 1226736815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.94037,-5.10934,144.94037,-5.10934",
+    "geom:latitude":-5.10934,
+    "geom:longitude":144.94037,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Wabu",
+    "gn:country_code":"PG",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084220,
+    "gn:latitude":-5.10934,
+    "gn:longitude":144.94037,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Wabu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084220
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"bce436d7a56bf9a4a9aaa63f723efc8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704819,
+            "locality_id":1226736815,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1226736815,
+    "wof:lastmodified":1536728811,
+    "wof:name":"Wabu",
+    "wof:parent_id":1091704819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.94037,
+    -5.10934,
+    144.94037,
+    -5.10934
+],
+  "geometry": {"coordinates":[144.94037,-5.10934],"type":"Point"}
+}

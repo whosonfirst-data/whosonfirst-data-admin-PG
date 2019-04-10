@@ -1,0 +1,68 @@
+{
+  "id": 1309700383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.02497,-4.04757,143.02497,-4.04757",
+    "geom:latitude":-4.04757,
+    "geom:longitude":143.02497,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Pagwi",
+    "gn:country_code":"PG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088815,
+    "gn:latitude":-4.04757,
+    "gn:longitude":143.02497,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Pagwi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088815,
+        "wk:page":"Pagwi"
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"06aecd6ccb00a578d1ec009705c7fb90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705131,
+            "locality_id":1309700383,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1309700383,
+    "wof:lastmodified":1537570308,
+    "wof:name":"Pagwi",
+    "wof:parent_id":1091705131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.02497,
+    -4.04757,
+    143.02497,
+    -4.04757
+],
+  "geometry": {"coordinates":[143.02497,-4.04757],"type":"Point"}
+}

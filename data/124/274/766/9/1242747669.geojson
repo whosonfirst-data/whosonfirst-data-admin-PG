@@ -1,0 +1,67 @@
+{
+  "id": 1242747669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.37833,-5.75733,144.37833,-5.75733",
+    "geom:latitude":-5.75733,
+    "geom:longitude":144.37833,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Konger",
+    "gn:country_code":"PG",
+    "gn:dem":1557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093524,
+    "gn:latitude":-5.75733,
+    "gn:longitude":144.37833,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Konger",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        1108805613,
+        1091702057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093524
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9f6a7cd3438b975e5ba1eec04de507c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702057,
+            "locality_id":1242747669,
+            "region_id":1108805613
+        }
+    ],
+    "wof:id":1242747669,
+    "wof:lastmodified":1536817964,
+    "wof:name":"Konger",
+    "wof:parent_id":1091702057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.37833,
+    -5.75733,
+    144.37833,
+    -5.75733
+],
+  "geometry": {"coordinates":[144.37833000000001,-5.75733],"type":"Point"}
+}

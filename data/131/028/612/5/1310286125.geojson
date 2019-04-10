@@ -1,0 +1,67 @@
+{
+  "id": 1310286125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.72504,-3.56837,142.72504,-3.56837",
+    "geom:latitude":-3.56837,
+    "geom:longitude":142.72504,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Nanaha",
+    "gn:country_code":"PG",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089958,
+    "gn:latitude":-3.56837,
+    "gn:longitude":142.72504,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Nanaha",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089958
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"34071f24cb049cba02fdab1dcc9bb9f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702053,
+            "locality_id":1310286125,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1310286125,
+    "wof:lastmodified":1536735960,
+    "wof:name":"Nanaha",
+    "wof:parent_id":1091702053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.72503999999995,
+    -3.56837,
+    142.72503999999995,
+    -3.56837
+],
+  "geometry": {"coordinates":[142.72503999999995,-3.56837],"type":"Point"}
+}

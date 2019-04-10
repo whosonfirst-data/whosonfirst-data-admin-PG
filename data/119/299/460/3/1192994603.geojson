@@ -1,0 +1,61 @@
+{
+  "id": 1192994603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.86795,-5.47304,148.86795,-5.47304",
+    "geom:latitude":-5.47304,
+    "geom:longitude":148.86795,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Tamuniai",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085859,
+    "gn:latitude":-5.47304,
+    "gn:longitude":148.86795,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Tamuniai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085859
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0e62260eec18bbe4708e11b4cc8cd566",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1192994603,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1192994603,
+    "wof:lastmodified":1536377210,
+    "wof:name":"Tamuniai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.86795,
+    -5.47304,
+    148.86795,
+    -5.47304
+],
+  "geometry": {"coordinates":[148.86795000000001,-5.47304],"type":"Point"}
+}

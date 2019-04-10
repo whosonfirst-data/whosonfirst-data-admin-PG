@@ -1,0 +1,72 @@
+{
+  "id": 1326701321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.28333,-7.35,146.28333,-7.35",
+    "geom:latitude":-7.35,
+    "geom:longitude":146.28333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kwadungwi",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":1091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092906,
+    "gn:latitude":-7.35,
+    "gn:longitude":146.28333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kwadungwi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yeiwia",
+        "Kwadungwi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092906
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b79fd439c230ef1cdbdabe5066835b3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703633,
+            "locality_id":1326701321,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1326701321,
+    "wof:lastmodified":1537677124,
+    "wof:name":"Kwadungwi",
+    "wof:parent_id":1091703633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.28333,
+    -7.35,
+    146.28333,
+    -7.35
+],
+  "geometry": {"coordinates":[146.28333000000001,-7.35],"type":"Point"}
+}

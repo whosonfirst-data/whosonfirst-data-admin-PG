@@ -1,0 +1,67 @@
+{
+  "id": 1210038699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.27771,-5.77201,141.27771,-5.77201",
+    "geom:latitude":-5.77201,
+    "geom:longitude":141.27771,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sonai",
+    "gn:country_code":"PG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086401,
+    "gn:latitude":-5.77201,
+    "gn:longitude":141.27771,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Sonai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086401
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"97d29bc677dfa22238520f98bcefc30a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1210038699,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1210038699,
+    "wof:lastmodified":1536385310,
+    "wof:name":"Sonai",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.27771,
+    -5.77201,
+    141.27771,
+    -5.77201
+],
+  "geometry": {"coordinates":[141.27771000000001,-5.77201],"type":"Point"}
+}

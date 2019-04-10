@@ -1,0 +1,61 @@
+{
+  "id": 1276971163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"154.22074,-4.56235,154.22074,-4.56235",
+    "geom:latitude":-4.56235,
+    "geom:longitude":154.22074,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Teruatap",
+    "gn:country_code":"PG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085528,
+    "gn:latitude":-4.56235,
+    "gn:longitude":154.22074,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Teruatap",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085528
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"7f28a6db23c965f79d92c056b744761b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276971163,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276971163,
+    "wof:lastmodified":1536919541,
+    "wof:name":"Teruatap",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    154.22073999999995,
+    -4.56235,
+    154.22073999999995,
+    -4.56235
+],
+  "geometry": {"coordinates":[154.22073999999995,-4.56235],"type":"Point"}
+}

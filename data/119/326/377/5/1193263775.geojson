@@ -1,0 +1,72 @@
+{
+  "id": 1193263775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.11667,-5.86667,145.11667,-5.86667",
+    "geom:latitude":-5.86667,
+    "geom:longitude":145.11667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Yamagilgauma Number 2",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":2588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083156,
+    "gn:latitude":-5.86667,
+    "gn:longitude":145.11667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yamagilgauma Number 2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yamagilgauma 2",
+        "Yamagilgauma Number 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091703309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083156
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"fa123176702ea02383a14ba28147210d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703309,
+            "locality_id":1193263775,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1193263775,
+    "wof:lastmodified":1537677023,
+    "wof:name":"Yamagilgauma Number 2",
+    "wof:parent_id":1091703309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.11667,
+    -5.86667,
+    145.11667,
+    -5.86667
+],
+  "geometry": {"coordinates":[145.11667,-5.86667],"type":"Point"}
+}

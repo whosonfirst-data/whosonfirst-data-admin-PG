@@ -1,0 +1,73 @@
+{
+  "id": 1276223947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"155.35523,-6.56664,155.35523,-6.56664",
+    "geom:latitude":-6.56664,
+    "geom:longitude":155.35523,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Boku",
+    "gn:country_code":"PG",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099229,
+    "gn:latitude":-6.56664,
+    "gn:longitude":155.35523,
+    "gn:modification_date":"2015-02-04",
+    "gn:name":"Boku",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boku Police Post",
+        "Borku",
+        "Boku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676543,
+        1091704421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099229,
+        "wk:page":"Buka,_Papua_New_Guinea"
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b1798abc0e91d05517a2a3af86cc3e17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704421,
+            "locality_id":1276223947,
+            "region_id":85676543
+        }
+    ],
+    "wof:id":1276223947,
+    "wof:lastmodified":1537677194,
+    "wof:name":"Boku",
+    "wof:parent_id":1091704421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    155.35523,
+    -6.56664,
+    155.35523,
+    -6.56664
+],
+  "geometry": {"coordinates":[155.35523000000001,-6.56664],"type":"Point"}
+}

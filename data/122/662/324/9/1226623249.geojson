@@ -1,0 +1,67 @@
+{
+  "id": 1226623249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.15894,-4.39379,145.15894,-4.39379",
+    "geom:latitude":-4.39379,
+    "geom:longitude":145.15894,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Wedaro",
+    "gn:country_code":"PG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083616,
+    "gn:latitude":-4.39379,
+    "gn:longitude":145.15894,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Wedaro",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091702063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083616
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"06c3007b0be5691677032486c5fcc7bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702063,
+            "locality_id":1226623249,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1226623249,
+    "wof:lastmodified":1536891636,
+    "wof:name":"Wedaro",
+    "wof:parent_id":1091702063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.15894,
+    -4.39379,
+    145.15894,
+    -4.39379
+],
+  "geometry": {"coordinates":[145.15894,-4.39379],"type":"Point"}
+}

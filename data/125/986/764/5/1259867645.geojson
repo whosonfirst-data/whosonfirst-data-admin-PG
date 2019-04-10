@@ -1,0 +1,67 @@
+{
+  "id": 1259867645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.10295,-4.39418,143.10295,-4.39418",
+    "geom:latitude":-4.39418,
+    "geom:longitude":143.10295,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Timbunmeri",
+    "gn:country_code":"PG",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085450,
+    "gn:latitude":-4.39418,
+    "gn:longitude":143.10295,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Timbunmeri",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085450
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"070c38bb50967edda37e984b44c37e70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705131,
+            "locality_id":1259867645,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1259867645,
+    "wof:lastmodified":1536802040,
+    "wof:name":"Timbunmeri",
+    "wof:parent_id":1091705131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.10295,
+    -4.39418,
+    143.10295,
+    -4.39418
+],
+  "geometry": {"coordinates":[143.10294999999999,-4.39418],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326810479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.63712,-5.35912,145.63712,-5.35912",
+    "geom:latitude":-5.35912,
+    "geom:longitude":145.63712,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kuyonbon",
+    "gn:country_code":"PG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092910,
+    "gn:latitude":-5.35912,
+    "gn:longitude":145.63712,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Kuyonbon",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091703451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092910
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ef54a9f62d620c4352239d0e64fabeb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703451,
+            "locality_id":1326810479,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1326810479,
+    "wof:lastmodified":1537077054,
+    "wof:name":"Kuyonbon",
+    "wof:parent_id":1091703451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.63711999999995,
+    -5.35912,
+    145.63711999999995,
+    -5.35912
+],
+  "geometry": {"coordinates":[145.63711999999995,-5.35912],"type":"Point"}
+}

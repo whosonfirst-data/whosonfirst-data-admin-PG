@@ -1,0 +1,67 @@
+{
+  "id": 1209807861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.68333,-7.3,141.68333,-7.3",
+    "geom:latitude":-7.3,
+    "geom:longitude":141.68333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Wapena",
+    "gn:country_code":"PG",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083853,
+    "gn:latitude":-7.3,
+    "gn:longitude":141.68333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Wapena",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091703673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083853
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b107d07704df7a0a4250999db7369bef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703673,
+            "locality_id":1209807861,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1209807861,
+    "wof:lastmodified":1536387788,
+    "wof:name":"Wapena",
+    "wof:parent_id":1091703673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.68333,
+    -7.3,
+    141.68333,
+    -7.3
+],
+  "geometry": {"coordinates":[141.68333000000001,-7.3],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344130023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.97469,-3.44673,151.97469,-3.44673",
+    "geom:latitude":-3.44673,
+    "geom:longitude":151.97469,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Dampit",
+    "gn:country_code":"PG",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098383,
+    "gn:latitude":-3.44673,
+    "gn:longitude":151.97469,
+    "gn:modification_date":"2015-08-18",
+    "gn:name":"Dampit",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091703829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098383
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"edba9614d40dc7deba246ff9db2fe034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703829,
+            "locality_id":1344130023,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1344130023,
+    "wof:lastmodified":1536775922,
+    "wof:name":"Dampit",
+    "wof:parent_id":1091703829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.97468999999995,
+    -3.44673,
+    151.97468999999995,
+    -3.44673
+],
+  "geometry": {"coordinates":[151.97468999999995,-3.44673],"type":"Point"}
+}

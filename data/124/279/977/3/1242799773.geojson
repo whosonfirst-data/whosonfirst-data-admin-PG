@@ -1,0 +1,67 @@
+{
+  "id": 1242799773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.05,-5.36667,141.05,-5.36667",
+    "geom:latitude":-5.36667,
+    "geom:longitude":141.05,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kaiumevim",
+    "gn:country_code":"PG",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095000,
+    "gn:latitude":-5.36667,
+    "gn:longitude":141.05,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kaiumevim",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095000
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f71cc51b125546d8668401e987640c66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1242799773,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1242799773,
+    "wof:lastmodified":1536743422,
+    "wof:name":"Kaiumevim",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.05,
+    -5.36667,
+    141.05,
+    -5.36667
+],
+  "geometry": {"coordinates":[141.05000000000001,-5.36667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209392151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.91667,-4.31667,144.91667,-4.31667",
+    "geom:latitude":-4.31667,
+    "geom:longitude":144.91667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Masawara",
+    "gn:country_code":"PG",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091275,
+    "gn:latitude":-4.31667,
+    "gn:longitude":144.91667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Masawara",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091275
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"cdf85aaa3fc24cd61280ef7babafa33b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209392151
+        }
+    ],
+    "wof:id":1209392151,
+    "wof:lastmodified":1536288424,
+    "wof:name":"Masawara",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.91666999999995,
+    -4.3166699999999985,
+    144.91666999999995,
+    -4.3166699999999985
+],
+  "geometry": {"coordinates":[144.91666999999995,-4.31667],"type":"Point"}
+}

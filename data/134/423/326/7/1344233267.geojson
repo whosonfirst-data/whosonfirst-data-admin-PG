@@ -1,0 +1,61 @@
+{
+  "id": 1344233267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.55,-6.25,149.55,-6.25",
+    "geom:latitude":-6.25,
+    "geom:longitude":149.55,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Magien",
+    "gn:country_code":"PG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091943,
+    "gn:latitude":-6.25,
+    "gn:longitude":149.55,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Magien",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091943
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"769b318c8db88db1f63957ac42ced678",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1344233267,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344233267,
+    "wof:lastmodified":1536624333,
+    "wof:name":"Magien",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.55,
+    -6.25,
+    149.55,
+    -6.25
+],
+  "geometry": {"coordinates":[149.55000000000001,-6.25],"type":"Point"}
+}

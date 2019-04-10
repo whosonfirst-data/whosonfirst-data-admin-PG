@@ -1,0 +1,61 @@
+{
+  "id": 1343764069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.86667,-10.21667,150.86667,-10.21667",
+    "geom:latitude":-10.21667,
+    "geom:longitude":150.86667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Hanakajala",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133397,
+    "gn:latitude":-10.21667,
+    "gn:longitude":150.86667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Hanakajala",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133397
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d35dd2145863343d9eb4efc72dcb21be",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343764069,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343764069,
+    "wof:lastmodified":1536805566,
+    "wof:name":"Hanakajala",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.86667,
+    -10.21667,
+    150.86667,
+    -10.21667
+],
+  "geometry": {"coordinates":[150.86667,-10.21667],"type":"Point"}
+}

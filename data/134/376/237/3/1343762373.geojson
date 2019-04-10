@@ -1,0 +1,67 @@
+{
+  "id": 1343762373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.7961,-8.05265,147.7961,-8.05265",
+    "geom:latitude":-8.05265,
+    "geom:longitude":147.7961,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Boke",
+    "gn:country_code":"PG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099232,
+    "gn:latitude":-8.05265,
+    "gn:longitude":147.7961,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Boke",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091704393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099232
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"6614c0fab19ab07f3a804e1c5c2b0409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704393,
+            "locality_id":1343762373,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1343762373,
+    "wof:lastmodified":1536807878,
+    "wof:name":"Boke",
+    "wof:parent_id":1091704393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.7961,
+    -8.05265,
+    147.7961,
+    -8.05265
+],
+  "geometry": {"coordinates":[147.7961,-8.05265],"type":"Point"}
+}

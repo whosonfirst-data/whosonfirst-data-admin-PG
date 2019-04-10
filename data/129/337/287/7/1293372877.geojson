@@ -1,0 +1,67 @@
+{
+  "id": 1293372877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"153.19717,-3.47451,153.19717,-3.47451",
+    "geom:latitude":-3.47451,
+    "geom:longitude":153.19717,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Fangwel",
+    "gn:country_code":"PG",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097471,
+    "gn:latitude":-3.47451,
+    "gn:longitude":153.19717,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Fangwel",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091703829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097471
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"665e5dd70473d591d5e428f118e63844",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703829,
+            "locality_id":1293372877,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1293372877,
+    "wof:lastmodified":1536952442,
+    "wof:name":"Fangwel",
+    "wof:parent_id":1091703829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    153.19717,
+    -3.47451,
+    153.19717,
+    -3.47451
+],
+  "geometry": {"coordinates":[153.19717,-3.47451],"type":"Point"}
+}

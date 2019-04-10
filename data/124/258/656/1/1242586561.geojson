@@ -1,0 +1,67 @@
+{
+  "id": 1242586561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.16667,-8.06667,146.16667,-8.06667",
+    "geom:latitude":-8.06667,
+    "geom:longitude":146.16667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Malalaua",
+    "gn:country_code":"PG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091756,
+    "gn:latitude":-8.06667,
+    "gn:longitude":146.16667,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Malalaua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091702955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091756
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b3e443c0613c4d3376994e6e478a0cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702955,
+            "locality_id":1242586561,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1242586561,
+    "wof:lastmodified":1537048567,
+    "wof:name":"Malalaua",
+    "wof:parent_id":1091702955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.16666999999995,
+    -8.06667,
+    146.16666999999995,
+    -8.06667
+],
+  "geometry": {"coordinates":[146.16666999999995,-8.06667],"type":"Point"}
+}

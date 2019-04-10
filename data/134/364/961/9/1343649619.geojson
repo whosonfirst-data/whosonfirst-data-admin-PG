@@ -1,0 +1,67 @@
+{
+  "id": 1343649619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.00667,-3.62226,143.00667,-3.62226",
+    "geom:latitude":-3.62226,
+    "geom:longitude":143.00667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Brikiti",
+    "gn:country_code":"PG",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10177080,
+    "gn:latitude":-3.62226,
+    "gn:longitude":143.00667,
+    "gn:modification_date":"2015-04-02",
+    "gn:name":"Brikiti",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091703523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10177080
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"79ec3f122b38c2329a0b24bc74955128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703523,
+            "locality_id":1343649619,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1343649619,
+    "wof:lastmodified":1536970356,
+    "wof:name":"Brikiti",
+    "wof:parent_id":1091703523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.00667,
+    -3.62226,
+    143.00667,
+    -3.62226
+],
+  "geometry": {"coordinates":[143.00667000000001,-3.62226],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326637663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.26667,-10.35,150.26667,-10.35",
+    "geom:latitude":-10.35,
+    "geom:longitude":150.26667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Gumini",
+    "gn:country_code":"PG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133429,
+    "gn:latitude":-10.35,
+    "gn:longitude":150.26667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Gumini",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133429
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"675441ba56fb1c441868859edac84494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702001,
+            "locality_id":1326637663,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1326637663,
+    "wof:lastmodified":1536830918,
+    "wof:name":"Gumini",
+    "wof:parent_id":1091702001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.26667,
+    -10.35,
+    150.26667,
+    -10.35
+],
+  "geometry": {"coordinates":[150.26667,-10.35],"type":"Point"}
+}

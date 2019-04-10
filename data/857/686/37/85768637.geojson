@@ -1,0 +1,131 @@
+{
+  "id": 85768637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6978850.002218,
+    "geom:bbox":"147.176687,-9.480454,147.176687,-9.480454",
+    "geom:latitude":-9.480454,
+    "geom:longitude":147.176687,
+    "gn:gn_country":"PG",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":-9.48128,
+    "gn:longitude":147.1841,
+    "iso:country":"PG",
+    "lbl:latitude":-9.480454,
+    "lbl:longitude":147.176687,
+    "mps:latitude":-9.484838,
+    "mps:longitude":147.181612,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Kaugere"
+    ],
+    "name:unk_x_variant":[
+        "Kaugere"
+    ],
+    "qs:gn_adm0_cc":"PG",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2088122,
+    "qs:gn_namadm1":"20",
+    "qs:gn_name":"Kaugere",
+    "qs:local_max":159,
+    "qs:local_sum":474,
+    "qs:localhoods":6,
+    "qs:name":"Kaugere",
+    "qs:name_adm0":"Papua New Guinea",
+    "qs:name_adm1":"National Capital",
+    "qs:name_local":"Port Moresby",
+    "qs:photo_max":28,
+    "qs:photo_sum":124,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424926,
+    "qs:woe_adm1":2346600,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1062005,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"PG",
+    "qs_pg:gn_country":"PG",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":2094426,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kaugere",
+    "qs_pg:name_adm0":"Papua New Guinea",
+    "qs_pg:name_adm1":"National Capital",
+    "qs_pg:photos":59,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":59,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":478688,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424926,
+    "qs_pg:woe_id":1054919,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85676581,
+        102191583,
+        85632347,
+        1091703859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094426,
+        "gp:id":1054919,
+        "qs:id":478688,
+        "qs_pg:id":478688
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"683d65efc66f9bee04562e1d3826c7cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703859,
+            "locality_id":-1,
+            "neighbourhood_id":85768637,
+            "region_id":85676581
+        }
+    ],
+    "wof:id":85768637,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379398,
+    "wof:name":"Kaugere",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126084663
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.176687,
+    -9.480454,
+    147.176687,
+    -9.480454
+],
+  "geometry": {"coordinates":[147.17668699999999,-9.480454],"type":"Point"}
+}

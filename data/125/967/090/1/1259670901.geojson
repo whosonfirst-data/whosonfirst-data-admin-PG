@@ -1,0 +1,67 @@
+{
+  "id": 1259670901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.72895,-4.84239,145.72895,-4.84239",
+    "geom:latitude":-4.84239,
+    "geom:longitude":145.72895,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Wasabamal",
+    "gn:country_code":"PG",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083737,
+    "gn:latitude":-4.84239,
+    "gn:longitude":145.72895,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Wasabamal",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083737
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"21a1d8f0716bde7f14373292e2a2b4cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704517,
+            "locality_id":1259670901,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1259670901,
+    "wof:lastmodified":1537082003,
+    "wof:name":"Wasabamal",
+    "wof:parent_id":1091704517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.72895,
+    -4.84239,
+    145.72895,
+    -4.84239
+],
+  "geometry": {"coordinates":[145.72895,-4.84239],"type":"Point"}
+}

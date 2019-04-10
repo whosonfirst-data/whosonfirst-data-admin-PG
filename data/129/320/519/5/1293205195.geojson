@@ -1,0 +1,67 @@
+{
+  "id": 1293205195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.18333,-6.51667,143.18333,-6.51667",
+    "geom:latitude":-6.51667,
+    "geom:longitude":143.18333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Iorogabai'iu",
+    "gn:country_code":"PG",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095526,
+    "gn:latitude":-6.51667,
+    "gn:longitude":143.18333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Iorogabai\u2019iu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091703941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095526
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4c8939dff8163d1fce7751dd7940440c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703941,
+            "locality_id":1293205195,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1293205195,
+    "wof:lastmodified":1536697199,
+    "wof:name":"Iorogabai'iu",
+    "wof:parent_id":1091703941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.18333,
+    -6.51667,
+    143.18333,
+    -6.51667
+],
+  "geometry": {"coordinates":[143.18333000000001,-6.51667],"type":"Point"}
+}

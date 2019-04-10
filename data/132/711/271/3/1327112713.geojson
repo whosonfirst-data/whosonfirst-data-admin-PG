@@ -1,0 +1,67 @@
+{
+  "id": 1327112713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.46709,-4.61324,143.46709,-4.61324",
+    "geom:latitude":-4.61324,
+    "geom:longitude":143.46709,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Meingenda",
+    "gn:country_code":"PG",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091033,
+    "gn:latitude":-4.61324,
+    "gn:longitude":143.46709,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Meingenda",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091033
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c30a19d165c8996c6661a1118823a304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702059,
+            "locality_id":1327112713,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1327112713,
+    "wof:lastmodified":1536643969,
+    "wof:name":"Meingenda",
+    "wof:parent_id":1091702059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.46708999999996,
+    -4.61324,
+    143.46708999999996,
+    -4.61324
+],
+  "geometry": {"coordinates":[143.46708999999996,-4.61324],"type":"Point"}
+}

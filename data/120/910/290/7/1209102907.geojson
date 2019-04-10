@@ -1,0 +1,61 @@
+{
+  "id": 1209102907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.89864,-6.07099,144.89864,-6.07099",
+    "geom:latitude":-6.07099,
+    "geom:longitude":144.89864,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Balgauma",
+    "gn:country_code":"PG",
+    "gn:dem":1950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099998,
+    "gn:latitude":-6.07099,
+    "gn:longitude":144.89864,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Balgauma",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099998
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c38e58740b48a3e6a5ddc3793e986dae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209102907
+        }
+    ],
+    "wof:id":1209102907,
+    "wof:lastmodified":1536297675,
+    "wof:name":"Balgauma",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.89864,
+    -6.07099,
+    144.89864,
+    -6.07099
+],
+  "geometry": {"coordinates":[144.89864,-6.07099],"type":"Point"}
+}

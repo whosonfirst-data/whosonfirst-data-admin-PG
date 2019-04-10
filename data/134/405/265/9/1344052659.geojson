@@ -1,0 +1,67 @@
+{
+  "id": 1344052659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.18267,-6.2664,145.18267,-6.2664",
+    "geom:latitude":-6.2664,
+    "geom:longitude":145.18267,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dereperengwa",
+    "gn:country_code":"PG",
+    "gn:dem":1925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098221,
+    "gn:latitude":-6.2664,
+    "gn:longitude":145.18267,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Dereperengwa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091702163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098221
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c0762df2d74ef17d9f9de54562f75ab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702163,
+            "locality_id":1344052659,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1344052659,
+    "wof:lastmodified":1536886436,
+    "wof:name":"Dereperengwa",
+    "wof:parent_id":1091702163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.18267,
+    -6.2664,
+    145.18267,
+    -6.2664
+],
+  "geometry": {"coordinates":[145.18267,-6.2664],"type":"Point"}
+}

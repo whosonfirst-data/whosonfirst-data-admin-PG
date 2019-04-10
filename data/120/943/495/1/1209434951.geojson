@@ -1,0 +1,61 @@
+{
+  "id": 1209434951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.18436,-6.28823,145.18436,-6.28823",
+    "geom:latitude":-6.28823,
+    "geom:longitude":145.18436,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Goro",
+    "gn:country_code":"PG",
+    "gn:dem":1937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096747,
+    "gn:latitude":-6.28823,
+    "gn:longitude":145.18436,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Goro",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096747
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"299eea09da96f8b117beda08e06a25b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209434951
+        }
+    ],
+    "wof:id":1209434951,
+    "wof:lastmodified":1536287132,
+    "wof:name":"Goro",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.18436,
+    -6.28823,
+    145.18436,
+    -6.28823
+],
+  "geometry": {"coordinates":[145.18436,-6.28823],"type":"Point"}
+}

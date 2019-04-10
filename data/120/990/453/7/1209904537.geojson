@@ -1,0 +1,67 @@
+{
+  "id": 1209904537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.03959,-3.9902,143.03959,-3.9902",
+    "geom:latitude":-3.9902,
+    "geom:longitude":143.03959,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Burui Villages",
+    "gn:country_code":"PG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098755,
+    "gn:latitude":-3.9902,
+    "gn:longitude":143.03959,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Burui Villages",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098755
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"5fd8aa45a43a52a5b6d4bf4e82617aba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705131,
+            "locality_id":1209904537,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1209904537,
+    "wof:lastmodified":1536384912,
+    "wof:name":"Burui Villages",
+    "wof:parent_id":1091705131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.03959,
+    -3.9902,
+    143.03959,
+    -3.9902
+],
+  "geometry": {"coordinates":[143.03959,-3.9902],"type":"Point"}
+}

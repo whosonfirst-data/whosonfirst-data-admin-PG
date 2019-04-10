@@ -1,0 +1,70 @@
+{
+  "id": 1242958717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.04322,-6.07483,145.04322,-6.07483",
+    "geom:latitude":-6.07483,
+    "geom:longitude":145.04322,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Duman",
+    "gn:country_code":"PG",
+    "gn:dem":1996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8439678,
+    "gn:latitude":-6.07483,
+    "gn:longitude":145.04322,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Duman",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Duman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091704349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8439678
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"15c2c5d11e5b1b0ddd676147c3fb6fe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704349,
+            "locality_id":1242958717,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1242958717,
+    "wof:lastmodified":1537677228,
+    "wof:name":"Duman",
+    "wof:parent_id":1091704349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.04322,
+    -6.07483,
+    145.04322,
+    -6.07483
+],
+  "geometry": {"coordinates":[145.04321999999999,-6.07483],"type":"Point"}
+}

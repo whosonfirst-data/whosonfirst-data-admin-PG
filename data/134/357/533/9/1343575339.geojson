@@ -1,0 +1,67 @@
+{
+  "id": 1343575339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.15,-9.15,147.15,-9.15",
+    "geom:latitude":-9.15,
+    "geom:longitude":147.15,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Perere",
+    "gn:country_code":"PG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088433,
+    "gn:latitude":-9.15,
+    "gn:longitude":147.15,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Perere",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091702751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088433
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"426d67368d9aa980298b61821cf1d62e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702751,
+            "locality_id":1343575339,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1343575339,
+    "wof:lastmodified":1537074826,
+    "wof:name":"Perere",
+    "wof:parent_id":1091702751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.15,
+    -9.15,
+    147.15,
+    -9.15
+],
+  "geometry": {"coordinates":[147.15000000000001,-9.15],"type":"Point"}
+}

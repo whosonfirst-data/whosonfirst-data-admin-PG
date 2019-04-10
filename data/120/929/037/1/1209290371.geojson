@@ -1,0 +1,61 @@
+{
+  "id": 1209290371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.51909,-3.87155,141.51909,-3.87155",
+    "geom:latitude":-3.87155,
+    "geom:longitude":141.51909,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Dila",
+    "gn:country_code":"PG",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098166,
+    "gn:latitude":-3.87155,
+    "gn:longitude":141.51909,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Dila",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098166
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f7121832b95af625d01acc8b6f871b37",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209290371
+        }
+    ],
+    "wof:id":1209290371,
+    "wof:lastmodified":1536291714,
+    "wof:name":"Dila",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.51908999999995,
+    -3.87155,
+    141.51908999999995,
+    -3.87155
+],
+  "geometry": {"coordinates":[141.51908999999995,-3.87155],"type":"Point"}
+}

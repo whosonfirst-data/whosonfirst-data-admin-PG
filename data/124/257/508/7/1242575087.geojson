@@ -1,0 +1,67 @@
+{
+  "id": 1242575087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.66667,-6.26667,141.66667,-6.26667",
+    "geom:latitude":-6.26667,
+    "geom:longitude":141.66667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Iessa",
+    "gn:country_code":"PG",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095783,
+    "gn:latitude":-6.26667,
+    "gn:longitude":141.66667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Iessa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095783
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"170f15cc36c17d9d09a075b22a2a67b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1242575087,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1242575087,
+    "wof:lastmodified":1537064454,
+    "wof:name":"Iessa",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.66666999999995,
+    -6.26667,
+    141.66666999999995,
+    -6.26667
+],
+  "geometry": {"coordinates":[141.66666999999995,-6.26667],"type":"Point"}
+}

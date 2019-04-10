@@ -1,0 +1,72 @@
+{
+  "id": 1259466821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.66667,-4.71667,151.66667,-4.71667",
+    "geom:latitude":-4.71667,
+    "geom:longitude":151.66667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Toriu",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085199,
+    "gn:latitude":-4.71667,
+    "gn:longitude":151.66667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Toriu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Torin",
+        "Toriu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091702397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085199
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d4ebe04cafd7fc067107b67b3e71522e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702397,
+            "locality_id":1259466821,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1259466821,
+    "wof:lastmodified":1537677044,
+    "wof:name":"Toriu",
+    "wof:parent_id":1091702397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.66666999999995,
+    -4.71667,
+    151.66666999999995,
+    -4.71667
+],
+  "geometry": {"coordinates":[151.66666999999995,-4.71667],"type":"Point"}
+}

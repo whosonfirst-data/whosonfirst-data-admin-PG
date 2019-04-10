@@ -1,0 +1,67 @@
+{
+  "id": 1242581597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.85894,-9.80557,147.85894,-9.80557",
+    "geom:latitude":-9.80557,
+    "geom:longitude":147.85894,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mukunaroka",
+    "gn:country_code":"PG",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090347,
+    "gn:latitude":-9.80557,
+    "gn:longitude":147.85894,
+    "gn:modification_date":"2014-09-27",
+    "gn:name":"Mukunaroka",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091704253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090347
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a2c47cd7767729fcd7ab3569642afdb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704253,
+            "locality_id":1242581597,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1242581597,
+    "wof:lastmodified":1537055450,
+    "wof:name":"Mukunaroka",
+    "wof:parent_id":1091704253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.85894,
+    -9.80557,
+    147.85894,
+    -9.80557
+],
+  "geometry": {"coordinates":[147.85893999999999,-9.80557],"type":"Point"}
+}

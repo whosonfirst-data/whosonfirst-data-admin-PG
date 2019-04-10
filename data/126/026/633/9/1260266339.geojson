@@ -1,0 +1,71 @@
+{
+  "id": 1260266339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.65766,-6.35954,147.65766,-6.35954",
+    "geom:latitude":-6.35954,
+    "geom:longitude":147.65766,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kingfaringau",
+    "gn:country_code":"PG",
+    "gn:dem":899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093930,
+    "gn:latitude":-6.35954,
+    "gn:longitude":147.65766,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kingfaringau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kingfarinau",
+        "Kingfaringau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091704719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093930
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"99f90d89abd6984df63537bd8273b070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704719,
+            "locality_id":1260266339,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1260266339,
+    "wof:lastmodified":1537677137,
+    "wof:name":"Kingfaringau",
+    "wof:parent_id":1091704719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.65766000000005,
+    -6.35954,
+    147.65766000000005,
+    -6.35954
+],
+  "geometry": {"coordinates":[147.65766000000005,-6.35954],"type":"Point"}
+}

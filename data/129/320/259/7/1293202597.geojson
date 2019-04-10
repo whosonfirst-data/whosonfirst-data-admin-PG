@@ -1,0 +1,67 @@
+{
+  "id": 1293202597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"153.34266,-11.48886,153.34266,-11.48886",
+    "geom:latitude":-11.48886,
+    "geom:longitude":153.34266,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Madaua",
+    "gn:country_code":"PG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2132985,
+    "gn:latitude":-11.48886,
+    "gn:longitude":153.34266,
+    "gn:modification_date":"2014-08-20",
+    "gn:name":"Madaua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091704299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2132985
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3ae18d17bc99e660c6bb8007a40e5f00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704299,
+            "locality_id":1293202597,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1293202597,
+    "wof:lastmodified":1536701054,
+    "wof:name":"Madaua",
+    "wof:parent_id":1091704299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    153.34266000000005,
+    -11.48886,
+    153.34266000000005,
+    -11.48886
+],
+  "geometry": {"coordinates":[153.34266000000005,-11.48886],"type":"Point"}
+}

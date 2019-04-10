@@ -1,0 +1,61 @@
+{
+  "id": 1209506865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"154.16714,-4.4622,154.16714,-4.4622",
+    "geom:latitude":-4.4622,
+    "geom:longitude":154.16714,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sirof",
+    "gn:country_code":"PG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086559,
+    "gn:latitude":-4.4622,
+    "gn:longitude":154.16714,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Sirof",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086559
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d4690e47c5994b26c8428c76c3a5cf2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209506865
+        }
+    ],
+    "wof:id":1209506865,
+    "wof:lastmodified":1536285007,
+    "wof:name":"Sirof",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    154.16714,
+    -4.4622,
+    154.16714,
+    -4.4622
+],
+  "geometry": {"coordinates":[154.16713999999999,-4.4622],"type":"Point"}
+}

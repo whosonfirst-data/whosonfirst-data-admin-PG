@@ -1,0 +1,67 @@
+{
+  "id": 1243285113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"154.59525,-5.1422,154.59525,-5.1422",
+    "geom:latitude":-5.1422,
+    "geom:longitude":154.59525,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Karoola",
+    "gn:country_code":"PG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8439860,
+    "gn:latitude":-5.1422,
+    "gn:longitude":154.59525,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Karoola",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676543,
+        1091703967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8439860
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c47de2163203ec5f717fcab7759410fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703967,
+            "locality_id":1243285113,
+            "region_id":85676543
+        }
+    ],
+    "wof:id":1243285113,
+    "wof:lastmodified":1537036598,
+    "wof:name":"Karoola",
+    "wof:parent_id":1091703967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    154.59525,
+    -5.1422,
+    154.59525,
+    -5.1422
+],
+  "geometry": {"coordinates":[154.59524999999999,-5.1422],"type":"Point"}
+}

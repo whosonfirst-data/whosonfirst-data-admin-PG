@@ -1,0 +1,67 @@
+{
+  "id": 1276777783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.74206,-9.70687,147.74206,-9.70687",
+    "geom:latitude":-9.70687,
+    "geom:longitude":147.74206,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gaunomu",
+    "gn:country_code":"PG",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097112,
+    "gn:latitude":-9.70687,
+    "gn:longitude":147.74206,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Gaunomu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091704253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097112
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c5c5d501b3664fb0ea2b7dd0f2efce1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704253,
+            "locality_id":1276777783,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1276777783,
+    "wof:lastmodified":1536680261,
+    "wof:name":"Gaunomu",
+    "wof:parent_id":1091704253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.74206,
+    -9.70687,
+    147.74206,
+    -9.70687
+],
+  "geometry": {"coordinates":[147.74206000000001,-9.70687],"type":"Point"}
+}

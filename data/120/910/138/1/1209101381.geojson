@@ -1,0 +1,61 @@
+{
+  "id": 1209101381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.36667,-4.71667,152.36667,-4.71667",
+    "geom:latitude":-4.71667,
+    "geom:longitude":152.36667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Gar",
+    "gn:country_code":"PG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097187,
+    "gn:latitude":-4.71667,
+    "gn:longitude":152.36667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Gar",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097187
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"82d41a02d3a8a5fe81e503a7ac519603",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209101381
+        }
+    ],
+    "wof:id":1209101381,
+    "wof:lastmodified":1536297722,
+    "wof:name":"Gar",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.36667,
+    -4.71667,
+    152.36667,
+    -4.71667
+],
+  "geometry": {"coordinates":[152.36667,-4.71667],"type":"Point"}
+}

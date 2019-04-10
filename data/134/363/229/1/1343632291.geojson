@@ -1,0 +1,67 @@
+{
+  "id": 1343632291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.99688,-6.53416,146.99688,-6.53416",
+    "geom:latitude":-6.53416,
+    "geom:longitude":146.99688,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Gawan",
+    "gn:country_code":"PG",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097085,
+    "gn:latitude":-6.53416,
+    "gn:longitude":146.99688,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Gawan",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097085
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4529f3c1d2e07559550c92a2f591ef78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703899,
+            "locality_id":1343632291,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1343632291,
+    "wof:lastmodified":1536994986,
+    "wof:name":"Gawan",
+    "wof:parent_id":1091703899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.99688,
+    -6.53416,
+    146.99688,
+    -6.53416
+],
+  "geometry": {"coordinates":[146.99688,-6.53416],"type":"Point"}
+}

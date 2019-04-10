@@ -1,0 +1,72 @@
+{
+  "id": 1226629783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.91326,-6.46342,146.91326,-6.46342",
+    "geom:latitude":-6.46342,
+    "geom:longitude":146.91326,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Lumbaip",
+    "gn:country_code":"PG",
+    "gn:dem":870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092078,
+    "gn:latitude":-6.46342,
+    "gn:longitude":146.91326,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lumbaip",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lambaip",
+        "Lumbiap",
+        "Lumbaip"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092078
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e20d9447138b60a073faa1b48e1e0472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703899,
+            "locality_id":1226629783,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1226629783,
+    "wof:lastmodified":1537677115,
+    "wof:name":"Lumbaip",
+    "wof:parent_id":1091703899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.91326,
+    -6.46342,
+    146.91326,
+    -6.46342
+],
+  "geometry": {"coordinates":[146.91326000000001,-6.46342],"type":"Point"}
+}

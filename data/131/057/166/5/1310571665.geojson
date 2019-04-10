@@ -1,0 +1,63 @@
+{
+  "id": 1310571665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.53604,-3.77894,152.53604,-3.77894",
+    "geom:latitude":-3.77894,
+    "geom:longitude":152.53604,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Punam",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088000,
+    "gn:latitude":-3.77894,
+    "gn:longitude":152.53604,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Punam",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088000
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"eda7ae088cc9fee2f9d60f20d0139919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1310571665,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310571665,
+    "wof:lastmodified":1536820726,
+    "wof:name":"Punam",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.53604,
+    -3.77894,
+    152.53604,
+    -3.77894
+],
+  "geometry": {"coordinates":[152.53604000000001,-3.77894],"type":"Point"}
+}

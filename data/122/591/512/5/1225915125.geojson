@@ -1,0 +1,67 @@
+{
+  "id": 1225915125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.81818,-5.61251,147.81818,-5.61251",
+    "geom:latitude":-5.61251,
+    "geom:longitude":147.81818,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Barang",
+    "gn:country_code":"PG",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099866,
+    "gn:latitude":-5.61251,
+    "gn:longitude":147.81818,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Barang",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091704719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099866
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2149bda4de2b8d10154c81ee95ab4e58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704719,
+            "locality_id":1225915125,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1225915125,
+    "wof:lastmodified":1536914188,
+    "wof:name":"Barang",
+    "wof:parent_id":1091704719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.81818,
+    -5.61251,
+    147.81818,
+    -5.61251
+],
+  "geometry": {"coordinates":[147.81818000000001,-5.61251],"type":"Point"}
+}

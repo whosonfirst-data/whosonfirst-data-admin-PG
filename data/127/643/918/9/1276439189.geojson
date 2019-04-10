@@ -1,0 +1,72 @@
+{
+  "id": 1276439189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.1556,-5.82371,141.1556,-5.82371",
+    "geom:latitude":-5.82371,
+    "geom:longitude":141.1556,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Matkomrae",
+    "gn:country_code":"PG",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091175,
+    "gn:latitude":-5.82371,
+    "gn:longitude":141.1556,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Matkomrae",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matkomre",
+        "Matkome",
+        "Matkomrae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091175
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2ab1f2e46dc5694c5f1f5d2433941202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1276439189,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1276439189,
+    "wof:lastmodified":1537677105,
+    "wof:name":"Matkomrae",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.1556,
+    -5.82371,
+    141.1556,
+    -5.82371
+],
+  "geometry": {"coordinates":[141.15559999999999,-5.82371],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242595309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.00833,-10.14662,148.00833,-10.14662",
+    "geom:latitude":-10.14662,
+    "geom:longitude":148.00833,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pelagai",
+    "gn:country_code":"PG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2132707,
+    "gn:latitude":-10.14662,
+    "gn:longitude":148.00833,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Pelagai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091701919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2132707
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"748fc5b807a0d51644b10e7f8af9cd7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091701919,
+            "locality_id":1242595309,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1242595309,
+    "wof:lastmodified":1537036551,
+    "wof:name":"Pelagai",
+    "wof:parent_id":1091701919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.00833,
+    -10.14662,
+    148.00833,
+    -10.14662
+],
+  "geometry": {"coordinates":[148.00833,-10.14662],"type":"Point"}
+}

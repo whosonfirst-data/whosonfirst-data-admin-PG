@@ -1,0 +1,67 @@
+{
+  "id": 1276429115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.7,-3.61667,143.7,-3.61667",
+    "geom:latitude":-3.61667,
+    "geom:longitude":143.7,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Soarin",
+    "gn:country_code":"PG",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086467,
+    "gn:latitude":-3.61667,
+    "gn:longitude":143.7,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Soarin",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086467
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"db145706038de07ac245ec76e9b5ff81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705089,
+            "locality_id":1276429115,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1276429115,
+    "wof:lastmodified":1536650087,
+    "wof:name":"Soarin",
+    "wof:parent_id":1091705089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.7,
+    -3.61667,
+    143.7,
+    -3.61667
+],
+  "geometry": {"coordinates":[143.69999999999999,-3.61667],"type":"Point"}
+}

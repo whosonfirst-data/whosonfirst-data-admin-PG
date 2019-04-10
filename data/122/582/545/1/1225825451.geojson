@@ -1,0 +1,67 @@
+{
+  "id": 1225825451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.62427,-5.25073,145.62427,-5.25073",
+    "geom:latitude":-5.25073,
+    "geom:longitude":145.62427,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Umun",
+    "gn:country_code":"PG",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084703,
+    "gn:latitude":-5.25073,
+    "gn:longitude":145.62427,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Umun",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091703451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084703
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3dd2467dcc50ebf2abffd60a264f9681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703451,
+            "locality_id":1225825451,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1225825451,
+    "wof:lastmodified":1537041232,
+    "wof:name":"Umun",
+    "wof:parent_id":1091703451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.62427,
+    -5.25073,
+    145.62427,
+    -5.25073
+],
+  "geometry": {"coordinates":[145.62427,-5.25073],"type":"Point"}
+}

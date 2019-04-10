@@ -1,0 +1,71 @@
+{
+  "id": 1260261773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.76266,-7.34347,146.76266,-7.34347",
+    "geom:latitude":-7.34347,
+    "geom:longitude":146.76266,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Wandumi",
+    "gn:country_code":"PG",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083921,
+    "gn:latitude":-7.34347,
+    "gn:longitude":146.76266,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Wandumi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "New Wandumi",
+        "Wandumi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083921
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b949827ce1106f6367f908d1ba8f31ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702091,
+            "locality_id":1260261773,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1260261773,
+    "wof:lastmodified":1537677032,
+    "wof:name":"Wandumi",
+    "wof:parent_id":1091702091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.76266,
+    -7.34347,
+    146.76266,
+    -7.34347
+],
+  "geometry": {"coordinates":[146.76266000000001,-7.34347],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326508247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.83497,-3.54509,142.83497,-3.54509",
+    "geom:latitude":-3.54509,
+    "geom:longitude":142.83497,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Tumamba",
+    "gn:country_code":"PG",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085033,
+    "gn:latitude":-3.54509,
+    "gn:longitude":142.83497,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Tumamba",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085033
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b32e5aba659e937f0f536d540d07040c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702053,
+            "locality_id":1326508247,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1326508247,
+    "wof:lastmodified":1537017897,
+    "wof:name":"Tumamba",
+    "wof:parent_id":1091702053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.83497,
+    -3.54509,
+    142.83497,
+    -3.54509
+],
+  "geometry": {"coordinates":[142.83497,-3.54509],"type":"Point"}
+}

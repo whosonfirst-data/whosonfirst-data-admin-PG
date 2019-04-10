@@ -1,0 +1,67 @@
+{
+  "id": 1343334917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.93753,-3.43017,151.93753,-3.43017",
+    "geom:latitude":-3.43017,
+    "geom:longitude":151.93753,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Danu",
+    "gn:country_code":"PG",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098351,
+    "gn:latitude":-3.43017,
+    "gn:longitude":151.93753,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Danu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091703829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098351
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f3bdc21f7a7bb8e7ff003deefd4970fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703829,
+            "locality_id":1343334917,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1343334917,
+    "wof:lastmodified":1536928278,
+    "wof:name":"Danu",
+    "wof:parent_id":1091703829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.93753,
+    -3.43017,
+    151.93753,
+    -3.43017
+],
+  "geometry": {"coordinates":[151.93753000000001,-3.43017],"type":"Point"}
+}

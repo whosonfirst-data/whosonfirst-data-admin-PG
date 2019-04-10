@@ -1,0 +1,67 @@
+{
+  "id": 1293092853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"154.22178,-4.47861,154.22178,-4.47861",
+    "geom:latitude":-4.47861,
+    "geom:longitude":154.22178,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Lihon Number 1",
+    "gn:country_code":"PG",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092345,
+    "gn:latitude":-4.47861,
+    "gn:longitude":154.22178,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Lihon Number 1",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676543,
+        1091703967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092345
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3ffe2d1887e80d387b9f01578df707e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703967,
+            "locality_id":1293092853,
+            "region_id":85676543
+        }
+    ],
+    "wof:id":1293092853,
+    "wof:lastmodified":1536857760,
+    "wof:name":"Lihon Number 1",
+    "wof:parent_id":1091703967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    154.22178,
+    -4.47861,
+    154.22178,
+    -4.47861
+],
+  "geometry": {"coordinates":[154.22178,-4.47861],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259773099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.56667,-6.05,145.56667,-6.05",
+    "geom:latitude":-6.05,
+    "geom:longitude":145.56667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Gafaruga",
+    "gn:country_code":"PG",
+    "gn:dem":1740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097286,
+    "gn:latitude":-6.05,
+    "gn:longitude":145.56667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Gafaruga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091704771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097286
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"af7bb57bded731c289aa8d02356ff5d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704771,
+            "locality_id":1259773099,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1259773099,
+    "wof:lastmodified":1536938866,
+    "wof:name":"Gafaruga",
+    "wof:parent_id":1091704771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.56667,
+    -6.05,
+    145.56667,
+    -6.05
+],
+  "geometry": {"coordinates":[145.56666999999999,-6.05],"type":"Point"}
+}

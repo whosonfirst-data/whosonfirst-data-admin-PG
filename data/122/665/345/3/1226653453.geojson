@@ -1,0 +1,71 @@
+{
+  "id": 1226653453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.62237,-9.64299,150.62237,-9.64299",
+    "geom:latitude":-9.64299,
+    "geom:longitude":150.62237,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ailulai",
+    "gn:country_code":"PG",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101217,
+    "gn:latitude":-9.64299,
+    "gn:longitude":150.62237,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ailulai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ailuluai",
+        "Ailulai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101217
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"30dcd90db54893813732c43af1a1b341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702299,
+            "locality_id":1226653453,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1226653453,
+    "wof:lastmodified":1537677218,
+    "wof:name":"Ailulai",
+    "wof:parent_id":1091702299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.62237,
+    -9.64299,
+    150.62237,
+    -9.64299
+],
+  "geometry": {"coordinates":[150.62236999999999,-9.64299],"type":"Point"}
+}

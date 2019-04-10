@@ -1,0 +1,73 @@
+{
+  "id": 1343476651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.43333,-9.6,147.43333,-9.6",
+    "geom:latitude":-9.6,
+    "geom:longitude":147.43333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Daburaik",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098489,
+    "gn:latitude":-9.6,
+    "gn:longitude":147.43333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Daburaik",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Duburika",
+        "Daburika",
+        "Daburaik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091702751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098489
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ef19c51acba39938be64c6fcff6cca60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702751,
+            "locality_id":1343476651,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1343476651,
+    "wof:lastmodified":1537677185,
+    "wof:name":"Daburaik",
+    "wof:parent_id":1091702751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.43333,
+    -9.6,
+    147.43333,
+    -9.6
+],
+  "geometry": {"coordinates":[147.43333000000001,-9.6],"type":"Point"}
+}

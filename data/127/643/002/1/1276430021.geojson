@@ -1,0 +1,67 @@
+{
+  "id": 1276430021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.16667,-4.13333,152.16667,-4.13333",
+    "geom:latitude":-4.13333,
+    "geom:longitude":152.16667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tawui",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085630,
+    "gn:latitude":-4.13333,
+    "gn:longitude":152.16667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tawui",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tavui",
+        "Tawui 2",
+        "Tawui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085630
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1321ecbb6f1df9002156801248e2333e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276430021,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276430021,
+    "wof:lastmodified":1537677049,
+    "wof:name":"Tawui",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.16666999999995,
+    -4.13333,
+    152.16666999999995,
+    -4.13333
+],
+  "geometry": {"coordinates":[152.16666999999995,-4.13333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259678393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.41667,-6.03333,145.41667,-6.03333",
+    "geom:latitude":-6.03333,
+    "geom:longitude":145.41667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Gameyufa",
+    "gn:country_code":"PG",
+    "gn:dem":2207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097221,
+    "gn:latitude":-6.03333,
+    "gn:longitude":145.41667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Gameyufa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091702429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097221
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c75af51e6c1eb5854a862771d4980cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702429,
+            "locality_id":1259678393,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1259678393,
+    "wof:lastmodified":1537071300,
+    "wof:name":"Gameyufa",
+    "wof:parent_id":1091702429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.41666999999995,
+    -6.03333,
+    145.41666999999995,
+    -6.03333
+],
+  "geometry": {"coordinates":[145.41666999999995,-6.03333],"type":"Point"}
+}

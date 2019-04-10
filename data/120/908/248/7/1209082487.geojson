@@ -1,0 +1,65 @@
+{
+  "id": 1209082487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.01333,-5.22203,150.01333,-5.22203",
+    "geom:latitude":-5.22203,
+    "geom:longitude":150.01333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Woganakai",
+    "gn:country_code":"PG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083416,
+    "gn:latitude":-5.22203,
+    "gn:longitude":150.01333,
+    "gn:modification_date":"2015-04-06",
+    "gn:name":"Woganakai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wongankai",
+        "Woganakai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083416
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"455464ac9a647f22649b5be8ae22e748",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209082487
+        }
+    ],
+    "wof:id":1209082487,
+    "wof:lastmodified":1537677026,
+    "wof:name":"Woganakai",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.01333,
+    -5.22203,
+    150.01333,
+    -5.22203
+],
+  "geometry": {"coordinates":[150.01333,-5.22203],"type":"Point"}
+}

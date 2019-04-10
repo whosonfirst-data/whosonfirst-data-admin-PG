@@ -1,0 +1,67 @@
+{
+  "id": 1343267925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.87075,-8.14741,147.87075,-8.14741",
+    "geom:latitude":-8.14741,
+    "geom:longitude":147.87075,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tabara",
+    "gn:country_code":"PG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086070,
+    "gn:latitude":-8.14741,
+    "gn:longitude":147.87075,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Tabara",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091704393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086070
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"042b1585375cf24ecddc2060014c3e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704393,
+            "locality_id":1343267925,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1343267925,
+    "wof:lastmodified":1537023059,
+    "wof:name":"Tabara",
+    "wof:parent_id":1091704393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.87075,
+    -8.14741,
+    147.87075,
+    -8.14741
+],
+  "geometry": {"coordinates":[147.87074999999999,-8.14741],"type":"Point"}
+}

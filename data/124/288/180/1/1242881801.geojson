@@ -1,0 +1,67 @@
+{
+  "id": 1242881801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.35,-9.4,150.35,-9.4",
+    "geom:latitude":-9.4,
+    "geom:longitude":150.35,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Miwaiaukana",
+    "gn:country_code":"PG",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090679,
+    "gn:latitude":-9.4,
+    "gn:longitude":150.35,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Miwaiaukana",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091703083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090679
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"210eb24c36f469d343b59a31b02880e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703083,
+            "locality_id":1242881801,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1242881801,
+    "wof:lastmodified":1536623471,
+    "wof:name":"Miwaiaukana",
+    "wof:parent_id":1091703083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.35,
+    -9.4,
+    150.35,
+    -9.4
+],
+  "geometry": {"coordinates":[150.34999999999999,-9.4],"type":"Point"}
+}

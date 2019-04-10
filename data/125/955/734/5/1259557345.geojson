@@ -1,0 +1,67 @@
+{
+  "id": 1259557345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.13636,-7.88987,147.13636,-7.88987",
+    "geom:latitude":-7.88987,
+    "geom:longitude":147.13636,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Sopa",
+    "gn:country_code":"PG",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086376,
+    "gn:latitude":-7.88987,
+    "gn:longitude":147.13636,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Sopa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086376
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"813c3dfd50b612c2b6f467548fa393aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702091,
+            "locality_id":1259557345,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1259557345,
+    "wof:lastmodified":1536752555,
+    "wof:name":"Sopa",
+    "wof:parent_id":1091702091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.13636,
+    -7.88987,
+    147.13636,
+    -7.88987
+],
+  "geometry": {"coordinates":[147.13636,-7.88987],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310482671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.11697,-3.74864,143.11697,-3.74864",
+    "geom:latitude":-3.74864,
+    "geom:longitude":143.11697,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Dumbit 2",
+    "gn:country_code":"PG",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097917,
+    "gn:latitude":-3.74864,
+    "gn:longitude":143.11697,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dumbit 2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dumbit Number 2",
+        "Dumbit 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091703523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097917
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3643570959db3adc1fe299489b99016b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703523,
+            "locality_id":1310482671,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1310482671,
+    "wof:lastmodified":1537677180,
+    "wof:name":"Dumbit 2",
+    "wof:parent_id":1091703523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.11697,
+    -3.74864,
+    143.11697,
+    -3.74864
+],
+  "geometry": {"coordinates":[143.11697000000001,-3.74864],"type":"Point"}
+}

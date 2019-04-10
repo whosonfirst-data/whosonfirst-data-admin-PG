@@ -1,0 +1,67 @@
+{
+  "id": 1226405625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.78333,-3.56667,141.78333,-3.56667",
+    "geom:latitude":-3.56667,
+    "geom:longitude":141.78333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Amer",
+    "gn:country_code":"PG",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100913,
+    "gn:latitude":-3.56667,
+    "gn:longitude":141.78333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Amer",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091701955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100913
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"36de2700a9d57b5f8404134f7616ea05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091701955,
+            "locality_id":1226405625,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1226405625,
+    "wof:lastmodified":1536703716,
+    "wof:name":"Amer",
+    "wof:parent_id":1091701955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.78333,
+    -3.56667,
+    141.78333,
+    -3.56667
+],
+  "geometry": {"coordinates":[141.78333000000001,-3.56667],"type":"Point"}
+}

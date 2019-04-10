@@ -1,0 +1,83 @@
+{
+  "id": 102541757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.726111111,-6.56972222222,146.726111111,-6.56972222222",
+    "geom:latitude":-6.569722,
+    "geom:longitude":146.726111,
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Flughafen Lae Nadzab"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0627\u06cc \u0646\u0627\u062f\u0632\u0627\u0628"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Lae Nadzab"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Nadzab"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Lae Nadzab"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043b\u043e \u043d\u043e\u0434\u0437\u043e\u0431"
+    ],
+    "oa:elevation_ft":"239",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":871,
+    "woe:hierarchy":{
+        "country_id":23424926,
+        "planet_id":1,
+        "state_id":2346594
+    },
+    "wof:belongsto":[
+        85632501,
+        85676579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515476,
+        "iata:code":"LAE",
+        "icao:code":"AYNZ",
+        "oa:id":"66",
+        "wd:id":"Q1431826"
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0e923e34cdc0a3676ac32f48e4b1d40f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102541757,
+            "country_id":85632501,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":102541757,
+    "wof:lastmodified":1543792155,
+    "wof:name":"Nadzab Airport",
+    "wof:parent_id":85676579,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    146.72611111111,
+    -6.5697222222222,
+    146.72611111111,
+    -6.5697222222222
+],
+  "geometry": {"coordinates":[146.72611111110999,-6.5697222222222],"type":"Point"}
+}

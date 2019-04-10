@@ -1,0 +1,71 @@
+{
+  "id": 1310226459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"155.82077,-6.46825,155.82077,-6.46825",
+    "geom:latitude":-6.46825,
+    "geom:longitude":155.82077,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Amapo",
+    "gn:country_code":"PG",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100972,
+    "gn:latitude":-6.46825,
+    "gn:longitude":155.82077,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Amapo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amapa",
+        "Amapo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676543,
+        1091702121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100972
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c4c507f5bbedd37203d1dac11c84c190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702121,
+            "locality_id":1310226459,
+            "region_id":85676543
+        }
+    ],
+    "wof:id":1310226459,
+    "wof:lastmodified":1537677215,
+    "wof:name":"Amapo",
+    "wof:parent_id":1091702121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    155.82076999999995,
+    -6.46825,
+    155.82076999999995,
+    -6.46825
+],
+  "geometry": {"coordinates":[155.82076999999995,-6.46825],"type":"Point"}
+}

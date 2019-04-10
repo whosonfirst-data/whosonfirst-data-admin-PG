@@ -1,0 +1,71 @@
+{
+  "id": 1344139831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"153.02281,-4.18646,153.02281,-4.18646",
+    "geom:latitude":-4.18646,
+    "geom:longitude":153.02281,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Purinsar",
+    "gn:country_code":"PG",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087954,
+    "gn:latitude":-4.18646,
+    "gn:longitude":153.02281,
+    "gn:modification_date":"2015-08-18",
+    "gn:name":"Purinsar",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Purinsa",
+        "Purinsar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091703829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087954
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ec6d6495e2aa4b19c28c2c68cbb6dd2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703829,
+            "locality_id":1344139831,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1344139831,
+    "wof:lastmodified":1537677072,
+    "wof:name":"Purinsar",
+    "wof:parent_id":1091703829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    153.02281000000005,
+    -4.18646,
+    153.02281000000005,
+    -4.18646
+],
+  "geometry": {"coordinates":[153.02281000000005,-4.18646],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293315483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.16978,-6.31653,144.16978,-6.31653",
+    "geom:latitude":-6.31653,
+    "geom:longitude":144.16978,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Moro",
+    "gn:country_code":"PG",
+    "gn:dem":1590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090473,
+    "gn:latitude":-6.31653,
+    "gn:longitude":144.16978,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Moro",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Moro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090473
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"001777753beb1b11985521554c6b908c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702491,
+            "locality_id":1293315483,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1293315483,
+    "wof:lastmodified":1537677097,
+    "wof:name":"Moro",
+    "wof:parent_id":1091702491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.16978,
+    -6.31653,
+    144.16978,
+    -6.31653
+],
+  "geometry": {"coordinates":[144.16978,-6.31653],"type":"Point"}
+}

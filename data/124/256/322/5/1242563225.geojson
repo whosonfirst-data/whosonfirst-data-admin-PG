@@ -1,0 +1,67 @@
+{
+  "id": 1242563225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.13595,-6.28895,145.13595,-6.28895",
+    "geom:latitude":-6.28895,
+    "geom:longitude":145.13595,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bandi",
+    "gn:country_code":"PG",
+    "gn:dem":1891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099927,
+    "gn:latitude":-6.28895,
+    "gn:longitude":145.13595,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Bandi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091702163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099927
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"28862556dfb06bf0909ab9a5463c3e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702163,
+            "locality_id":1242563225,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1242563225,
+    "wof:lastmodified":1537081249,
+    "wof:name":"Bandi",
+    "wof:parent_id":1091702163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.13595,
+    -6.28895,
+    145.13595,
+    -6.28895
+],
+  "geometry": {"coordinates":[145.13595000000001,-6.28895],"type":"Point"}
+}

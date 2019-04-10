@@ -1,0 +1,63 @@
+{
+  "id": 1226444555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.36667,-10.2,150.36667,-10.2",
+    "geom:latitude":-10.2,
+    "geom:longitude":150.36667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Gerevaudi",
+    "gn:country_code":"PG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133509,
+    "gn:latitude":-10.2,
+    "gn:longitude":150.36667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Gerevaudi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133509
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2e2abc082c5bad457266c71821dbf68f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1226444555,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226444555,
+    "wof:lastmodified":1536646749,
+    "wof:name":"Gerevaudi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.36667,
+    -10.2,
+    150.36667,
+    -10.2
+],
+  "geometry": {"coordinates":[150.36667,-10.2],"type":"Point"}
+}

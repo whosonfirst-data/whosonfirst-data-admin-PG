@@ -1,0 +1,67 @@
+{
+  "id": 1276201941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.9753,-3.59872,141.9753,-3.59872",
+    "geom:latitude":-3.59872,
+    "geom:longitude":141.9753,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Tubum",
+    "gn:country_code":"PG",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085075,
+    "gn:latitude":-3.59872,
+    "gn:longitude":141.9753,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Tubum",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091701955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085075
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2ad40ea238757194dfd7d871e7485e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091701955,
+            "locality_id":1276201941,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1276201941,
+    "wof:lastmodified":1536955180,
+    "wof:name":"Tubum",
+    "wof:parent_id":1091701955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.9753,
+    -3.59872,
+    141.9753,
+    -3.59872
+],
+  "geometry": {"coordinates":[141.9753,-3.59872],"type":"Point"}
+}

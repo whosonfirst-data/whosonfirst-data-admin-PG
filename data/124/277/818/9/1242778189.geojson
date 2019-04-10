@@ -1,0 +1,67 @@
+{
+  "id": 1242778189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.61125,-8.6398,147.61125,-8.6398",
+    "geom:latitude":-8.6398,
+    "geom:longitude":147.61125,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Asimba",
+    "gn:country_code":"PG",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100456,
+    "gn:latitude":-8.6398,
+    "gn:longitude":147.61125,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Asimba",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091704393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100456
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d25c803fdbd8a4e198df4a8c1eb27559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704393,
+            "locality_id":1242778189,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1242778189,
+    "wof:lastmodified":1536775382,
+    "wof:name":"Asimba",
+    "wof:parent_id":1091704393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.61125,
+    -8.6398,
+    147.61125,
+    -8.6398
+],
+  "geometry": {"coordinates":[147.61125000000001,-8.6398],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343333191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.65,-5.5,148.65,-5.5",
+    "geom:latitude":-5.5,
+    "geom:longitude":148.65,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Akonga",
+    "gn:country_code":"PG",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101092,
+    "gn:latitude":-5.5,
+    "gn:longitude":148.65,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Akonga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676599,
+        1091702827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101092
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"735c0e9c29214e8ed60bc7f80071abb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702827,
+            "locality_id":1343333191,
+            "region_id":85676599
+        }
+    ],
+    "wof:id":1343333191,
+    "wof:lastmodified":1536930808,
+    "wof:name":"Akonga",
+    "wof:parent_id":1091702827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.65,
+    -5.5,
+    148.65,
+    -5.5
+],
+  "geometry": {"coordinates":[148.65000000000001,-5.5],"type":"Point"}
+}

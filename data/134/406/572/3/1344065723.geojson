@@ -1,0 +1,67 @@
+{
+  "id": 1344065723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.48872,-7.65898,145.48872,-7.65898",
+    "geom:latitude":-7.65898,
+    "geom:longitude":145.48872,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lohiki",
+    "gn:country_code":"PG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092242,
+    "gn:latitude":-7.65898,
+    "gn:longitude":145.48872,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"Lohiki",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091703049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092242
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d3f8292d63bb45d1ced686aab959de74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703049,
+            "locality_id":1344065723,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1344065723,
+    "wof:lastmodified":1536866603,
+    "wof:name":"Lohiki",
+    "wof:parent_id":1091703049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.48872,
+    -7.65898,
+    145.48872,
+    -7.65898
+],
+  "geometry": {"coordinates":[145.48872,-7.65898],"type":"Point"}
+}

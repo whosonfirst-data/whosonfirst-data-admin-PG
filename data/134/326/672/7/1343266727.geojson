@@ -1,0 +1,72 @@
+{
+  "id": 1343266727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.74604,-6.44766,142.74604,-6.44766",
+    "geom:latitude":-6.44766,
+    "geom:longitude":142.74604,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Feriso",
+    "gn:country_code":"PG",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097438,
+    "gn:latitude":-6.44766,
+    "gn:longitude":142.74604,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Feriso",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Firisa",
+        "Ferisa",
+        "Feriso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091703941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097438
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0a8574bee44bb1131dd2e56d8424cbc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703941,
+            "locality_id":1343266727,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1343266727,
+    "wof:lastmodified":1537677176,
+    "wof:name":"Feriso",
+    "wof:parent_id":1091703941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.74604,
+    -6.44766,
+    142.74604,
+    -6.44766
+],
+  "geometry": {"coordinates":[142.74603999999999,-6.44766],"type":"Point"}
+}

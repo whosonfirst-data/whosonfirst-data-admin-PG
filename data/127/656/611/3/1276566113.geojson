@@ -1,0 +1,68 @@
+{
+  "id": 1276566113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.38702,-10.29503,149.38702,-10.29503",
+    "geom:latitude":-10.29503,
+    "geom:longitude":149.38702,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2134008",
+    "gn:asciiname":"Aroana",
+    "gn:country_code":"PG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133967,
+    "gn:latitude":-10.29503,
+    "gn:longitude":149.38702,
+    "gn:modification_date":"2015-04-02",
+    "gn:name":"Aroana",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091701919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133967
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"dbcb99f742d2619fec8f39e87373ae07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091701919,
+            "locality_id":1276566113,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1276566113,
+    "wof:lastmodified":1536964114,
+    "wof:name":"Aroana",
+    "wof:parent_id":1091701919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.38702,
+    -10.29503,
+    149.38702,
+    -10.29503
+],
+  "geometry": {"coordinates":[149.38702000000001,-10.29503],"type":"Point"}
+}

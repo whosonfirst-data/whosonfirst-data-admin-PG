@@ -1,0 +1,72 @@
+{
+  "id": 1293555571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.47783,-3.67316,142.47783,-3.67316",
+    "geom:latitude":-3.67316,
+    "geom:longitude":142.47783,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Nuku",
+    "gn:country_code":"PG",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089420,
+    "gn:latitude":-3.67316,
+    "gn:longitude":142.47783,
+    "gn:modification_date":"2018-03-14",
+    "gn:name":"Nuku",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nuku Hamlets",
+        "Nuku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091704057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089420,
+        "wk:page":"Nuku"
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e6943ba3b65f70d8a2ffac46e2382be5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704057,
+            "locality_id":1293555571,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1293555571,
+    "wof:lastmodified":1537677086,
+    "wof:name":"Nuku",
+    "wof:parent_id":1091704057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.47783,
+    -3.67316,
+    142.47783,
+    -3.67316
+],
+  "geometry": {"coordinates":[142.47783000000001,-3.67316],"type":"Point"}
+}

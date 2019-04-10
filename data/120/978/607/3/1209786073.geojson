@@ -1,0 +1,67 @@
+{
+  "id": 1209786073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.01722,-3.24481,152.01722,-3.24481",
+    "geom:latitude":-3.24481,
+    "geom:longitude":152.01722,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Lemeris",
+    "gn:country_code":"PG",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092423,
+    "gn:latitude":-3.24481,
+    "gn:longitude":152.01722,
+    "gn:modification_date":"2017-06-11",
+    "gn:name":"Lemeris",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091703829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092423
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"21c8ed098429b53037fd3efb106f0471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703829,
+            "locality_id":1209786073,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1209786073,
+    "wof:lastmodified":1536368310,
+    "wof:name":"Lemeris",
+    "wof:parent_id":1091703829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.01722,
+    -3.24481,
+    152.01722,
+    -3.24481
+],
+  "geometry": {"coordinates":[152.01722000000001,-3.24481],"type":"Point"}
+}

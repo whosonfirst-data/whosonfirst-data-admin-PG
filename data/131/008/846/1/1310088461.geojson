@@ -1,0 +1,72 @@
+{
+  "id": 1310088461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.22811,-3.53552,152.22811,-3.53552",
+    "geom:latitude":-3.53552,
+    "geom:longitude":152.22811,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Komalu",
+    "gn:country_code":"PG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093631,
+    "gn:latitude":-3.53552,
+    "gn:longitude":152.22811,
+    "gn:modification_date":"2015-08-18",
+    "gn:name":"Komalu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Komoles",
+        "Komolus",
+        "Komalu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091703829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093631
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"29e6d76d688efd4c7ba6e1e142fd84ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703829,
+            "locality_id":1310088461,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1310088461,
+    "wof:lastmodified":1537677133,
+    "wof:name":"Komalu",
+    "wof:parent_id":1091703829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.22811000000004,
+    -3.53552,
+    152.22811000000004,
+    -3.53552
+],
+  "geometry": {"coordinates":[152.22811000000004,-3.53552],"type":"Point"}
+}

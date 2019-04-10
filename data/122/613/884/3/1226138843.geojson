@@ -1,0 +1,67 @@
+{
+  "id": 1226138843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.38373,-6.7198,145.38373,-6.7198",
+    "geom:latitude":-6.7198,
+    "geom:longitude":145.38373,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"A'u'uwaiyi",
+    "gn:country_code":"PG",
+    "gn:dem":1384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100294,
+    "gn:latitude":-6.7198,
+    "gn:longitude":145.38373,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"A\u2019u\u2019uwaiyi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091704103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100294
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"6d89dc22a0276a1734fcbcac7eb046f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704103,
+            "locality_id":1226138843,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1226138843,
+    "wof:lastmodified":1537084507,
+    "wof:name":"A'u'uwaiyi",
+    "wof:parent_id":1091704103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.38373,
+    -6.7198,
+    145.38373,
+    -6.7198
+],
+  "geometry": {"coordinates":[145.38373000000001,-6.7198],"type":"Point"}
+}

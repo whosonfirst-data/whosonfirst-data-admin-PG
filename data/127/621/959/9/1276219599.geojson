@@ -1,0 +1,67 @@
+{
+  "id": 1276219599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.45,-8.73333,143.45,-8.73333",
+    "geom:latitude":-8.73333,
+    "geom:longitude":143.45,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mibu",
+    "gn:country_code":"PG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090865,
+    "gn:latitude":-8.73333,
+    "gn:longitude":143.45,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Mibu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090865
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"77cdd8cc029cc18d292ad0c9e329802a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704467,
+            "locality_id":1276219599,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1276219599,
+    "wof:lastmodified":1536932113,
+    "wof:name":"Mibu",
+    "wof:parent_id":1091704467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.45,
+    -8.73333,
+    143.45,
+    -8.73333
+],
+  "geometry": {"coordinates":[143.44999999999999,-8.73333],"type":"Point"}
+}

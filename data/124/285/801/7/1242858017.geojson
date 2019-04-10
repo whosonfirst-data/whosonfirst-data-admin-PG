@@ -1,0 +1,67 @@
+{
+  "id": 1242858017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.0473,-6.10386,147.0473,-6.10386",
+    "geom:latitude":-6.10386,
+    "geom:longitude":147.0473,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Longmon",
+    "gn:country_code":"PG",
+    "gn:dem":1185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092176,
+    "gn:latitude":-6.10386,
+    "gn:longitude":147.0473,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Longmon",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092176
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0917bbb3339d81b27207aa69274d87d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702647,
+            "locality_id":1242858017,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1242858017,
+    "wof:lastmodified":1536659828,
+    "wof:name":"Longmon",
+    "wof:parent_id":1091702647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.0473,
+    -6.10386,
+    147.0473,
+    -6.10386
+],
+  "geometry": {"coordinates":[147.04730000000001,-6.10386],"type":"Point"}
+}

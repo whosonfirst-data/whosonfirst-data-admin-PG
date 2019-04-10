@@ -1,0 +1,71 @@
+{
+  "id": 1260069859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.40872,-6.64203,145.40872,-6.64203",
+    "geom:latitude":-6.64203,
+    "geom:longitude":145.40872,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Iva",
+    "gn:country_code":"PG",
+    "gn:dem":1598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095389,
+    "gn:latitude":-6.64203,
+    "gn:longitude":145.40872,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Iva",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iya",
+        "Iva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091704103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095389
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2e1ddb1992f2bbcc092af20a4da4bfde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704103,
+            "locality_id":1260069859,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1260069859,
+    "wof:lastmodified":1537677153,
+    "wof:name":"Iva",
+    "wof:parent_id":1091704103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.40872,
+    -6.64203,
+    145.40872,
+    -6.64203
+],
+  "geometry": {"coordinates":[145.40871999999999,-6.64203],"type":"Point"}
+}

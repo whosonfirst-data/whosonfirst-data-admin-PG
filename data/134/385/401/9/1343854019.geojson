@@ -1,0 +1,67 @@
+{
+  "id": 1343854019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.21667,-6.48333,145.21667,-6.48333",
+    "geom:latitude":-6.48333,
+    "geom:longitude":145.21667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Lowai",
+    "gn:country_code":"PG",
+    "gn:dem":1808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092132,
+    "gn:latitude":-6.48333,
+    "gn:longitude":145.21667,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Lowai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091703417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092132
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1868376bf5bf82a5275cc2635a1b915b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703417,
+            "locality_id":1343854019,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1343854019,
+    "wof:lastmodified":1536675932,
+    "wof:name":"Lowai",
+    "wof:parent_id":1091703417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.21667,
+    -6.48333,
+    145.21667,
+    -6.48333
+],
+  "geometry": {"coordinates":[145.21666999999999,-6.48333],"type":"Point"}
+}

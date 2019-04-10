@@ -1,0 +1,67 @@
+{
+  "id": 1327467097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.83349,-9.43835,148.83349,-9.43835",
+    "geom:latitude":-9.43835,
+    "geom:longitude":148.83349,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Taruma",
+    "gn:country_code":"PG",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085749,
+    "gn:latitude":-9.43835,
+    "gn:longitude":148.83349,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Taruma",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091702531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085749
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"669df08e2e27239fb0c05539718dee5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702531,
+            "locality_id":1327467097,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1327467097,
+    "wof:lastmodified":1536629032,
+    "wof:name":"Taruma",
+    "wof:parent_id":1091702531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.83348999999995,
+    -9.43835,
+    148.83348999999995,
+    -9.43835
+],
+  "geometry": {"coordinates":[148.83348999999995,-9.43835],"type":"Point"}
+}

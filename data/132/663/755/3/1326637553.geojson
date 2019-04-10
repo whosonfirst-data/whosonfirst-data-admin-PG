@@ -1,0 +1,67 @@
+{
+  "id": 1326637553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.68001,-10.31987,150.68001,-10.31987",
+    "geom:latitude":-10.31987,
+    "geom:longitude":150.68001,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Hehego",
+    "gn:country_code":"PG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133378,
+    "gn:latitude":-10.31987,
+    "gn:longitude":150.68001,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Hehego",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133378
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"965786c98aea83909eb5d24c46351269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702001,
+            "locality_id":1326637553,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1326637553,
+    "wof:lastmodified":1536831072,
+    "wof:name":"Hehego",
+    "wof:parent_id":1091702001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.68001,
+    -10.31987,
+    150.68001,
+    -10.31987
+],
+  "geometry": {"coordinates":[150.68001000000001,-10.31987],"type":"Point"}
+}

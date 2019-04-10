@@ -1,0 +1,71 @@
+{
+  "id": 1309987257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.03114,-4.10156,144.03114,-4.10156",
+    "geom:latitude":-4.10156,
+    "geom:longitude":144.03114,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Magendo 1",
+    "gn:country_code":"PG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091951,
+    "gn:latitude":-4.10156,
+    "gn:longitude":144.03114,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Magendo 1",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Magendo",
+        "Magendo 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091951
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"500fe9d68fefbc67fb63d8bbf6cb62bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702059,
+            "locality_id":1309987257,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1309987257,
+    "wof:lastmodified":1537677115,
+    "wof:name":"Magendo 1",
+    "wof:parent_id":1091702059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.03114,
+    -4.10156,
+    144.03114,
+    -4.10156
+],
+  "geometry": {"coordinates":[144.03113999999999,-4.10156],"type":"Point"}
+}

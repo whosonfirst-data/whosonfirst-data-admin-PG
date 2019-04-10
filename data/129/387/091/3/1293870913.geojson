@@ -1,0 +1,67 @@
+{
+  "id": 1293870913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.47086,-5.35207,145.47086,-5.35207",
+    "geom:latitude":-5.35207,
+    "geom:longitude":145.47086,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Borkwa",
+    "gn:country_code":"PG",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099112,
+    "gn:latitude":-5.35207,
+    "gn:longitude":145.47086,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Borkwa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091703451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099112
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1ee5c228f243550480423eb71e37ced0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703451,
+            "locality_id":1293870913,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1293870913,
+    "wof:lastmodified":1536731773,
+    "wof:name":"Borkwa",
+    "wof:parent_id":1091703451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.47086000000004,
+    -5.35207,
+    145.47086000000004,
+    -5.35207
+],
+  "geometry": {"coordinates":[145.47086000000004,-5.35207],"type":"Point"}
+}

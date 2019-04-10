@@ -1,0 +1,67 @@
+{
+  "id": 1226041901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.71216,-6.2597,143.71216,-6.2597",
+    "geom:latitude":-6.2597,
+    "geom:longitude":143.71216,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tagenda",
+    "gn:country_code":"PG",
+    "gn:dem":1604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086021,
+    "gn:latitude":-6.2597,
+    "gn:longitude":143.71216,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Tagenda",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086021
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ee31b66b6bc82de9a45910e0bd14d7c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702665,
+            "locality_id":1226041901,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1226041901,
+    "wof:lastmodified":1536731043,
+    "wof:name":"Tagenda",
+    "wof:parent_id":1091702665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.71216,
+    -6.2597,
+    143.71216,
+    -6.2597
+],
+  "geometry": {"coordinates":[143.71216000000001,-6.2597],"type":"Point"}
+}

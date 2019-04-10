@@ -1,0 +1,67 @@
+{
+  "id": 1277160783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.40903,-6.18416,146.40903,-6.18416",
+    "geom:latitude":-6.18416,
+    "geom:longitude":146.40903,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Hikwak",
+    "gn:country_code":"PG",
+    "gn:dem":1008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096158,
+    "gn:latitude":-6.18416,
+    "gn:longitude":146.40903,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Hikwak",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096158
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"7ec222390458d5be9f2062540b171dd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703565,
+            "locality_id":1277160783,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1277160783,
+    "wof:lastmodified":1536655221,
+    "wof:name":"Hikwak",
+    "wof:parent_id":1091703565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.40903,
+    -6.18416,
+    146.40903,
+    -6.18416
+],
+  "geometry": {"coordinates":[146.40903,-6.18416],"type":"Point"}
+}

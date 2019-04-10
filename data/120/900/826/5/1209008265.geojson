@@ -1,0 +1,61 @@
+{
+  "id": 1209008265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.53114,-8.70624,146.53114,-8.70624",
+    "geom:latitude":-8.70624,
+    "geom:longitude":146.53114,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mou",
+    "gn:country_code":"PG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090418,
+    "gn:latitude":-8.70624,
+    "gn:longitude":146.53114,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Mou",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090418
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"317ab643b5e63ed36016d186af7da1d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209008265
+        }
+    ],
+    "wof:id":1209008265,
+    "wof:lastmodified":1536300532,
+    "wof:name":"Mou",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.53114,
+    -8.70624,
+    146.53114,
+    -8.70624
+],
+  "geometry": {"coordinates":[146.53113999999999,-8.70624],"type":"Point"}
+}

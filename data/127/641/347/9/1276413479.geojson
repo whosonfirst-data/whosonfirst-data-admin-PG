@@ -1,0 +1,71 @@
+{
+  "id": 1276413479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.74971,-1.52264,149.74971,-1.52264",
+    "geom:latitude":-1.52264,
+    "geom:longitude":149.74971,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Nai",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090099,
+    "gn:latitude":-1.52264,
+    "gn:longitude":149.74971,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eneie",
+        "Nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091702917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090099
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f35cb049d8313b6fff8d7c68ac24de12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702917,
+            "locality_id":1276413479,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1276413479,
+    "wof:lastmodified":1537677093,
+    "wof:name":"Nai",
+    "wof:parent_id":1091702917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.74971000000005,
+    -1.52264,
+    149.74971000000005,
+    -1.52264
+],
+  "geometry": {"coordinates":[149.74971000000005,-1.52264],"type":"Point"}
+}

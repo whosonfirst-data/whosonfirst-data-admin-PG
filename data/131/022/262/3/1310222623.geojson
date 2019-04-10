@@ -1,0 +1,67 @@
+{
+  "id": 1310222623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.8828,-10.0031,147.8828,-10.0031",
+    "geom:latitude":-10.0031,
+    "geom:longitude":147.8828,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mamalo",
+    "gn:country_code":"PG",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2132953,
+    "gn:latitude":-10.0031,
+    "gn:longitude":147.8828,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Mamalo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091704253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2132953
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"973de40210c03877613f11b456f47756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704253,
+            "locality_id":1310222623,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1310222623,
+    "wof:lastmodified":1536826599,
+    "wof:name":"Mamalo",
+    "wof:parent_id":1091704253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.8828,
+    -10.0031,
+    147.8828,
+    -10.0031
+],
+  "geometry": {"coordinates":[147.8828,-10.0031],"type":"Point"}
+}

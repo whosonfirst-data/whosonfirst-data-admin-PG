@@ -1,0 +1,66 @@
+{
+  "id": 1226306221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.8,-3.3,142.8,-3.3",
+    "geom:latitude":-3.3,
+    "geom:longitude":142.8,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Babiang",
+    "gn:country_code":"PG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100163,
+    "gn:latitude":-3.3,
+    "gn:longitude":142.8,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Babiang",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Badiang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100163
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"eeececebc0124e04532a25e2d47e460c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1226306221,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226306221,
+    "wof:lastmodified":1537677205,
+    "wof:name":"Babiang",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.8,
+    -3.3,
+    142.8,
+    -3.3
+],
+  "geometry": {"coordinates":[142.80000000000001,-3.3],"type":"Point"}
+}

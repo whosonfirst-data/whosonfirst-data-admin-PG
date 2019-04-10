@@ -1,0 +1,61 @@
+{
+  "id": 1243265847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"153.099,-11.251,153.099,-11.251",
+    "geom:latitude":-11.251,
+    "geom:longitude":153.099,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bunbun",
+    "gn:country_code":"PG",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425438,
+    "gn:latitude":-11.251,
+    "gn:longitude":153.099,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Bunbun",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425438
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"dfc8809f044022feb1a11e5ecd959cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243265847,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243265847,
+    "wof:lastmodified":1537063084,
+    "wof:name":"Bunbun",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    153.099,
+    -11.251,
+    153.099,
+    -11.251
+],
+  "geometry": {"coordinates":[153.09899999999999,-11.251],"type":"Point"}
+}

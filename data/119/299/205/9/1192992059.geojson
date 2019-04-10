@@ -1,0 +1,67 @@
+{
+  "id": 1192992059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.02732,-7.30157,146.02732,-7.30157",
+    "geom:latitude":-7.30157,
+    "geom:longitude":146.02732,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Nenewe",
+    "gn:country_code":"PG",
+    "gn:dem":1727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089735,
+    "gn:latitude":-7.30157,
+    "gn:longitude":146.02732,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Nenewe",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089735
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2cb7186b576bf2e4adafa18beac9ed48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703633,
+            "locality_id":1192992059,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1192992059,
+    "wof:lastmodified":1536379813,
+    "wof:name":"Nenewe",
+    "wof:parent_id":1091703633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.02732,
+    -7.30157,
+    146.02732,
+    -7.30157
+],
+  "geometry": {"coordinates":[146.02732,-7.30157],"type":"Point"}
+}

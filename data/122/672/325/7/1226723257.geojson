@@ -1,0 +1,71 @@
+{
+  "id": 1226723257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"153.0038,-4.13097,153.0038,-4.13097",
+    "geom:latitude":-4.13097,
+    "geom:longitude":153.0038,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Manga Mission",
+    "gn:country_code":"PG",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091582,
+    "gn:latitude":-4.13097,
+    "gn:longitude":153.0038,
+    "gn:modification_date":"2015-08-18",
+    "gn:name":"Manga Mission",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manga",
+        "Manga Mission"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091703829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091582
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b3060ef623c70015ff5e2e0d6a2b08f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703829,
+            "locality_id":1226723257,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1226723257,
+    "wof:lastmodified":1537677110,
+    "wof:name":"Manga Mission",
+    "wof:parent_id":1091703829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    153.0038,
+    -4.13097,
+    153.0038,
+    -4.13097
+],
+  "geometry": {"coordinates":[153.00380000000001,-4.13097],"type":"Point"}
+}

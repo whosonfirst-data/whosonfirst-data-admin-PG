@@ -1,0 +1,67 @@
+{
+  "id": 1209903277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.55,-4.86667,145.55,-4.86667",
+    "geom:latitude":-4.86667,
+    "geom:longitude":145.55,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Adapa",
+    "gn:country_code":"PG",
+    "gn:dem":809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101372,
+    "gn:latitude":-4.86667,
+    "gn:longitude":145.55,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Adapa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101372
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a8557aa513ce3c76c101b55fb7004634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704517,
+            "locality_id":1209903277,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1209903277,
+    "wof:lastmodified":1536385461,
+    "wof:name":"Adapa",
+    "wof:parent_id":1091704517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.55,
+    -4.86667,
+    145.55,
+    -4.86667
+],
+  "geometry": {"coordinates":[145.55000000000001,-4.86667],"type":"Point"}
+}

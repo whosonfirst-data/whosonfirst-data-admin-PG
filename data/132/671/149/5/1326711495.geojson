@@ -1,0 +1,72 @@
+{
+  "id": 1326711495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.23672,-4.06616,144.23672,-4.06616",
+    "geom:latitude":-4.06616,
+    "geom:longitude":144.23672,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Imbuando",
+    "gn:country_code":"PG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095665,
+    "gn:latitude":-4.06616,
+    "gn:longitude":144.23672,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Imbuando",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imbando",
+        "Imbaundo",
+        "Imbuando"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095665
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"5348e521e3f604970cf044509b040eb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702059,
+            "locality_id":1326711495,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1326711495,
+    "wof:lastmodified":1537677156,
+    "wof:name":"Imbuando",
+    "wof:parent_id":1091702059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.23672,
+    -4.06616,
+    144.23672,
+    -4.06616
+],
+  "geometry": {"coordinates":[144.23671999999999,-4.06616],"type":"Point"}
+}

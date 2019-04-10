@@ -1,0 +1,72 @@
+{
+  "id": 1260303369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.56137,-8.53935,146.56137,-8.53935",
+    "geom:latitude":-8.53935,
+    "geom:longitude":146.56137,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Beipa",
+    "gn:country_code":"PG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099705,
+    "gn:latitude":-8.53935,
+    "gn:longitude":146.56137,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Beipa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Veifa",
+        "Beipa\u2019a",
+        "Beipa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091702751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099705
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0b08f09d5396be310faa4fa2b05a5c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702751,
+            "locality_id":1260303369,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1260303369,
+    "wof:lastmodified":1537677200,
+    "wof:name":"Beipa",
+    "wof:parent_id":1091702751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.56136999999995,
+    -8.53935,
+    146.56136999999995,
+    -8.53935
+],
+  "geometry": {"coordinates":[146.56136999999995,-8.53935],"type":"Point"}
+}

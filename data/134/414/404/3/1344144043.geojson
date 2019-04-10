@@ -1,0 +1,73 @@
+{
+  "id": 1344144043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.45884,-5.59913,145.45884,-5.59913",
+    "geom:latitude":-5.59913,
+    "geom:longitude":145.45884,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Urigino Number 1",
+    "gn:country_code":"PG",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084576,
+    "gn:latitude":-5.59913,
+    "gn:longitude":145.45884,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Urigino Number 1",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Urigino",
+        "Urigina 1",
+        "Urigina",
+        "Urigino Number 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084576
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c48cae98054f4413cf9ab3b7dfcecc1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704819,
+            "locality_id":1344144043,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1344144043,
+    "wof:lastmodified":1537677039,
+    "wof:name":"Urigino Number 1",
+    "wof:parent_id":1091704819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.45883999999995,
+    -5.59913,
+    145.45883999999995,
+    -5.59913
+],
+  "geometry": {"coordinates":[145.45883999999995,-5.59913],"type":"Point"}
+}

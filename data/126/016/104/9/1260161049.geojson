@@ -1,0 +1,67 @@
+{
+  "id": 1260161049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.0647,-4.36543,145.0647,-4.36543",
+    "geom:latitude":-4.36543,
+    "geom:longitude":145.0647,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Wangor",
+    "gn:country_code":"PG",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083900,
+    "gn:latitude":-4.36543,
+    "gn:longitude":145.0647,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Wangor",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091702063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083900
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"99abd81ef28ba0ade8c8184f7610878a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702063,
+            "locality_id":1260161049,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1260161049,
+    "wof:lastmodified":1536877975,
+    "wof:name":"Wangor",
+    "wof:parent_id":1091702063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.0647,
+    -4.36543,
+    145.0647,
+    -4.36543
+],
+  "geometry": {"coordinates":[145.06469999999999,-4.36543],"type":"Point"}
+}

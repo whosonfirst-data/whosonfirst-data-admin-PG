@@ -1,0 +1,61 @@
+{
+  "id": 1242875807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.75916,-10.62827,150.75916,-10.62827",
+    "geom:latitude":-10.62827,
+    "geom:longitude":150.75916,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sauasauaga",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2132590,
+    "gn:latitude":-10.62827,
+    "gn:longitude":150.75916,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Sauasauaga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2132590
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e48eaa7b17b5eb8761b850ca6d9ae97a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242875807,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242875807,
+    "wof:lastmodified":1536632729,
+    "wof:name":"Sauasauaga",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.75916,
+    -10.62827,
+    150.75916,
+    -10.62827
+],
+  "geometry": {"coordinates":[150.75916000000001,-10.62827],"type":"Point"}
+}

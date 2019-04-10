@@ -1,0 +1,71 @@
+{
+  "id": 1226634181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.6713,-4.05823,142.6713,-4.05823",
+    "geom:latitude":-4.05823,
+    "geom:longitude":142.6713,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Amaki Number 2",
+    "gn:country_code":"PG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100980,
+    "gn:latitude":-4.05823,
+    "gn:longitude":142.6713,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Amaki Number 2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amaki",
+        "Amaki Number 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100980
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"62da7d50d69314a63431e90d19876940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702053,
+            "locality_id":1226634181,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1226634181,
+    "wof:lastmodified":1537677215,
+    "wof:name":"Amaki Number 2",
+    "wof:parent_id":1091702053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.6713,
+    -4.05823,
+    142.6713,
+    -4.05823
+],
+  "geometry": {"coordinates":[142.6713,-4.05823],"type":"Point"}
+}

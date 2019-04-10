@@ -1,0 +1,67 @@
+{
+  "id": 1293182067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.57161,-3.37101,143.57161,-3.37101",
+    "geom:latitude":-3.37101,
+    "geom:longitude":143.57161,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Brauniak",
+    "gn:country_code":"PG",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099029,
+    "gn:latitude":-3.37101,
+    "gn:longitude":143.57161,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Brauniak",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099029
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ed5bf589fba2b523b716cf7c2d282447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705089,
+            "locality_id":1293182067,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1293182067,
+    "wof:lastmodified":1536730818,
+    "wof:name":"Brauniak",
+    "wof:parent_id":1091705089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.57161000000005,
+    -3.37101,
+    143.57161000000005,
+    -3.37101
+],
+  "geometry": {"coordinates":[143.57161000000005,-3.37101],"type":"Point"}
+}

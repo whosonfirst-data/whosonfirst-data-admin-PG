@@ -1,0 +1,67 @@
+{
+  "id": 1192984763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.05,-3.8,142.05,-3.8",
+    "geom:latitude":-3.8,
+    "geom:longitude":142.05,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Nigre",
+    "gn:country_code":"PG",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089641,
+    "gn:latitude":-3.8,
+    "gn:longitude":142.05,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Nigre",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091704679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089641
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0c188df69944c088077cd6efddf1b38b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704679,
+            "locality_id":1192984763,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1192984763,
+    "wof:lastmodified":1536365102,
+    "wof:name":"Nigre",
+    "wof:parent_id":1091704679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.05,
+    -3.8,
+    142.05,
+    -3.8
+],
+  "geometry": {"coordinates":[142.05000000000001,-3.8],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343841679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.84567,-5.54747,151.84567,-5.54747",
+    "geom:latitude":-5.54747,
+    "geom:longitude":151.84567,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Poman",
+    "gn:country_code":"PG",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088211,
+    "gn:latitude":-5.54747,
+    "gn:longitude":151.84567,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Poman",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091704139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088211
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"44b54c858e2fd497b0288d0a074f1796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704139,
+            "locality_id":1343841679,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1343841679,
+    "wof:lastmodified":1536693933,
+    "wof:name":"Poman",
+    "wof:parent_id":1091704139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.84566999999996,
+    -5.54747,
+    151.84566999999996,
+    -5.54747
+],
+  "geometry": {"coordinates":[151.84566999999996,-5.54747],"type":"Point"}
+}

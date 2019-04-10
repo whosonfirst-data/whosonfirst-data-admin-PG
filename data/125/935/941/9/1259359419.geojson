@@ -1,0 +1,67 @@
+{
+  "id": 1259359419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.28162,-2.54602,147.28162,-2.54602",
+    "geom:latitude":-2.54602,
+    "geom:longitude":147.28162,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Perelik",
+    "gn:country_code":"PG",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088437,
+    "gn:latitude":-2.54602,
+    "gn:longitude":147.28162,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Perelik",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676569,
+        1091703475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088437
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4ddaed0317fb0d54a55ffaa79d346830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703475,
+            "locality_id":1259359419,
+            "region_id":85676569
+        }
+    ],
+    "wof:id":1259359419,
+    "wof:lastmodified":1537035425,
+    "wof:name":"Perelik",
+    "wof:parent_id":1091703475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.28162,
+    -2.54602,
+    147.28162,
+    -2.54602
+],
+  "geometry": {"coordinates":[147.28162,-2.54602],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327009993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.74771,-4.06911,144.74771,-4.06911",
+    "geom:latitude":-4.06911,
+    "geom:longitude":144.74771,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Gamei",
+    "gn:country_code":"PG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097223,
+    "gn:latitude":-4.06911,
+    "gn:longitude":144.74771,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Gamei",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091702063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097223
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8d93cab8f10f8d5f16c4e394bec21b58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702063,
+            "locality_id":1327009993,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1327009993,
+    "wof:lastmodified":1536793153,
+    "wof:name":"Gamei",
+    "wof:parent_id":1091702063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.74771,
+    -4.06911,
+    144.74771,
+    -4.06911
+],
+  "geometry": {"coordinates":[144.74771000000001,-4.06911],"type":"Point"}
+}

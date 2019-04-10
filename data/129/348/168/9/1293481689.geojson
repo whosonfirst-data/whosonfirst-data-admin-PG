@@ -1,0 +1,71 @@
+{
+  "id": 1293481689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"154.7673,-5.54925,154.7673,-5.54925",
+    "geom:latitude":-5.54925,
+    "geom:longitude":154.7673,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Pora Pora",
+    "gn:country_code":"PG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088148,
+    "gn:latitude":-5.54925,
+    "gn:longitude":154.7673,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pora Pora",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Porpora",
+        "Pora Pora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676543,
+        1091703967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088148
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f7349d291e3a85b237f4bdcff24c67db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703967,
+            "locality_id":1293481689,
+            "region_id":85676543
+        }
+    ],
+    "wof:id":1293481689,
+    "wof:lastmodified":1537677073,
+    "wof:name":"Pora Pora",
+    "wof:parent_id":1091703967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    154.7673,
+    -5.54925,
+    154.7673,
+    -5.54925
+],
+  "geometry": {"coordinates":[154.76730000000001,-5.54925],"type":"Point"}
+}

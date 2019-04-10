@@ -1,0 +1,68 @@
+{
+  "id": 1209708327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.14067,-5.67449,141.14067,-5.67449",
+    "geom:latitude":-5.67449,
+    "geom:longitude":141.14067,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ningerum",
+    "gn:country_code":"PG",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089599,
+    "gn:latitude":-5.67449,
+    "gn:longitude":141.14067,
+    "gn:modification_date":"2013-05-09",
+    "gn:name":"Ningerum",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089599,
+        "wk:page":"Ningerum"
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"33bdf92661523ca748365b3be55bd5ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1209708327,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1209708327,
+    "wof:lastmodified":1537570309,
+    "wof:name":"Ningerum",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.14067,
+    -5.67449,
+    141.14067,
+    -5.67449
+],
+  "geometry": {"coordinates":[141.14067,-5.67449],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242945491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.45,-5.6,144.45,-5.6",
+    "geom:latitude":-5.6,
+    "geom:longitude":144.45,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Menjim",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":1590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090963,
+    "gn:latitude":-5.6,
+    "gn:longitude":144.45,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Menjim",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Menjin",
+        "Menjim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676551,
+        1091702251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090963
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"fe9c17314f1581826554c655cf896f04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702251,
+            "locality_id":1242945491,
+            "region_id":85676551
+        }
+    ],
+    "wof:id":1242945491,
+    "wof:lastmodified":1537677103,
+    "wof:name":"Menjim",
+    "wof:parent_id":1091702251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.45,
+    -5.6,
+    144.45,
+    -5.6
+],
+  "geometry": {"coordinates":[144.44999999999999,-5.6],"type":"Point"}
+}

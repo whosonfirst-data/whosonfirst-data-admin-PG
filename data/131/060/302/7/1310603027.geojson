@@ -1,0 +1,67 @@
+{
+  "id": 1310603027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.30992,-10.31251,150.30992,-10.31251",
+    "geom:latitude":-10.31251,
+    "geom:longitude":150.30992,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ianianini",
+    "gn:country_code":"PG",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133309,
+    "gn:latitude":-10.31251,
+    "gn:longitude":150.30992,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Ianianini",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133309
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3c2f5c1658fddabddf8c5335fe36f42b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702001,
+            "locality_id":1310603027,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1310603027,
+    "wof:lastmodified":1536776824,
+    "wof:name":"Ianianini",
+    "wof:parent_id":1091702001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.30992,
+    -10.31251,
+    150.30992,
+    -10.31251
+],
+  "geometry": {"coordinates":[150.30992000000001,-10.31251],"type":"Point"}
+}

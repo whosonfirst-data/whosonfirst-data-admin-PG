@@ -1,0 +1,72 @@
+{
+  "id": 1326708539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.05,-3.6,143.05,-3.6",
+    "geom:latitude":-3.6,
+    "geom:longitude":143.05,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kuminibis 2",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093101,
+    "gn:latitude":-3.6,
+    "gn:longitude":143.05,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kuminibis 2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuminibis Number 2",
+        "Kuminibis 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091703523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093101
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a0b0aa74cc61746b2a3983bd67b0e46c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703523,
+            "locality_id":1326708539,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1326708539,
+    "wof:lastmodified":1537677126,
+    "wof:name":"Kuminibis 2",
+    "wof:parent_id":1091703523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.05,
+    -3.6,
+    143.05,
+    -3.6
+],
+  "geometry": {"coordinates":[143.05000000000001,-3.6],"type":"Point"}
+}

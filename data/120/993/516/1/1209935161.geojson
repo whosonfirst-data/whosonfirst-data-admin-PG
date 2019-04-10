@@ -1,0 +1,67 @@
+{
+  "id": 1209935161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.14139,-6.12627,145.14139,-6.12627",
+    "geom:latitude":-6.12627,
+    "geom:longitude":145.14139,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kibogu",
+    "gn:country_code":"PG",
+    "gn:dem":1655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094042,
+    "gn:latitude":-6.12627,
+    "gn:longitude":145.14139,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kibogu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091702163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094042
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b39e199e4bb0026927074dae05bde293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702163,
+            "locality_id":1209935161,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1209935161,
+    "wof:lastmodified":1536390982,
+    "wof:name":"Kibogu",
+    "wof:parent_id":1091702163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.14139,
+    -6.12627,
+    145.14139,
+    -6.12627
+],
+  "geometry": {"coordinates":[145.14139,-6.12627],"type":"Point"}
+}

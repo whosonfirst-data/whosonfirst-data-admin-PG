@@ -1,0 +1,61 @@
+{
+  "id": 1327041577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"153.23404,-11.31499,153.23404,-11.31499",
+    "geom:latitude":-11.31499,
+    "geom:longitude":153.23404,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Soluwo",
+    "gn:country_code":"PG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425440,
+    "gn:latitude":-11.31499,
+    "gn:longitude":153.23404,
+    "gn:modification_date":"2014-09-07",
+    "gn:name":"Soluwo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425440
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3d6dc2b68a0999be5ce18e3340b66e39",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327041577,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327041577,
+    "wof:lastmodified":1536746927,
+    "wof:name":"Soluwo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    153.23404,
+    -11.31499,
+    153.23404,
+    -11.31499
+],
+  "geometry": {"coordinates":[153.23403999999999,-11.31499],"type":"Point"}
+}

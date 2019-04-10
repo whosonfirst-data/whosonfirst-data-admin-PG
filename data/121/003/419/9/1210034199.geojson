@@ -1,0 +1,72 @@
+{
+  "id": 1210034199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.45,-8.63333,146.45,-8.63333",
+    "geom:latitude":-8.63333,
+    "geom:longitude":146.45,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Roro Aiara Waima",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087559,
+    "gn:latitude":-8.63333,
+    "gn:longitude":146.45,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Roro Aiara Waima",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Roroaira Waima",
+        "Roro Aiara Waima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091702751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087559
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4e9b600c8b5b0eb969d73e6723dba8e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702751,
+            "locality_id":1210034199,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1210034199,
+    "wof:lastmodified":1537677069,
+    "wof:name":"Roro Aiara Waima",
+    "wof:parent_id":1091702751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.45,
+    -8.63333,
+    146.45,
+    -8.63333
+],
+  "geometry": {"coordinates":[146.44999999999999,-8.63333],"type":"Point"}
+}

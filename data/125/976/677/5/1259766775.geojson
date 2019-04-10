@@ -1,0 +1,72 @@
+{
+  "id": 1259766775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.26736,-6.26597,146.26736,-6.26597",
+    "geom:latitude":-6.26597,
+    "geom:longitude":146.26736,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kaiapit",
+    "gn:country_code":"PG",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095076,
+    "gn:latitude":-6.26597,
+    "gn:longitude":146.26736,
+    "gn:modification_date":"2018-03-14",
+    "gn:name":"Kaiapit",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaiapit Mission",
+        "Kaiapit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095076,
+        "wk:page":"Kaiapit"
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"fcf41da7390f0fede8965a459c1f5218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703565,
+            "locality_id":1259766775,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1259766775,
+    "wof:lastmodified":1537677150,
+    "wof:name":"Kaiapit",
+    "wof:parent_id":1091703565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.26736,
+    -6.26597,
+    146.26736,
+    -6.26597
+],
+  "geometry": {"coordinates":[146.26736,-6.26597],"type":"Point"}
+}

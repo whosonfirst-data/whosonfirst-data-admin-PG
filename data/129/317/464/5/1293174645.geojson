@@ -1,0 +1,67 @@
+{
+  "id": 1293174645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.19168,-6.39374,146.19168,-6.39374",
+    "geom:latitude":-6.39374,
+    "geom:longitude":146.19168,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Onga",
+    "gn:country_code":"PG",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089056,
+    "gn:latitude":-6.39374,
+    "gn:longitude":146.19168,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Onga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089056
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"68d33d2a0e0b5380b185b84adccbbaaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703565,
+            "locality_id":1293174645,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1293174645,
+    "wof:lastmodified":1536741023,
+    "wof:name":"Onga",
+    "wof:parent_id":1091703565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.19168,
+    -6.39374,
+    146.19168,
+    -6.39374
+],
+  "geometry": {"coordinates":[146.19167999999999,-6.39374],"type":"Point"}
+}

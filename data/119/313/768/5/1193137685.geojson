@@ -1,0 +1,67 @@
+{
+  "id": 1193137685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.92162,-8.55231,147.92162,-8.55231",
+    "geom:latitude":-8.55231,
+    "geom:longitude":147.92162,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Korisata",
+    "gn:country_code":"PG",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093416,
+    "gn:latitude":-8.55231,
+    "gn:longitude":147.92162,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Korisata",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091704393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093416
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9e40a2210f5d66021690b12c1e7ab5da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704393,
+            "locality_id":1193137685,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1193137685,
+    "wof:lastmodified":1536368785,
+    "wof:name":"Korisata",
+    "wof:parent_id":1091704393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.92162,
+    -8.55231,
+    147.92162,
+    -8.55231
+],
+  "geometry": {"coordinates":[147.92161999999999,-8.55231],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360090927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.07291,-9.09575,149.07291,-9.09575",
+    "geom:latitude":-9.09575,
+    "geom:longitude":149.07291,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kuruaku",
+    "gn:country_code":"PG",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092967,
+    "gn:latitude":-9.09575,
+    "gn:longitude":149.07291,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kuruaku",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091702531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092967
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4812d860f39dd493e470fe51e84326be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702531,
+            "locality_id":1360090927,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1360090927,
+    "wof:lastmodified":1536937949,
+    "wof:name":"Kuruaku",
+    "wof:parent_id":1091702531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.07291,
+    -9.09575,
+    149.07291,
+    -9.09575
+],
+  "geometry": {"coordinates":[149.07291000000001,-9.09575],"type":"Point"}
+}

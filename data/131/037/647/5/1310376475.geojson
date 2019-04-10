@@ -1,0 +1,67 @@
+{
+  "id": 1310376475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.87753,-5.89898,146.87753,-5.89898",
+    "geom:latitude":-5.89898,
+    "geom:longitude":146.87753,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Boneia",
+    "gn:country_code":"PG",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099176,
+    "gn:latitude":-5.89898,
+    "gn:longitude":146.87753,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Boneia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091704719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099176
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9229f518d492de459fe3fac79dc46046",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704719,
+            "locality_id":1310376475,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1310376475,
+    "wof:lastmodified":1536602604,
+    "wof:name":"Boneia",
+    "wof:parent_id":1091704719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.87753,
+    -5.89898,
+    146.87753,
+    -5.89898
+],
+  "geometry": {"coordinates":[146.87753000000001,-5.89898],"type":"Point"}
+}

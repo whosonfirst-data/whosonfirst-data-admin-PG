@@ -1,0 +1,61 @@
+{
+  "id": 1309889285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.3,-5.93333,147.3,-5.93333",
+    "geom:latitude":-5.93333,
+    "geom:longitude":147.3,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Belambu",
+    "gn:country_code":"PG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099692,
+    "gn:latitude":-5.93333,
+    "gn:longitude":147.3,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Belambu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099692
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"7d496f2a5bd7384a5a17b7f6c674632e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1309889285,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309889285,
+    "wof:lastmodified":1536810342,
+    "wof:name":"Belambu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.3,
+    -5.93333,
+    147.3,
+    -5.93333
+],
+  "geometry": {"coordinates":[147.30000000000001,-5.93333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276203299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.46667,-5.61667,146.46667,-5.61667",
+    "geom:latitude":-5.61667,
+    "geom:longitude":146.46667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Sauvoi",
+    "gn:country_code":"PG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087086,
+    "gn:latitude":-5.61667,
+    "gn:longitude":146.46667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Sauvoi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087086
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"7970de684c8341286f83ea37d4a852b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704219,
+            "locality_id":1276203299,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1276203299,
+    "wof:lastmodified":1536953424,
+    "wof:name":"Sauvoi",
+    "wof:parent_id":1091704219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.46667,
+    -5.61667,
+    146.46667,
+    -5.61667
+],
+  "geometry": {"coordinates":[146.46666999999999,-5.61667],"type":"Point"}
+}

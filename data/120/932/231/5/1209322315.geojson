@@ -1,0 +1,61 @@
+{
+  "id": 1209322315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.7,-9.83333,149.7,-9.83333",
+    "geom:latitude":-9.83333,
+    "geom:longitude":149.7,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Miramira",
+    "gn:country_code":"PG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090734,
+    "gn:latitude":-9.83333,
+    "gn:longitude":149.7,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Miramira",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090734
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"eef9954d125edb7d2a76b4e6195da64f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209322315
+        }
+    ],
+    "wof:id":1209322315,
+    "wof:lastmodified":1536290650,
+    "wof:name":"Miramira",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.7,
+    -9.83333,
+    149.7,
+    -9.83333
+],
+  "geometry": {"coordinates":[149.69999999999999,-9.83333],"type":"Point"}
+}

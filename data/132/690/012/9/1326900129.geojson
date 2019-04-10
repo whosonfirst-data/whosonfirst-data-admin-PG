@@ -1,0 +1,67 @@
+{
+  "id": 1326900129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.41667,-5.71667,144.41667,-5.71667",
+    "geom:latitude":-5.71667,
+    "geom:longitude":144.41667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Ranjaguber",
+    "gn:country_code":"PG",
+    "gn:dem":1570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087788,
+    "gn:latitude":-5.71667,
+    "gn:longitude":144.41667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Ranjaguber",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676551,
+        1091702251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087788
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"40df06130dd072c4b6a89a5e94f55037",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702251,
+            "locality_id":1326900129,
+            "region_id":85676551
+        }
+    ],
+    "wof:id":1326900129,
+    "wof:lastmodified":1536951304,
+    "wof:name":"Ranjaguber",
+    "wof:parent_id":1091702251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.41666999999995,
+    -5.71667,
+    144.41666999999995,
+    -5.71667
+],
+  "geometry": {"coordinates":[144.41666999999995,-5.71667],"type":"Point"}
+}

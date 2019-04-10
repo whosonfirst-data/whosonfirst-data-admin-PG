@@ -1,0 +1,71 @@
+{
+  "id": 1259470157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.10963,-5.6823,146.10963,-5.6823",
+    "geom:latitude":-5.6823,
+    "geom:longitude":146.10963,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Meibu",
+    "gn:country_code":"PG",
+    "gn:dem":1308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091042,
+    "gn:latitude":-5.6823,
+    "gn:longitude":146.10963,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Meibu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mebu",
+        "Meibu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091042
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"7949d55a4058c6f9928eed1b98de0b87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704219,
+            "locality_id":1259470157,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1259470157,
+    "wof:lastmodified":1537677104,
+    "wof:name":"Meibu",
+    "wof:parent_id":1091704219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.10963,
+    -5.6823,
+    146.10963,
+    -5.6823
+],
+  "geometry": {"coordinates":[146.10963000000001,-5.6823],"type":"Point"}
+}

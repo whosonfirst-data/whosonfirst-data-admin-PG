@@ -1,0 +1,67 @@
+{
+  "id": 1276191491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.51667,-5.15,141.51667,-5.15",
+    "geom:latitude":-5.15,
+    "geom:longitude":141.51667,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Urapmin",
+    "gn:country_code":"PG",
+    "gn:dem":2030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084601,
+    "gn:latitude":-5.15,
+    "gn:longitude":141.51667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Urapmin",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091704679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084601
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ae6ea3cccc4a17e9204a956516e93989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704679,
+            "locality_id":1276191491,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1276191491,
+    "wof:lastmodified":1536968810,
+    "wof:name":"Urapmin",
+    "wof:parent_id":1091704679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.51667,
+    -5.15,
+    141.51667,
+    -5.15
+],
+  "geometry": {"coordinates":[141.51667,-5.15],"type":"Point"}
+}

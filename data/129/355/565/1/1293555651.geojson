@@ -1,0 +1,71 @@
+{
+  "id": 1293555651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.29995,-3.329,142.29995,-3.329",
+    "geom:latitude":-3.329,
+    "geom:longitude":142.29995,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Kara-Ausi",
+    "gn:country_code":"PG",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094642,
+    "gn:latitude":-3.329,
+    "gn:longitude":142.29995,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kara-Ausi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ausi",
+        "Kara-Ausi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091701955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094642
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"cadc77acb3f07bc83bd3337aa7ab370f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091701955,
+            "locality_id":1293555651,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1293555651,
+    "wof:lastmodified":1537677144,
+    "wof:name":"Kara-Ausi",
+    "wof:parent_id":1091701955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.29995,
+    -3.329,
+    142.29995,
+    -3.329
+],
+  "geometry": {"coordinates":[142.29995,-3.329],"type":"Point"}
+}

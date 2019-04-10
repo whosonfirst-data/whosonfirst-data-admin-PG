@@ -1,0 +1,67 @@
+{
+  "id": 1326932437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.88175,-10.02257,149.88175,-10.02257",
+    "geom:latitude":-10.02257,
+    "geom:longitude":149.88175,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Radava",
+    "gn:country_code":"PG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2132664,
+    "gn:latitude":-10.02257,
+    "gn:longitude":149.88175,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Radava",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2132664
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"50393efd79cdad71e5f0cdd4511d52a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702001,
+            "locality_id":1326932437,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1326932437,
+    "wof:lastmodified":1536904632,
+    "wof:name":"Radava",
+    "wof:parent_id":1091702001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.88175,
+    -10.02257,
+    149.88175,
+    -10.02257
+],
+  "geometry": {"coordinates":[149.88175000000001,-10.02257],"type":"Point"}
+}

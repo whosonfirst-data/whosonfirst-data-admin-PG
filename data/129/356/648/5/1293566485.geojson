@@ -1,0 +1,67 @@
+{
+  "id": 1293566485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.52802,-5.69663,146.52802,-5.69663",
+    "geom:latitude":-5.69663,
+    "geom:longitude":146.52802,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Subura",
+    "gn:country_code":"PG",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086241,
+    "gn:latitude":-5.69663,
+    "gn:longitude":146.52802,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Subura",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086241
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8ddc05475b22f2fe3db1398f4546f485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704219,
+            "locality_id":1293566485,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1293566485,
+    "wof:lastmodified":1536673227,
+    "wof:name":"Subura",
+    "wof:parent_id":1091704219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.52802,
+    -5.69663,
+    146.52802,
+    -5.69663
+],
+  "geometry": {"coordinates":[146.52802,-5.69663],"type":"Point"}
+}

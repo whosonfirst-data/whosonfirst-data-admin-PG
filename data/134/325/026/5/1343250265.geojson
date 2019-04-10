@@ -1,0 +1,66 @@
+{
+  "id": 1343250265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.13333,-3.78333,144.13333,-3.78333",
+    "geom:latitude":-3.78333,
+    "geom:longitude":144.13333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Wagamut",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084179,
+    "gn:latitude":-3.78333,
+    "gn:longitude":144.13333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Wagamut",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wagimut",
+        "Wagamut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084179
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"cb3b40b7f3a07ed01552a6c24949bbc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343250265,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343250265,
+    "wof:lastmodified":1537677035,
+    "wof:name":"Wagamut",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.13333,
+    -3.78333,
+    144.13333,
+    -3.78333
+],
+  "geometry": {"coordinates":[144.13333,-3.78333],"type":"Point"}
+}

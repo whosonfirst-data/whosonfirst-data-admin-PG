@@ -1,0 +1,67 @@
+{
+  "id": 1327356397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.69921,-6.38224,143.69921,-6.38224",
+    "geom:latitude":-6.38224,
+    "geom:longitude":143.69921,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Lagira",
+    "gn:country_code":"PG",
+    "gn:dem":1774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092721,
+    "gn:latitude":-6.38224,
+    "gn:longitude":143.69921,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Lagira",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092721
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8b26238969e9ecaf7a1317c465b4793a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702665,
+            "locality_id":1327356397,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1327356397,
+    "wof:lastmodified":1536791009,
+    "wof:name":"Lagira",
+    "wof:parent_id":1091702665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.69921000000005,
+    -6.38224,
+    143.69921000000005,
+    -6.38224
+],
+  "geometry": {"coordinates":[143.69921000000005,-6.38224],"type":"Point"}
+}

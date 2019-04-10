@@ -1,0 +1,67 @@
+{
+  "id": 1344223301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.31615,-3.52692,142.31615,-3.52692",
+    "geom:latitude":-3.52692,
+    "geom:longitude":142.31615,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Yerisi",
+    "gn:country_code":"PG",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2082934,
+    "gn:latitude":-3.52692,
+    "gn:longitude":142.31615,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Yerisi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091704057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2082934
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"69b0938191a94a6b5c797ee2484e9e69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704057,
+            "locality_id":1344223301,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1344223301,
+    "wof:lastmodified":1536639764,
+    "wof:name":"Yerisi",
+    "wof:parent_id":1091704057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.31615,
+    -3.52692,
+    142.31615,
+    -3.52692
+],
+  "geometry": {"coordinates":[142.31614999999999,-3.52692],"type":"Point"}
+}

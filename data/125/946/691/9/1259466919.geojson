@@ -1,0 +1,67 @@
+{
+  "id": 1259466919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.51107,-5.64042,151.51107,-5.64042",
+    "geom:latitude":-5.64042,
+    "geom:longitude":151.51107,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Manginuna",
+    "gn:country_code":"PG",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091564,
+    "gn:latitude":-5.64042,
+    "gn:longitude":151.51107,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Manginuna",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091704139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091564
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a51f72cd021e56a87a52f38d543de7a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704139,
+            "locality_id":1259466919,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1259466919,
+    "wof:lastmodified":1536881906,
+    "wof:name":"Manginuna",
+    "wof:parent_id":1091704139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.51107,
+    -5.64042,
+    151.51107,
+    -5.64042
+],
+  "geometry": {"coordinates":[151.51106999999999,-5.64042],"type":"Point"}
+}

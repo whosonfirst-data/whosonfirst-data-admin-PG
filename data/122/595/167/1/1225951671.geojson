@@ -1,0 +1,61 @@
+{
+  "id": 1225951671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.3,-10.73333,150.3,-10.73333",
+    "geom:latitude":-10.73333,
+    "geom:longitude":150.3,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Baibesika",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133915,
+    "gn:latitude":-10.73333,
+    "gn:longitude":150.3,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Baibesika",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133915
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b943d262300e55d5653d16902c55ed2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1225951671,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225951671,
+    "wof:lastmodified":1536859354,
+    "wof:name":"Baibesika",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.3,
+    -10.73333,
+    150.3,
+    -10.73333
+],
+  "geometry": {"coordinates":[150.30000000000001,-10.73333],"type":"Point"}
+}

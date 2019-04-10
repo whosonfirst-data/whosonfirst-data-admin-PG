@@ -1,0 +1,63 @@
+{
+  "id": 1326732107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"154.15,-11.401,154.15,-11.401",
+    "geom:latitude":-11.401,
+    "geom:longitude":154.15,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Womadagwob Mission",
+    "gn:country_code":"PG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425448,
+    "gn:latitude":-11.401,
+    "gn:longitude":154.15,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Womadagwob Mission",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425448
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0feb76d2a049968e1a827da86bc1f9b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1326732107,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326732107,
+    "wof:lastmodified":1536696118,
+    "wof:name":"Womadagwob Mission",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    154.15,
+    -11.401,
+    154.15,
+    -11.401
+],
+  "geometry": {"coordinates":[154.15000000000001,-11.401],"type":"Point"}
+}

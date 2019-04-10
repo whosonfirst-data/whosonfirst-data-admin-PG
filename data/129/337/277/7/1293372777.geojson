@@ -1,0 +1,63 @@
+{
+  "id": 1293372777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.35547,-3.57184,152.35547,-3.57184",
+    "geom:latitude":-3.57184,
+    "geom:longitude":152.35547,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Ramat",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087815,
+    "gn:latitude":-3.57184,
+    "gn:longitude":152.35547,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Ramat",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087815
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"244b1b7cdc29321b3176ab7379e6aa06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1293372777,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293372777,
+    "wof:lastmodified":1536952579,
+    "wof:name":"Ramat",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.35547,
+    -3.57184,
+    152.35547,
+    -3.57184
+],
+  "geometry": {"coordinates":[152.35547,-3.57184],"type":"Point"}
+}

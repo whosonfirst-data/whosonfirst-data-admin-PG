@@ -1,0 +1,61 @@
+{
+  "id": 1209302643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.65855,-4.35684,141.65855,-4.35684",
+    "geom:latitude":-4.35684,
+    "geom:longitude":141.65855,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Arai",
+    "gn:country_code":"PG",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100675,
+    "gn:latitude":-4.35684,
+    "gn:longitude":141.65855,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Arai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100675
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8e502e97ed464df27fd4865afbead09f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209302643
+        }
+    ],
+    "wof:id":1209302643,
+    "wof:lastmodified":1536291303,
+    "wof:name":"Arai",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.65855,
+    -4.35684,
+    141.65855,
+    -4.35684
+],
+  "geometry": {"coordinates":[141.65854999999999,-4.35684],"type":"Point"}
+}

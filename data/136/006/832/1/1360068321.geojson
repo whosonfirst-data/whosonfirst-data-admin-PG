@@ -1,0 +1,67 @@
+{
+  "id": 1360068321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.55755,-3.9422,152.55755,-3.9422",
+    "geom:latitude":-3.9422,
+    "geom:longitude":152.55755,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Kabakadas",
+    "gn:country_code":"PG",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095206,
+    "gn:latitude":-3.9422,
+    "gn:longitude":152.55755,
+    "gn:modification_date":"2015-08-18",
+    "gn:name":"Kabakadas",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091703829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095206
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"fffe5ada7978d8e626c4e2301da50355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703829,
+            "locality_id":1360068321,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1360068321,
+    "wof:lastmodified":1536969585,
+    "wof:name":"Kabakadas",
+    "wof:parent_id":1091703829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.55755,
+    -3.9422,
+    152.55755,
+    -3.9422
+],
+  "geometry": {"coordinates":[152.55754999999999,-3.9422],"type":"Point"}
+}

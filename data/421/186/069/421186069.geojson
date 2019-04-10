@@ -1,0 +1,77 @@
+{
+  "id": 421186069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.13333,-9.43333,147.13333,-9.43333",
+    "geom:latitude":-9.43333,
+    "geom:longitude":147.13333,
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PG",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":2094703,
+    "qs:gn_pop":0,
+    "qs:name":"Kanudi",
+    "qs:name_adm0":"Papua New Guinea",
+    "qs:name_adm1":"National Capital",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":908973,
+    "qs:woe_adm0":23424926,
+    "qs:woe_id":1054752,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        1091703859,
+        85676581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094703,
+        "gp:id":1054752,
+        "qs:id":908973
+    },
+    "wof:country":"PG",
+    "wof:created":1459009463,
+    "wof:geomhash":"8a432f0deb26a7e47cab50299d94d521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703859,
+            "locality_id":-1,
+            "neighbourhood_id":421186069,
+            "region_id":85676581
+        }
+    ],
+    "wof:id":421186069,
+    "wof:lastmodified":1531858592,
+    "wof:name":"Kanudi",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.13333,
+    -9.43333,
+    147.13333,
+    -9.43333
+],
+  "geometry": {"coordinates":[147.13333,-9.43333],"type":"Point"}
+}

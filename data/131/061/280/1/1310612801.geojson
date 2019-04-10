@@ -1,0 +1,67 @@
+{
+  "id": 1310612801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.18717,-10.45572,150.18717,-10.45572",
+    "geom:latitude":-10.45572,
+    "geom:longitude":150.18717,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ipouli",
+    "gn:country_code":"PG",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133273,
+    "gn:latitude":-10.45572,
+    "gn:longitude":150.18717,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Ipouli",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133273
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e777ce07ab71796acc8328b1ffe1e936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702001,
+            "locality_id":1310612801,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1310612801,
+    "wof:lastmodified":1536762388,
+    "wof:name":"Ipouli",
+    "wof:parent_id":1091702001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.18717,
+    -10.45572,
+    150.18717,
+    -10.45572
+],
+  "geometry": {"coordinates":[150.18717000000001,-10.45572],"type":"Point"}
+}

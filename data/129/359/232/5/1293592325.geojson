@@ -1,0 +1,67 @@
+{
+  "id": 1293592325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.97848,-7.57396,144.97848,-7.57396",
+    "geom:latitude":-7.57396,
+    "geom:longitude":144.97848,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kairimai",
+    "gn:country_code":"PG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095019,
+    "gn:latitude":-7.57396,
+    "gn:longitude":144.97848,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kairimai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091703049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095019
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d6396d8530e8cc0ff82d590ab47e71fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703049,
+            "locality_id":1293592325,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1293592325,
+    "wof:lastmodified":1536634664,
+    "wof:name":"Kairimai",
+    "wof:parent_id":1091703049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.97848,
+    -7.57396,
+    144.97848,
+    -7.57396
+],
+  "geometry": {"coordinates":[144.97847999999999,-7.57396],"type":"Point"}
+}

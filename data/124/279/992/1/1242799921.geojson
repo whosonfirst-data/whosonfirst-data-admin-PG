@@ -1,0 +1,67 @@
+{
+  "id": 1242799921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.94715,-6.20156,141.94715,-6.20156",
+    "geom:latitude":-6.20156,
+    "geom:longitude":141.94715,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Wakiana",
+    "gn:country_code":"PG",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084048,
+    "gn:latitude":-6.20156,
+    "gn:longitude":141.94715,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Wakiana",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091703673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084048
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"47ff03cd0ed1b32e067e7a9d50ac1907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703673,
+            "locality_id":1242799921,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1242799921,
+    "wof:lastmodified":1536743206,
+    "wof:name":"Wakiana",
+    "wof:parent_id":1091703673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.94715,
+    -6.20156,
+    141.94715,
+    -6.20156
+],
+  "geometry": {"coordinates":[141.94714999999999,-6.20156],"type":"Point"}
+}

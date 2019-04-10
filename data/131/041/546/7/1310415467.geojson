@@ -1,0 +1,67 @@
+{
+  "id": 1310415467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.06109,-8.53431,147.06109,-8.53431",
+    "geom:latitude":-8.53431,
+    "geom:longitude":147.06109,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Belavista",
+    "gn:country_code":"PG",
+    "gn:dem":1464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099691,
+    "gn:latitude":-8.53431,
+    "gn:longitude":147.06109,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Belavista",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091702425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099691
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9a3f38680d567a6386d3a63671306250",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702425,
+            "locality_id":1310415467,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1310415467,
+    "wof:lastmodified":1537044953,
+    "wof:name":"Belavista",
+    "wof:parent_id":1091702425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.06108999999995,
+    -8.53431,
+    147.06108999999995,
+    -8.53431
+],
+  "geometry": {"coordinates":[147.06108999999995,-8.53431],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293479587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.01249,-6.29815,146.01249,-6.29815",
+    "geom:latitude":-6.29815,
+    "geom:longitude":146.01249,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Arona",
+    "gn:country_code":"PG",
+    "gn:dem":1321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100541,
+    "gn:latitude":-6.29815,
+    "gn:longitude":146.01249,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Arona",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091702711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100541
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9e154fd0731273372daaaedaad6b51f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702711,
+            "locality_id":1293479587,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1293479587,
+    "wof:lastmodified":1536798596,
+    "wof:name":"Arona",
+    "wof:parent_id":1091702711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.01249,
+    -6.29815,
+    146.01249,
+    -6.29815
+],
+  "geometry": {"coordinates":[146.01249000000001,-6.29815],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1292988837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.19768,-3.61925,143.19768,-3.61925",
+    "geom:latitude":-3.61925,
+    "geom:longitude":143.19768,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Bonahoitum",
+    "gn:country_code":"PG",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099186,
+    "gn:latitude":-3.61925,
+    "gn:longitude":143.19768,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bonahoitum",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bonahoitam",
+        "Bonahoitum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099186
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c04b0055bb81de1d046a6bb072f44c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705179,
+            "locality_id":1292988837,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1292988837,
+    "wof:lastmodified":1537677193,
+    "wof:name":"Bonahoitum",
+    "wof:parent_id":1091705179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.19768,
+    -3.61925,
+    143.19768,
+    -3.61925
+],
+  "geometry": {"coordinates":[143.19767999999999,-3.61925],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327437539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.35,-8.8,148.35,-8.8",
+    "geom:latitude":-8.8,
+    "geom:longitude":148.35,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Horanda",
+    "gn:country_code":"PG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096052,
+    "gn:latitude":-8.8,
+    "gn:longitude":148.35,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Horanda",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091702531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096052
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ce7f51f7f3dfff377bdd8f03ec3a05ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702531,
+            "locality_id":1327437539,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1327437539,
+    "wof:lastmodified":1536673303,
+    "wof:name":"Horanda",
+    "wof:parent_id":1091702531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.35,
+    -8.8,
+    148.35,
+    -8.8
+],
+  "geometry": {"coordinates":[148.34999999999999,-8.8],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1276335031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.28946,-9.1212,149.28946,-9.1212",
+    "geom:latitude":-9.1212,
+    "geom:longitude":149.28946,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bauwame",
+    "gn:country_code":"PG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099750,
+    "gn:latitude":-9.1212,
+    "gn:longitude":149.28946,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Bauwame",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099750
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"31a7196e398673efd602fba75f8b7a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1276335031,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276335031,
+    "wof:lastmodified":1536776816,
+    "wof:name":"Bauwame",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.28946000000005,
+    -9.1212,
+    149.28946000000005,
+    -9.1212
+],
+  "geometry": {"coordinates":[149.28946000000005,-9.1212],"type":"Point"}
+}

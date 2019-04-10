@@ -1,0 +1,71 @@
+{
+  "id": 1259961043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.80219,-3.65537,142.80219,-3.65537",
+    "geom:latitude":-3.65537,
+    "geom:longitude":142.80219,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Apos",
+    "gn:country_code":"PG",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100692,
+    "gn:latitude":-3.65537,
+    "gn:longitude":142.80219,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Apos",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Apos Villages",
+        "Apos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100692
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e5fe1018003f612b9ce03810b1916b6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702053,
+            "locality_id":1259961043,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1259961043,
+    "wof:lastmodified":1537677211,
+    "wof:name":"Apos",
+    "wof:parent_id":1091702053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.80219,
+    -3.65537,
+    142.80219,
+    -3.65537
+],
+  "geometry": {"coordinates":[142.80219,-3.65537],"type":"Point"}
+}

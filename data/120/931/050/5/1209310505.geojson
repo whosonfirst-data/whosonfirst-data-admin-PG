@@ -1,0 +1,61 @@
+{
+  "id": 1209310505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.7,-6.83333,145.7,-6.83333",
+    "geom:latitude":-6.83333,
+    "geom:longitude":145.7,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Chemago",
+    "gn:country_code":"PG",
+    "gn:dem":2596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098604,
+    "gn:latitude":-6.83333,
+    "gn:longitude":145.7,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Chemago",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098604
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"60152d11edb548320e0b35ffd166efaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209310505
+        }
+    ],
+    "wof:id":1209310505,
+    "wof:lastmodified":1536291045,
+    "wof:name":"Chemago",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.7,
+    -6.83333,
+    145.7,
+    -6.83333
+],
+  "geometry": {"coordinates":[145.69999999999999,-6.83333],"type":"Point"}
+}

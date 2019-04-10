@@ -1,0 +1,67 @@
+{
+  "id": 1327005047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.9109,-5.6265,143.9109,-5.6265",
+    "geom:latitude":-5.6265,
+    "geom:longitude":143.9109,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Wapenamanda",
+    "gn:country_code":"PG",
+    "gn:dem":1728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083852,
+    "gn:latitude":-5.6265,
+    "gn:longitude":143.9109,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Wapenamanda",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676513,
+        1091705055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083852
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f85e6e5ce4977df39bb2112b59a1bee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705055,
+            "locality_id":1327005047,
+            "region_id":85676513
+        }
+    ],
+    "wof:id":1327005047,
+    "wof:lastmodified":1536800083,
+    "wof:name":"Wapenamanda",
+    "wof:parent_id":1091705055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.9109,
+    -5.6265,
+    143.9109,
+    -5.6265
+],
+  "geometry": {"coordinates":[143.9109,-5.6265],"type":"Point"}
+}

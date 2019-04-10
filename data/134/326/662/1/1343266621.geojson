@@ -1,0 +1,67 @@
+{
+  "id": 1343266621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.13036,-6.55232,144.13036,-6.55232",
+    "geom:latitude":-6.55232,
+    "geom:longitude":144.13036,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kaborei",
+    "gn:country_code":"PG",
+    "gn:dem":1552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095153,
+    "gn:latitude":-6.55232,
+    "gn:longitude":144.13036,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kaborei",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095153
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ba958dbec6ae9297bcb1ccd529b51a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702665,
+            "locality_id":1343266621,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1343266621,
+    "wof:lastmodified":1537024862,
+    "wof:name":"Kaborei",
+    "wof:parent_id":1091702665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.13036,
+    -6.55232,
+    144.13036,
+    -6.55232
+],
+  "geometry": {"coordinates":[144.13036,-6.55232],"type":"Point"}
+}

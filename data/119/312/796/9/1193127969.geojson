@@ -1,0 +1,67 @@
+{
+  "id": 1193127969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.86667,-5.95,144.86667,-5.95",
+    "geom:latitude":-5.95,
+    "geom:longitude":144.86667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dinggigu",
+    "gn:country_code":"PG",
+    "gn:dem":1605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098132,
+    "gn:latitude":-5.95,
+    "gn:longitude":144.86667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Dinggigu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091703003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098132
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"6befd5e7483c1766b72492114b5a3aed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703003,
+            "locality_id":1193127969,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1193127969,
+    "wof:lastmodified":1536378891,
+    "wof:name":"Dinggigu",
+    "wof:parent_id":1091703003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.86667,
+    -5.95,
+    144.86667,
+    -5.95
+],
+  "geometry": {"coordinates":[144.86667,-5.95],"type":"Point"}
+}

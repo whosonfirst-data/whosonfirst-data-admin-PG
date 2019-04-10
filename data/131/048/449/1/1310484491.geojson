@@ -1,0 +1,65 @@
+{
+  "id": 1310484491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"153.18107,-3.50106,153.18107,-3.50106",
+    "geom:latitude":-3.50106,
+    "geom:longitude":153.18107,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Belfamfal",
+    "gn:country_code":"PG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099687,
+    "gn:latitude":-3.50106,
+    "gn:longitude":153.18107,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Belfamfal",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Belamfar",
+        "Belfamfal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099687
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"99d87cb57e9a7fb306b4b3028e371604",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310484491,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310484491,
+    "wof:lastmodified":1537677199,
+    "wof:name":"Belfamfal",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    153.18107,
+    -3.50106,
+    153.18107,
+    -3.50106
+],
+  "geometry": {"coordinates":[153.18107000000001,-3.50106],"type":"Point"}
+}

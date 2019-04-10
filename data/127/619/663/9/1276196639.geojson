@@ -1,0 +1,67 @@
+{
+  "id": 1276196639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.48889,-6.28316,146.48889,-6.28316",
+    "geom:latitude":-6.28316,
+    "geom:longitude":146.48889,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Sukurum",
+    "gn:country_code":"PG",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086200,
+    "gn:latitude":-6.28316,
+    "gn:longitude":146.48889,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Sukurum",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086200
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"56f48c85d4b11158a77e30a09aa457a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703565,
+            "locality_id":1276196639,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1276196639,
+    "wof:lastmodified":1536962096,
+    "wof:name":"Sukurum",
+    "wof:parent_id":1091703565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.48889,
+    -6.28316,
+    146.48889,
+    -6.28316
+],
+  "geometry": {"coordinates":[146.48889,-6.28316],"type":"Point"}
+}

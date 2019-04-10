@@ -1,0 +1,71 @@
+{
+  "id": 1243091777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.13597,-9.03243,149.13597,-9.03243",
+    "geom:latitude":-9.03243,
+    "geom:longitude":149.13597,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ilamororo",
+    "gn:country_code":"PG",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095719,
+    "gn:latitude":-9.03243,
+    "gn:longitude":149.13597,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ilamororo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ilamaroro",
+        "Ilamororo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091702531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095719
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"216a6b0da062e89491cdc176ec823163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702531,
+            "locality_id":1243091777,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1243091777,
+    "wof:lastmodified":1537677157,
+    "wof:name":"Ilamororo",
+    "wof:parent_id":1091702531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.13597,
+    -9.03243,
+    149.13597,
+    -9.03243
+],
+  "geometry": {"coordinates":[149.13596999999999,-9.03243],"type":"Point"}
+}

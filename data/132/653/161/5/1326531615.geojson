@@ -1,0 +1,67 @@
+{
+  "id": 1326531615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.3,-10.38333,150.3,-10.38333",
+    "geom:latitude":-10.38333,
+    "geom:longitude":150.3,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Aiasa",
+    "gn:country_code":"PG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2134001,
+    "gn:latitude":-10.38333,
+    "gn:longitude":150.3,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Aiasa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134001
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"acf88a85d709b647d82abcb8b1aec94e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702001,
+            "locality_id":1326531615,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1326531615,
+    "wof:lastmodified":1536984139,
+    "wof:name":"Aiasa",
+    "wof:parent_id":1091702001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.3,
+    -10.38333,
+    150.3,
+    -10.38333
+],
+  "geometry": {"coordinates":[150.30000000000001,-10.38333],"type":"Point"}
+}

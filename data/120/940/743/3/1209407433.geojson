@@ -1,0 +1,61 @@
+{
+  "id": 1209407433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.5,-5.98333,141.5,-5.98333",
+    "geom:latitude":-5.98333,
+    "geom:longitude":141.5,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Gusiore",
+    "gn:country_code":"PG",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096541,
+    "gn:latitude":-5.98333,
+    "gn:longitude":141.5,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Gusiore",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096541
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e846565f948caf7f6abb7450bbd8cb7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209407433
+        }
+    ],
+    "wof:id":1209407433,
+    "wof:lastmodified":1536287949,
+    "wof:name":"Gusiore",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.5,
+    -5.9833300000000005,
+    141.5,
+    -5.9833300000000005
+],
+  "geometry": {"coordinates":[141.5,-5.98333],"type":"Point"}
+}

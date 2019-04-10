@@ -1,0 +1,71 @@
+{
+  "id": 1276751833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.22935,-4.08431,143.22935,-4.08431",
+    "geom:latitude":-4.08431,
+    "geom:longitude":143.22935,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Waniko",
+    "gn:country_code":"PG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083888,
+    "gn:latitude":-4.08431,
+    "gn:longitude":143.22935,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Waniko",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wenigo",
+        "Waniko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083888
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d2beaa0b339a3a92309d29efb9c1c783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705131,
+            "locality_id":1276751833,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1276751833,
+    "wof:lastmodified":1537677031,
+    "wof:name":"Waniko",
+    "wof:parent_id":1091705131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.22935,
+    -4.08431,
+    143.22935,
+    -4.08431
+],
+  "geometry": {"coordinates":[143.22935000000001,-4.08431],"type":"Point"}
+}

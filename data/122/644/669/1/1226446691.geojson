@@ -1,0 +1,71 @@
+{
+  "id": 1226446691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.09002,-9.45888,147.09002,-9.45888",
+    "geom:latitude":-9.45888,
+    "geom:longitude":147.09002,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Roku",
+    "gn:country_code":"PG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087578,
+    "gn:latitude":-9.45888,
+    "gn:longitude":147.09002,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"Roku",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Raku",
+        "Roku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676581,
+        1091703859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087578
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"300b62c707be918fef5bb8ed7970a950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703859,
+            "locality_id":1226446691,
+            "region_id":85676581
+        }
+    ],
+    "wof:id":1226446691,
+    "wof:lastmodified":1537677069,
+    "wof:name":"Roku",
+    "wof:parent_id":1091703859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.09001999999995,
+    -9.45888,
+    147.09001999999995,
+    -9.45888
+],
+  "geometry": {"coordinates":[147.09001999999995,-9.45888],"type":"Point"}
+}

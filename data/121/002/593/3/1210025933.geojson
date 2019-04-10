@@ -1,0 +1,71 @@
+{
+  "id": 1210025933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.53719,-8.83737,146.53719,-8.83737",
+    "geom:latitude":-8.83737,
+    "geom:longitude":146.53719,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kairuku",
+    "gn:country_code":"PG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095013,
+    "gn:latitude":-8.83737,
+    "gn:longitude":146.53719,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"Kairuku",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kiaruku",
+        "Kairuku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091702751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095013
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ced8c6b18eff9e17872941b54eb555ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702751,
+            "locality_id":1210025933,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1210025933,
+    "wof:lastmodified":1537677149,
+    "wof:name":"Kairuku",
+    "wof:parent_id":1091702751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.53718999999995,
+    -8.83737,
+    146.53718999999995,
+    -8.83737
+],
+  "geometry": {"coordinates":[146.53718999999995,-8.83737],"type":"Point"}
+}

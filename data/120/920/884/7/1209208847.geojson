@@ -1,0 +1,61 @@
+{
+  "id": 1209208847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.07735,-5.97096,151.07735,-5.97096",
+    "geom:latitude":-5.97096,
+    "geom:longitude":151.07735,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Sahalil",
+    "gn:country_code":"PG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087420,
+    "gn:latitude":-5.97096,
+    "gn:longitude":151.07735,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Sahalil",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087420
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"77cf845f6a58720a50eba7d9fda326c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209208847
+        }
+    ],
+    "wof:id":1209208847,
+    "wof:lastmodified":1536294358,
+    "wof:name":"Sahalil",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.07735,
+    -5.97096,
+    151.07735,
+    -5.97096
+],
+  "geometry": {"coordinates":[151.07735,-5.97096],"type":"Point"}
+}

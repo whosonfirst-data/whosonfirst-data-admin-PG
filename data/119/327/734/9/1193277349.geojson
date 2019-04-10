@@ -1,0 +1,67 @@
+{
+  "id": 1193277349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.7148,-9.6238,149.7148,-9.6238",
+    "geom:latitude":-9.6238,
+    "geom:longitude":149.7148,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Iarame",
+    "gn:country_code":"PG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095886,
+    "gn:latitude":-9.6238,
+    "gn:longitude":149.7148,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Iarame",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095886
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f66ffe2daf1ad6b020c3c07cf0bb7d8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702001,
+            "locality_id":1193277349,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1193277349,
+    "wof:lastmodified":1536365060,
+    "wof:name":"Iarame",
+    "wof:parent_id":1091702001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.7148,
+    -9.6238,
+    149.7148,
+    -9.6238
+],
+  "geometry": {"coordinates":[149.7148,-9.6238],"type":"Point"}
+}

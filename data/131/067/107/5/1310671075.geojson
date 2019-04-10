@@ -1,0 +1,61 @@
+{
+  "id": 1310671075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"153.65,-4.01667,153.65,-4.01667",
+    "geom:latitude":-4.01667,
+    "geom:longitude":153.65,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Malekolon",
+    "gn:country_code":"PG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091715,
+    "gn:latitude":-4.01667,
+    "gn:longitude":153.65,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Malekolon",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091715
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f8a7171650a93100ddb57dda4fc02e52",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310671075,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310671075,
+    "wof:lastmodified":1536678114,
+    "wof:name":"Malekolon",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    153.65,
+    -4.01667,
+    153.65,
+    -4.01667
+],
+  "geometry": {"coordinates":[153.65000000000001,-4.01667],"type":"Point"}
+}

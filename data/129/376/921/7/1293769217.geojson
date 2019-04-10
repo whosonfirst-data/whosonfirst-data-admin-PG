@@ -1,0 +1,67 @@
+{
+  "id": 1293769217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.21964,-6.19311,145.21964,-6.19311",
+    "geom:latitude":-6.19311,
+    "geom:longitude":145.21964,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Rafa",
+    "gn:country_code":"PG",
+    "gn:dem":1575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087877,
+    "gn:latitude":-6.19311,
+    "gn:longitude":145.21964,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Rafa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091702163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087877
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"013a05e0dae1110aa1a29dc09faececc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702163,
+            "locality_id":1293769217,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1293769217,
+    "wof:lastmodified":1536877190,
+    "wof:name":"Rafa",
+    "wof:parent_id":1091702163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.21964,
+    -6.19311,
+    145.21964,
+    -6.19311
+],
+  "geometry": {"coordinates":[145.21964,-6.19311],"type":"Point"}
+}

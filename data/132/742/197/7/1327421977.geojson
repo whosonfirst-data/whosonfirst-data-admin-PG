@@ -1,0 +1,67 @@
+{
+  "id": 1327421977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.15,-4.26667,143.15,-4.26667",
+    "geom:latitude":-4.26667,
+    "geom:longitude":143.15,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Indingai",
+    "gn:country_code":"PG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095609,
+    "gn:latitude":-4.26667,
+    "gn:longitude":143.15,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Indingai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095609
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"99041776293d932a18b18cf69f949545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705131,
+            "locality_id":1327421977,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1327421977,
+    "wof:lastmodified":1536696074,
+    "wof:name":"Indingai",
+    "wof:parent_id":1091705131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.15,
+    -4.26667,
+    143.15,
+    -4.26667
+],
+  "geometry": {"coordinates":[143.15000000000001,-4.26667],"type":"Point"}
+}

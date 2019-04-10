@@ -1,0 +1,64 @@
+{
+  "id": 1209128273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.61809,-9.20424,141.61809,-9.20424",
+    "geom:latitude":-9.20424,
+    "geom:longitude":141.61809,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mavlok",
+    "gn:country_code":"PG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425388,
+    "gn:latitude":-9.20424,
+    "gn:longitude":141.61809,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Mavlok",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mavlok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425388
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"aab69507cd97f2e0af48286c590c870c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209128273
+        }
+    ],
+    "wof:id":1209128273,
+    "wof:lastmodified":1537677227,
+    "wof:name":"Mavlok",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.61809,
+    -9.20424,
+    141.61809,
+    -9.20424
+],
+  "geometry": {"coordinates":[141.61809,-9.20424],"type":"Point"}
+}

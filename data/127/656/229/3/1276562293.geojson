@@ -1,0 +1,67 @@
+{
+  "id": 1276562293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.57064,-9.07104,147.57064,-9.07104",
+    "geom:latitude":-9.07104,
+    "geom:longitude":147.57064,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Manumu",
+    "gn:country_code":"PG",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091502,
+    "gn:latitude":-9.07104,
+    "gn:longitude":147.57064,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Manumu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091702751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091502
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"6840a9f7bf6c52bd8a1e0c30f68d8e46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702751,
+            "locality_id":1276562293,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1276562293,
+    "wof:lastmodified":1536968964,
+    "wof:name":"Manumu",
+    "wof:parent_id":1091702751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.57064,
+    -9.07104,
+    147.57064,
+    -9.07104
+],
+  "geometry": {"coordinates":[147.57064,-9.07104],"type":"Point"}
+}

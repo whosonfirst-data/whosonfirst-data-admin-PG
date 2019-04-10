@@ -1,0 +1,67 @@
+{
+  "id": 1243549923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.9,-6.08333,144.9,-6.08333",
+    "geom:latitude":-6.08333,
+    "geom:longitude":144.9,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Genabona",
+    "gn:country_code":"PG",
+    "gn:dem":2132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097046,
+    "gn:latitude":-6.08333,
+    "gn:longitude":144.9,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Genabona",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091702431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097046
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"89474224ee075694c4639c7ef79795c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702431,
+            "locality_id":1243549923,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1243549923,
+    "wof:lastmodified":1536656545,
+    "wof:name":"Genabona",
+    "wof:parent_id":1091702431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.9,
+    -6.08333,
+    144.9,
+    -6.08333
+],
+  "geometry": {"coordinates":[144.90000000000001,-6.08333],"type":"Point"}
+}

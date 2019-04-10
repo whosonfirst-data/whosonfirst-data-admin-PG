@@ -1,0 +1,67 @@
+{
+  "id": 1343356671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.01667,-5.7,141.01667,-5.7",
+    "geom:latitude":-5.7,
+    "geom:longitude":141.01667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Opka",
+    "gn:country_code":"PG",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089004,
+    "gn:latitude":-5.7,
+    "gn:longitude":141.01667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Opka",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089004
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1c16dbff6c55cb2eed34b3cb45a51e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1343356671,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1343356671,
+    "wof:lastmodified":1536895848,
+    "wof:name":"Opka",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.01667,
+    -5.7,
+    141.01667,
+    -5.7
+],
+  "geometry": {"coordinates":[141.01667,-5.7],"type":"Point"}
+}

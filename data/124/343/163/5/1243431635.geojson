@@ -1,0 +1,61 @@
+{
+  "id": 1243431635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.9857,-4.06048,144.9857,-4.06048",
+    "geom:latitude":-4.06048,
+    "geom:longitude":144.9857,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kuluguma",
+    "gn:country_code":"PG",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093178,
+    "gn:latitude":-4.06048,
+    "gn:longitude":144.9857,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Kuluguma",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093178
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"5eefc23fb9f21e0fc1a0e79d5e4cc696",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243431635,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243431635,
+    "wof:lastmodified":1536825950,
+    "wof:name":"Kuluguma",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.9857,
+    -4.06048,
+    144.9857,
+    -4.06048
+],
+  "geometry": {"coordinates":[144.98570000000001,-4.06048],"type":"Point"}
+}

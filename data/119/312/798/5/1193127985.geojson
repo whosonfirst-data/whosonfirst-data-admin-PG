@@ -1,0 +1,67 @@
+{
+  "id": 1193127985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.08286,-6.22342,145.08286,-6.22342",
+    "geom:latitude":-6.22342,
+    "geom:longitude":145.08286,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kuriri",
+    "gn:country_code":"PG",
+    "gn:dem":2052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092977,
+    "gn:latitude":-6.22342,
+    "gn:longitude":145.08286,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kuriri",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091702163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092977
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a6c6d3cec18ca5efca82ddcea128b934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702163,
+            "locality_id":1193127985,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1193127985,
+    "wof:lastmodified":1536378874,
+    "wof:name":"Kuriri",
+    "wof:parent_id":1091702163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.08286,
+    -6.22342,
+    145.08286,
+    -6.22342
+],
+  "geometry": {"coordinates":[145.08286000000001,-6.22342],"type":"Point"}
+}

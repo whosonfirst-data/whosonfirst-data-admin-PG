@@ -1,0 +1,61 @@
+{
+  "id": 1209692323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.62332,-6.14901,149.62332,-6.14901",
+    "geom:latitude":-6.14901,
+    "geom:longitude":149.62332,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Lapalam",
+    "gn:country_code":"PG",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092567,
+    "gn:latitude":-6.14901,
+    "gn:longitude":149.62332,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Lapalam",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092567
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"48dc57e58f8455c245392082abce96ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209692323
+        }
+    ],
+    "wof:id":1209692323,
+    "wof:lastmodified":1536279197,
+    "wof:name":"Lapalam",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.62332,
+    -6.14901,
+    149.62332,
+    -6.14901
+],
+  "geometry": {"coordinates":[149.62332000000001,-6.14901],"type":"Point"}
+}

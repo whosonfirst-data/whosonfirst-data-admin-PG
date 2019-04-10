@@ -1,0 +1,65 @@
+{
+  "id": 1209502219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.28981,-4.83925,145.28981,-4.83925",
+    "geom:latitude":-4.83925,
+    "geom:longitude":145.28981,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Arimatau Number 2",
+    "gn:country_code":"PG",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100589,
+    "gn:latitude":-4.83925,
+    "gn:longitude":145.28981,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Arimatau Number 2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arimetau Number 2",
+        "Arimatau Number 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100589
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8e21a4d222f899cb45db1e364d227020",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209502219
+        }
+    ],
+    "wof:id":1209502219,
+    "wof:lastmodified":1537677210,
+    "wof:name":"Arimatau Number 2",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.28981000000005,
+    -4.83925,
+    145.28981000000005,
+    -4.83925
+],
+  "geometry": {"coordinates":[145.28981000000005,-4.83925],"type":"Point"}
+}

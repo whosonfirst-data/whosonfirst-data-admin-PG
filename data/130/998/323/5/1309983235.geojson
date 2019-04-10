@@ -1,0 +1,67 @@
+{
+  "id": 1309983235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.23519,-5.763,146.23519,-5.763",
+    "geom:latitude":-5.763,
+    "geom:longitude":146.23519,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Guhungor",
+    "gn:country_code":"PG",
+    "gn:dem":1626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096645,
+    "gn:latitude":-5.763,
+    "gn:longitude":146.23519,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Guhungor",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096645
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9f33ec8513e18475dfd37b0226b597b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704219,
+            "locality_id":1309983235,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1309983235,
+    "wof:lastmodified":1536675439,
+    "wof:name":"Guhungor",
+    "wof:parent_id":1091704219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.23519,
+    -5.763,
+    146.23519,
+    -5.763
+],
+  "geometry": {"coordinates":[146.23518999999999,-5.763],"type":"Point"}
+}

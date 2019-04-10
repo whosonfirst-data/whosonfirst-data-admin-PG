@@ -1,0 +1,67 @@
+{
+  "id": 1309711389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.58333,-6.1,143.58333,-6.1",
+    "geom:latitude":-6.1,
+    "geom:longitude":143.58333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Pegara",
+    "gn:country_code":"PG",
+    "gn:dem":2413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088491,
+    "gn:latitude":-6.1,
+    "gn:longitude":143.58333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Pegara",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091703589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088491
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"20823428b169834a8300c522267eaabf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703589,
+            "locality_id":1309711389,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1309711389,
+    "wof:lastmodified":1537064392,
+    "wof:name":"Pegara",
+    "wof:parent_id":1091703589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.58333000000005,
+    -6.1,
+    143.58333000000005,
+    -6.1
+],
+  "geometry": {"coordinates":[143.58333000000005,-6.1],"type":"Point"}
+}

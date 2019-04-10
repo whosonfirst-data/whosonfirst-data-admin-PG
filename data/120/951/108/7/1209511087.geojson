@@ -1,0 +1,65 @@
+{
+  "id": 1209511087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.46888,-6.33779,145.46888,-6.33779",
+    "geom:latitude":-6.33779,
+    "geom:longitude":145.46888,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Habaru Number 1",
+    "gn:country_code":"PG",
+    "gn:dem":1710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096473,
+    "gn:latitude":-6.33779,
+    "gn:longitude":145.46888,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Habaru Number 1",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Habaru 1",
+        "Habaru Number 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096473
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"bd20c882c67b53539513f88325719994",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209511087
+        }
+    ],
+    "wof:id":1209511087,
+    "wof:lastmodified":1537677165,
+    "wof:name":"Habaru Number 1",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.46888,
+    -6.33779,
+    145.46888,
+    -6.33779
+],
+  "geometry": {"coordinates":[145.46888000000001,-6.33779],"type":"Point"}
+}

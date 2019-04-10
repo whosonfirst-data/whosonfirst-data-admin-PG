@@ -1,0 +1,61 @@
+{
+  "id": 1259680569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"155.225,-6.45,155.225,-6.45",
+    "geom:latitude":-6.45,
+    "geom:longitude":155.225,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mupesi",
+    "gn:country_code":"PG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2113842,
+    "gn:latitude":-6.45,
+    "gn:longitude":155.225,
+    "gn:modification_date":"1997-02-21",
+    "gn:name":"Mupesi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2113842
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3b3af4f57538d40836fdb3406a660863",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259680569,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259680569,
+    "wof:lastmodified":1537068289,
+    "wof:name":"Mupesi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    155.225,
+    -6.45,
+    155.225,
+    -6.45
+],
+  "geometry": {"coordinates":[155.22499999999999,-6.45],"type":"Point"}
+}

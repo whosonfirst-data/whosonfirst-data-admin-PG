@@ -1,0 +1,67 @@
+{
+  "id": 1343878301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.96667,-5.91667,144.96667,-5.91667",
+    "geom:latitude":-5.91667,
+    "geom:longitude":144.96667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Noi",
+    "gn:country_code":"PG",
+    "gn:dem":2731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089552,
+    "gn:latitude":-5.91667,
+    "gn:longitude":144.96667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Noi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091703003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089552
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"aeedebd2e8a9e79c291b490fcc75b5ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703003,
+            "locality_id":1343878301,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1343878301,
+    "wof:lastmodified":1536639987,
+    "wof:name":"Noi",
+    "wof:parent_id":1091703003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.96667,
+    -5.91667,
+    144.96667,
+    -5.91667
+],
+  "geometry": {"coordinates":[144.96666999999999,-5.91667],"type":"Point"}
+}

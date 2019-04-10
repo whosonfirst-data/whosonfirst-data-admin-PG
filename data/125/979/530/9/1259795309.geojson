@@ -1,0 +1,63 @@
+{
+  "id": 1259795309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.40299,-10.20727,150.40299,-10.20727",
+    "geom:latitude":-10.20727,
+    "geom:longitude":150.40299,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Iwai",
+    "gn:country_code":"PG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133245,
+    "gn:latitude":-10.20727,
+    "gn:longitude":150.40299,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Iwai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133245
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"08e3236317d85890f337f7372a25497d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1259795309,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259795309,
+    "wof:lastmodified":1536906337,
+    "wof:name":"Iwai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.40299,
+    -10.20727,
+    150.40299,
+    -10.20727
+],
+  "geometry": {"coordinates":[150.40298999999999,-10.20727],"type":"Point"}
+}

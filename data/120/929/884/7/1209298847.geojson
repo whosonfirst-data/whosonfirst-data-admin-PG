@@ -1,0 +1,61 @@
+{
+  "id": 1209298847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.9,-6.13333,145.9,-6.13333",
+    "geom:latitude":-6.13333,
+    "geom:longitude":145.9,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Sampu",
+    "gn:country_code":"PG",
+    "gn:dem":1043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087269,
+    "gn:latitude":-6.13333,
+    "gn:longitude":145.9,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Sampu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087269
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d29929d2dc3be08e47f0d8bf9bd71082",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209298847
+        }
+    ],
+    "wof:id":1209298847,
+    "wof:lastmodified":1536291429,
+    "wof:name":"Sampu",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.9,
+    -6.13333,
+    145.9,
+    -6.13333
+],
+  "geometry": {"coordinates":[145.90000000000001,-6.13333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293379815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.06686,-6.31392,146.06686,-6.31392",
+    "geom:latitude":-6.31392,
+    "geom:longitude":146.06686,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Pundibasa",
+    "gn:country_code":"PG",
+    "gn:dem":1382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087990,
+    "gn:latitude":-6.31392,
+    "gn:longitude":146.06686,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Pundibasa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091702711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087990
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ebce62ab717fbe9d9f28e863b6bc1360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702711,
+            "locality_id":1293379815,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1293379815,
+    "wof:lastmodified":1536942813,
+    "wof:name":"Pundibasa",
+    "wof:parent_id":1091702711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.06686000000005,
+    -6.31392,
+    146.06686000000005,
+    -6.31392
+],
+  "geometry": {"coordinates":[146.06686000000005,-6.31392],"type":"Point"}
+}

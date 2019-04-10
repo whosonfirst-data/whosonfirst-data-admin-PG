@@ -1,0 +1,67 @@
+{
+  "id": 1242790827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.83589,-7.81508,143.83589,-7.81508",
+    "geom:latitude":-7.81508,
+    "geom:longitude":143.83589,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gibu",
+    "gn:country_code":"PG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096987,
+    "gn:latitude":-7.81508,
+    "gn:longitude":143.83589,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Gibu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091703049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096987
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"6d5ad3faeb9c5fc060a150a15b34f8a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703049,
+            "locality_id":1242790827,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1242790827,
+    "wof:lastmodified":1536756535,
+    "wof:name":"Gibu",
+    "wof:parent_id":1091703049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.83588999999995,
+    -7.81508,
+    143.83588999999995,
+    -7.81508
+],
+  "geometry": {"coordinates":[143.83588999999995,-7.81508],"type":"Point"}
+}

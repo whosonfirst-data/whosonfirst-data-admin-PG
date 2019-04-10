@@ -1,0 +1,67 @@
+{
+  "id": 1193278615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.60185,-7.58233,144.60185,-7.58233",
+    "geom:latitude":-7.58233,
+    "geom:longitude":144.60185,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kinomere",
+    "gn:country_code":"PG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093912,
+    "gn:latitude":-7.58233,
+    "gn:longitude":144.60185,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kinomere",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091703049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093912
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a6c2958d4e35adb41c3ca9a3740212fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703049,
+            "locality_id":1193278615,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1193278615,
+    "wof:lastmodified":1536364189,
+    "wof:name":"Kinomere",
+    "wof:parent_id":1091703049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.60185,
+    -7.58233,
+    144.60185,
+    -7.58233
+],
+  "geometry": {"coordinates":[144.60185000000001,-7.58233],"type":"Point"}
+}

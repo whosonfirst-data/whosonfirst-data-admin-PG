@@ -1,0 +1,67 @@
+{
+  "id": 1360068883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.98219,-7.83788,146.98219,-7.83788",
+    "geom:latitude":-7.83788,
+    "geom:longitude":146.98219,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kumisi",
+    "gn:country_code":"PG",
+    "gn:dem":1722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093097,
+    "gn:latitude":-7.83788,
+    "gn:longitude":146.98219,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kumisi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093097
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"26b68fccdf2fdc136cfb9531d6760378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702091,
+            "locality_id":1360068883,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1360068883,
+    "wof:lastmodified":1536968803,
+    "wof:name":"Kumisi",
+    "wof:parent_id":1091702091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.98219,
+    -7.83788,
+    146.98219,
+    -7.83788
+],
+  "geometry": {"coordinates":[146.98219,-7.83788],"type":"Point"}
+}

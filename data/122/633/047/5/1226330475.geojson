@@ -1,0 +1,73 @@
+{
+  "id": 1226330475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.23333,-4.18333,143.23333,-4.18333",
+    "geom:latitude":-4.18333,
+    "geom:longitude":143.23333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Malingai",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091700,
+    "gn:latitude":-4.18333,
+    "gn:longitude":143.23333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Malingai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malinge",
+        "Malingau",
+        "Malingai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091700
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d5f6e8313c3e2b9404a87ac124350aa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705131,
+            "locality_id":1226330475,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1226330475,
+    "wof:lastmodified":1537677112,
+    "wof:name":"Malingai",
+    "wof:parent_id":1091705131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.23333,
+    -4.18333,
+    143.23333,
+    -4.18333
+],
+  "geometry": {"coordinates":[143.23333,-4.18333],"type":"Point"}
+}

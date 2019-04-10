@@ -1,0 +1,61 @@
+{
+  "id": 1209228691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.44937,-8.57412,147.44937,-8.57412",
+    "geom:latitude":-8.57412,
+    "geom:longitude":147.44937,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Songgaku",
+    "gn:country_code":"PG",
+    "gn:dem":2513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086393,
+    "gn:latitude":-8.57412,
+    "gn:longitude":147.44937,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Songgaku",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086393
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4009753842f5566f9864d7de7127b7a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209228691
+        }
+    ],
+    "wof:id":1209228691,
+    "wof:lastmodified":1536293709,
+    "wof:name":"Songgaku",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.44937,
+    -8.574119999999999,
+    147.44937,
+    -8.574119999999999
+],
+  "geometry": {"coordinates":[147.44936999999999,-8.57412],"type":"Point"}
+}

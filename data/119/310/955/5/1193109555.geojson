@@ -1,0 +1,70 @@
+{
+  "id": 1193109555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.68709,-5.66486,144.68709,-5.66486",
+    "geom:latitude":-5.66486,
+    "geom:longitude":144.68709,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Karap",
+    "gn:country_code":"PG",
+    "gn:dem":1649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094579,
+    "gn:latitude":-5.66486,
+    "gn:longitude":144.68709,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Karap",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karep"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        1108805613,
+        1091702609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094579
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2d483d816c4ae3f05b8edb4dfa79f56a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702609,
+            "locality_id":1193109555,
+            "region_id":1108805613
+        }
+    ],
+    "wof:id":1193109555,
+    "wof:lastmodified":1537677143,
+    "wof:name":"Karap",
+    "wof:parent_id":1091702609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.68708999999996,
+    -5.66486,
+    144.68708999999996,
+    -5.66486
+],
+  "geometry": {"coordinates":[144.68708999999996,-5.66486],"type":"Point"}
+}

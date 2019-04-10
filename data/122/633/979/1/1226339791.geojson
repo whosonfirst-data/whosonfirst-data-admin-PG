@@ -1,0 +1,67 @@
+{
+  "id": 1226339791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.73333,-9.23333,142.73333,-9.23333",
+    "geom:latitude":-9.23333,
+    "geom:longitude":142.73333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Hamlet of Togo",
+    "gn:country_code":"PG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096383,
+    "gn:latitude":-9.23333,
+    "gn:longitude":142.73333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Hamlet of Togo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096383
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"48f5bde8d796c204f27cf3b81f438578",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704467,
+            "locality_id":1226339791,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1226339791,
+    "wof:lastmodified":1536798189,
+    "wof:name":"Hamlet of Togo",
+    "wof:parent_id":1091704467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.73333,
+    -9.23333,
+    142.73333,
+    -9.23333
+],
+  "geometry": {"coordinates":[142.73333,-9.23333],"type":"Point"}
+}

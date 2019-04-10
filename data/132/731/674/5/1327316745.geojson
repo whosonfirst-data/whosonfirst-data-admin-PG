@@ -1,0 +1,67 @@
+{
+  "id": 1327316745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.78284,-3.3263,151.78284,-3.3263",
+    "geom:latitude":-3.3263,
+    "geom:longitude":151.78284,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Kolube",
+    "gn:country_code":"PG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093645,
+    "gn:latitude":-3.3263,
+    "gn:longitude":151.78284,
+    "gn:modification_date":"2015-08-18",
+    "gn:name":"Kolube",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091703829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093645
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3d645d00c8ad00f5432eefaee801b5f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703829,
+            "locality_id":1327316745,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1327316745,
+    "wof:lastmodified":1536846797,
+    "wof:name":"Kolube",
+    "wof:parent_id":1091703829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.78284,
+    -3.3263,
+    151.78284,
+    -3.3263
+],
+  "geometry": {"coordinates":[151.78283999999999,-3.3263],"type":"Point"}
+}

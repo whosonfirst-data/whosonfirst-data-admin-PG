@@ -1,0 +1,67 @@
+{
+  "id": 1293373411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.90454,-7.1113,146.90454,-7.1113",
+    "geom:latitude":-7.1113,
+    "geom:longitude":146.90454,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Biaboli",
+    "gn:country_code":"PG",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099574,
+    "gn:latitude":-7.1113,
+    "gn:longitude":146.90454,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Biaboli",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099574
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f804e25ae3ee2c2a0a694244863c7299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702453,
+            "locality_id":1293373411,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1293373411,
+    "wof:lastmodified":1536951688,
+    "wof:name":"Biaboli",
+    "wof:parent_id":1091702453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.90454,
+    -7.1113,
+    146.90454,
+    -7.1113
+],
+  "geometry": {"coordinates":[146.90454,-7.1113],"type":"Point"}
+}

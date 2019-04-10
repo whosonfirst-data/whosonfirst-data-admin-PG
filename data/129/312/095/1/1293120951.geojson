@@ -1,0 +1,67 @@
+{
+  "id": 1293120951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.01667,-6.13333,145.01667,-6.13333",
+    "geom:latitude":-6.13333,
+    "geom:longitude":145.01667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Gilmaibianggau",
+    "gn:country_code":"PG",
+    "gn:dem":1941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096957,
+    "gn:latitude":-6.13333,
+    "gn:longitude":145.01667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Gilmaibianggau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091704349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096957
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9387c81a03f22cc2e255c60f4855ed26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704349,
+            "locality_id":1293120951,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1293120951,
+    "wof:lastmodified":1536817720,
+    "wof:name":"Gilmaibianggau",
+    "wof:parent_id":1091704349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.01667,
+    -6.13333,
+    145.01667,
+    -6.13333
+],
+  "geometry": {"coordinates":[145.01667,-6.13333],"type":"Point"}
+}

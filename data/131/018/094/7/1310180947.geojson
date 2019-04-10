@@ -1,0 +1,67 @@
+{
+  "id": 1310180947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.3,-3.1,141.3,-3.1",
+    "geom:latitude":-3.1,
+    "geom:longitude":141.3,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Maiu",
+    "gn:country_code":"PG",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091838,
+    "gn:latitude":-3.1,
+    "gn:longitude":141.3,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Maiu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091704901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091838
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8e10705d5dec703ac7bbfed38e4bce00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704901,
+            "locality_id":1310180947,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1310180947,
+    "wof:lastmodified":1536887366,
+    "wof:name":"Maiu",
+    "wof:parent_id":1091704901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.3,
+    -3.1,
+    141.3,
+    -3.1
+],
+  "geometry": {"coordinates":[141.30000000000001,-3.1],"type":"Point"}
+}

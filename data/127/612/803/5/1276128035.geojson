@@ -1,0 +1,67 @@
+{
+  "id": 1276128035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.84345,-9.73438,147.84345,-9.73438",
+    "geom:latitude":-9.73438,
+    "geom:longitude":147.84345,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Wainumu",
+    "gn:country_code":"PG",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084097,
+    "gn:latitude":-9.73438,
+    "gn:longitude":147.84345,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Wainumu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091704253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084097
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"96e252fd8d786a5cef4858dcf5a495a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704253,
+            "locality_id":1276128035,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1276128035,
+    "wof:lastmodified":1537051429,
+    "wof:name":"Wainumu",
+    "wof:parent_id":1091704253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.84345,
+    -9.73438,
+    147.84345,
+    -9.73438
+],
+  "geometry": {"coordinates":[147.84344999999999,-9.73438],"type":"Point"}
+}

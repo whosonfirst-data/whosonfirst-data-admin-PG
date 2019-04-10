@@ -1,0 +1,63 @@
+{
+  "id": 1277048811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"153.06093,-4.59502,153.06093,-4.59502",
+    "geom:latitude":-4.59502,
+    "geom:longitude":153.06093,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Siar",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086820,
+    "gn:latitude":-4.59502,
+    "gn:longitude":153.06093,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Siar",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086820
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4267b20e62d83a85c077de56109a59cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1277048811,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277048811,
+    "wof:lastmodified":1536814004,
+    "wof:name":"Siar",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    153.06093,
+    -4.59502,
+    153.06093,
+    -4.59502
+],
+  "geometry": {"coordinates":[153.06093000000001,-4.59502],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209306189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"154.69318,-5.16612,154.69318,-5.16612",
+    "geom:latitude":-5.16612,
+    "geom:longitude":154.69318,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Hahalis",
+    "gn:country_code":"PG",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2113798,
+    "gn:latitude":-5.16612,
+    "gn:longitude":154.69318,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Hahalis",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2113798
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"396dad4f04466e3f6826b19913013129",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209306189
+        }
+    ],
+    "wof:id":1209306189,
+    "wof:lastmodified":1536291188,
+    "wof:name":"Hahalis",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    154.69318,
+    -5.1661199999999985,
+    154.69318,
+    -5.1661199999999985
+],
+  "geometry": {"coordinates":[154.69318000000001,-5.16612],"type":"Point"}
+}

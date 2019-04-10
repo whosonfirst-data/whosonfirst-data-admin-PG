@@ -1,0 +1,71 @@
+{
+  "id": 1293018601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.99848,-9.62483,147.99848,-9.62483",
+    "geom:latitude":-9.62483,
+    "geom:longitude":147.99848,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Maranoum 2",
+    "gn:country_code":"PG",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091423,
+    "gn:latitude":-9.62483,
+    "gn:longitude":147.99848,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Maranoum 2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mararoum 2",
+        "Maranoum 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091704253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091423
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8b5cc066ef1240936152e150473d53bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704253,
+            "locality_id":1293018601,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1293018601,
+    "wof:lastmodified":1537677108,
+    "wof:name":"Maranoum 2",
+    "wof:parent_id":1091704253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.99848,
+    -9.62483,
+    147.99848,
+    -9.62483
+],
+  "geometry": {"coordinates":[147.99848,-9.62483],"type":"Point"}
+}

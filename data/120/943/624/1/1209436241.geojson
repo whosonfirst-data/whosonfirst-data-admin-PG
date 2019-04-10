@@ -1,0 +1,61 @@
+{
+  "id": 1209436241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"154.13333,-4.36667,154.13333,-4.36667",
+    "geom:latitude":-4.36667,
+    "geom:longitude":154.13333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Namok",
+    "gn:country_code":"PG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089976,
+    "gn:latitude":-4.36667,
+    "gn:longitude":154.13333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Namok",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089976
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9878de03f6b57132a2a9f7bf9e084bbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209436241
+        }
+    ],
+    "wof:id":1209436241,
+    "wof:lastmodified":1536287096,
+    "wof:name":"Namok",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    154.13333,
+    -4.36667,
+    154.13333,
+    -4.36667
+],
+  "geometry": {"coordinates":[154.13333,-4.36667],"type":"Point"}
+}

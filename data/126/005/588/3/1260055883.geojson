@@ -1,0 +1,67 @@
+{
+  "id": 1260055883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.60665,-2.82358,141.60665,-2.82358",
+    "geom:latitude":-2.82358,
+    "geom:longitude":141.60665,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Pino",
+    "gn:country_code":"PG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088326,
+    "gn:latitude":-2.82358,
+    "gn:longitude":141.60665,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Pino",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091704901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088326
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ba0ba7411585f042bba2dc648bd5cd38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704901,
+            "locality_id":1260055883,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1260055883,
+    "wof:lastmodified":1537026672,
+    "wof:name":"Pino",
+    "wof:parent_id":1091704901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.60665,
+    -2.82358,
+    141.60665,
+    -2.82358
+],
+  "geometry": {"coordinates":[141.60665,-2.82358],"type":"Point"}
+}

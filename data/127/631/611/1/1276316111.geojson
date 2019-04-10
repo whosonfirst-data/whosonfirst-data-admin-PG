@@ -1,0 +1,65 @@
+{
+  "id": 1276316111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.94774,-2.70798,151.94774,-2.70798",
+    "geom:latitude":-2.70798,
+    "geom:longitude":151.94774,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Lawa",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092473,
+    "gn:latitude":-2.70798,
+    "gn:longitude":151.94774,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lawa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lava",
+        "Lawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092473
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"83c37e44a5a9cadc3420bc5811559a56",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276316111,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276316111,
+    "wof:lastmodified":1537677119,
+    "wof:name":"Lawa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.94773999999995,
+    -2.70798,
+    151.94773999999995,
+    -2.70798
+],
+  "geometry": {"coordinates":[151.94773999999995,-2.70798],"type":"Point"}
+}

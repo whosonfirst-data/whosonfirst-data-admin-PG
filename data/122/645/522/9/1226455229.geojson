@@ -1,0 +1,71 @@
+{
+  "id": 1226455229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.54391,-7.94137,145.54391,-7.94137",
+    "geom:latitude":-7.94137,
+    "geom:longitude":145.54391,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ovavaha",
+    "gn:country_code":"PG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088863,
+    "gn:latitude":-7.94137,
+    "gn:longitude":145.54391,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ovavaha",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ovahaha",
+        "Ovavaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091703049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088863
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8f419f647b7c162e77cc2ee47148553e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703049,
+            "locality_id":1226455229,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1226455229,
+    "wof:lastmodified":1537677080,
+    "wof:name":"Ovavaha",
+    "wof:parent_id":1091703049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.54391,
+    -7.94137,
+    145.54391,
+    -7.94137
+],
+  "geometry": {"coordinates":[145.54391000000001,-7.94137],"type":"Point"}
+}

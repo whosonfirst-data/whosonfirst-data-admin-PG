@@ -1,0 +1,67 @@
+{
+  "id": 1259395559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.33333,-7.8,145.33333,-7.8",
+    "geom:latitude":-7.8,
+    "geom:longitude":145.33333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kwaipea",
+    "gn:country_code":"PG",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092882,
+    "gn:latitude":-7.8,
+    "gn:longitude":145.33333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kwaipea",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091703049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092882
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"cf8f0b3b1050492486f7b46e4d7005c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703049,
+            "locality_id":1259395559,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1259395559,
+    "wof:lastmodified":1536984073,
+    "wof:name":"Kwaipea",
+    "wof:parent_id":1091703049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.33333000000005,
+    -7.8,
+    145.33333000000005,
+    -7.8
+],
+  "geometry": {"coordinates":[145.33333000000005,-7.8],"type":"Point"}
+}

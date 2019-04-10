@@ -1,0 +1,67 @@
+{
+  "id": 1343962995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.75051,-6.08091,143.75051,-6.08091",
+    "geom:latitude":-6.08091,
+    "geom:longitude":143.75051,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kumia",
+    "gn:country_code":"PG",
+    "gn:dem":2479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093112,
+    "gn:latitude":-6.08091,
+    "gn:longitude":143.75051,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kumia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091703589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093112
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"31a99df0944ee0e75d83ad9a2feaa845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703589,
+            "locality_id":1343962995,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1343962995,
+    "wof:lastmodified":1537015542,
+    "wof:name":"Kumia",
+    "wof:parent_id":1091703589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.75051000000005,
+    -6.08091,
+    143.75051000000005,
+    -6.08091
+],
+  "geometry": {"coordinates":[143.75051000000005,-6.08091],"type":"Point"}
+}

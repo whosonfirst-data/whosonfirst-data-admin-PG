@@ -1,0 +1,67 @@
+{
+  "id": 1209733115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.5,-9.46667,147.5,-9.46667",
+    "geom:latitude":-9.46667,
+    "geom:longitude":147.5,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Waroro",
+    "gn:country_code":"PG",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083756,
+    "gn:latitude":-9.46667,
+    "gn:longitude":147.5,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Waroro",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091702751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083756
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"18f93821efb9a6d3de29bd09da3cd293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702751,
+            "locality_id":1209733115,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1209733115,
+    "wof:lastmodified":1536376576,
+    "wof:name":"Waroro",
+    "wof:parent_id":1091702751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.5,
+    -9.46667,
+    147.5,
+    -9.46667
+],
+  "geometry": {"coordinates":[147.5,-9.46667],"type":"Point"}
+}

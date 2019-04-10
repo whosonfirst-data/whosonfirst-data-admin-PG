@@ -1,0 +1,67 @@
+{
+  "id": 1360282013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.41955,-6.08369,145.41955,-6.08369",
+    "geom:latitude":-6.08369,
+    "geom:longitude":145.41955,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Komu",
+    "gn:country_code":"PG",
+    "gn:dem":1582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093562,
+    "gn:latitude":-6.08369,
+    "gn:longitude":145.41955,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Komu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091702429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093562
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b65b205440d155cd863d56a9523e1663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702429,
+            "locality_id":1360282013,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1360282013,
+    "wof:lastmodified":1536661595,
+    "wof:name":"Komu",
+    "wof:parent_id":1091702429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.41955,
+    -6.08369,
+    145.41955,
+    -6.08369
+],
+  "geometry": {"coordinates":[145.41954999999999,-6.08369],"type":"Point"}
+}

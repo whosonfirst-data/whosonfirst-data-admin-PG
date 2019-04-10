@@ -1,0 +1,61 @@
+{
+  "id": 1259566207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.11667,-3.33333,152.11667,-3.33333",
+    "geom:latitude":-3.33333,
+    "geom:longitude":152.11667,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Langgamut",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092583,
+    "gn:latitude":-3.33333,
+    "gn:longitude":152.11667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Langgamut",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092583
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"717c372f8eab12d62529ef8b8ab9a431",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259566207,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259566207,
+    "wof:lastmodified":1536739658,
+    "wof:name":"Langgamut",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.11667,
+    -3.33333,
+    152.11667,
+    -3.33333
+],
+  "geometry": {"coordinates":[152.11667,-3.33333],"type":"Point"}
+}

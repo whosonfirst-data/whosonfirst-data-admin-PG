@@ -1,0 +1,72 @@
+{
+  "id": 1259877407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.26667,-7.81667,143.26667,-7.81667",
+    "geom:latitude":-7.81667,
+    "geom:longitude":143.26667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Pirikwai",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088299,
+    "gn:latitude":-7.81667,
+    "gn:longitude":143.26667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pirikwai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pirukwai",
+        "Pirikwai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091703673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088299
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d8073ac117ebf72dfac4fce04a42df82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703673,
+            "locality_id":1259877407,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1259877407,
+    "wof:lastmodified":1537677075,
+    "wof:name":"Pirikwai",
+    "wof:parent_id":1091703673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.26667,
+    -7.81667,
+    143.26667,
+    -7.81667
+],
+  "geometry": {"coordinates":[143.26667,-7.81667],"type":"Point"}
+}

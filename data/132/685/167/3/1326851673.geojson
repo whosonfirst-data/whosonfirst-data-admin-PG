@@ -1,0 +1,67 @@
+{
+  "id": 1326851673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"154.22431,-4.47129,154.22431,-4.47129",
+    "geom:latitude":-4.47129,
+    "geom:longitude":154.22431,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Siaken",
+    "gn:country_code":"PG",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086831,
+    "gn:latitude":-4.47129,
+    "gn:longitude":154.22431,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Siaken",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676543,
+        1091703967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086831
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"85dfdcfb497423b9fd0a30ffba6dc53e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703967,
+            "locality_id":1326851673,
+            "region_id":85676543
+        }
+    ],
+    "wof:id":1326851673,
+    "wof:lastmodified":1537019935,
+    "wof:name":"Siaken",
+    "wof:parent_id":1091703967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    154.22431,
+    -4.47129,
+    154.22431,
+    -4.47129
+],
+  "geometry": {"coordinates":[154.22431,-4.47129],"type":"Point"}
+}

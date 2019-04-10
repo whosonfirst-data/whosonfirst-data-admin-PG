@@ -1,0 +1,67 @@
+{
+  "id": 1260197135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.95,-9.71667,147.95,-9.71667",
+    "geom:latitude":-9.71667,
+    "geom:longitude":147.95,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Arua'idu",
+    "gn:country_code":"PG",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100522,
+    "gn:latitude":-9.71667,
+    "gn:longitude":147.95,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Arua\u2019idu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091704253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100522
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b17e13befee0ddb622d33fa403dd50cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704253,
+            "locality_id":1260197135,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1260197135,
+    "wof:lastmodified":1536828156,
+    "wof:name":"Arua'idu",
+    "wof:parent_id":1091704253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.95,
+    -9.71667,
+    147.95,
+    -9.71667
+],
+  "geometry": {"coordinates":[147.94999999999999,-9.71667],"type":"Point"}
+}

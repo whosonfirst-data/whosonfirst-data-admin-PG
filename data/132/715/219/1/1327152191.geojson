@@ -1,0 +1,67 @@
+{
+  "id": 1327152191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.0561,-9.07769,147.0561,-9.07769",
+    "geom:latitude":-9.07769,
+    "geom:longitude":147.0561,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Veia",
+    "gn:country_code":"PG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084409,
+    "gn:latitude":-9.07769,
+    "gn:longitude":147.0561,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Veia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091702751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084409
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"7f431e82a56ac6cb02ea24a23d058d1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702751,
+            "locality_id":1327152191,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1327152191,
+    "wof:lastmodified":1537082218,
+    "wof:name":"Veia",
+    "wof:parent_id":1091702751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.0561,
+    -9.07769,
+    147.0561,
+    -9.07769
+],
+  "geometry": {"coordinates":[147.05609999999999,-9.07769],"type":"Point"}
+}

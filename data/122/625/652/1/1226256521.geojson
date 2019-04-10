@@ -1,0 +1,67 @@
+{
+  "id": 1226256521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.77566,-9.65278,147.77566,-9.65278",
+    "geom:latitude":-9.65278,
+    "geom:longitude":147.77566,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bulidobu",
+    "gn:country_code":"PG",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098881,
+    "gn:latitude":-9.65278,
+    "gn:longitude":147.77566,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Bulidobu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091704253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098881
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f813fe0b99993c9c72cee98b38073dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704253,
+            "locality_id":1226256521,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1226256521,
+    "wof:lastmodified":1536918593,
+    "wof:name":"Bulidobu",
+    "wof:parent_id":1091704253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.77566000000004,
+    -9.65278,
+    147.77566000000004,
+    -9.65278
+],
+  "geometry": {"coordinates":[147.77566000000004,-9.65278],"type":"Point"}
+}

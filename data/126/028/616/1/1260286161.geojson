@@ -1,0 +1,61 @@
+{
+  "id": 1260286161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.43333,-9.0,152.43333,-9.0",
+    "geom:latitude":-9.0,
+    "geom:longitude":152.43333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Madau",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091991,
+    "gn:latitude":-9.0,
+    "gn:longitude":152.43333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Madau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091991
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"968d20a795fd6208e06e1160b7409e68",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1260286161,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260286161,
+    "wof:lastmodified":1536708669,
+    "wof:name":"Madau",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.43333,
+    -9.0,
+    152.43333,
+    -9.0
+],
+  "geometry": {"coordinates":[152.43333000000001,-9.0],"type":"Point"}
+}

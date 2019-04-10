@@ -1,0 +1,61 @@
+{
+  "id": 1310604109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.91667,-8.05,145.91667,-8.05",
+    "geom:latitude":-8.05,
+    "geom:longitude":145.91667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bula-A",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098894,
+    "gn:latitude":-8.05,
+    "gn:longitude":145.91667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Bula-A",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098894
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3260e8ef45489ee3498d60fd67369825",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310604109,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310604109,
+    "wof:lastmodified":1536775293,
+    "wof:name":"Bula-A",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.91666999999995,
+    -8.05,
+    145.91666999999995,
+    -8.05
+],
+  "geometry": {"coordinates":[145.91666999999995,-8.05],"type":"Point"}
+}

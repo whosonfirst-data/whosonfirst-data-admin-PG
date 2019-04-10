@@ -1,0 +1,67 @@
+{
+  "id": 1243275643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.86667,-10.1,149.86667,-10.1",
+    "geom:latitude":-10.1,
+    "geom:longitude":149.86667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mowapa",
+    "gn:country_code":"PG",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2132869,
+    "gn:latitude":-10.1,
+    "gn:longitude":149.86667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Mowapa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2132869
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3c5c16cdda2ba64cae795b082cd789ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702001,
+            "locality_id":1243275643,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1243275643,
+    "wof:lastmodified":1537049643,
+    "wof:name":"Mowapa",
+    "wof:parent_id":1091702001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.86667,
+    -10.1,
+    149.86667,
+    -10.1
+],
+  "geometry": {"coordinates":[149.86667,-10.1],"type":"Point"}
+}

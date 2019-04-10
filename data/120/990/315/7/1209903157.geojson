@@ -1,0 +1,72 @@
+{
+  "id": 1209903157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.01822,-4.63645,145.01822,-4.63645",
+    "geom:latitude":-4.63645,
+    "geom:longitude":145.01822,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Utah",
+    "gn:country_code":"PG",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084518,
+    "gn:latitude":-4.63645,
+    "gn:longitude":145.01822,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Utah",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Utar",
+        "Ewuar",
+        "Utah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091703709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084518
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3e934ebd35b0fdb7ccd4cbcfa8f7ae22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703709,
+            "locality_id":1209903157,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1209903157,
+    "wof:lastmodified":1537677038,
+    "wof:name":"Utah",
+    "wof:parent_id":1091703709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.01822,
+    -4.63645,
+    145.01822,
+    -4.63645
+],
+  "geometry": {"coordinates":[145.01822000000001,-4.63645],"type":"Point"}
+}

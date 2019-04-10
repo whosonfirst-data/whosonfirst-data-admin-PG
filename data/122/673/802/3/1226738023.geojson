@@ -1,0 +1,71 @@
+{
+  "id": 1226738023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.64461,-3.80305,142.64461,-3.80305",
+    "geom:latitude":-3.80305,
+    "geom:longitude":142.64461,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Bongimasi",
+    "gn:country_code":"PG",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099163,
+    "gn:latitude":-3.80305,
+    "gn:longitude":142.64461,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bongimasi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bongoimasi",
+        "Bongimasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099163
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ea53aa51bd1df5f0e8a7b3980078c203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705131,
+            "locality_id":1226738023,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1226738023,
+    "wof:lastmodified":1537677192,
+    "wof:name":"Bongimasi",
+    "wof:parent_id":1091705131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.64461,
+    -3.80305,
+    142.64461,
+    -3.80305
+],
+  "geometry": {"coordinates":[142.64461,-3.80305],"type":"Point"}
+}

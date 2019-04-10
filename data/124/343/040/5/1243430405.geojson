@@ -1,0 +1,67 @@
+{
+  "id": 1243430405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.85804,-3.66913,141.85804,-3.66913",
+    "geom:latitude":-3.66913,
+    "geom:longitude":141.85804,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Maurom",
+    "gn:country_code":"PG",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091133,
+    "gn:latitude":-3.66913,
+    "gn:longitude":141.85804,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Maurom",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091701955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091133
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1e602a9e1cd76a199abcbc31b42f5e0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091701955,
+            "locality_id":1243430405,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1243430405,
+    "wof:lastmodified":1536827694,
+    "wof:name":"Maurom",
+    "wof:parent_id":1091701955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.85804,
+    -3.66913,
+    141.85804,
+    -3.66913
+],
+  "geometry": {"coordinates":[141.85803999999999,-3.66913],"type":"Point"}
+}

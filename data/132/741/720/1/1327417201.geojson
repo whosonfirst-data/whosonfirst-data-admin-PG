@@ -1,0 +1,67 @@
+{
+  "id": 1327417201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.0373,-6.11636,147.0373,-6.11636",
+    "geom:latitude":-6.11636,
+    "geom:longitude":147.0373,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Yunggu",
+    "gn:country_code":"PG",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2082797,
+    "gn:latitude":-6.11636,
+    "gn:longitude":147.0373,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Yunggu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2082797
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"41341e4f6ba8b8182244c3f076606ddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702647,
+            "locality_id":1327417201,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1327417201,
+    "wof:lastmodified":1536703013,
+    "wof:name":"Yunggu",
+    "wof:parent_id":1091702647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.0373,
+    -6.11636,
+    147.0373,
+    -6.11636
+],
+  "geometry": {"coordinates":[147.03729999999999,-6.11636],"type":"Point"}
+}

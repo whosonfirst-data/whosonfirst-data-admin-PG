@@ -1,0 +1,67 @@
+{
+  "id": 1259359251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.89208,-5.59751,150.89208,-5.59751",
+    "geom:latitude":-5.59751,
+    "geom:longitude":150.89208,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Sipa",
+    "gn:country_code":"PG",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086596,
+    "gn:latitude":-5.59751,
+    "gn:longitude":150.89208,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Sipa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676599,
+        1091704547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086596
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b75b3c756e9ec143ef338fc98faf9092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704547,
+            "locality_id":1259359251,
+            "region_id":85676599
+        }
+    ],
+    "wof:id":1259359251,
+    "wof:lastmodified":1537035657,
+    "wof:name":"Sipa",
+    "wof:parent_id":1091704547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.89208,
+    -5.59751,
+    150.89208,
+    -5.59751
+],
+  "geometry": {"coordinates":[150.89207999999999,-5.59751],"type":"Point"}
+}

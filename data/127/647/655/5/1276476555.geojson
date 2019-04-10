@@ -1,0 +1,67 @@
+{
+  "id": 1276476555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.10131,-6.50999,144.10131,-6.50999",
+    "geom:latitude":-6.50999,
+    "geom:longitude":144.10131,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kalawida",
+    "gn:country_code":"PG",
+    "gn:dem":1600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094940,
+    "gn:latitude":-6.50999,
+    "gn:longitude":144.10131,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kalawida",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094940
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"30bfb77371b2ec0ea551094981459248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702665,
+            "locality_id":1276476555,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1276476555,
+    "wof:lastmodified":1537081001,
+    "wof:name":"Kalawida",
+    "wof:parent_id":1091702665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.10131,
+    -6.50999,
+    144.10131,
+    -6.50999
+],
+  "geometry": {"coordinates":[144.10131000000001,-6.50999],"type":"Point"}
+}

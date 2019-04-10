@@ -1,0 +1,67 @@
+{
+  "id": 1259977009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.58539,-8.70176,141.58539,-8.70176",
+    "geom:latitude":-8.70176,
+    "geom:longitude":141.58539,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Rouku",
+    "gn:country_code":"PG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087546,
+    "gn:latitude":-8.70176,
+    "gn:longitude":141.58539,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Rouku",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087546
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ddc3f7a5b0ad2ba73018acd8664eee3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704467,
+            "locality_id":1259977009,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1259977009,
+    "wof:lastmodified":1536643856,
+    "wof:name":"Rouku",
+    "wof:parent_id":1091704467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.58539,
+    -8.70176,
+    141.58539,
+    -8.70176
+],
+  "geometry": {"coordinates":[141.58538999999999,-8.70176],"type":"Point"}
+}

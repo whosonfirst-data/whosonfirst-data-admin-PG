@@ -1,0 +1,72 @@
+{
+  "id": 1226115587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.87387,-3.38392,151.87387,-3.38392",
+    "geom:latitude":-3.38392,
+    "geom:longitude":151.87387,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Kaluan Number 2",
+    "gn:country_code":"PG",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094906,
+    "gn:latitude":-3.38392,
+    "gn:longitude":151.87387,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kaluan Number 2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaluan",
+        "Kaluan 2",
+        "Kaluan Number 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091703829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094906
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ef5cd84d1a0a733dd6ff8a116bf2dde0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703829,
+            "locality_id":1226115587,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1226115587,
+    "wof:lastmodified":1537677148,
+    "wof:name":"Kaluan Number 2",
+    "wof:parent_id":1091703829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.87386999999995,
+    -3.38392,
+    151.87386999999995,
+    -3.38392
+],
+  "geometry": {"coordinates":[151.87386999999995,-3.38392],"type":"Point"}
+}

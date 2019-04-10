@@ -1,0 +1,95 @@
+{
+  "id": 1344235281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.65839,-3.57998,143.65839,-3.57998",
+    "geom:latitude":-3.57998,
+    "geom:longitude":143.65839,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Wewak",
+    "gn:country_code":"PG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8849171,
+    "gn:latitude":-3.57998,
+    "gn:longitude":143.65839,
+    "gn:modification_date":"2017-01-09",
+    "gn:name":"Wewak",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u0627\u06a9"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05d9\u05d5\u05d5\u05e7"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a7\u30ef\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6e8\uc640\ud06c"
+    ],
+    "name:lit_x_preferred":[
+        "Vevakas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0432\u0430\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0432\u0430\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0648\u0627\u06a9"
+    ],
+    "name:zho_x_preferred":[
+        "\u97e6\u74e6\u514b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8849171,
+        "wk:page":"Wewak"
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"41f5bb4d27293f67f2718df48c043603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705089,
+            "locality_id":1344235281,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1344235281,
+    "wof:lastmodified":1537677229,
+    "wof:name":"Wewak",
+    "wof:parent_id":1091705089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.65839,
+    -3.57998,
+    143.65839,
+    -3.57998
+],
+  "geometry": {"coordinates":[143.65839,-3.57998],"type":"Point"}
+}

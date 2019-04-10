@@ -1,0 +1,67 @@
+{
+  "id": 1277076441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.1894,-9.22426,150.1894,-9.22426",
+    "geom:latitude":-9.22426,
+    "geom:longitude":150.1894,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mwananoia",
+    "gn:country_code":"PG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090161,
+    "gn:latitude":-9.22426,
+    "gn:longitude":150.1894,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Mwananoia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091703083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090161
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"431de9a5a6d9a0bcd1a67aeb54b606c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703083,
+            "locality_id":1277076441,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1277076441,
+    "wof:lastmodified":1536777249,
+    "wof:name":"Mwananoia",
+    "wof:parent_id":1091703083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.1894,
+    -9.22426,
+    150.1894,
+    -9.22426
+],
+  "geometry": {"coordinates":[150.18940000000001,-9.22426],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209418075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.73946,-6.75152,144.73946,-6.75152",
+    "geom:latitude":-6.75152,
+    "geom:longitude":144.73946,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gurimatu",
+    "gn:country_code":"PG",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096571,
+    "gn:latitude":-6.75152,
+    "gn:longitude":144.73946,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Gurimatu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096571
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1af0948340a30ee0c0abcb9c0bbbc0d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209418075
+        }
+    ],
+    "wof:id":1209418075,
+    "wof:lastmodified":1536287620,
+    "wof:name":"Gurimatu",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.73946,
+    -6.751519999999998,
+    144.73946,
+    -6.751519999999998
+],
+  "geometry": {"coordinates":[144.73946000000001,-6.75152],"type":"Point"}
+}

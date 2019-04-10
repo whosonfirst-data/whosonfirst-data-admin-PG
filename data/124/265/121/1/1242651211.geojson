@@ -1,0 +1,67 @@
+{
+  "id": 1242651211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.07545,-6.1597,147.07545,-6.1597",
+    "geom:latitude":-6.1597,
+    "geom:longitude":147.07545,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Hemang",
+    "gn:country_code":"PG",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096237,
+    "gn:latitude":-6.1597,
+    "gn:longitude":147.07545,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Hemang",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096237
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2e64e7933024c5e66ad1a83797d71273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702647,
+            "locality_id":1242651211,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1242651211,
+    "wof:lastmodified":1536957872,
+    "wof:name":"Hemang",
+    "wof:parent_id":1091702647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.07545,
+    -6.1597,
+    147.07545,
+    -6.1597
+],
+  "geometry": {"coordinates":[147.07544999999999,-6.1597],"type":"Point"}
+}

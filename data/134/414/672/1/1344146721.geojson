@@ -1,0 +1,67 @@
+{
+  "id": 1344146721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.48215,-6.53544,145.48215,-6.53544",
+    "geom:latitude":-6.53544,
+    "geom:longitude":145.48215,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Paigatasa",
+    "gn:country_code":"PG",
+    "gn:dem":1757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088799,
+    "gn:latitude":-6.53544,
+    "gn:longitude":145.48215,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Paigatasa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091704103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088799
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"6ad652af80e25d97862b55740f78fe3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704103,
+            "locality_id":1344146721,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1344146721,
+    "wof:lastmodified":1536751043,
+    "wof:name":"Paigatasa",
+    "wof:parent_id":1091704103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.48215,
+    -6.53544,
+    145.48215,
+    -6.53544
+],
+  "geometry": {"coordinates":[145.48214999999999,-6.53544],"type":"Point"}
+}

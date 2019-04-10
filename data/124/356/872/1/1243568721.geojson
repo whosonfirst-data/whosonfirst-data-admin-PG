@@ -1,0 +1,67 @@
+{
+  "id": 1243568721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.80188,-9.71522,147.80188,-9.71522",
+    "geom:latitude":-9.71522,
+    "geom:longitude":147.80188,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Geveragoro",
+    "gn:country_code":"PG",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097000,
+    "gn:latitude":-9.71522,
+    "gn:longitude":147.80188,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Geveragoro",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091704253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097000
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a49ad6a2535b1a03ac041ea897090679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704253,
+            "locality_id":1243568721,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1243568721,
+    "wof:lastmodified":1536627487,
+    "wof:name":"Geveragoro",
+    "wof:parent_id":1091704253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.80188,
+    -9.71522,
+    147.80188,
+    -9.71522
+],
+  "geometry": {"coordinates":[147.80188000000001,-9.71522],"type":"Point"}
+}

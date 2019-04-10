@@ -1,0 +1,61 @@
+{
+  "id": 1209507663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.12999,-5.51236,141.12999,-5.51236",
+    "geom:latitude":-5.51236,
+    "geom:longitude":141.12999,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Yongtau",
+    "gn:country_code":"PG",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2082852,
+    "gn:latitude":-5.51236,
+    "gn:longitude":141.12999,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Yongtau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2082852
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3b559954795eb31554808448a072503c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209507663
+        }
+    ],
+    "wof:id":1209507663,
+    "wof:lastmodified":1536284982,
+    "wof:name":"Yongtau",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.12999,
+    -5.51236,
+    141.12999,
+    -5.51236
+],
+  "geometry": {"coordinates":[141.12998999999999,-5.51236],"type":"Point"}
+}

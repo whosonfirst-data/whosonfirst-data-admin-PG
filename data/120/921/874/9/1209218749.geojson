@@ -1,0 +1,61 @@
+{
+  "id": 1209218749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.75,-9.71667,147.75,-9.71667",
+    "geom:latitude":-9.71667,
+    "geom:longitude":147.75,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Wairadobu",
+    "gn:country_code":"PG",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084087,
+    "gn:latitude":-9.71667,
+    "gn:longitude":147.75,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Wairadobu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084087
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"16d811b9ffdc3c5d30381c12de6abf0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209218749
+        }
+    ],
+    "wof:id":1209218749,
+    "wof:lastmodified":1536294038,
+    "wof:name":"Wairadobu",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.75,
+    -9.71667,
+    147.75,
+    -9.71667
+],
+  "geometry": {"coordinates":[147.75,-9.71667],"type":"Point"}
+}

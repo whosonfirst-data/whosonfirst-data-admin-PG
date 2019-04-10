@@ -1,0 +1,67 @@
+{
+  "id": 1293678841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.81667,-6.41667,145.81667,-6.41667",
+    "geom:latitude":-6.41667,
+    "geom:longitude":145.81667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Banaranda",
+    "gn:country_code":"PG",
+    "gn:dem":1839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099933,
+    "gn:latitude":-6.41667,
+    "gn:longitude":145.81667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Banaranda",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091702711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099933
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"390b814297b4bc02ac968a2b07b81d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702711,
+            "locality_id":1293678841,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1293678841,
+    "wof:lastmodified":1537007756,
+    "wof:name":"Banaranda",
+    "wof:parent_id":1091702711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.81667,
+    -6.41667,
+    145.81667,
+    -6.41667
+],
+  "geometry": {"coordinates":[145.81666999999999,-6.41667],"type":"Point"}
+}

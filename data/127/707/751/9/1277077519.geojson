@@ -1,0 +1,67 @@
+{
+  "id": 1277077519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.15,-7.8,146.15,-7.8",
+    "geom:latitude":-7.8,
+    "geom:longitude":146.15,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kwahae",
+    "gn:country_code":"PG",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092900,
+    "gn:latitude":-7.8,
+    "gn:longitude":146.15,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kwahae",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091702955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092900
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"fc4f5c976823ec0996e5b0435f3d7caf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702955,
+            "locality_id":1277077519,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1277077519,
+    "wof:lastmodified":1536775733,
+    "wof:name":"Kwahae",
+    "wof:parent_id":1091702955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.15,
+    -7.8,
+    146.15,
+    -7.8
+],
+  "geometry": {"coordinates":[146.15000000000001,-7.8],"type":"Point"}
+}

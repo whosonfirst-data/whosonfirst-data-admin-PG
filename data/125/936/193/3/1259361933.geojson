@@ -1,0 +1,70 @@
+{
+  "id": 1259361933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.10886,-6.14595,147.10886,-6.14595",
+    "geom:latitude":-6.14595,
+    "geom:longitude":147.10886,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Derim",
+    "gn:country_code":"PG",
+    "gn:dem":1490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098218,
+    "gn:latitude":-6.14595,
+    "gn:longitude":147.10886,
+    "gn:modification_date":"2017-02-25",
+    "gn:name":"Derim",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Derim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098218
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"21edf53bd2a0650a779e8ef625b5324d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702647,
+            "locality_id":1259361933,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1259361933,
+    "wof:lastmodified":1537677183,
+    "wof:name":"Derim",
+    "wof:parent_id":1091702647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.10886000000005,
+    -6.14595,
+    147.10886000000005,
+    -6.14595
+],
+  "geometry": {"coordinates":[147.10886000000005,-6.14595],"type":"Point"}
+}

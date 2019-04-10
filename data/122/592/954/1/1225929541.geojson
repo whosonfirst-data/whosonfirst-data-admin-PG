@@ -1,0 +1,67 @@
+{
+  "id": 1225929541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.86224,-6.16696,144.86224,-6.16696",
+    "geom:latitude":-6.16696,
+    "geom:longitude":144.86224,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Koban",
+    "gn:country_code":"PG",
+    "gn:dem":1856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093808,
+    "gn:latitude":-6.16696,
+    "gn:longitude":144.86224,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Koban",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091702431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093808
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3d8e555d8d703e15778c5d5626867035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702431,
+            "locality_id":1225929541,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1225929541,
+    "wof:lastmodified":1536892550,
+    "wof:name":"Koban",
+    "wof:parent_id":1091702431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.86224,
+    -6.16696,
+    144.86224,
+    -6.16696
+],
+  "geometry": {"coordinates":[144.86224000000001,-6.16696],"type":"Point"}
+}

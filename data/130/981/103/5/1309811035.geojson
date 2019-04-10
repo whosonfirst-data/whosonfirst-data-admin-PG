@@ -1,0 +1,67 @@
+{
+  "id": 1309811035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.83262,-9.46642,150.83262,-9.46642",
+    "geom:latitude":-9.46642,
+    "geom:longitude":150.83262,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Basima",
+    "gn:country_code":"PG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099798,
+    "gn:latitude":-9.46642,
+    "gn:longitude":150.83262,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Basima",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099798
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"134f8090da61707a2b6d7e28710a452f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702299,
+            "locality_id":1309811035,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1309811035,
+    "wof:lastmodified":1536924144,
+    "wof:name":"Basima",
+    "wof:parent_id":1091702299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.83262,
+    -9.46642,
+    150.83262,
+    -9.46642
+],
+  "geometry": {"coordinates":[150.83261999999999,-9.46642],"type":"Point"}
+}

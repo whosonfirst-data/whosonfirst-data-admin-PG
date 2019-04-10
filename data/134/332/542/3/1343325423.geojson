@@ -1,0 +1,66 @@
+{
+  "id": 1343325423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.55,-5.53333,148.55,-5.53333",
+    "geom:latitude":-5.53333,
+    "geom:longitude":148.55,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Silimate",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086723,
+    "gn:latitude":-5.53333,
+    "gn:longitude":148.55,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Silimate",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Silimati",
+        "Silimate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086723
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d573d9c740b1bf3285584ce6960e2c13",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343325423,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343325423,
+    "wof:lastmodified":1537677061,
+    "wof:name":"Silimate",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.55,
+    -5.53333,
+    148.55,
+    -5.53333
+],
+  "geometry": {"coordinates":[148.55000000000001,-5.53333],"type":"Point"}
+}

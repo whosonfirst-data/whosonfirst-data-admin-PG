@@ -1,0 +1,67 @@
+{
+  "id": 1277076191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.95139,-10.56977,149.95139,-10.56977",
+    "geom:latitude":-10.56977,
+    "geom:longitude":149.95139,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Aloalo",
+    "gn:country_code":"PG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133992,
+    "gn:latitude":-10.56977,
+    "gn:longitude":149.95139,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Aloalo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133992
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"445789f980edff66b719addb4da87b84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702001,
+            "locality_id":1277076191,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1277076191,
+    "wof:lastmodified":1536777600,
+    "wof:name":"Aloalo",
+    "wof:parent_id":1091702001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.95139,
+    -10.56977,
+    149.95139,
+    -10.56977
+],
+  "geometry": {"coordinates":[149.95139,-10.56977],"type":"Point"}
+}

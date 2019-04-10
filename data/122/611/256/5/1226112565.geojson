@@ -1,0 +1,67 @@
+{
+  "id": 1226112565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.86546,-3.98095,152.86546,-3.98095",
+    "geom:latitude":-3.98095,
+    "geom:longitude":152.86546,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Rukaliklik",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087515,
+    "gn:latitude":-3.98095,
+    "gn:longitude":152.86546,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Rukaliklik",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rukalik",
+        "Rukaliklik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087515
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8626dc63f70ac2ceccb51f48c14ad08a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1226112565,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226112565,
+    "wof:lastmodified":1537677069,
+    "wof:name":"Rukaliklik",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.86546,
+    -3.98095,
+    152.86546,
+    -3.98095
+],
+  "geometry": {"coordinates":[152.86546000000001,-3.98095],"type":"Point"}
+}

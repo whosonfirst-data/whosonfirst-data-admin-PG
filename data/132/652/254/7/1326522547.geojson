@@ -1,0 +1,67 @@
+{
+  "id": 1326522547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.18333,-5.8,141.18333,-5.8",
+    "geom:latitude":-5.8,
+    "geom:longitude":141.18333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kasrenai",
+    "gn:country_code":"PG",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094486,
+    "gn:latitude":-5.8,
+    "gn:longitude":141.18333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kasrenai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094486
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"73541f4c2aa5b23fe588ba371e1170f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1326522547,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1326522547,
+    "wof:lastmodified":1536997281,
+    "wof:name":"Kasrenai",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.18333,
+    -5.8,
+    141.18333,
+    -5.8
+],
+  "geometry": {"coordinates":[141.18333000000001,-5.8],"type":"Point"}
+}

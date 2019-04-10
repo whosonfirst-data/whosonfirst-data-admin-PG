@@ -1,0 +1,61 @@
+{
+  "id": 1209093439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.00056,-4.32295,145.00056,-4.32295",
+    "geom:latitude":-4.32295,
+    "geom:longitude":145.00056,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Babangaua",
+    "gn:country_code":"PG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100170,
+    "gn:latitude":-4.32295,
+    "gn:longitude":145.00056,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Babangaua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100170
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f79001b0b89a37682538dda0ec16542d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209093439
+        }
+    ],
+    "wof:id":1209093439,
+    "wof:lastmodified":1536297963,
+    "wof:name":"Babangaua",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.00056,
+    -4.32295,
+    145.00056,
+    -4.32295
+],
+  "geometry": {"coordinates":[145.00056000000001,-4.32295],"type":"Point"}
+}

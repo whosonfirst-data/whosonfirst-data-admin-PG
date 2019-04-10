@@ -1,0 +1,67 @@
+{
+  "id": 1293099205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.46047,-7.9998,147.46047,-7.9998",
+    "geom:latitude":-7.9998,
+    "geom:longitude":147.46047,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Gobe",
+    "gn:country_code":"PG",
+    "gn:dem":800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096863,
+    "gn:latitude":-7.9998,
+    "gn:longitude":147.46047,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Gobe",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096863
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"7d949273a78d3d951006d873a091e0dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702091,
+            "locality_id":1293099205,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1293099205,
+    "wof:lastmodified":1536848745,
+    "wof:name":"Gobe",
+    "wof:parent_id":1091702091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.46047,
+    -7.9998,
+    147.46047,
+    -7.9998
+],
+  "geometry": {"coordinates":[147.46046999999999,-7.9998],"type":"Point"}
+}

@@ -1,0 +1,262 @@
+{
+  "id": 421197897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.22744,-5.8581,144.22744,-5.8581",
+    "geom:latitude":-5.8581,
+    "geom:longitude":144.22744,
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":5.6,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:baq_x_preferred":[
+        "Mount Hagen"
+    ],
+    "name:ces_x_preferred":[
+        "Mount Hagen"
+    ],
+    "name:chi_x_preferred":[
+        "\u8292\u7279\u54c8\u6839"
+    ],
+    "name:cze_x_preferred":[
+        "Mount Hagen"
+    ],
+    "name:deu_x_preferred":[
+        "Mount Hagen"
+    ],
+    "name:dut_x_preferred":[
+        "Mount Hagen"
+    ],
+    "name:eng_x_preferred":[
+        "Mount Hagen"
+    ],
+    "name:eng_x_variant":[
+        "Mt Hagen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0646\u062a \u0647\u0627\u06af\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Mount Hagen"
+    ],
+    "name:fre_x_preferred":[
+        "Mount Hagen"
+    ],
+    "name:ger_x_preferred":[
+        "Mount Hagen"
+    ],
+    "name:glg_x_preferred":[
+        "Mount Hagen"
+    ],
+    "name:ita_x_preferred":[
+        "Mount Hagen"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30a6\u30f3\u30c8\u30cf\u30fc\u30b2\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\uc6b4\ud2b8\ud558\uac90"
+    ],
+    "name:lit_x_preferred":[
+        "Maunt Hagenas"
+    ],
+    "name:nld_x_preferred":[
+        "Mount Hagen"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0648\u0646\u062a \u0647\u0627\u06af\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Mount Hagen"
+    ],
+    "name:por_x_preferred":[
+        "Mount Hagen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0443\u043d\u0442-\u0425\u0430\u0433\u0435\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Mount Hagen"
+    ],
+    "name:tpi_x_preferred":[
+        "Maun Hagen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0443\u043d\u0442-\u0413\u0430\u0491\u0435\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Hagen"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0624\u0646\u0679 \u06c1\u0627\u06af\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u8292\u7279\u54c8\u6839"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Papua New Guinea",
+    "ne:ADM0_A3":"PNG",
+    "ne:ADM1NAME":"Western Highlands",
+    "ne:ADMIN1_COD":16,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":2090409,
+    "ne:GEONAMESNO":"GeoNames spatial join with similar names only.",
+    "ne:GN_ASCII":"Mount Hagen",
+    "ne:GN_POP":33623,
+    "ne:GTOPO30":1997.0,
+    "ne:ISO_A2":"PG",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":-5.863222,
+    "ne:LONGITUDE":144.21682,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Mt. Hagen",
+    "ne:MAX_AREAKM":38.0,
+    "ne:MAX_AREAMI":15.0,
+    "ne:MAX_BBXMAX":144.308333,
+    "ne:MAX_BBXMIN":144.208333,
+    "ne:MAX_BBYMAX":-5.8,
+    "ne:MAX_BBYMIN":-5.875,
+    "ne:MAX_NATSCA":50.0,
+    "ne:MAX_PERKM":63.0,
+    "ne:MAX_PERMI":39.0,
+    "ne:MAX_POP10":59064,
+    "ne:MAX_POP20":59064,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":59064,
+    "ne:MEAN_BBXC":144.246019,
+    "ne:MEAN_BBYC":-5.838056,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":38.0,
+    "ne:MIN_AREAMI":15.0,
+    "ne:MIN_BBXMAX":144.308333,
+    "ne:MIN_BBXMIN":144.208333,
+    "ne:MIN_BBYMAX":-5.8,
+    "ne:MIN_BBYMIN":-5.875,
+    "ne:MIN_PERKM":63.0,
+    "ne:MIN_PERMI":39.0,
+    "ne:NAME":"Mt. Hagen",
+    "ne:NAMEALT":"Mount Hagen",
+    "ne:NAMEASCII":"Mt. Hagen",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":50,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":59064,
+    "ne:POP_MIN":33623,
+    "ne:POP_OTHER":59064,
+    "ne:RANK_MAX":8,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":4,
+    "ne:SOV0NAME":"Papua New Guinea",
+    "ne:SOV_A3":"PNG",
+    "ne:TIMEZONE":"Pacific/Port_Moresby",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"PG",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":2090409,
+    "qs:gn_pop":33623,
+    "qs:name":"Mount Hagen",
+    "qs:name_adm0":"Papua New Guinea",
+    "qs:name_adm1":"Western Highlands",
+    "qs:photos":1096,
+    "qs:photos_1k":222,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1096,
+    "qs:photos_sr":11,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":222634,
+    "qs:woe_adm0":23424926,
+    "qs:woe_id":1061721,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:elevation":1677.0,
+    "wd:latitude":-5.866667,
+    "wd:longitude":144.216667,
+    "wd:wordcount":702,
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676551,
+        1091703739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090409,
+        "gp:id":1061721,
+        "qs:id":222634,
+        "wd:id":"Q1017362",
+        "wk:page":"Mount Hagen"
+    },
+    "wof:country":"PG",
+    "wof:created":1459009929,
+    "wof:geomhash":"78d8cc9ac03936317ef1414c2a0417ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703739,
+            "locality_id":421197897,
+            "region_id":85676551
+        }
+    ],
+    "wof:id":421197897,
+    "wof:lastmodified":1527716407,
+    "wof:name":"Mount Hagen",
+    "wof:parent_id":1091703739,
+    "wof:placetype":"locality",
+    "wof:population":33623,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.22744,
+    -5.8581,
+    144.22744,
+    -5.8581
+],
+  "geometry": {"coordinates":[144.22744,-5.8581],"type":"Point"}
+}

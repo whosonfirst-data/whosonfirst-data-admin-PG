@@ -1,0 +1,67 @@
+{
+  "id": 1226554151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.29882,-8.71132,147.29882,-8.71132",
+    "geom:latitude":-8.71132,
+    "geom:longitude":147.29882,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Aduai",
+    "gn:country_code":"PG",
+    "gn:dem":1132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101355,
+    "gn:latitude":-8.71132,
+    "gn:longitude":147.29882,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Aduai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091702425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101355
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"dd3f318b5c417fc31b5d6b883725f259",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702425,
+            "locality_id":1226554151,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1226554151,
+    "wof:lastmodified":1536985054,
+    "wof:name":"Aduai",
+    "wof:parent_id":1091702425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.29882,
+    -8.71132,
+    147.29882,
+    -8.71132
+],
+  "geometry": {"coordinates":[147.29882000000001,-8.71132],"type":"Point"}
+}

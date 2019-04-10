@@ -1,0 +1,67 @@
+{
+  "id": 1327037501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.71333,-10.01064,149.71333,-10.01064",
+    "geom:latitude":-10.01064,
+    "geom:longitude":149.71333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Etau",
+    "gn:country_code":"PG",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133588,
+    "gn:latitude":-10.01064,
+    "gn:longitude":149.71333,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Etau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133588
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b7712a97cbcd458a1001b914f92cf0d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702001,
+            "locality_id":1327037501,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1327037501,
+    "wof:lastmodified":1536752972,
+    "wof:name":"Etau",
+    "wof:parent_id":1091702001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.71333,
+    -10.01064,
+    149.71333,
+    -10.01064
+],
+  "geometry": {"coordinates":[149.71333000000001,-10.01064],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259383295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.255,-9.19139,149.255,-9.19139",
+    "geom:latitude":-9.19139,
+    "geom:longitude":149.255,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Giriwa",
+    "gn:country_code":"PG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096911,
+    "gn:latitude":-9.19139,
+    "gn:longitude":149.255,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Giriwa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091702531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096911
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d94ca66a94e162b8501aedb57c2da8ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702531,
+            "locality_id":1259383295,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1259383295,
+    "wof:lastmodified":1537001789,
+    "wof:name":"Giriwa",
+    "wof:parent_id":1091702531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.255,
+    -9.19139,
+    149.255,
+    -9.19139
+],
+  "geometry": {"coordinates":[149.255,-9.19139],"type":"Point"}
+}

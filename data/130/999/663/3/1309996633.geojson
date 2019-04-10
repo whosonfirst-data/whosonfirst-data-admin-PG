@@ -1,0 +1,67 @@
+{
+  "id": 1309996633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.98507,-6.22958,144.98507,-6.22958",
+    "geom:latitude":-6.22958,
+    "geom:longitude":144.98507,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Daura",
+    "gn:country_code":"PG",
+    "gn:dem":2211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098303,
+    "gn:latitude":-6.22958,
+    "gn:longitude":144.98507,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Daura",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091702873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098303
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"893ac18325ec3d6e540a92b80e9c0327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702873,
+            "locality_id":1309996633,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1309996633,
+    "wof:lastmodified":1536656177,
+    "wof:name":"Daura",
+    "wof:parent_id":1091702873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.98507,
+    -6.22958,
+    144.98507,
+    -6.22958
+],
+  "geometry": {"coordinates":[144.98507000000001,-6.22958],"type":"Point"}
+}

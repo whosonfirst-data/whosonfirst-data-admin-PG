@@ -1,0 +1,67 @@
+{
+  "id": 1260164359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.61485,-6.70553,147.61485,-6.70553",
+    "geom:latitude":-6.70553,
+    "geom:longitude":147.61485,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Butala",
+    "gn:country_code":"PG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098714,
+    "gn:latitude":-6.70553,
+    "gn:longitude":147.61485,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Butala",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098714
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"463a50665e73e7c203529754caa38a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702351,
+            "locality_id":1260164359,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1260164359,
+    "wof:lastmodified":1536873252,
+    "wof:name":"Butala",
+    "wof:parent_id":1091702351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.61485,
+    -6.70553,
+    147.61485,
+    -6.70553
+],
+  "geometry": {"coordinates":[147.61484999999999,-6.70553],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327123407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.63333,-5.38333,151.63333,-5.38333",
+    "geom:latitude":-5.38333,
+    "geom:longitude":151.63333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tal",
+    "gn:country_code":"PG",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085954,
+    "gn:latitude":-5.38333,
+    "gn:longitude":151.63333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Tal",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091704139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085954
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a7a89e4ab6203b6e789a8e9813dba0d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704139,
+            "locality_id":1327123407,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1327123407,
+    "wof:lastmodified":1536627299,
+    "wof:name":"Tal",
+    "wof:parent_id":1091704139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.63333,
+    -5.38333,
+    151.63333,
+    -5.38333
+],
+  "geometry": {"coordinates":[151.63333,-5.38333],"type":"Point"}
+}

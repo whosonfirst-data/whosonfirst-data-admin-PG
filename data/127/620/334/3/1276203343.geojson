@@ -1,0 +1,71 @@
+{
+  "id": 1276203343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.83225,-5.5086,145.83225,-5.5086",
+    "geom:latitude":-5.5086,
+    "geom:longitude":145.83225,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Songum",
+    "gn:country_code":"PG",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086386,
+    "gn:latitude":-5.5086,
+    "gn:longitude":145.83225,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Songum",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sungum",
+        "Songum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086386
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"eaf8ae41158c1cac9b548b140c60cba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704219,
+            "locality_id":1276203343,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1276203343,
+    "wof:lastmodified":1537677057,
+    "wof:name":"Songum",
+    "wof:parent_id":1091704219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.83225,
+    -5.5086,
+    145.83225,
+    -5.5086
+],
+  "geometry": {"coordinates":[145.83224999999999,-5.5086],"type":"Point"}
+}

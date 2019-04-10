@@ -1,0 +1,68 @@
+{
+  "id": 1293265363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.92776,-4.0213,152.92776,-4.0213",
+    "geom:latitude":-4.0213,
+    "geom:longitude":152.92776,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Warangansau",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083821,
+    "gn:latitude":-4.0213,
+    "gn:longitude":152.92776,
+    "gn:modification_date":"2015-08-18",
+    "gn:name":"Warangansau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091703829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083821
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"551f8eb956d4b9727911afa88a411728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703829,
+            "locality_id":1293265363,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1293265363,
+    "wof:lastmodified":1536607503,
+    "wof:name":"Warangansau",
+    "wof:parent_id":1091703829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.92776,
+    -4.0213,
+    152.92776,
+    -4.0213
+],
+  "geometry": {"coordinates":[152.92776000000001,-4.0213],"type":"Point"}
+}

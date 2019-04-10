@@ -1,0 +1,67 @@
+{
+  "id": 1343631035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.11667,-5.55,144.11667,-5.55",
+    "geom:latitude":-5.55,
+    "geom:longitude":144.11667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kumalip",
+    "gn:country_code":"PG",
+    "gn:dem":1746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093162,
+    "gn:latitude":-5.55,
+    "gn:longitude":144.11667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kumalip",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676551,
+        1091703785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093162
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8fbe02106e0697c40b56e95db7cfa168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703785,
+            "locality_id":1343631035,
+            "region_id":85676551
+        }
+    ],
+    "wof:id":1343631035,
+    "wof:lastmodified":1536996843,
+    "wof:name":"Kumalip",
+    "wof:parent_id":1091703785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.11667,
+    -5.55,
+    144.11667,
+    -5.55
+],
+  "geometry": {"coordinates":[144.11667,-5.55],"type":"Point"}
+}

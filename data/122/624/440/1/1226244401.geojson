@@ -1,0 +1,67 @@
+{
+  "id": 1226244401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.82,-10.692,152.82,-10.692",
+    "geom:latitude":-10.692,
+    "geom:longitude":152.82,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Loaga",
+    "gn:country_code":"PG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425425,
+    "gn:latitude":-10.692,
+    "gn:longitude":152.82,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Loaga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091704299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425425
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"51e49aaa043b045029c2f28bb5ad7239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704299,
+            "locality_id":1226244401,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1226244401,
+    "wof:lastmodified":1536936310,
+    "wof:name":"Loaga",
+    "wof:parent_id":1091704299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.82,
+    -10.692,
+    152.82,
+    -10.692
+],
+  "geometry": {"coordinates":[152.81999999999999,-10.692],"type":"Point"}
+}

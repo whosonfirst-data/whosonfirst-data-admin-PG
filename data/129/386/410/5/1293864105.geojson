@@ -1,0 +1,67 @@
+{
+  "id": 1293864105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.56667,-5.25,144.56667,-5.25",
+    "geom:latitude":-5.25,
+    "geom:longitude":144.56667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Murun",
+    "gn:country_code":"PG",
+    "gn:dem":2326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090215,
+    "gn:latitude":-5.25,
+    "gn:longitude":144.56667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Murun",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091703709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090215
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d4cba3647e66c736817bfff1d2a1882e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703709,
+            "locality_id":1293864105,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1293864105,
+    "wof:lastmodified":1536741113,
+    "wof:name":"Murun",
+    "wof:parent_id":1091703709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.56667,
+    -5.25,
+    144.56667,
+    -5.25
+],
+  "geometry": {"coordinates":[144.56666999999999,-5.25],"type":"Point"}
+}

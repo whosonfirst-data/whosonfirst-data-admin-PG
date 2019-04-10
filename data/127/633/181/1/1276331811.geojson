@@ -1,0 +1,67 @@
+{
+  "id": 1276331811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.18261,-5.48535,141.18261,-5.48535",
+    "geom:latitude":-5.48535,
+    "geom:longitude":141.18261,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mongolavuram",
+    "gn:country_code":"PG",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090536,
+    "gn:latitude":-5.48535,
+    "gn:longitude":141.18261,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Mongolavuram",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090536
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e57676dd9094a308322a6836bbe7c658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1276331811,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1276331811,
+    "wof:lastmodified":1536781105,
+    "wof:name":"Mongolavuram",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.18261,
+    -5.48535,
+    141.18261,
+    -5.48535
+],
+  "geometry": {"coordinates":[141.18261000000001,-5.48535],"type":"Point"}
+}

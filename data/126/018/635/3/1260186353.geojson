@@ -1,0 +1,61 @@
+{
+  "id": 1260186353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.53165,-8.76786,146.53165,-8.76786",
+    "geom:latitude":-8.76786,
+    "geom:longitude":146.53165,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pinupaka",
+    "gn:country_code":"PG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088321,
+    "gn:latitude":-8.76786,
+    "gn:longitude":146.53165,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"Pinupaka",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088321
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a3049f6c92194612b9700fd807a1d148",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1260186353,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260186353,
+    "wof:lastmodified":1536842915,
+    "wof:name":"Pinupaka",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.53165,
+    -8.76786,
+    146.53165,
+    -8.76786
+],
+  "geometry": {"coordinates":[146.53165000000001,-8.76786],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276420721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.59639,-5.3119,145.59639,-5.3119",
+    "geom:latitude":-5.3119,
+    "geom:longitude":145.59639,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Buru",
+    "gn:country_code":"PG",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098758,
+    "gn:latitude":-5.3119,
+    "gn:longitude":145.59639,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Buru",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091703451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098758
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e2074d6f59200805f631443eae3c6bad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703451,
+            "locality_id":1276420721,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1276420721,
+    "wof:lastmodified":1536661621,
+    "wof:name":"Buru",
+    "wof:parent_id":1091703451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.59639,
+    -5.3119,
+    145.59639,
+    -5.3119
+],
+  "geometry": {"coordinates":[145.59639000000001,-5.3119],"type":"Point"}
+}

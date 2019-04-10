@@ -1,0 +1,71 @@
+{
+  "id": 1209913295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.58906,-6.11615,143.58906,-6.11615",
+    "geom:latitude":-6.11615,
+    "geom:longitude":143.58906,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Umberam",
+    "gn:country_code":"PG",
+    "gn:dem":2504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084737,
+    "gn:latitude":-6.11615,
+    "gn:longitude":143.58906,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Umberam",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umbera",
+        "Umberam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091703589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084737
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9142255d13bc16cc0c4fdfae01eedd43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703589,
+            "locality_id":1209913295,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1209913295,
+    "wof:lastmodified":1537677040,
+    "wof:name":"Umberam",
+    "wof:parent_id":1091703589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.58906000000005,
+    -6.11615,
+    143.58906000000005,
+    -6.11615
+],
+  "geometry": {"coordinates":[143.58906000000005,-6.11615],"type":"Point"}
+}

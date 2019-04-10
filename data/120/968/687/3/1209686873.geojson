@@ -1,0 +1,61 @@
+{
+  "id": 1209686873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.52048,-6.40518,147.52048,-6.40518",
+    "geom:latitude":-6.40518,
+    "geom:longitude":147.52048,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Gubu",
+    "gn:country_code":"PG",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096660,
+    "gn:latitude":-6.40518,
+    "gn:longitude":147.52048,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Gubu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096660
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"959db81726b149ac69784272e57314e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209686873
+        }
+    ],
+    "wof:id":1209686873,
+    "wof:lastmodified":1536279380,
+    "wof:name":"Gubu",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.52048,
+    -6.4051800000000005,
+    147.52048,
+    -6.4051800000000005
+],
+  "geometry": {"coordinates":[147.52047999999999,-6.40518],"type":"Point"}
+}

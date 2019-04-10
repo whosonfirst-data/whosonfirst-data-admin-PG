@@ -1,0 +1,70 @@
+{
+  "id": 1327417145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.05676,-5.72834,148.05676,-5.72834",
+    "geom:latitude":-5.72834,
+    "geom:longitude":148.05676,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Lab Lab Mission",
+    "gn:country_code":"PG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8439810,
+    "gn:latitude":-5.72834,
+    "gn:longitude":148.05676,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Lab Lab Mission",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lab Lab Mission"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091704719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8439810
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ece6bc07d878235e02b1b0249d1930eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704719,
+            "locality_id":1327417145,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1327417145,
+    "wof:lastmodified":1537677228,
+    "wof:name":"Lab Lab Mission",
+    "wof:parent_id":1091704719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.05676,
+    -5.72834,
+    148.05676,
+    -5.72834
+],
+  "geometry": {"coordinates":[148.05676,-5.72834],"type":"Point"}
+}

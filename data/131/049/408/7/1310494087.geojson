@@ -1,0 +1,67 @@
+{
+  "id": 1310494087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.33333,-6.83333,141.33333,-6.83333",
+    "geom:latitude":-6.83333,
+    "geom:longitude":141.33333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Aewa",
+    "gn:country_code":"PG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101344,
+    "gn:latitude":-6.83333,
+    "gn:longitude":141.33333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Aewa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091703673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101344
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e014ee72dfed8398200517a5c61af0a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703673,
+            "locality_id":1310494087,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1310494087,
+    "wof:lastmodified":1536934148,
+    "wof:name":"Aewa",
+    "wof:parent_id":1091703673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.33333000000005,
+    -6.83333,
+    141.33333000000005,
+    -6.83333
+],
+  "geometry": {"coordinates":[141.33333000000005,-6.83333],"type":"Point"}
+}

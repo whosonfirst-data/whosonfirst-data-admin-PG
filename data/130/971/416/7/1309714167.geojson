@@ -1,0 +1,67 @@
+{
+  "id": 1309714167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.33618,-9.47552,150.33618,-9.47552",
+    "geom:latitude":-9.47552,
+    "geom:longitude":150.33618,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Wailagi",
+    "gn:country_code":"PG",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10227027,
+    "gn:latitude":-9.47552,
+    "gn:longitude":150.33618,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"Wailagi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091703083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10227027
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"20ffded48ae3409a5fe36b660988af4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703083,
+            "locality_id":1309714167,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1309714167,
+    "wof:lastmodified":1537060557,
+    "wof:name":"Wailagi",
+    "wof:parent_id":1091703083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.33618,
+    -9.47552,
+    150.33618,
+    -9.47552
+],
+  "geometry": {"coordinates":[150.33618000000001,-9.47552],"type":"Point"}
+}

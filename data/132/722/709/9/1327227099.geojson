@@ -1,0 +1,67 @@
+{
+  "id": 1327227099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.23333,-6.25,145.23333,-6.25",
+    "geom:latitude":-6.25,
+    "geom:longitude":145.23333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Fokoi",
+    "gn:country_code":"PG",
+    "gn:dem":1978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097378,
+    "gn:latitude":-6.25,
+    "gn:longitude":145.23333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Fokoi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091702163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097378
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"04bea01f6508b186ebeb5a1f6938de83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702163,
+            "locality_id":1327227099,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1327227099,
+    "wof:lastmodified":1536976713,
+    "wof:name":"Fokoi",
+    "wof:parent_id":1091702163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.23333,
+    -6.25,
+    145.23333,
+    -6.25
+],
+  "geometry": {"coordinates":[145.23333,-6.25],"type":"Point"}
+}

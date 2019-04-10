@@ -1,0 +1,67 @@
+{
+  "id": 1360277927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.10149,-6.16835,142.10149,-6.16835",
+    "geom:latitude":-6.16835,
+    "geom:longitude":142.10149,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bebelubi",
+    "gn:country_code":"PG",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8528013,
+    "gn:latitude":-6.16835,
+    "gn:longitude":142.10149,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Bebelubi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091703673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8528013
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"20220923d922620a38070bfebc1d5303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703673,
+            "locality_id":1360277927,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1360277927,
+    "wof:lastmodified":1536667506,
+    "wof:name":"Bebelubi",
+    "wof:parent_id":1091703673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.10148999999996,
+    -6.16835,
+    142.10148999999996,
+    -6.16835
+],
+  "geometry": {"coordinates":[142.10148999999996,-6.16835],"type":"Point"}
+}

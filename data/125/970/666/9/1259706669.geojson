@@ -1,0 +1,67 @@
+{
+  "id": 1259706669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.06667,-6.58333,144.06667,-6.58333",
+    "geom:latitude":-6.58333,
+    "geom:longitude":144.06667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tebi",
+    "gn:country_code":"PG",
+    "gn:dem":1417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085619,
+    "gn:latitude":-6.58333,
+    "gn:longitude":144.06667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Tebi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085619
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"7907354e3b99addda4892e9a84c7ad4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702665,
+            "locality_id":1259706669,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1259706669,
+    "wof:lastmodified":1537032312,
+    "wof:name":"Tebi",
+    "wof:parent_id":1091702665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.06667,
+    -6.58333,
+    144.06667,
+    -6.58333
+],
+  "geometry": {"coordinates":[144.06666999999999,-6.58333],"type":"Point"}
+}

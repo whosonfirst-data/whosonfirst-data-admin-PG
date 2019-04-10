@@ -1,0 +1,66 @@
+{
+  "id": 1193031203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.3164,-5.52825,150.3164,-5.52825",
+    "geom:latitude":-5.52825,
+    "geom:longitude":150.3164,
+    "gn:asciiname":"Kualakesi",
+    "gn:country_code":"PG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10177186,
+    "gn:latitude":-5.52825,
+    "gn:longitude":150.3164,
+    "gn:modification_date":"2015-04-06",
+    "gn:name":"Kualakesi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676599,
+        1091704547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10177186
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f7e576acd628033db71b4c58ffb94a9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704547,
+            "locality_id":1193031203,
+            "region_id":85676599
+        }
+    ],
+    "wof:id":1193031203,
+    "wof:lastmodified":1536364111,
+    "wof:name":"Kualakesi",
+    "wof:parent_id":1091704547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.3164,
+    -5.52825,
+    150.3164,
+    -5.52825
+],
+  "geometry": {"coordinates":[150.31639999999999,-5.52825],"type":"Point"}
+}

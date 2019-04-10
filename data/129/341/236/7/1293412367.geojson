@@ -1,0 +1,71 @@
+{
+  "id": 1293412367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.13292,-6.68321,144.13292,-6.68321",
+    "geom:latitude":-6.68321,
+    "geom:longitude":144.13292,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Barowoi",
+    "gn:country_code":"PG",
+    "gn:dem":1414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099820,
+    "gn:latitude":-6.68321,
+    "gn:longitude":144.13292,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Barowoi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barawoi",
+        "Barowoi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099820
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c267bdbb1203938e92de1c06ad737bf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702665,
+            "locality_id":1293412367,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1293412367,
+    "wof:lastmodified":1537677201,
+    "wof:name":"Barowoi",
+    "wof:parent_id":1091702665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.13291999999996,
+    -6.68321,
+    144.13291999999996,
+    -6.68321
+],
+  "geometry": {"coordinates":[144.13291999999996,-6.68321],"type":"Point"}
+}

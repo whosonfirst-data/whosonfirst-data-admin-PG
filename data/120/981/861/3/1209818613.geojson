@@ -1,0 +1,67 @@
+{
+  "id": 1209818613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.10871,-8.1732,146.10871,-8.1732",
+    "geom:latitude":-8.1732,
+    "geom:longitude":146.10871,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kukipi",
+    "gn:country_code":"PG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093222,
+    "gn:latitude":-8.1732,
+    "gn:longitude":146.10871,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kukipi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091702955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093222
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e46c4438d69450f1b250c39dd784fbed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702955,
+            "locality_id":1209818613,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1209818613,
+    "wof:lastmodified":1536381185,
+    "wof:name":"Kukipi",
+    "wof:parent_id":1091702955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.10871,
+    -8.1732,
+    146.10871,
+    -8.1732
+],
+  "geometry": {"coordinates":[146.10871,-8.1732],"type":"Point"}
+}

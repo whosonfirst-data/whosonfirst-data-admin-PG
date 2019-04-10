@@ -1,0 +1,71 @@
+{
+  "id": 1343638713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.62976,-4.0191,144.62976,-4.0191",
+    "geom:latitude":-4.0191,
+    "geom:longitude":144.62976,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Marangis",
+    "gn:country_code":"PG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091427,
+    "gn:latitude":-4.0191,
+    "gn:longitude":144.62976,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Marangis",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marangis 1",
+        "Marangis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091702063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091427
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0bc28cecf36a346dda0052bbbd9f1559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702063,
+            "locality_id":1343638713,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1343638713,
+    "wof:lastmodified":1537677108,
+    "wof:name":"Marangis",
+    "wof:parent_id":1091702063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.62976,
+    -4.0191,
+    144.62976,
+    -4.0191
+],
+  "geometry": {"coordinates":[144.62976,-4.0191],"type":"Point"}
+}

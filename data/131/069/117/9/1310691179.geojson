@@ -1,0 +1,71 @@
+{
+  "id": 1310691179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.62112,-6.15876,145.62112,-6.15876",
+    "geom:latitude":-6.15876,
+    "geom:longitude":145.62112,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Numuganofi",
+    "gn:country_code":"PG",
+    "gn:dem":2225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089374,
+    "gn:latitude":-6.15876,
+    "gn:longitude":145.62112,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Numuganofi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Numuyanofi",
+        "Numuganofi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091702433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089374
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"039cd586f325e4be9d737b53720ef2c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702433,
+            "locality_id":1310691179,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1310691179,
+    "wof:lastmodified":1537677086,
+    "wof:name":"Numuganofi",
+    "wof:parent_id":1091702433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.62112,
+    -6.15876,
+    145.62112,
+    -6.15876
+],
+  "geometry": {"coordinates":[145.62111999999999,-6.15876],"type":"Point"}
+}

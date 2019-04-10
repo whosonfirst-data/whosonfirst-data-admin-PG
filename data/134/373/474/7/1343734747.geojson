@@ -1,0 +1,67 @@
+{
+  "id": 1343734747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.37103,-5.67396,144.37103,-5.67396",
+    "geom:latitude":-5.67396,
+    "geom:longitude":144.37103,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Tremearne",
+    "gn:country_code":"PG",
+    "gn:dem":1598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8529107,
+    "gn:latitude":-5.67396,
+    "gn:longitude":144.37103,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Tremearne",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676551,
+        1091702251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8529107
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"142c2828fb7d8cae1e5c692aa26dca21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702251,
+            "locality_id":1343734747,
+            "region_id":85676551
+        }
+    ],
+    "wof:id":1343734747,
+    "wof:lastmodified":1536846934,
+    "wof:name":"Tremearne",
+    "wof:parent_id":1091702251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.37103000000005,
+    -5.67396,
+    144.37103000000005,
+    -5.67396
+],
+  "geometry": {"coordinates":[144.37103000000005,-5.67396],"type":"Point"}
+}

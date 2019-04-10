@@ -1,0 +1,67 @@
+{
+  "id": 1243253235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.51473,-6.49144,145.51473,-6.49144",
+    "geom:latitude":-6.49144,
+    "geom:longitude":145.51473,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Waneipa",
+    "gn:country_code":"PG",
+    "gn:dem":1889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083918,
+    "gn:latitude":-6.49144,
+    "gn:longitude":145.51473,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Waneipa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091704103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083918
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"23f6c78add481996220510c851f2942d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704103,
+            "locality_id":1243253235,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1243253235,
+    "wof:lastmodified":1537080907,
+    "wof:name":"Waneipa",
+    "wof:parent_id":1091704103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.51473,
+    -6.49144,
+    145.51473,
+    -6.49144
+],
+  "geometry": {"coordinates":[145.51472999999999,-6.49144],"type":"Point"}
+}

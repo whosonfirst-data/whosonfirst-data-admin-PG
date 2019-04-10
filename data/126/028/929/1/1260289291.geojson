@@ -1,0 +1,67 @@
+{
+  "id": 1260289291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.1849,-6.67992,144.1849,-6.67992",
+    "geom:latitude":-6.67992,
+    "geom:longitude":144.1849,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tagibu",
+    "gn:country_code":"PG",
+    "gn:dem":1317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086020,
+    "gn:latitude":-6.67992,
+    "gn:longitude":144.1849,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Tagibu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086020
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d931428e07714cb0624a20a04cb2740c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702665,
+            "locality_id":1260289291,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1260289291,
+    "wof:lastmodified":1536704412,
+    "wof:name":"Tagibu",
+    "wof:parent_id":1091702665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.1849,
+    -6.67992,
+    144.1849,
+    -6.67992
+],
+  "geometry": {"coordinates":[144.1849,-6.67992],"type":"Point"}
+}

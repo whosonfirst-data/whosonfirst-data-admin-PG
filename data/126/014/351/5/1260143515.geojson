@@ -1,0 +1,63 @@
+{
+  "id": 1260143515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.36667,-3.15,142.36667,-3.15",
+    "geom:latitude":-3.15,
+    "geom:longitude":142.36667,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Raihu",
+    "gn:country_code":"PG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087871,
+    "gn:latitude":-3.15,
+    "gn:longitude":142.36667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Raihu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087871
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"cf06d9888a00dacd4490fbc940031f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1260143515,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260143515,
+    "wof:lastmodified":1536902923,
+    "wof:name":"Raihu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.36667,
+    -3.15,
+    142.36667,
+    -3.15
+],
+  "geometry": {"coordinates":[142.36667,-3.15],"type":"Point"}
+}

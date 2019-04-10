@@ -1,0 +1,68 @@
+{
+  "id": 1259664991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.30678,-3.40015,143.30678,-3.40015",
+    "geom:latitude":-3.40015,
+    "geom:longitude":143.30678,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Dagua",
+    "gn:country_code":"PG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098464,
+    "gn:latitude":-3.40015,
+    "gn:longitude":143.30678,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dagua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakur",
+        "Dajua",
+        "Dagua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098464
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e0ff51d06f7c586bca82431d7cc0910e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1259664991,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259664991,
+    "wof:lastmodified":1537677185,
+    "wof:name":"Dagua",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.30678,
+    -3.40015,
+    143.30678,
+    -3.40015
+],
+  "geometry": {"coordinates":[143.30678,-3.40015],"type":"Point"}
+}

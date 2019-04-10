@@ -1,0 +1,67 @@
+{
+  "id": 1259974069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.84912,-6.68727,145.84912,-6.68727",
+    "geom:latitude":-6.68727,
+    "geom:longitude":145.84912,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Pinata",
+    "gn:country_code":"PG",
+    "gn:dem":1643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088354,
+    "gn:latitude":-6.68727,
+    "gn:longitude":145.84912,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Pinata",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091704061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088354
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"21a13f9123020b87353b31333593004f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704061,
+            "locality_id":1259974069,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1259974069,
+    "wof:lastmodified":1536648377,
+    "wof:name":"Pinata",
+    "wof:parent_id":1091704061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.84912,
+    -6.68727,
+    145.84912,
+    -6.68727
+],
+  "geometry": {"coordinates":[145.84912,-6.68727],"type":"Point"}
+}

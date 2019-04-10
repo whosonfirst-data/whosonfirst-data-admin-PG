@@ -1,0 +1,67 @@
+{
+  "id": 1243344601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.00243,-3.75581,143.00243,-3.75581",
+    "geom:latitude":-3.75581,
+    "geom:longitude":143.00243,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kutigum",
+    "gn:country_code":"PG",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092927,
+    "gn:latitude":-3.75581,
+    "gn:longitude":143.00243,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kutigum",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092927
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c4b88deb09f432bc55f04215172908e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705131,
+            "locality_id":1243344601,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1243344601,
+    "wof:lastmodified":1536952573,
+    "wof:name":"Kutigum",
+    "wof:parent_id":1091705131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.00243,
+    -3.75581,
+    143.00243,
+    -3.75581
+],
+  "geometry": {"coordinates":[143.00243,-3.75581],"type":"Point"}
+}

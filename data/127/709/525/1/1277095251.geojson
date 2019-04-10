@@ -1,0 +1,67 @@
+{
+  "id": 1277095251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.9,-6.21667,145.9,-6.21667",
+    "geom:latitude":-6.21667,
+    "geom:longitude":145.9,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Abinakenu",
+    "gn:country_code":"PG",
+    "gn:dem":1724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101406,
+    "gn:latitude":-6.21667,
+    "gn:longitude":145.9,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Abinakenu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091702711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101406
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c0714c084ff038d4563df686cc9bf2d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702711,
+            "locality_id":1277095251,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1277095251,
+    "wof:lastmodified":1536749490,
+    "wof:name":"Abinakenu",
+    "wof:parent_id":1091702711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.9,
+    -6.21667,
+    145.9,
+    -6.21667
+],
+  "geometry": {"coordinates":[145.90000000000001,-6.21667],"type":"Point"}
+}

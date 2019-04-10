@@ -1,0 +1,73 @@
+{
+  "id": 1343838157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.73333,-5.43333,145.73333,-5.43333",
+    "geom:latitude":-5.43333,
+    "geom:longitude":145.73333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Bogadjim",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2099284,
+    "gn:latitude":-5.43333,
+    "gn:longitude":145.73333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bogadjim",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Stephansort",
+        "Bogadyim",
+        "Bogadjim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099284
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"00eb4426fa01f5c5abf16478937b2f22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704219,
+            "locality_id":1343838157,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1343838157,
+    "wof:lastmodified":1537677195,
+    "wof:name":"Bogadjim",
+    "wof:parent_id":1091704219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.73333,
+    -5.43333,
+    145.73333,
+    -5.43333
+],
+  "geometry": {"coordinates":[145.73333,-5.43333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226362417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.07873,-6.21625,145.07873,-6.21625",
+    "geom:latitude":-6.21625,
+    "geom:longitude":145.07873,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Girimai",
+    "gn:country_code":"PG",
+    "gn:dem":2063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096916,
+    "gn:latitude":-6.21625,
+    "gn:longitude":145.07873,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Girimai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091702163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096916
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0f279539b9a0cd7bc2d20fd102ab9810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702163,
+            "locality_id":1226362417,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1226362417,
+    "wof:lastmodified":1536765958,
+    "wof:name":"Girimai",
+    "wof:parent_id":1091702163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.07873,
+    -6.21625,
+    145.07873,
+    -6.21625
+],
+  "geometry": {"coordinates":[145.07873000000001,-6.21625],"type":"Point"}
+}

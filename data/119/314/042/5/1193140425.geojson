@@ -1,0 +1,67 @@
+{
+  "id": 1193140425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.15014,-7.57296,146.15014,-7.57296",
+    "geom:latitude":-7.57296,
+    "geom:longitude":146.15014,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Uyeiwata",
+    "gn:country_code":"PG",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084475,
+    "gn:latitude":-7.57296,
+    "gn:longitude":146.15014,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Uyeiwata",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091702955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084475
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"24c182054c785ecdf6be6dda7cd9815f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702955,
+            "locality_id":1193140425,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1193140425,
+    "wof:lastmodified":1536366376,
+    "wof:name":"Uyeiwata",
+    "wof:parent_id":1091702955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.15014,
+    -7.57296,
+    146.15014,
+    -7.57296
+],
+  "geometry": {"coordinates":[146.15013999999999,-7.57296],"type":"Point"}
+}

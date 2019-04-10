@@ -1,0 +1,61 @@
+{
+  "id": 1209610483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.49547,-4.17176,152.49547,-4.17176",
+    "geom:latitude":-4.17176,
+    "geom:longitude":152.49547,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Nambaul",
+    "gn:country_code":"PG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090007,
+    "gn:latitude":-4.17176,
+    "gn:longitude":152.49547,
+    "gn:modification_date":"2015-04-27",
+    "gn:name":"Nambaul",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090007
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"cb1b0bcbd403fd3eed82f66b2639a5a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209610483
+        }
+    ],
+    "wof:id":1209610483,
+    "wof:lastmodified":1536281864,
+    "wof:name":"Nambaul",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.49546999999995,
+    -4.17176,
+    152.49546999999995,
+    -4.17176
+],
+  "geometry": {"coordinates":[152.49546999999995,-4.17176],"type":"Point"}
+}

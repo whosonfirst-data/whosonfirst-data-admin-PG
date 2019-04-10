@@ -1,0 +1,67 @@
+{
+  "id": 1193006271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.3321,-4.75298,143.3321,-4.75298",
+    "geom:latitude":-4.75298,
+    "geom:longitude":143.3321,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Danyig",
+    "gn:country_code":"PG",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098349,
+    "gn:latitude":-4.75298,
+    "gn:longitude":143.3321,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Danyig",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098349
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0a9ea3027bd702fe91c1036f515f70b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702059,
+            "locality_id":1193006271,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1193006271,
+    "wof:lastmodified":1536365754,
+    "wof:name":"Danyig",
+    "wof:parent_id":1091702059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.3321,
+    -4.75298,
+    143.3321,
+    -4.75298
+],
+  "geometry": {"coordinates":[143.3321,-4.75298],"type":"Point"}
+}

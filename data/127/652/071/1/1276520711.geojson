@@ -1,0 +1,67 @@
+{
+  "id": 1276520711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.43333,-2.56667,150.43333,-2.56667",
+    "geom:latitude":-2.56667,
+    "geom:longitude":150.43333,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Patiagaga",
+    "gn:country_code":"PG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088559,
+    "gn:latitude":-2.56667,
+    "gn:longitude":150.43333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Patiagaga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091702917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088559
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1556b382c00ec3377a8a6ca466dfc6a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702917,
+            "locality_id":1276520711,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1276520711,
+    "wof:lastmodified":1537023955,
+    "wof:name":"Patiagaga",
+    "wof:parent_id":1091702917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.43333,
+    -2.56667,
+    150.43333,
+    -2.56667
+],
+  "geometry": {"coordinates":[150.43333000000001,-2.56667],"type":"Point"}
+}

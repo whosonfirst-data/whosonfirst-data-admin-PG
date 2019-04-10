@@ -1,0 +1,67 @@
+{
+  "id": 1193120769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.08333,-7.3,146.08333,-7.3",
+    "geom:latitude":-7.3,
+    "geom:longitude":146.08333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kwagaga",
+    "gn:country_code":"PG",
+    "gn:dem":1780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092905,
+    "gn:latitude":-7.3,
+    "gn:longitude":146.08333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kwagaga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092905
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"067cdbeee9f79f262caa9893058b5a34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703633,
+            "locality_id":1193120769,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1193120769,
+    "wof:lastmodified":1536364453,
+    "wof:name":"Kwagaga",
+    "wof:parent_id":1091703633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.08333000000005,
+    -7.3,
+    146.08333000000005,
+    -7.3
+],
+  "geometry": {"coordinates":[146.08333000000005,-7.3],"type":"Point"}
+}

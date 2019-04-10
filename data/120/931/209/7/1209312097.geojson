@@ -1,0 +1,61 @@
+{
+  "id": 1209312097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.74304,-6.09544,141.74304,-6.09544",
+    "geom:latitude":-6.09544,
+    "geom:longitude":141.74304,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Gasuke",
+    "gn:country_code":"PG",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8527818,
+    "gn:latitude":-6.09544,
+    "gn:longitude":141.74304,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Gasuke",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8527818
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a28b81df1155792c5a5720c7201710ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209312097
+        }
+    ],
+    "wof:id":1209312097,
+    "wof:lastmodified":1536290991,
+    "wof:name":"Gasuke",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.74303999999995,
+    -6.09544,
+    141.74303999999995,
+    -6.09544
+],
+  "geometry": {"coordinates":[141.74303999999995,-6.09544],"type":"Point"}
+}

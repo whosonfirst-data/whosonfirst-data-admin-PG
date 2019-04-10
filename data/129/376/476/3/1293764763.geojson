@@ -1,0 +1,67 @@
+{
+  "id": 1293764763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.53762,-3.81098,143.53762,-3.81098",
+    "geom:latitude":-3.81098,
+    "geom:longitude":143.53762,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Yumungu",
+    "gn:country_code":"PG",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2082800,
+    "gn:latitude":-3.81098,
+    "gn:longitude":143.53762,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Yumungu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2082800
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"610e68ab3de9f1fe563c9ae77f14b38b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705179,
+            "locality_id":1293764763,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1293764763,
+    "wof:lastmodified":1536883864,
+    "wof:name":"Yumungu",
+    "wof:parent_id":1091705179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.53762,
+    -3.81098,
+    143.53762,
+    -3.81098
+],
+  "geometry": {"coordinates":[143.53762,-3.81098],"type":"Point"}
+}

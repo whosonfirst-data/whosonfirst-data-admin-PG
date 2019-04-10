@@ -1,0 +1,67 @@
+{
+  "id": 1226025113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.43333,-5.68333,146.43333,-5.68333",
+    "geom:latitude":-5.68333,
+    "geom:longitude":146.43333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Nampa",
+    "gn:country_code":"PG",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089970,
+    "gn:latitude":-5.68333,
+    "gn:longitude":146.43333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Nampa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089970
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"da441c87b64fedc0cf0236684a6c05a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704219,
+            "locality_id":1226025113,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1226025113,
+    "wof:lastmodified":1536755010,
+    "wof:name":"Nampa",
+    "wof:parent_id":1091704219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.43333,
+    -5.68333,
+    146.43333,
+    -5.68333
+],
+  "geometry": {"coordinates":[146.43333000000001,-5.68333],"type":"Point"}
+}

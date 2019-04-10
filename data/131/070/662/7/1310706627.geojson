@@ -1,0 +1,67 @@
+{
+  "id": 1310706627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.22436,-6.69822,144.22436,-6.69822",
+    "geom:latitude":-6.69822,
+    "geom:longitude":144.22436,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Waraga",
+    "gn:country_code":"PG",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8529164,
+    "gn:latitude":-6.69822,
+    "gn:longitude":144.22436,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Waraga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8529164
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"107cc98b418b7a8499f285a6b5f3eafc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702665,
+            "locality_id":1310706627,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1310706627,
+    "wof:lastmodified":1536624755,
+    "wof:name":"Waraga",
+    "wof:parent_id":1091702665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.22436000000005,
+    -6.69822,
+    144.22436000000005,
+    -6.69822
+],
+  "geometry": {"coordinates":[144.22436000000005,-6.69822],"type":"Point"}
+}

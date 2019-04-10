@@ -1,0 +1,93 @@
+{
+  "id": 1126071015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.18315,-9.42349,147.18315,-9.42349",
+    "geom:latitude":-9.42349,
+    "geom:longitude":147.18315,
+    "gn:gn_country":"PG",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"PG",
+    "lbl:latitude":-9.42349,
+    "lbl:longitude":147.18315,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PG",
+    "qs_pg:gn_country":"PG",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":2084122,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Waigani",
+    "qs_pg:name_adm0":"Papua New Guinea",
+    "qs_pg:name_adm1":"National Capital",
+    "qs_pg:photos":7,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":7,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":58551,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424926,
+    "qs_pg:woe_id":1060503,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424926,
+    "woe:name_adm0":"Papua New Guinea",
+    "woe:name_adm1":"National Capital",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85676581,
+        102191583,
+        85632347,
+        1091703859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084122,
+        "gp:id":1060503,
+        "qs_pg:id":58551
+    },
+    "wof:country":"PG",
+    "wof:created":1497309946,
+    "wof:geomhash":"6cfb4fbc5d9067ec1e50155c699563a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703859,
+            "locality_id":-1,
+            "neighbourhood_id":1126071015,
+            "region_id":85676581
+        }
+    ],
+    "wof:id":1126071015,
+    "wof:lastmodified":1534379398,
+    "wof:name":"Waigani",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[
+        85768645
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.18315,
+    -9.42349,
+    147.18315,
+    -9.42349
+],
+  "geometry": {"coordinates":[147.18315000000001,-9.42349],"type":"Point"}
+}

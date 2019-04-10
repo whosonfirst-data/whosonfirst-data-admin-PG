@@ -1,0 +1,70 @@
+{
+  "id": 1343443895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.33139,-2.89924,151.33139,-2.89924",
+    "geom:latitude":-2.89924,
+    "geom:longitude":151.33139,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Lugagon",
+    "gn:country_code":"PG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092252,
+    "gn:latitude":-2.89924,
+    "gn:longitude":151.33139,
+    "gn:modification_date":"2014-08-22",
+    "gn:name":"Lugagon",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Logagon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091702917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092252
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1f5f85805de85bfd8c1b6eb0c572412f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702917,
+            "locality_id":1343443895,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1343443895,
+    "wof:lastmodified":1537677117,
+    "wof:name":"Lugagon",
+    "wof:parent_id":1091702917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.33139,
+    -2.89924,
+    151.33139,
+    -2.89924
+],
+  "geometry": {"coordinates":[151.33139,-2.89924],"type":"Point"}
+}

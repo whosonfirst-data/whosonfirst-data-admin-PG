@@ -1,0 +1,67 @@
+{
+  "id": 1293272319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.53036,-5.08702,145.53036,-5.08702",
+    "geom:latitude":-5.08702,
+    "geom:longitude":145.53036,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Musivanga",
+    "gn:country_code":"PG",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090180,
+    "gn:latitude":-5.08702,
+    "gn:longitude":145.53036,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Musivanga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091703451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090180
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ed964c0f869f597eeec49f30dd62352f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703451,
+            "locality_id":1293272319,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1293272319,
+    "wof:lastmodified":1537094047,
+    "wof:name":"Musivanga",
+    "wof:parent_id":1091703451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.53036,
+    -5.08702,
+    145.53036,
+    -5.08702
+],
+  "geometry": {"coordinates":[145.53036,-5.08702],"type":"Point"}
+}

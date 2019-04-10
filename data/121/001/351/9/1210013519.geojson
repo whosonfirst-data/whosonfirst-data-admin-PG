@@ -1,0 +1,67 @@
+{
+  "id": 1210013519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"154.91667,-6.06111,154.91667,-6.06111",
+    "geom:latitude":-6.06111,
+    "geom:longitude":154.91667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kana",
+    "gn:country_code":"PG",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2113827,
+    "gn:latitude":-6.06111,
+    "gn:longitude":154.91667,
+    "gn:modification_date":"1997-02-21",
+    "gn:name":"Kana",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676543,
+        1091703967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2113827
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a04b6583fd5ff6b915085a67e38e469e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703967,
+            "locality_id":1210013519,
+            "region_id":85676543
+        }
+    ],
+    "wof:id":1210013519,
+    "wof:lastmodified":1536396127,
+    "wof:name":"Kana",
+    "wof:parent_id":1091703967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    154.91666999999995,
+    -6.06111,
+    154.91666999999995,
+    -6.06111
+],
+  "geometry": {"coordinates":[154.91666999999995,-6.06111],"type":"Point"}
+}

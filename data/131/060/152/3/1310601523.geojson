@@ -1,0 +1,67 @@
+{
+  "id": 1310601523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.84748,-8.16442,147.84748,-8.16442",
+    "geom:latitude":-8.16442,
+    "geom:longitude":147.84748,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Taire",
+    "gn:country_code":"PG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085987,
+    "gn:latitude":-8.16442,
+    "gn:longitude":147.84748,
+    "gn:modification_date":"2012-04-29",
+    "gn:name":"Taire",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091704393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085987
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"6b8c0628dbf872fbc3d3c42e8eadffc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704393,
+            "locality_id":1310601523,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1310601523,
+    "wof:lastmodified":1536778921,
+    "wof:name":"Taire",
+    "wof:parent_id":1091704393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.84748000000005,
+    -8.16442,
+    147.84748000000005,
+    -8.16442
+],
+  "geometry": {"coordinates":[147.84748000000005,-8.16442],"type":"Point"}
+}

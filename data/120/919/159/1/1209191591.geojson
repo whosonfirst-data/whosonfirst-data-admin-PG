@@ -1,0 +1,61 @@
+{
+  "id": 1209191591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.66725,-4.69086,144.66725,-4.69086",
+    "geom:latitude":-4.69086,
+    "geom:longitude":144.66725,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Misinki",
+    "gn:country_code":"PG",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090702,
+    "gn:latitude":-4.69086,
+    "gn:longitude":144.66725,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Misinki",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090702
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"97f9cbe543b7542c1a6689c57e959cc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209191591
+        }
+    ],
+    "wof:id":1209191591,
+    "wof:lastmodified":1536294915,
+    "wof:name":"Misinki",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.66725,
+    -4.69086,
+    144.66725,
+    -4.69086
+],
+  "geometry": {"coordinates":[144.66725,-4.69086],"type":"Point"}
+}

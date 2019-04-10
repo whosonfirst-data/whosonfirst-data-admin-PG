@@ -1,0 +1,67 @@
+{
+  "id": 1243342311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.05686,-6.13389,147.05686,-6.13389",
+    "geom:latitude":-6.13389,
+    "geom:longitude":147.05686,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Dalugilomon",
+    "gn:country_code":"PG",
+    "gn:dem":1701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098416,
+    "gn:latitude":-6.13389,
+    "gn:longitude":147.05686,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Dalugilomon",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098416
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"5b63c6a04be7f31f46dd52381bbcb122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702647,
+            "locality_id":1243342311,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1243342311,
+    "wof:lastmodified":1536955830,
+    "wof:name":"Dalugilomon",
+    "wof:parent_id":1091702647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.05686,
+    -6.13389,
+    147.05686,
+    -6.13389
+],
+  "geometry": {"coordinates":[147.05686,-6.13389],"type":"Point"}
+}

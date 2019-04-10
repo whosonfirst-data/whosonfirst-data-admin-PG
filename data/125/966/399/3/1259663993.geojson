@@ -1,0 +1,72 @@
+{
+  "id": 1259663993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.05314,-4.64806,146.05314,-4.64806",
+    "geom:latitude":-4.64806,
+    "geom:longitude":146.05314,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Muluk",
+    "gn:country_code":"PG",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090325,
+    "gn:latitude":-4.64806,
+    "gn:longitude":146.05314,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Muluk",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yakadun",
+        "Muluk Mission",
+        "Muluk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090325
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"55a15af736cb75888f3b93148c8fb637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704517,
+            "locality_id":1259663993,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1259663993,
+    "wof:lastmodified":1537677096,
+    "wof:name":"Muluk",
+    "wof:parent_id":1091704517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.05313999999996,
+    -4.64806,
+    146.05313999999996,
+    -4.64806
+],
+  "geometry": {"coordinates":[146.05313999999996,-4.64806],"type":"Point"}
+}

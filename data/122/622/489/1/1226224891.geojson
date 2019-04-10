@@ -1,0 +1,63 @@
+{
+  "id": 1226224891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.83333,-2.56667,150.83333,-2.56667",
+    "geom:latitude":-2.56667,
+    "geom:longitude":150.83333,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Tigak",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085481,
+    "gn:latitude":-2.56667,
+    "gn:longitude":150.83333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Tigak",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085481
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d4ea28f9d0a686c0926d22759e875b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1226224891,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226224891,
+    "wof:lastmodified":1536963571,
+    "wof:name":"Tigak",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.83333000000005,
+    -2.56667,
+    150.83333000000005,
+    -2.56667
+],
+  "geometry": {"coordinates":[150.83333000000005,-2.56667],"type":"Point"}
+}

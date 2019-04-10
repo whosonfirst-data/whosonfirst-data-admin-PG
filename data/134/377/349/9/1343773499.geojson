@@ -1,0 +1,67 @@
+{
+  "id": 1343773499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.766,-10.697,152.766,-10.697",
+    "geom:latitude":-10.697,
+    "geom:longitude":152.766,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Haliba",
+    "gn:country_code":"PG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425426,
+    "gn:latitude":-10.697,
+    "gn:longitude":152.766,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Haliba",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091704299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425426
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e66b9f9d3e01692963568cb828c89b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704299,
+            "locality_id":1343773499,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1343773499,
+    "wof:lastmodified":1536792384,
+    "wof:name":"Haliba",
+    "wof:parent_id":1091704299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.766,
+    -10.697,
+    152.766,
+    -10.697
+],
+  "geometry": {"coordinates":[152.76599999999999,-10.697],"type":"Point"}
+}

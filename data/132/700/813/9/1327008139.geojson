@@ -1,0 +1,70 @@
+{
+  "id": 1327008139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.29586,-4.10315,143.29586,-4.10315",
+    "geom:latitude":-4.10315,
+    "geom:longitude":143.29586,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Nogosop",
+    "gn:country_code":"PG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090106,
+    "gn:latitude":-4.10315,
+    "gn:longitude":143.29586,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Nogosop",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nagosap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090106
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d8c39ea86bf76b9b7377db44ebd16751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705131,
+            "locality_id":1327008139,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1327008139,
+    "wof:lastmodified":1537677094,
+    "wof:name":"Nogosop",
+    "wof:parent_id":1091705131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.29586,
+    -4.10315,
+    143.29586,
+    -4.10315
+],
+  "geometry": {"coordinates":[143.29586,-4.10315],"type":"Point"}
+}

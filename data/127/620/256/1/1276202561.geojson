@@ -1,0 +1,67 @@
+{
+  "id": 1276202561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.20056,-2.19804,147.20056,-2.19804",
+    "geom:latitude":-2.19804,
+    "geom:longitude":147.20056,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Lohan",
+    "gn:country_code":"PG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092243,
+    "gn:latitude":-2.19804,
+    "gn:longitude":147.20056,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Lohan",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676569,
+        1091703475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092243
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0f9e5ec05098751ae0fba33f28baa6b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703475,
+            "locality_id":1276202561,
+            "region_id":85676569
+        }
+    ],
+    "wof:id":1276202561,
+    "wof:lastmodified":1536954372,
+    "wof:name":"Lohan",
+    "wof:parent_id":1091703475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.20056,
+    -2.19804,
+    147.20056,
+    -2.19804
+],
+  "geometry": {"coordinates":[147.20056,-2.19804],"type":"Point"}
+}

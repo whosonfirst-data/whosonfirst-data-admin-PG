@@ -1,0 +1,71 @@
+{
+  "id": 1276742051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.11128,-6.14004,146.11128,-6.14004",
+    "geom:latitude":-6.14004,
+    "geom:longitude":146.11128,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Atsunas",
+    "gn:country_code":"PG",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100389,
+    "gn:latitude":-6.14004,
+    "gn:longitude":146.11128,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Atsunas",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Atsonas",
+        "Atsunas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100389
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e865ad2211acac2c168b7a66229b76c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703565,
+            "locality_id":1276742051,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1276742051,
+    "wof:lastmodified":1537677208,
+    "wof:name":"Atsunas",
+    "wof:parent_id":1091703565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.11128,
+    -6.14004,
+    146.11128,
+    -6.14004
+],
+  "geometry": {"coordinates":[146.11127999999999,-6.14004],"type":"Point"}
+}

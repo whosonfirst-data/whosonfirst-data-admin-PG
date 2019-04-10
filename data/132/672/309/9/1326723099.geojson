@@ -1,0 +1,71 @@
+{
+  "id": 1326723099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.98256,-8.87364,142.98256,-8.87364",
+    "geom:latitude":-8.87364,
+    "geom:longitude":142.98256,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Iamiga",
+    "gn:country_code":"PG",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095909,
+    "gn:latitude":-8.87364,
+    "gn:longitude":142.98256,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Iamiga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iamega",
+        "Iamiga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095909
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"53fdd0f6bd1eb408270ab391758d8dd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704467,
+            "locality_id":1326723099,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1326723099,
+    "wof:lastmodified":1537677159,
+    "wof:name":"Iamiga",
+    "wof:parent_id":1091704467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.98256,
+    -8.87364,
+    142.98256,
+    -8.87364
+],
+  "geometry": {"coordinates":[142.98256000000001,-8.87364],"type":"Point"}
+}

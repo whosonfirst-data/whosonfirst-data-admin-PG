@@ -1,0 +1,67 @@
+{
+  "id": 1260275093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"154.71977,-5.68879,154.71977,-5.68879",
+    "geom:latitude":-5.68879,
+    "geom:longitude":154.71977,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Puto",
+    "gn:country_code":"PG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087929,
+    "gn:latitude":-5.68879,
+    "gn:longitude":154.71977,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Puto",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676543,
+        1091703967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087929
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"97806594db0fffdf4d48f1bd26a36acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703967,
+            "locality_id":1260275093,
+            "region_id":85676543
+        }
+    ],
+    "wof:id":1260275093,
+    "wof:lastmodified":1536723568,
+    "wof:name":"Puto",
+    "wof:parent_id":1091703967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    154.71976999999995,
+    -5.68879,
+    154.71976999999995,
+    -5.68879
+],
+  "geometry": {"coordinates":[154.71976999999995,-5.68879],"type":"Point"}
+}

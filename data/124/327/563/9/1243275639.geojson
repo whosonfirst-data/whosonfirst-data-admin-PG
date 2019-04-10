@@ -1,0 +1,67 @@
+{
+  "id": 1243275639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"153.073,-11.152,153.073,-11.152",
+    "geom:latitude":-11.152,
+    "geom:longitude":153.073,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Niyalehoi",
+    "gn:country_code":"PG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425433,
+    "gn:latitude":-11.152,
+    "gn:longitude":153.073,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Niyalehoi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091704299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425433
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"30db2cc8f311fb3a82238d4f4a79ffb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704299,
+            "locality_id":1243275639,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1243275639,
+    "wof:lastmodified":1537049650,
+    "wof:name":"Niyalehoi",
+    "wof:parent_id":1091704299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    153.07299999999995,
+    -11.152,
+    153.07299999999995,
+    -11.152
+],
+  "geometry": {"coordinates":[153.07299999999995,-11.152],"type":"Point"}
+}

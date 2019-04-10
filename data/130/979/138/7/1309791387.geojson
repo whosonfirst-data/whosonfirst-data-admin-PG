@@ -1,0 +1,67 @@
+{
+  "id": 1309791387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.63438,-6.36569,144.63438,-6.36569",
+    "geom:latitude":-6.36569,
+    "geom:longitude":144.63438,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Uhani",
+    "gn:country_code":"PG",
+    "gn:dem":1038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8529223,
+    "gn:latitude":-6.36569,
+    "gn:longitude":144.63438,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Uhani",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091702873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8529223
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9f272e8e9ffd7f07b9616482c1c61523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702873,
+            "locality_id":1309791387,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1309791387,
+    "wof:lastmodified":1536952033,
+    "wof:name":"Uhani",
+    "wof:parent_id":1091702873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.63438,
+    -6.36569,
+    144.63438,
+    -6.36569
+],
+  "geometry": {"coordinates":[144.63437999999999,-6.36569],"type":"Point"}
+}

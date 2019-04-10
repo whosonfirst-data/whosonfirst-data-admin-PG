@@ -1,0 +1,67 @@
+{
+  "id": 1259554435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.80406,-7.68744,146.80406,-7.68744",
+    "geom:latitude":-7.68744,
+    "geom:longitude":146.80406,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Tauris",
+    "gn:country_code":"PG",
+    "gn:dem":1284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085686,
+    "gn:latitude":-7.68744,
+    "gn:longitude":146.80406,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Tauris",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085686
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ff5ab0dfe20fee3138d5a2f872bfa4e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702091,
+            "locality_id":1259554435,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1259554435,
+    "wof:lastmodified":1536756923,
+    "wof:name":"Tauris",
+    "wof:parent_id":1091702091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.80406000000005,
+    -7.68744,
+    146.80406000000005,
+    -7.68744
+],
+  "geometry": {"coordinates":[146.80406000000005,-7.68744],"type":"Point"}
+}

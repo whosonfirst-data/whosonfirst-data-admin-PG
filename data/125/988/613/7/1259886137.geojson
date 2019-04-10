@@ -1,0 +1,67 @@
+{
+  "id": 1259886137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.31667,-8.78333,148.31667,-8.78333",
+    "geom:latitude":-8.78333,
+    "geom:longitude":148.31667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Inonda",
+    "gn:country_code":"PG",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095567,
+    "gn:latitude":-8.78333,
+    "gn:longitude":148.31667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Inonda",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091702531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095567
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"285991cdb6edd8a7d10ea4f3e9492620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702531,
+            "locality_id":1259886137,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1259886137,
+    "wof:lastmodified":1536775870,
+    "wof:name":"Inonda",
+    "wof:parent_id":1091702531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.31667,
+    -8.78333,
+    148.31667,
+    -8.78333
+],
+  "geometry": {"coordinates":[148.31666999999999,-8.78333],"type":"Point"}
+}

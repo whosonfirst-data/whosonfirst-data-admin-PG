@@ -1,0 +1,67 @@
+{
+  "id": 1310227293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.71667,-7.9,143.71667,-7.9",
+    "geom:latitude":-7.9,
+    "geom:longitude":143.71667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ukusi",
+    "gn:country_code":"PG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084815,
+    "gn:latitude":-7.9,
+    "gn:longitude":143.71667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Ukusi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091703673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084815
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"7345464bff1e2348e336f07eedce8133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703673,
+            "locality_id":1310227293,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1310227293,
+    "wof:lastmodified":1536819996,
+    "wof:name":"Ukusi",
+    "wof:parent_id":1091703673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.71667,
+    -7.9,
+    143.71667,
+    -7.9
+],
+  "geometry": {"coordinates":[143.71666999999999,-7.9],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193124431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.01538,-4.75143,145.01538,-4.75143",
+    "geom:latitude":-4.75143,
+    "geom:longitude":145.01538,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Josephstaal",
+    "gn:country_code":"PG",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095227,
+    "gn:latitude":-4.75143,
+    "gn:longitude":145.01538,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Josephstaal",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Josephstaal Mission",
+        "Josephstaal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091703709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095227
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f999fd766f98cc3b51cf02593d6036f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703709,
+            "locality_id":1193124431,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1193124431,
+    "wof:lastmodified":1537677151,
+    "wof:name":"Josephstaal",
+    "wof:parent_id":1091703709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.01538,
+    -4.75143,
+    145.01538,
+    -4.75143
+],
+  "geometry": {"coordinates":[145.01537999999999,-4.75143],"type":"Point"}
+}

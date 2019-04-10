@@ -1,0 +1,67 @@
+{
+  "id": 1343746331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.53333,-6.66667,145.53333,-6.66667",
+    "geom:latitude":-6.66667,
+    "geom:longitude":145.53333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ketabi",
+    "gn:country_code":"PG",
+    "gn:dem":1485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094103,
+    "gn:latitude":-6.66667,
+    "gn:longitude":145.53333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Ketabi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091704103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094103
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4ed64b5b96659bc2392a6284d62ba6ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704103,
+            "locality_id":1343746331,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1343746331,
+    "wof:lastmodified":1536830322,
+    "wof:name":"Ketabi",
+    "wof:parent_id":1091704103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.53333,
+    -6.66667,
+    145.53333,
+    -6.66667
+],
+  "geometry": {"coordinates":[145.53333000000001,-6.66667],"type":"Point"}
+}

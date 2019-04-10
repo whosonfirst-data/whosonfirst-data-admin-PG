@@ -1,0 +1,61 @@
+{
+  "id": 1209313679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.94055,-5.75899,142.94055,-5.75899",
+    "geom:latitude":-5.75899,
+    "geom:longitude":142.94055,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Paijaka",
+    "gn:country_code":"PG",
+    "gn:dem":1845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8528069,
+    "gn:latitude":-5.75899,
+    "gn:longitude":142.94055,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Paijaka",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8528069
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4d1ee8ec27a3536047f728dd1daf0dba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209313679
+        }
+    ],
+    "wof:id":1209313679,
+    "wof:lastmodified":1536290939,
+    "wof:name":"Paijaka",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.94055,
+    -5.75899,
+    142.94055,
+    -5.75899
+],
+  "geometry": {"coordinates":[142.94055,-5.75899],"type":"Point"}
+}

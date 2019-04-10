@@ -1,0 +1,61 @@
+{
+  "id": 1209089901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.96556,-7.70086,146.96556,-7.70086",
+    "geom:latitude":-7.70086,
+    "geom:longitude":146.96556,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Gerepo",
+    "gn:country_code":"PG",
+    "gn:dem":1549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097017,
+    "gn:latitude":-7.70086,
+    "gn:longitude":146.96556,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Gerepo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097017
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"37d5c0f8e79fd86b16cd19fb03112d9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209089901
+        }
+    ],
+    "wof:id":1209089901,
+    "wof:lastmodified":1536298067,
+    "wof:name":"Gerepo",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.96556,
+    -7.70086,
+    146.96556,
+    -7.70086
+],
+  "geometry": {"coordinates":[146.96556000000001,-7.70086],"type":"Point"}
+}

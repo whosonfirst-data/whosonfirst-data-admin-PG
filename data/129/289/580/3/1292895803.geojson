@@ -1,0 +1,67 @@
+{
+  "id": 1292895803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.31839,-6.34148,145.31839,-6.34148",
+    "geom:latitude":-6.34148,
+    "geom:longitude":145.31839,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Donito",
+    "gn:country_code":"PG",
+    "gn:dem":1728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098040,
+    "gn:latitude":-6.34148,
+    "gn:longitude":145.31839,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Donito",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091703417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098040
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0184e0d09ccd225a9830f7ee184e23c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703417,
+            "locality_id":1292895803,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1292895803,
+    "wof:lastmodified":1536645453,
+    "wof:name":"Donito",
+    "wof:parent_id":1091703417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.31839,
+    -6.34148,
+    145.31839,
+    -6.34148
+],
+  "geometry": {"coordinates":[145.31838999999999,-6.34148],"type":"Point"}
+}

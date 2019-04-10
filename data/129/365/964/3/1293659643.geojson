@@ -1,0 +1,67 @@
+{
+  "id": 1293659643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.75,-4.25,151.75,-4.25",
+    "geom:latitude":-4.25,
+    "geom:longitude":151.75,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Loan",
+    "gn:country_code":"PG",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2113437,
+    "gn:latitude":-4.25,
+    "gn:longitude":151.75,
+    "gn:modification_date":"1996-04-15",
+    "gn:name":"Loan",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091702397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2113437
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d4574334f5e8d305abceb87aaaee63a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702397,
+            "locality_id":1293659643,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1293659643,
+    "wof:lastmodified":1537034661,
+    "wof:name":"Loan",
+    "wof:parent_id":1091702397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.75,
+    -4.25,
+    151.75,
+    -4.25
+],
+  "geometry": {"coordinates":[151.75,-4.25],"type":"Point"}
+}

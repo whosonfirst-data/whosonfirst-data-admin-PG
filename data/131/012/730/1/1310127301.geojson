@@ -1,0 +1,67 @@
+{
+  "id": 1310127301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"154.66439,-5.11821,154.66439,-5.11821",
+    "geom:latitude":-5.11821,
+    "geom:longitude":154.66439,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Hagis",
+    "gn:country_code":"PG",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2113796,
+    "gn:latitude":-5.11821,
+    "gn:longitude":154.66439,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Hagis",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676543,
+        1091703967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2113796
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c134d6423b51f3ea99da4e2897da0354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703967,
+            "locality_id":1310127301,
+            "region_id":85676543
+        }
+    ],
+    "wof:id":1310127301,
+    "wof:lastmodified":1536964907,
+    "wof:name":"Hagis",
+    "wof:parent_id":1091703967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    154.66439,
+    -5.11821,
+    154.66439,
+    -5.11821
+],
+  "geometry": {"coordinates":[154.66439,-5.11821],"type":"Point"}
+}

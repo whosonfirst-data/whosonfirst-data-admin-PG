@@ -1,0 +1,61 @@
+{
+  "id": 1209612721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.90545,-8.00706,142.90545,-8.00706",
+    "geom:latitude":-8.00706,
+    "geom:longitude":142.90545,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tai",
+    "gn:country_code":"PG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086002,
+    "gn:latitude":-8.00706,
+    "gn:longitude":142.90545,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Tai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086002
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4e5abc72dc37a12350055575b456322d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209612721
+        }
+    ],
+    "wof:id":1209612721,
+    "wof:lastmodified":1536281794,
+    "wof:name":"Tai",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.90545,
+    -8.007060000000001,
+    142.90545,
+    -8.007060000000001
+],
+  "geometry": {"coordinates":[142.90545,-8.00706],"type":"Point"}
+}

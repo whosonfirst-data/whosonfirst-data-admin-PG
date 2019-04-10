@@ -1,0 +1,67 @@
+{
+  "id": 1343257841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.78376,-4.46076,151.78376,-4.46076",
+    "geom:latitude":-4.46076,
+    "geom:longitude":151.78376,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Raunsepna",
+    "gn:country_code":"PG",
+    "gn:dem":837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087721,
+    "gn:latitude":-4.46076,
+    "gn:longitude":151.78376,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Raunsepna",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091702397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087721
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e041a28f275b2fd542a6299c2893d36f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702397,
+            "locality_id":1343257841,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1343257841,
+    "wof:lastmodified":1537037085,
+    "wof:name":"Raunsepna",
+    "wof:parent_id":1091702397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.78376,
+    -4.46076,
+    151.78376,
+    -4.46076
+],
+  "geometry": {"coordinates":[151.78376,-4.46076],"type":"Point"}
+}

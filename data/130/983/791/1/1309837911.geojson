@@ -1,0 +1,67 @@
+{
+  "id": 1309837911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.46667,-6.01667,143.46667,-6.01667",
+    "geom:latitude":-6.01667,
+    "geom:longitude":143.46667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Marisere",
+    "gn:country_code":"PG",
+    "gn:dem":2366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091336,
+    "gn:latitude":-6.01667,
+    "gn:longitude":143.46667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Marisere",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091703589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091336
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"24ed482c000a3888a40bcdbc95e25b2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703589,
+            "locality_id":1309837911,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1309837911,
+    "wof:lastmodified":1536884330,
+    "wof:name":"Marisere",
+    "wof:parent_id":1091703589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.46667,
+    -6.01667,
+    143.46667,
+    -6.01667
+],
+  "geometry": {"coordinates":[143.46666999999999,-6.01667],"type":"Point"}
+}

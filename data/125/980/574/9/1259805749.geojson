@@ -1,0 +1,67 @@
+{
+  "id": 1259805749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.51667,-6.88333,141.51667,-6.88333",
+    "geom:latitude":-6.88333,
+    "geom:longitude":141.51667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Zarit",
+    "gn:country_code":"PG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2082762,
+    "gn:latitude":-6.88333,
+    "gn:longitude":141.51667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Zarit",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091703673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2082762
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"17f318eb5b46582b2d16ecd65a615353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703673,
+            "locality_id":1259805749,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1259805749,
+    "wof:lastmodified":1536890843,
+    "wof:name":"Zarit",
+    "wof:parent_id":1091703673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.51667,
+    -6.88333,
+    141.51667,
+    -6.88333
+],
+  "geometry": {"coordinates":[141.51667,-6.88333],"type":"Point"}
+}

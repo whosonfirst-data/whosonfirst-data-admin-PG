@@ -1,0 +1,72 @@
+{
+  "id": 1193120011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.68125,-4.334,152.68125,-4.334",
+    "geom:latitude":-4.334,
+    "geom:longitude":152.68125,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Watpi",
+    "gn:country_code":"PG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083668,
+    "gn:latitude":-4.334,
+    "gn:longitude":152.68125,
+    "gn:modification_date":"2015-08-18",
+    "gn:name":"Watpi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Watpi Mission",
+        "Watpi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091703829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083668,
+        "wk:page":"Watpi"
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0e1f9c846638095acbe9ebfe448f3fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703829,
+            "locality_id":1193120011,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1193120011,
+    "wof:lastmodified":1537677029,
+    "wof:name":"Watpi",
+    "wof:parent_id":1091703829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.68125,
+    -4.334,
+    152.68125,
+    -4.334
+],
+  "geometry": {"coordinates":[152.68125000000001,-4.334],"type":"Point"}
+}

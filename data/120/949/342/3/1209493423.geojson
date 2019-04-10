@@ -1,0 +1,61 @@
+{
+  "id": 1209493423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.65,-4.01667,143.65,-4.01667",
+    "geom:latitude":-4.01667,
+    "geom:longitude":143.65,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Charapa",
+    "gn:country_code":"PG",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098612,
+    "gn:latitude":-4.01667,
+    "gn:longitude":143.65,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Charapa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098612
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f34fbcabe1d51c172dba1e477d733b59",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209493423
+        }
+    ],
+    "wof:id":1209493423,
+    "wof:lastmodified":1536285413,
+    "wof:name":"Charapa",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.65,
+    -4.01667,
+    143.65,
+    -4.01667
+],
+  "geometry": {"coordinates":[143.65000000000001,-4.01667],"type":"Point"}
+}

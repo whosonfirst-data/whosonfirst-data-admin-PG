@@ -1,0 +1,72 @@
+{
+  "id": 1242980443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.45,-9.71667,147.45,-9.71667",
+    "geom:latitude":-9.71667,
+    "geom:longitude":147.45,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tavai",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085670,
+    "gn:latitude":-9.71667,
+    "gn:longitude":147.45,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tavai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tavai Numute",
+        "Tavai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091704253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085670
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"05121d4c7273521603d5ecb10fa3c7dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704253,
+            "locality_id":1242980443,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1242980443,
+    "wof:lastmodified":1537677049,
+    "wof:name":"Tavai",
+    "wof:parent_id":1091704253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.45,
+    -9.71667,
+    147.45,
+    -9.71667
+],
+  "geometry": {"coordinates":[147.44999999999999,-9.71667],"type":"Point"}
+}

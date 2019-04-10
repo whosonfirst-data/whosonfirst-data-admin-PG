@@ -1,0 +1,67 @@
+{
+  "id": 1226456175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.44155,-9.46456,147.44155,-9.46456",
+    "geom:latitude":-9.46456,
+    "geom:longitude":147.44155,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gurumunumu",
+    "gn:country_code":"PG",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096551,
+    "gn:latitude":-9.46456,
+    "gn:longitude":147.44155,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Gurumunumu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091702751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096551
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ceb44fe301d27a0e70519139749cd2b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702751,
+            "locality_id":1226456175,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1226456175,
+    "wof:lastmodified":1536628657,
+    "wof:name":"Gurumunumu",
+    "wof:parent_id":1091702751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.44155,
+    -9.46456,
+    147.44155,
+    -9.46456
+],
+  "geometry": {"coordinates":[147.44155000000001,-9.46456],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1310493395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"155.19722,-6.59167,155.19722,-6.59167",
+    "geom:latitude":-6.59167,
+    "geom:longitude":155.19722,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Totavi",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2113847,
+    "gn:latitude":-6.59167,
+    "gn:longitude":155.19722,
+    "gn:modification_date":"1997-02-21",
+    "gn:name":"Totavi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2113847
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"02f3b8599518f043262788dc14c04730",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310493395,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310493395,
+    "wof:lastmodified":1536935162,
+    "wof:name":"Totavi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    155.19722,
+    -6.59167,
+    155.19722,
+    -6.59167
+],
+  "geometry": {"coordinates":[155.19721999999999,-6.59167],"type":"Point"}
+}

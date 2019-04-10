@@ -1,0 +1,67 @@
+{
+  "id": 1310275929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.08822,-7.3758,146.08822,-7.3758",
+    "geom:latitude":-7.3758,
+    "geom:longitude":146.08822,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Yangaiya",
+    "gn:country_code":"PG",
+    "gn:dem":2017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8439783,
+    "gn:latitude":-7.3758,
+    "gn:longitude":146.08822,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Yangaiya",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8439783
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d14fc71c4a375fb8018ba25873e6a834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703633,
+            "locality_id":1310275929,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1310275929,
+    "wof:lastmodified":1536750555,
+    "wof:name":"Yangaiya",
+    "wof:parent_id":1091703633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.08822,
+    -7.3758,
+    146.08822,
+    -7.3758
+],
+  "geometry": {"coordinates":[146.08822000000001,-7.3758],"type":"Point"}
+}

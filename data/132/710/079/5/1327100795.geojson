@@ -1,0 +1,68 @@
+{
+  "id": 1327100795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.59055,-3.2417,142.59055,-3.2417",
+    "geom:latitude":-3.2417,
+    "geom:longitude":142.59055,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Paup",
+    "gn:country_code":"PG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088524,
+    "gn:latitude":-3.2417,
+    "gn:longitude":142.59055,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Paup",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paup Hamlets",
+        "Paup Group",
+        "Paup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088524
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a8a6a261f3f1804377f18afa5044dacf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1327100795,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327100795,
+    "wof:lastmodified":1537677076,
+    "wof:name":"Paup",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.59055,
+    -3.2417,
+    142.59055,
+    -3.2417
+],
+  "geometry": {"coordinates":[142.59055000000001,-3.2417],"type":"Point"}
+}

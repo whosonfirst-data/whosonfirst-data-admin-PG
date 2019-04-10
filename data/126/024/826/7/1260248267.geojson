@@ -1,0 +1,72 @@
+{
+  "id": 1260248267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.38333,-3.25,141.38333,-3.25",
+    "geom:latitude":-3.25,
+    "geom:longitude":141.38333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"New Fugumui",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089700,
+    "gn:latitude":-3.25,
+    "gn:longitude":141.38333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"New Fugumui",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fugumui",
+        "New Fugumui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091704901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089700
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"13561d7a28979123cbe1ccc42297d2f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704901,
+            "locality_id":1260248267,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1260248267,
+    "wof:lastmodified":1537677089,
+    "wof:name":"New Fugumui",
+    "wof:parent_id":1091704901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.38333,
+    -3.25,
+    141.38333,
+    -3.25
+],
+  "geometry": {"coordinates":[141.38333,-3.25],"type":"Point"}
+}

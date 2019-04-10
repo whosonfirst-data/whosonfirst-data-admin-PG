@@ -1,0 +1,65 @@
+{
+  "id": 1276759085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"154.58218,-5.03514,154.58218,-5.03514",
+    "geom:latitude":-5.03514,
+    "geom:longitude":154.58218,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Lemanmanu",
+    "gn:country_code":"PG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092426,
+    "gn:latitude":-5.03514,
+    "gn:longitude":154.58218,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lemanmanu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lemanmanu Mission",
+        "Lemanmanu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092426
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"11d76d9ec2bd0cbd71d4a65604307790",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276759085,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276759085,
+    "wof:lastmodified":1537677119,
+    "wof:name":"Lemanmanu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    154.58218,
+    -5.03514,
+    154.58218,
+    -5.03514
+],
+  "geometry": {"coordinates":[154.58217999999999,-5.03514],"type":"Point"}
+}

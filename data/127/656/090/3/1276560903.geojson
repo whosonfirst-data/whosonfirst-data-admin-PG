@@ -1,0 +1,73 @@
+{
+  "id": 1276560903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.62792,-7.32957,144.62792,-7.32957",
+    "geom:latitude":-7.32957,
+    "geom:longitude":144.62792,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tetehui",
+    "gn:country_code":"PG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085523,
+    "gn:latitude":-7.32957,
+    "gn:longitude":144.62792,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Tetehui",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oiti Hui",
+        "Tetenui",
+        "Sisu\u2019i",
+        "Tetehui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091703049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085523
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c5cfa73a3d8bf04e507235b72b130d6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703049,
+            "locality_id":1276560903,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1276560903,
+    "wof:lastmodified":1537677047,
+    "wof:name":"Tetehui",
+    "wof:parent_id":1091703049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.62792,
+    -7.32957,
+    144.62792,
+    -7.32957
+],
+  "geometry": {"coordinates":[144.62791999999999,-7.32957],"type":"Point"}
+}

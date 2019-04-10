@@ -1,0 +1,61 @@
+{
+  "id": 1209595587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.49068,-4.92939,144.49068,-4.92939",
+    "geom:latitude":-4.92939,
+    "geom:longitude":144.49068,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Gokto",
+    "gn:country_code":"PG",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096817,
+    "gn:latitude":-4.92939,
+    "gn:longitude":144.49068,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Gokto",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096817
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3642c4a281827e92c14bdfd07c7b8eba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209595587
+        }
+    ],
+    "wof:id":1209595587,
+    "wof:lastmodified":1536282335,
+    "wof:name":"Gokto",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.49068,
+    -4.92939,
+    144.49068,
+    -4.92939
+],
+  "geometry": {"coordinates":[144.49068,-4.92939],"type":"Point"}
+}

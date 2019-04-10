@@ -1,0 +1,67 @@
+{
+  "id": 1327008137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.72344,-3.68324,143.72344,-3.68324",
+    "geom:latitude":-3.68324,
+    "geom:longitude":143.72344,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mundungai",
+    "gn:country_code":"PG",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090286,
+    "gn:latitude":-3.68324,
+    "gn:longitude":143.72344,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Mundungai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090286
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3457c3302d8cc5bb88b3c99d02a56893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705089,
+            "locality_id":1327008137,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1327008137,
+    "wof:lastmodified":1536795786,
+    "wof:name":"Mundungai",
+    "wof:parent_id":1091705089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.72343999999995,
+    -3.68324,
+    143.72343999999995,
+    -3.68324
+],
+  "geometry": {"coordinates":[143.72343999999995,-3.68324],"type":"Point"}
+}

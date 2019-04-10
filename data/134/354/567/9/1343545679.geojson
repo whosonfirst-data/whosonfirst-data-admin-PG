@@ -1,0 +1,67 @@
+{
+  "id": 1343545679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.68333,-6.36667,145.68333,-6.36667",
+    "geom:latitude":-6.36667,
+    "geom:longitude":145.68333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Yababi",
+    "gn:country_code":"PG",
+    "gn:dem":1996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083248,
+    "gn:latitude":-6.36667,
+    "gn:longitude":145.68333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Yababi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091702711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083248
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"96a7a0808fc1481d2438877861a3f892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702711,
+            "locality_id":1343545679,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1343545679,
+    "wof:lastmodified":1536621238,
+    "wof:name":"Yababi",
+    "wof:parent_id":1091702711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.68333,
+    -6.36667,
+    145.68333,
+    -6.36667
+],
+  "geometry": {"coordinates":[145.68333000000001,-6.36667],"type":"Point"}
+}

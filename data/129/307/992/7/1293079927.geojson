@@ -1,0 +1,67 @@
+{
+  "id": 1293079927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.33045,-6.38611,147.33045,-6.38611",
+    "geom:latitude":-6.38611,
+    "geom:longitude":147.33045,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Nomanene",
+    "gn:country_code":"PG",
+    "gn:dem":2086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089538,
+    "gn:latitude":-6.38611,
+    "gn:longitude":147.33045,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Nomanene",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089538
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"fd62e900cc0880823bcd62bf586f1548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702351,
+            "locality_id":1293079927,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1293079927,
+    "wof:lastmodified":1536876862,
+    "wof:name":"Nomanene",
+    "wof:parent_id":1091702351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.33045,
+    -6.38611,
+    147.33045,
+    -6.38611
+],
+  "geometry": {"coordinates":[147.33045000000001,-6.38611],"type":"Point"}
+}

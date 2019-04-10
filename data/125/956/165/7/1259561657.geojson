@@ -1,0 +1,67 @@
+{
+  "id": 1259561657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.62327,-3.62932,143.62327,-3.62932",
+    "geom:latitude":-3.62932,
+    "geom:longitude":143.62327,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Simblangu",
+    "gn:country_code":"PG",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086683,
+    "gn:latitude":-3.62932,
+    "gn:longitude":143.62327,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Simblangu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086683
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8bbfb72a4d35e21a0ca58b54eead4664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705089,
+            "locality_id":1259561657,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1259561657,
+    "wof:lastmodified":1536746066,
+    "wof:name":"Simblangu",
+    "wof:parent_id":1091705089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.62327,
+    -3.62932,
+    143.62327,
+    -3.62932
+],
+  "geometry": {"coordinates":[143.62326999999999,-3.62932],"type":"Point"}
+}

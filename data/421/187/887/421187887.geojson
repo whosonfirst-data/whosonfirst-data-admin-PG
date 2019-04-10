@@ -1,0 +1,94 @@
+{
+  "id": 421187887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.84485,-4.23653,142.84485,-4.23653",
+    "geom:latitude":-4.23653,
+    "geom:longitude":142.84485,
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Ambunti"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0645\u0628\u0648\u0646\u062a\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0431\u0443\u043d\u0442\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043c\u0431\u0443\u043d\u0442\u0456"
+    ],
+    "qs:gn_country":"PG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2100933,
+    "qs:gn_pop":2073,
+    "qs:name":"Ambunti",
+    "qs:name_adm0":"Papua New Guinea",
+    "qs:name_adm1":"East Sepik",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1086685,
+    "qs:woe_adm0":23424926,
+    "qs:woe_id":1061448,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100933,
+        "gp:id":1061448,
+        "qs:id":1086685,
+        "wd:id":"Q1280490",
+        "wk:page":"Ambunti"
+    },
+    "wof:country":"PG",
+    "wof:created":1459009527,
+    "wof:geomhash":"0f4a497ecab4eb5d2baf92467c7aef28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702053,
+            "locality_id":421187887,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":421187887,
+    "wof:lastmodified":1527716245,
+    "wof:name":"Ambunti",
+    "wof:parent_id":1091702053,
+    "wof:placetype":"locality",
+    "wof:population":2073,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.84485,
+    -4.23653,
+    142.84485,
+    -4.23653
+],
+  "geometry": {"coordinates":[142.84485000000001,-4.23653],"type":"Point"}
+}

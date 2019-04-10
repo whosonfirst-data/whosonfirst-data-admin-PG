@@ -1,0 +1,71 @@
+{
+  "id": 1293452941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.04584,-3.56409,142.04584,-3.56409",
+    "geom:latitude":-3.56409,
+    "geom:longitude":142.04584,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Weteili",
+    "gn:country_code":"PG",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083539,
+    "gn:latitude":-3.56409,
+    "gn:longitude":142.04584,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Weteili",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wetali",
+        "Weteili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091704057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083539
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"bb819cc5528d3340c1be9b0c293b7a27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704057,
+            "locality_id":1293452941,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1293452941,
+    "wof:lastmodified":1537677027,
+    "wof:name":"Weteili",
+    "wof:parent_id":1091704057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.04584,
+    -3.56409,
+    142.04584,
+    -3.56409
+],
+  "geometry": {"coordinates":[142.04584,-3.56409],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1309701331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.45521,-4.23014,152.45521,-4.23014",
+    "geom:latitude":-4.23014,
+    "geom:longitude":152.45521,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Palpal",
+    "gn:country_code":"PG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088731,
+    "gn:latitude":-4.23014,
+    "gn:longitude":152.45521,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Palpal",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088731
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8eea97b770dee7691d8a36994afcea8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1309701331,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309701331,
+    "wof:lastmodified":1537078627,
+    "wof:name":"Palpal",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.45521000000005,
+    -4.23014,
+    152.45521000000005,
+    -4.23014
+],
+  "geometry": {"coordinates":[152.45521000000005,-4.23014],"type":"Point"}
+}

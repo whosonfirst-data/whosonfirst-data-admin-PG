@@ -1,0 +1,67 @@
+{
+  "id": 1293280347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.41555,-4.0661,142.41555,-4.0661",
+    "geom:latitude":-4.0661,
+    "geom:longitude":142.41555,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Alakai",
+    "gn:country_code":"PG",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101063,
+    "gn:latitude":-4.0661,
+    "gn:longitude":142.41555,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Alakai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101063
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"754d724e3bf47248f51047b48e2855cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702053,
+            "locality_id":1293280347,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1293280347,
+    "wof:lastmodified":1537082491,
+    "wof:name":"Alakai",
+    "wof:parent_id":1091702053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.41555,
+    -4.0661,
+    142.41555,
+    -4.0661
+],
+  "geometry": {"coordinates":[142.41555,-4.0661],"type":"Point"}
+}

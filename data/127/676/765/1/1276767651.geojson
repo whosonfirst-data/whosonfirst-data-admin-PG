@@ -1,0 +1,70 @@
+{
+  "id": 1276767651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.30912,-6.35963,143.30912,-6.35963",
+    "geom:latitude":-6.35963,
+    "geom:longitude":143.30912,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Inu",
+    "gn:country_code":"PG",
+    "gn:dem":857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095561,
+    "gn:latitude":-6.35963,
+    "gn:longitude":143.30912,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Inu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Inu Mission"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091703941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095561
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e44c16589b05492855d762f859e32322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703941,
+            "locality_id":1276767651,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1276767651,
+    "wof:lastmodified":1537677155,
+    "wof:name":"Inu",
+    "wof:parent_id":1091703941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.30912,
+    -6.35963,
+    143.30912,
+    -6.35963
+],
+  "geometry": {"coordinates":[143.30912000000001,-6.35963],"type":"Point"}
+}

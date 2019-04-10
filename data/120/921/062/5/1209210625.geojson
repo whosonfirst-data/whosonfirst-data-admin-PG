@@ -1,0 +1,61 @@
+{
+  "id": 1209210625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.25,-6.23333,145.25,-6.23333",
+    "geom:latitude":-6.23333,
+    "geom:longitude":145.25,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kuamu",
+    "gn:country_code":"PG",
+    "gn:dem":1626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093287,
+    "gn:latitude":-6.23333,
+    "gn:longitude":145.25,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kuamu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093287
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"cd3ee065f6ea2bc5ee7e3714dc51f8bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209210625
+        }
+    ],
+    "wof:id":1209210625,
+    "wof:lastmodified":1536294303,
+    "wof:name":"Kuamu",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.25,
+    -6.2333300000000005,
+    145.25,
+    -6.2333300000000005
+],
+  "geometry": {"coordinates":[145.25,-6.23333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292995117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.25,-6.48333,145.25,-6.48333",
+    "geom:latitude":-6.48333,
+    "geom:longitude":145.25,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Biomote",
+    "gn:country_code":"PG",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099434,
+    "gn:latitude":-6.48333,
+    "gn:longitude":145.25,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Biomote",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091703417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099434
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2898b66b3848b2a758d1e57f6b49670d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703417,
+            "locality_id":1292995117,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1292995117,
+    "wof:lastmodified":1536999133,
+    "wof:name":"Biomote",
+    "wof:parent_id":1091703417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.25,
+    -6.48333,
+    145.25,
+    -6.48333
+],
+  "geometry": {"coordinates":[145.25,-6.48333],"type":"Point"}
+}

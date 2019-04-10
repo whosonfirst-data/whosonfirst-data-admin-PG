@@ -1,0 +1,73 @@
+{
+  "id": 1310285177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.66667,-4.76667,145.66667,-4.76667",
+    "geom:latitude":-4.76667,
+    "geom:longitude":145.66667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Karkum",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094546,
+    "gn:latitude":-4.76667,
+    "gn:longitude":145.66667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Karkum",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haranap",
+        "Karakum",
+        "Karkum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094546
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"db8f1c7515098e5698f183bf9a4f349e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704517,
+            "locality_id":1310285177,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1310285177,
+    "wof:lastmodified":1537677143,
+    "wof:name":"Karkum",
+    "wof:parent_id":1091704517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.66666999999995,
+    -4.76667,
+    145.66666999999995,
+    -4.76667
+],
+  "geometry": {"coordinates":[145.66666999999995,-4.76667],"type":"Point"}
+}

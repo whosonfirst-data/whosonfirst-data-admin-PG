@@ -1,0 +1,67 @@
+{
+  "id": 1293263121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.97109,-5.9919,146.97109,-5.9919",
+    "geom:latitude":-5.9919,
+    "geom:longitude":146.97109,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Siang",
+    "gn:country_code":"PG",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086824,
+    "gn:latitude":-5.9919,
+    "gn:longitude":146.97109,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Siang",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091704719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086824
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9688dbac345fedd883fe2c73eab53f9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704719,
+            "locality_id":1293263121,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1293263121,
+    "wof:lastmodified":1536610981,
+    "wof:name":"Siang",
+    "wof:parent_id":1091704719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.97109,
+    -5.9919,
+    146.97109,
+    -5.9919
+],
+  "geometry": {"coordinates":[146.97109,-5.9919],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293511893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.22921,-5.27379,141.22921,-5.27379",
+    "geom:latitude":-5.27379,
+    "geom:longitude":141.22921,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"9855465",
+    "gn:asciiname":"Tabubil",
+    "gn:country_code":"PG",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8520810,
+    "gn:latitude":-5.27379,
+    "gn:longitude":141.22921,
+    "gn:modification_date":"2017-06-11",
+    "gn:name":"Tabubil",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tabubil"
+    ],
+    "name:fra_x_preferred":[
+        "Tabubil"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u5e03\u6bd4\u723e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8520810,
+        "wk:page":"Tabubil"
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0100a4dee746bdd18a305171b270e12f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1293511893,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1293511893,
+    "wof:lastmodified":1537677228,
+    "wof:name":"Tabubil",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.22921000000005,
+    -5.27379,
+    141.22921000000005,
+    -5.27379
+],
+  "geometry": {"coordinates":[141.22921000000005,-5.27379],"type":"Point"}
+}

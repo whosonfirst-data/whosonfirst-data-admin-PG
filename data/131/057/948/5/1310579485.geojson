@@ -1,0 +1,67 @@
+{
+  "id": 1310579485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.43084,-3.91568,143.43084,-3.91568",
+    "geom:latitude":-3.91568,
+    "geom:longitude":143.43084,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Peringa",
+    "gn:country_code":"PG",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088430,
+    "gn:latitude":-3.91568,
+    "gn:longitude":143.43084,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Peringa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088430
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8e1b6722b68cf6313c550cfc12e8fb96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705179,
+            "locality_id":1310579485,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1310579485,
+    "wof:lastmodified":1536809835,
+    "wof:name":"Peringa",
+    "wof:parent_id":1091705179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.43084,
+    -3.91568,
+    143.43084,
+    -3.91568
+],
+  "geometry": {"coordinates":[143.43083999999999,-3.91568],"type":"Point"}
+}

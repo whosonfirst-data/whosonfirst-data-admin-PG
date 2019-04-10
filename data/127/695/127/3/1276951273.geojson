@@ -1,0 +1,67 @@
+{
+  "id": 1276951273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.43333,-2.51667,150.43333,-2.51667",
+    "geom:latitude":-2.51667,
+    "geom:longitude":150.43333,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Atle",
+    "gn:country_code":"PG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100395,
+    "gn:latitude":-2.51667,
+    "gn:longitude":150.43333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Atle",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091702917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100395
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d38b29c457817c6b1b53f5ff3fde07d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702917,
+            "locality_id":1276951273,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1276951273,
+    "wof:lastmodified":1536946101,
+    "wof:name":"Atle",
+    "wof:parent_id":1091702917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.43333,
+    -2.51667,
+    150.43333,
+    -2.51667
+],
+  "geometry": {"coordinates":[150.43333000000001,-2.51667],"type":"Point"}
+}

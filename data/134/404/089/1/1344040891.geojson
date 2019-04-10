@@ -1,0 +1,67 @@
+{
+  "id": 1344040891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.6,-7.05,146.6,-7.05",
+    "geom:latitude":-7.05,
+    "geom:longitude":146.6,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Bangalum Bridge",
+    "gn:country_code":"PG",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099922,
+    "gn:latitude":-7.05,
+    "gn:longitude":146.6,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Bangalum Bridge",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099922
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"09ca52b89c86271b6dd3e84962a25f54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702091,
+            "locality_id":1344040891,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1344040891,
+    "wof:lastmodified":1536904049,
+    "wof:name":"Bangalum Bridge",
+    "wof:parent_id":1091702091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.6,
+    -7.05,
+    146.6,
+    -7.05
+],
+  "geometry": {"coordinates":[146.59999999999999,-7.05],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276294863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.44869,-2.7457,141.44869,-2.7457",
+    "geom:latitude":-2.7457,
+    "geom:longitude":141.44869,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Ningera",
+    "gn:country_code":"PG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089600,
+    "gn:latitude":-2.7457,
+    "gn:longitude":141.44869,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ningera",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Negira Villages",
+        "Negira",
+        "Ningera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091704901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089600
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8587170b14bd23a7fcbf581ea8548f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704901,
+            "locality_id":1276294863,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1276294863,
+    "wof:lastmodified":1537677088,
+    "wof:name":"Ningera",
+    "wof:parent_id":1091704901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.44869,
+    -2.7457,
+    141.44869,
+    -2.7457
+],
+  "geometry": {"coordinates":[141.44869,-2.7457],"type":"Point"}
+}

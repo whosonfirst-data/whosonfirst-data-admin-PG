@@ -1,0 +1,67 @@
+{
+  "id": 1343941345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.94677,-7.7159,146.94677,-7.7159",
+    "geom:latitude":-7.7159,
+    "geom:longitude":146.94677,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Wisi",
+    "gn:country_code":"PG",
+    "gn:dem":1630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083444,
+    "gn:latitude":-7.7159,
+    "gn:longitude":146.94677,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Wisi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083444
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e6c2e22bae65b062f855ad8f90fc2119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702091,
+            "locality_id":1343941345,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1343941345,
+    "wof:lastmodified":1537045747,
+    "wof:name":"Wisi",
+    "wof:parent_id":1091702091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.94677,
+    -7.7159,
+    146.94677,
+    -7.7159
+],
+  "geometry": {"coordinates":[146.94676999999999,-7.7159],"type":"Point"}
+}

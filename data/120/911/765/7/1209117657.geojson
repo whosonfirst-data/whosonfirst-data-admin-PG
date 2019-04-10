@@ -1,0 +1,61 @@
+{
+  "id": 1209117657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.0,-10.63333,151.0,-10.63333",
+    "geom:latitude":-10.63333,
+    "geom:longitude":151.0,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Gelahamutuna",
+    "gn:country_code":"PG",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133514,
+    "gn:latitude":-10.63333,
+    "gn:longitude":151.0,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Gelahamutuna",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133514
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1eaefe783ff37ea64801c0175ba68bab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209117657
+        }
+    ],
+    "wof:id":1209117657,
+    "wof:lastmodified":1536297205,
+    "wof:name":"Gelahamutuna",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.0,
+    -10.63333,
+    151.0,
+    -10.63333
+],
+  "geometry": {"coordinates":[151.0,-10.63333],"type":"Point"}
+}

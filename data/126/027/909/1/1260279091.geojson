@@ -1,0 +1,72 @@
+{
+  "id": 1260279091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.85294,-5.89859,144.85294,-5.89859",
+    "geom:latitude":-5.89859,
+    "geom:longitude":144.85294,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kerowagi",
+    "gn:country_code":"PG",
+    "gn:dem":1637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094125,
+    "gn:latitude":-5.89859,
+    "gn:longitude":144.85294,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kerowagi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Korowagi",
+        "Kerowagi Mission",
+        "Kerowagi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091703003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094125
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"38753e66973d3ffa5d0dfd40ddda5d54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703003,
+            "locality_id":1260279091,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1260279091,
+    "wof:lastmodified":1537677139,
+    "wof:name":"Kerowagi",
+    "wof:parent_id":1091703003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.85294,
+    -5.89859,
+    144.85294,
+    -5.89859
+],
+  "geometry": {"coordinates":[144.85293999999999,-5.89859],"type":"Point"}
+}

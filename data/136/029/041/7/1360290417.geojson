@@ -1,0 +1,67 @@
+{
+  "id": 1360290417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.08954,-6.23973,143.08954,-6.23973",
+    "geom:latitude":-6.23973,
+    "geom:longitude":143.08954,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Homa",
+    "gn:country_code":"PG",
+    "gn:dem":1160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096080,
+    "gn:latitude":-6.23973,
+    "gn:longitude":143.08954,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Homa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        1108805615,
+        1091703179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096080
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"5a3d032a0b454a2ea207e1d750ccb6f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703179,
+            "locality_id":1360290417,
+            "region_id":1108805615
+        }
+    ],
+    "wof:id":1360290417,
+    "wof:lastmodified":1536649091,
+    "wof:name":"Homa",
+    "wof:parent_id":1091703179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.08954,
+    -6.23973,
+    143.08954,
+    -6.23973
+],
+  "geometry": {"coordinates":[143.08954,-6.23973],"type":"Point"}
+}

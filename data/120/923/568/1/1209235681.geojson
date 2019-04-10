@@ -1,0 +1,61 @@
+{
+  "id": 1209235681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"155.65034,-6.80137,155.65034,-6.80137",
+    "geom:latitude":-6.80137,
+    "geom:longitude":155.65034,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Laguai",
+    "gn:country_code":"PG",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092715,
+    "gn:latitude":-6.80137,
+    "gn:longitude":155.65034,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Laguai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092715
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d0e4f3948af8206eef2afc91d58524c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209235681
+        }
+    ],
+    "wof:id":1209235681,
+    "wof:lastmodified":1536293490,
+    "wof:name":"Laguai",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    155.65034,
+    -6.80137,
+    155.65034,
+    -6.80137
+],
+  "geometry": {"coordinates":[155.65034,-6.80137],"type":"Point"}
+}

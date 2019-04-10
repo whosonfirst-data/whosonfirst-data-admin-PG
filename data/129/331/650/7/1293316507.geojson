@@ -1,0 +1,67 @@
+{
+  "id": 1293316507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.06667,-9.18333,148.06667,-9.18333",
+    "geom:latitude":-9.18333,
+    "geom:longitude":148.06667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Duau",
+    "gn:country_code":"PG",
+    "gn:dem":1255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097960,
+    "gn:latitude":-9.18333,
+    "gn:longitude":148.06667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Duau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091704393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097960
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9f5dc33696b6d53c7ce4f44e68306457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704393,
+            "locality_id":1293316507,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1293316507,
+    "wof:lastmodified":1537032154,
+    "wof:name":"Duau",
+    "wof:parent_id":1091704393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.06667,
+    -9.18333,
+    148.06667,
+    -9.18333
+],
+  "geometry": {"coordinates":[148.06666999999999,-9.18333],"type":"Point"}
+}

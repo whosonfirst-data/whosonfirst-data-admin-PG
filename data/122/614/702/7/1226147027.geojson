@@ -1,0 +1,73 @@
+{
+  "id": 1226147027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.77361,-9.04798,146.77361,-9.04798",
+    "geom:latitude":-9.04798,
+    "geom:longitude":146.77361,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2096826",
+    "gn:asciiname":"Hisiu",
+    "gn:country_code":"PG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096121,
+    "gn:latitude":-9.04798,
+    "gn:longitude":146.77361,
+    "gn:modification_date":"2015-04-20",
+    "gn:name":"Hisiu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Isiu",
+        "Hisiu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091702751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096121,
+        "wk:page":"Hisiu"
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9593d158424ba4bba318c0f0ebd04c9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702751,
+            "locality_id":1226147027,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1226147027,
+    "wof:lastmodified":1537677161,
+    "wof:name":"Hisiu",
+    "wof:parent_id":1091702751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.77361000000005,
+    -9.04798,
+    146.77361000000005,
+    -9.04798
+],
+  "geometry": {"coordinates":[146.77361000000005,-9.04798],"type":"Point"}
+}

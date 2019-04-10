@@ -1,0 +1,67 @@
+{
+  "id": 1343727739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.85202,-5.70768,143.85202,-5.70768",
+    "geom:latitude":-5.70768,
+    "geom:longitude":143.85202,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Lajeasa",
+    "gn:country_code":"PG",
+    "gn:dem":2119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092691,
+    "gn:latitude":-5.70768,
+    "gn:longitude":143.85202,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Lajeasa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676513,
+        1091705055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092691
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a0cd52335a4c6e8d8c65c685df77338c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705055,
+            "locality_id":1343727739,
+            "region_id":85676513
+        }
+    ],
+    "wof:id":1343727739,
+    "wof:lastmodified":1536856923,
+    "wof:name":"Lajeasa",
+    "wof:parent_id":1091705055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.85201999999995,
+    -5.70768,
+    143.85201999999995,
+    -5.70768
+],
+  "geometry": {"coordinates":[143.85201999999995,-5.70768],"type":"Point"}
+}

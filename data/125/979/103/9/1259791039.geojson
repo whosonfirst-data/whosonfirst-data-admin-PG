@@ -1,0 +1,67 @@
+{
+  "id": 1259791039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.933,-9.75,149.933,-9.75",
+    "geom:latitude":-9.75,
+    "geom:longitude":149.933,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Poralebalebara",
+    "gn:country_code":"PG",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088152,
+    "gn:latitude":-9.75,
+    "gn:longitude":149.933,
+    "gn:modification_date":"2014-08-19",
+    "gn:name":"Poralebalebara",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088152
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"28cfef92883afd788db1c59e2912ce88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702001,
+            "locality_id":1259791039,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1259791039,
+    "wof:lastmodified":1536912628,
+    "wof:name":"Poralebalebara",
+    "wof:parent_id":1091702001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.933,
+    -9.75,
+    149.933,
+    -9.75
+],
+  "geometry": {"coordinates":[149.93299999999999,-9.75],"type":"Point"}
+}

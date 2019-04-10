@@ -1,0 +1,67 @@
+{
+  "id": 1209788851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"153.65,-4.06667,153.65,-4.06667",
+    "geom:latitude":-4.06667,
+    "geom:longitude":153.65,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Pauna",
+    "gn:country_code":"PG",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088526,
+    "gn:latitude":-4.06667,
+    "gn:longitude":153.65,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Pauna",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091703829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088526
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"5f7d01d02366048181daa4e4cff18608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703829,
+            "locality_id":1209788851,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1209788851,
+    "wof:lastmodified":1536395939,
+    "wof:name":"Pauna",
+    "wof:parent_id":1091703829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    153.65,
+    -4.06667,
+    153.65,
+    -4.06667
+],
+  "geometry": {"coordinates":[153.65000000000001,-4.06667],"type":"Point"}
+}

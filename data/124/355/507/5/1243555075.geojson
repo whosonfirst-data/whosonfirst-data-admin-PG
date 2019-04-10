@@ -1,0 +1,67 @@
+{
+  "id": 1243555075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.04978,-9.15385,148.04978,-9.15385",
+    "geom:latitude":-9.15385,
+    "geom:longitude":148.04978,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Awoma",
+    "gn:country_code":"PG",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100193,
+    "gn:latitude":-9.15385,
+    "gn:longitude":148.04978,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Awoma",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091704393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100193
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8919f0e8d1122f5dba0d6f7e9facbbba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704393,
+            "locality_id":1243555075,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1243555075,
+    "wof:lastmodified":1536648664,
+    "wof:name":"Awoma",
+    "wof:parent_id":1091704393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.04978,
+    -9.15385,
+    148.04978,
+    -9.15385
+],
+  "geometry": {"coordinates":[148.04978,-9.15385],"type":"Point"}
+}

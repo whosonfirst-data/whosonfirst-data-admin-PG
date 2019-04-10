@@ -1,0 +1,67 @@
+{
+  "id": 1293892271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.95,-7.38333,143.95,-7.38333",
+    "geom:latitude":-7.38333,
+    "geom:longitude":143.95,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Iba",
+    "gn:country_code":"PG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095850,
+    "gn:latitude":-7.38333,
+    "gn:longitude":143.95,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Iba",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091703049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095850
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"28f396acf0caecda7d8030edd1786d72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703049,
+            "locality_id":1293892271,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1293892271,
+    "wof:lastmodified":1536700896,
+    "wof:name":"Iba",
+    "wof:parent_id":1091703049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.95,
+    -7.38333,
+    143.95,
+    -7.38333
+],
+  "geometry": {"coordinates":[143.94999999999999,-7.38333],"type":"Point"}
+}

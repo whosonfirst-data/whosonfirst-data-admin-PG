@@ -1,0 +1,67 @@
+{
+  "id": 1209699231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.12041,-6.3944,146.12041,-6.3944",
+    "geom:latitude":-6.3944,
+    "geom:longitude":146.12041,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Omisuan",
+    "gn:country_code":"PG",
+    "gn:dem":1005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089101,
+    "gn:latitude":-6.3944,
+    "gn:longitude":146.12041,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Omisuan",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089101
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ca9ac72ed41a3a284e2135e07b9e4d54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703565,
+            "locality_id":1209699231,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1209699231,
+    "wof:lastmodified":1536395735,
+    "wof:name":"Omisuan",
+    "wof:parent_id":1091703565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.12041000000005,
+    -6.3944,
+    146.12041000000005,
+    -6.3944
+],
+  "geometry": {"coordinates":[146.12041000000005,-6.3944],"type":"Point"}
+}

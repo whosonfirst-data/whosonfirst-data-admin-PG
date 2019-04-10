@@ -1,0 +1,67 @@
+{
+  "id": 1293296737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.73614,-9.66548,147.73614,-9.66548",
+    "geom:latitude":-9.66548,
+    "geom:longitude":147.73614,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gegofi",
+    "gn:country_code":"PG",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097066,
+    "gn:latitude":-9.66548,
+    "gn:longitude":147.73614,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Gegofi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091704253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097066
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e34c0eaa76cf0a7c0a97df1a89304dab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704253,
+            "locality_id":1293296737,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1293296737,
+    "wof:lastmodified":1537059380,
+    "wof:name":"Gegofi",
+    "wof:parent_id":1091704253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.73613999999995,
+    -9.66548,
+    147.73613999999995,
+    -9.66548
+],
+  "geometry": {"coordinates":[147.73613999999995,-9.66548],"type":"Point"}
+}

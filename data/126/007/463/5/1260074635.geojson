@@ -1,0 +1,67 @@
+{
+  "id": 1260074635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.35292,-6.28339,145.35292,-6.28339",
+    "geom:latitude":-6.28339,
+    "geom:longitude":145.35292,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Keifile",
+    "gn:country_code":"PG",
+    "gn:dem":1973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094267,
+    "gn:latitude":-6.28339,
+    "gn:longitude":145.35292,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Keifile",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091703417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094267
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ce7e90ea800bb8340b7b5a7250e58d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703417,
+            "locality_id":1260074635,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1260074635,
+    "wof:lastmodified":1537000057,
+    "wof:name":"Keifile",
+    "wof:parent_id":1091703417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.35291999999995,
+    -6.28339,
+    145.35291999999995,
+    -6.28339
+],
+  "geometry": {"coordinates":[145.35291999999995,-6.28339],"type":"Point"}
+}

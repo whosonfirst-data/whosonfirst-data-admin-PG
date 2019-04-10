@@ -1,0 +1,71 @@
+{
+  "id": 1326506613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.95897,-2.20335,146.95897,-2.20335",
+    "geom:latitude":-2.20335,
+    "geom:longitude":146.95897,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Bohuai Number 2",
+    "gn:country_code":"PG",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099261,
+    "gn:latitude":-2.20335,
+    "gn:longitude":146.95897,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bohuai Number 2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bohuai 2",
+        "Bohuai Number 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676569,
+        1091703475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099261
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ddfd9ba27c9d424089d69f14bfe0ce29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703475,
+            "locality_id":1326506613,
+            "region_id":85676569
+        }
+    ],
+    "wof:id":1326506613,
+    "wof:lastmodified":1537677194,
+    "wof:name":"Bohuai Number 2",
+    "wof:parent_id":1091703475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.95897,
+    -2.20335,
+    146.95897,
+    -2.20335
+],
+  "geometry": {"coordinates":[146.95896999999999,-2.20335],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292979829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.25763,-6.20491,147.25763,-6.20491",
+    "geom:latitude":-6.20491,
+    "geom:longitude":147.25763,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kopa",
+    "gn:country_code":"PG",
+    "gn:dem":1629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093477,
+    "gn:latitude":-6.20491,
+    "gn:longitude":147.25763,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kopa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093477
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"fc06b9eb0ce82f00de3e93e2dda6e110",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702647,
+            "locality_id":1292979829,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1292979829,
+    "wof:lastmodified":1537020962,
+    "wof:name":"Kopa",
+    "wof:parent_id":1091702647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.25763,
+    -6.20491,
+    147.25763,
+    -6.20491
+],
+  "geometry": {"coordinates":[147.25763000000001,-6.20491],"type":"Point"}
+}

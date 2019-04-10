@@ -1,0 +1,67 @@
+{
+  "id": 1277165379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.69714,-3.8442,143.69714,-3.8442",
+    "geom:latitude":-3.8442,
+    "geom:longitude":143.69714,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Yari",
+    "gn:country_code":"PG",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083049,
+    "gn:latitude":-3.8442,
+    "gn:longitude":143.69714,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Yari",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083049
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"dcc4a2d525c8cc5b6bf340070f42ed19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705179,
+            "locality_id":1277165379,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1277165379,
+    "wof:lastmodified":1536648224,
+    "wof:name":"Yari",
+    "wof:parent_id":1091705179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.69714,
+    -3.8442,
+    143.69714,
+    -3.8442
+],
+  "geometry": {"coordinates":[143.69713999999999,-3.8442],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1276130227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.9,-9.76667,149.9,-9.76667",
+    "geom:latitude":-9.76667,
+    "geom:longitude":149.9,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Gurewa",
+    "gn:country_code":"PG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096576,
+    "gn:latitude":-9.76667,
+    "gn:longitude":149.9,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Gurewa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096576
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"67c433fa818f17d55056d422574cb12a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1276130227,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276130227,
+    "wof:lastmodified":1537048659,
+    "wof:name":"Gurewa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.9,
+    -9.76667,
+    149.9,
+    -9.76667
+],
+  "geometry": {"coordinates":[149.90000000000001,-9.76667],"type":"Point"}
+}

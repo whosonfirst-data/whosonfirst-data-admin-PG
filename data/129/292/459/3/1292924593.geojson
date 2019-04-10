@@ -1,0 +1,67 @@
+{
+  "id": 1292924593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.2667,-6.3455,145.2667,-6.3455",
+    "geom:latitude":-6.3455,
+    "geom:longitude":145.2667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kiosa",
+    "gn:country_code":"PG",
+    "gn:dem":1947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093907,
+    "gn:latitude":-6.3455,
+    "gn:longitude":145.2667,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kiosa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091703417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093907
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ea3c90c6860361b016f5a5feccf3b467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703417,
+            "locality_id":1292924593,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1292924593,
+    "wof:lastmodified":1536601278,
+    "wof:name":"Kiosa",
+    "wof:parent_id":1091703417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.2667,
+    -6.3455,
+    145.2667,
+    -6.3455
+],
+  "geometry": {"coordinates":[145.26669999999999,-6.3455],"type":"Point"}
+}

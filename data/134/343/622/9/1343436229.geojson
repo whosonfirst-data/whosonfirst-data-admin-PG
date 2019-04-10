@@ -1,0 +1,67 @@
+{
+  "id": 1343436229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.98507,-5.43361,142.98507,-5.43361",
+    "geom:latitude":-5.43361,
+    "geom:longitude":142.98507,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Pundami",
+    "gn:country_code":"PG",
+    "gn:dem":2071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8528038,
+    "gn:latitude":-5.43361,
+    "gn:longitude":142.98507,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Pundami",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676513,
+        1091703371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8528038
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ad60124f39bc827ba55b881cd07d2c1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703371,
+            "locality_id":1343436229,
+            "region_id":85676513
+        }
+    ],
+    "wof:id":1343436229,
+    "wof:lastmodified":1536781775,
+    "wof:name":"Pundami",
+    "wof:parent_id":1091703371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.98507,
+    -5.43361,
+    142.98507,
+    -5.43361
+],
+  "geometry": {"coordinates":[142.98507000000001,-5.43361],"type":"Point"}
+}

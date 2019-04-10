@@ -1,0 +1,72 @@
+{
+  "id": 1344078983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.56667,-5.96667,141.56667,-5.96667",
+    "geom:latitude":-5.96667,
+    "geom:longitude":141.56667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Urime",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084571,
+    "gn:latitude":-5.96667,
+    "gn:longitude":141.56667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Urime",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Urme",
+        "Urime"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084571
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f5b5c98a08831e4df309727b7e648aa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1344078983,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1344078983,
+    "wof:lastmodified":1537677038,
+    "wof:name":"Urime",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.56667,
+    -5.96667,
+    141.56667,
+    -5.96667
+],
+  "geometry": {"coordinates":[141.56666999999999,-5.96667],"type":"Point"}
+}

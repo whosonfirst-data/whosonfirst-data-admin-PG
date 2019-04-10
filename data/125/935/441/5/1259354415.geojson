@@ -1,0 +1,67 @@
+{
+  "id": 1259354415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.3337,-2.39127,147.3337,-2.39127",
+    "geom:latitude":-2.39127,
+    "geom:longitude":147.3337,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Solang",
+    "gn:country_code":"PG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086427,
+    "gn:latitude":-2.39127,
+    "gn:longitude":147.3337,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Solang",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676569,
+        1091703475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086427
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"fa815ea73a11d6e0d75ee112a0858bca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703475,
+            "locality_id":1259354415,
+            "region_id":85676569
+        }
+    ],
+    "wof:id":1259354415,
+    "wof:lastmodified":1537042426,
+    "wof:name":"Solang",
+    "wof:parent_id":1091703475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.3337,
+    -2.39127,
+    147.3337,
+    -2.39127
+],
+  "geometry": {"coordinates":[147.33369999999999,-2.39127],"type":"Point"}
+}

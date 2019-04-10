@@ -1,0 +1,66 @@
+{
+  "id": 1327450219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.41313,-9.67636,147.41313,-9.67636",
+    "geom:latitude":-9.67636,
+    "geom:longitude":147.41313,
+    "gn:asciiname":"Gaire No 1",
+    "gn:country_code":"PG",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9485492,
+    "gn:latitude":-9.67636,
+    "gn:longitude":147.41313,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Gaire No 1",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091702751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9485492
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9abbc72b6a2661e0061c335928a641be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702751,
+            "locality_id":1327450219,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1327450219,
+    "wof:lastmodified":1536655026,
+    "wof:name":"Gaire No 1",
+    "wof:parent_id":1091702751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.41313,
+    -9.67636,
+    147.41313,
+    -9.67636
+],
+  "geometry": {"coordinates":[147.41313,-9.67636],"type":"Point"}
+}

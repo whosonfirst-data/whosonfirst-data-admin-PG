@@ -1,0 +1,67 @@
+{
+  "id": 1276131551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.18333,-7.88333,146.18333,-7.88333",
+    "geom:latitude":-7.88333,
+    "geom:longitude":146.18333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nenamo",
+    "gn:country_code":"PG",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089742,
+    "gn:latitude":-7.88333,
+    "gn:longitude":146.18333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Nenamo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091702955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089742
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b462df65cb4e680779e9f81c5a2bdede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702955,
+            "locality_id":1276131551,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1276131551,
+    "wof:lastmodified":1537046975,
+    "wof:name":"Nenamo",
+    "wof:parent_id":1091702955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.18333,
+    -7.88333,
+    146.18333,
+    -7.88333
+],
+  "geometry": {"coordinates":[146.18333000000001,-7.88333],"type":"Point"}
+}

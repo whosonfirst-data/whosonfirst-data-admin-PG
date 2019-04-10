@@ -1,0 +1,67 @@
+{
+  "id": 1292981995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.71511,-4.16359,142.71511,-4.16359",
+    "geom:latitude":-4.16359,
+    "geom:longitude":142.71511,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Tongwinjamb",
+    "gn:country_code":"PG",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085217,
+    "gn:latitude":-4.16359,
+    "gn:longitude":142.71511,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Tongwinjamb",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085217
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"db7f7dea964dc1b4ee685d12cbd83ae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702053,
+            "locality_id":1292981995,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1292981995,
+    "wof:lastmodified":1537017992,
+    "wof:name":"Tongwinjamb",
+    "wof:parent_id":1091702053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.71511,
+    -4.16359,
+    142.71511,
+    -4.16359
+],
+  "geometry": {"coordinates":[142.71511000000001,-4.16359],"type":"Point"}
+}

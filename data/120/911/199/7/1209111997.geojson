@@ -1,0 +1,61 @@
+{
+  "id": 1209111997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.30056,-9.02757,149.30056,-9.02757",
+    "geom:latitude":-9.02757,
+    "geom:longitude":149.30056,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kasiawa",
+    "gn:country_code":"PG",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094498,
+    "gn:latitude":-9.02757,
+    "gn:longitude":149.30056,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kasiawa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094498
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"83424a9db52723b9720dde1627a8e6ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209111997
+        }
+    ],
+    "wof:id":1209111997,
+    "wof:lastmodified":1536297376,
+    "wof:name":"Kasiawa",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.30056000000005,
+    -9.02757,
+    149.30056000000005,
+    -9.02757
+],
+  "geometry": {"coordinates":[149.30056000000005,-9.02757],"type":"Point"}
+}

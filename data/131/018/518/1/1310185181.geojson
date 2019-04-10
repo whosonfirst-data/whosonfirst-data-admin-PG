@@ -1,0 +1,67 @@
+{
+  "id": 1310185181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.30096,-5.70318,146.30096,-5.70318",
+    "geom:latitude":-5.70318,
+    "geom:longitude":146.30096,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Yorkia",
+    "gn:country_code":"PG",
+    "gn:dem":699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2082844,
+    "gn:latitude":-5.70318,
+    "gn:longitude":146.30096,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Yorkia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2082844
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"6189dc25bd257b9ca6fe01ed6ba4c05a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704219,
+            "locality_id":1310185181,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1310185181,
+    "wof:lastmodified":1536880936,
+    "wof:name":"Yorkia",
+    "wof:parent_id":1091704219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.30096,
+    -5.70318,
+    146.30096,
+    -5.70318
+],
+  "geometry": {"coordinates":[146.30096,-5.70318],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310378449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.9315,-3.32508,151.9315,-3.32508",
+    "geom:latitude":-3.32508,
+    "geom:longitude":151.9315,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Bungbune",
+    "gn:country_code":"PG",
+    "gn:dem":1002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098806,
+    "gn:latitude":-3.32508,
+    "gn:longitude":151.9315,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bungbune",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bungbuwe",
+        "Bungbune"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091703829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098806
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"fb10011bd17bb8a4f62030a37764441b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703829,
+            "locality_id":1310378449,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1310378449,
+    "wof:lastmodified":1537677188,
+    "wof:name":"Bungbune",
+    "wof:parent_id":1091703829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.9315,
+    -3.32508,
+    151.9315,
+    -3.32508
+],
+  "geometry": {"coordinates":[151.9315,-3.32508],"type":"Point"}
+}

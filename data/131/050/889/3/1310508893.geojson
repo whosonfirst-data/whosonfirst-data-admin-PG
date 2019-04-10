@@ -1,0 +1,67 @@
+{
+  "id": 1310508893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.45,-9.63333,150.45,-9.63333",
+    "geom:latitude":-9.63333,
+    "geom:longitude":150.45,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ibwananio",
+    "gn:country_code":"PG",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095811,
+    "gn:latitude":-9.63333,
+    "gn:longitude":150.45,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Ibwananio",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095811
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d9427ac106522b9b56251712d34daa36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702299,
+            "locality_id":1310508893,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1310508893,
+    "wof:lastmodified":1536912337,
+    "wof:name":"Ibwananio",
+    "wof:parent_id":1091702299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.45,
+    -9.63333,
+    150.45,
+    -9.63333
+],
+  "geometry": {"coordinates":[150.44999999999999,-9.63333],"type":"Point"}
+}

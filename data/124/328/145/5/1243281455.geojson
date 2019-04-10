@@ -1,0 +1,67 @@
+{
+  "id": 1243281455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.20778,-9.31611,147.20778,-9.31611",
+    "geom:latitude":-9.31611,
+    "geom:longitude":147.20778,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sabusa",
+    "gn:country_code":"PG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2114210,
+    "gn:latitude":-9.31611,
+    "gn:longitude":147.20778,
+    "gn:modification_date":"2000-11-16",
+    "gn:name":"Sabusa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091702751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2114210
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a8bd5e1ba897ebb4e0cc6523f73f71e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702751,
+            "locality_id":1243281455,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1243281455,
+    "wof:lastmodified":1537041621,
+    "wof:name":"Sabusa",
+    "wof:parent_id":1091702751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.20778,
+    -9.31611,
+    147.20778,
+    -9.31611
+],
+  "geometry": {"coordinates":[147.20778000000001,-9.31611],"type":"Point"}
+}

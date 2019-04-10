@@ -1,0 +1,67 @@
+{
+  "id": 1343958343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.27185,-9.01361,149.27185,-9.01361",
+    "geom:latitude":-9.01361,
+    "geom:longitude":149.27185,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sinei",
+    "gn:country_code":"PG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086632,
+    "gn:latitude":-9.01361,
+    "gn:longitude":149.27185,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Sinei",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091702531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086632
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"37f4d98ed54ccb1f97df0561542ce058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702531,
+            "locality_id":1343958343,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1343958343,
+    "wof:lastmodified":1537022080,
+    "wof:name":"Sinei",
+    "wof:parent_id":1091702531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.27185,
+    -9.01361,
+    149.27185,
+    -9.01361
+],
+  "geometry": {"coordinates":[149.27185,-9.01361],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310383679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.97428,-3.79937,142.97428,-3.79937",
+    "geom:latitude":-3.79937,
+    "geom:longitude":142.97428,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Wombisa",
+    "gn:country_code":"PG",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083377,
+    "gn:latitude":-3.79937,
+    "gn:longitude":142.97428,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Wombisa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083377
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"da0335bb42f2c862a901e0073784ab89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705131,
+            "locality_id":1310383679,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1310383679,
+    "wof:lastmodified":1537089556,
+    "wof:name":"Wombisa",
+    "wof:parent_id":1091705131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.97428,
+    -3.79937,
+    142.97428,
+    -3.79937
+],
+  "geometry": {"coordinates":[142.97427999999999,-3.79937],"type":"Point"}
+}

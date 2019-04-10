@@ -1,0 +1,67 @@
+{
+  "id": 1293314621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.3,-6.16667,141.3,-6.16667",
+    "geom:latitude":-6.16667,
+    "geom:longitude":141.3,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Puin",
+    "gn:country_code":"PG",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088053,
+    "gn:latitude":-6.16667,
+    "gn:longitude":141.3,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Puin",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088053
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ea62d9843426e9146ee1b582c6aa1992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1293314621,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1293314621,
+    "wof:lastmodified":1537034795,
+    "wof:name":"Puin",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.3,
+    -6.16667,
+    141.3,
+    -6.16667
+],
+  "geometry": {"coordinates":[141.30000000000001,-6.16667],"type":"Point"}
+}

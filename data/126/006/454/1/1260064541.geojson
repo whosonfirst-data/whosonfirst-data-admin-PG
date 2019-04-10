@@ -1,0 +1,72 @@
+{
+  "id": 1260064541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.06667,-6.38333,146.06667,-6.38333",
+    "geom:latitude":-6.38333,
+    "geom:longitude":146.06667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Arau Number 3",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":1382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100636,
+    "gn:latitude":-6.38333,
+    "gn:longitude":146.06667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Arau Number 3",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arau 3",
+        "Arau Number 3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091702711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100636
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"600d2d14e27c2c9e92b2f1a5d5db7669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702711,
+            "locality_id":1260064541,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1260064541,
+    "wof:lastmodified":1537677211,
+    "wof:name":"Arau Number 3",
+    "wof:parent_id":1091702711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.06667,
+    -6.38333,
+    146.06667,
+    -6.38333
+],
+  "geometry": {"coordinates":[146.06666999999999,-6.38333],"type":"Point"}
+}

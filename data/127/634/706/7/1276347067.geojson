@@ -1,0 +1,71 @@
+{
+  "id": 1276347067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.74677,-9.03954,152.74677,-9.03954",
+    "geom:latitude":-9.03954,
+    "geom:longitude":152.74677,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dikoias",
+    "gn:country_code":"PG",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098168,
+    "gn:latitude":-9.03954,
+    "gn:longitude":152.74677,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dikoias",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Decoyas",
+        "Dikoias"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091704299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098168
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b8be3a2b2baf0235d50e2acdea66420b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704299,
+            "locality_id":1276347067,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1276347067,
+    "wof:lastmodified":1537677183,
+    "wof:name":"Dikoias",
+    "wof:parent_id":1091704299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.74677,
+    -9.03954,
+    152.74677,
+    -9.03954
+],
+  "geometry": {"coordinates":[152.74677,-9.03954],"type":"Point"}
+}

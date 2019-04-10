@@ -1,0 +1,67 @@
+{
+  "id": 1276982153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.31428,-10.66095,150.31428,-10.66095",
+    "geom:latitude":-10.66095,
+    "geom:longitude":150.31428,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Elewa",
+    "gn:country_code":"PG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8435636,
+    "gn:latitude":-10.66095,
+    "gn:longitude":150.31428,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Elewa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8435636
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"fb8f8f4ae40f567a929ef898c357436a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702001,
+            "locality_id":1276982153,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1276982153,
+    "wof:lastmodified":1536904288,
+    "wof:name":"Elewa",
+    "wof:parent_id":1091702001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.31428,
+    -10.66095,
+    150.31428,
+    -10.66095
+],
+  "geometry": {"coordinates":[150.31428,-10.66095],"type":"Point"}
+}

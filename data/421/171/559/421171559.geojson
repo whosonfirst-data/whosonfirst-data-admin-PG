@@ -1,0 +1,117 @@
+{
+  "id": 421171559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"155.66147,-6.73362,155.66147,-6.73362",
+    "geom:latitude":-6.73362,
+    "geom:longitude":155.66147,
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5e03\u56e0"
+    ],
+    "name:dut_x_preferred":[
+        "Buin"
+    ],
+    "name:eng_x_preferred":[
+        "Buin"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0626\u06cc\u0646"
+    ],
+    "name:fre_x_preferred":[
+        "Buin"
+    ],
+    "name:ita_x_preferred":[
+        "Buin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30a4\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd80\uc778"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0648\u0626\u06cc\u0646"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0457\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u56e0"
+    ],
+    "qs:gn_country":"PG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2098923,
+    "qs:gn_pop":750,
+    "qs:name":"Buin",
+    "qs:name_adm0":"Papua New Guinea",
+    "qs:name_adm1":"North Solomons",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":269353,
+    "qs:woe_adm0":23424926,
+    "qs:woe_id":1062305,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":-6.746,
+    "wd:longitude":155.685,
+    "wd:wordcount":4070,
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676543,
+        1091704421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098923,
+        "gp:id":1062305,
+        "qs:id":269353,
+        "wd:id":"Q1187439",
+        "wk:page":"Buin, Papua New Guinea"
+    },
+    "wof:country":"PG",
+    "wof:created":1459008898,
+    "wof:geomhash":"03db413c7259097ce97eae6da89c2f62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704421,
+            "locality_id":421171559,
+            "region_id":85676543
+        }
+    ],
+    "wof:id":421171559,
+    "wof:lastmodified":1527726481,
+    "wof:name":"Buin",
+    "wof:parent_id":1091704421,
+    "wof:placetype":"locality",
+    "wof:population":750,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    155.66147,
+    -6.73362,
+    155.66147,
+    -6.73362
+],
+  "geometry": {"coordinates":[155.66147000000001,-6.73362],"type":"Point"}
+}

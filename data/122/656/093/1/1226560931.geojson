@@ -1,0 +1,71 @@
+{
+  "id": 1226560931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.40851,-6.50245,145.40851,-6.50245",
+    "geom:latitude":-6.50245,
+    "geom:longitude":145.40851,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tatura-Henegaru Number 3",
+    "gn:country_code":"PG",
+    "gn:dem":2155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085722,
+    "gn:latitude":-6.50245,
+    "gn:longitude":145.40851,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tatura-Henegaru Number 3",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tatura-Henegaru 3",
+        "Tatura-Henegaru Number 3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091704103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085722
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e5a100a0e421f96415b15d471504e0dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704103,
+            "locality_id":1226560931,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1226560931,
+    "wof:lastmodified":1537677050,
+    "wof:name":"Tatura-Henegaru Number 3",
+    "wof:parent_id":1091704103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.40851,
+    -6.50245,
+    145.40851,
+    -6.50245
+],
+  "geometry": {"coordinates":[145.40851000000001,-6.50245],"type":"Point"}
+}

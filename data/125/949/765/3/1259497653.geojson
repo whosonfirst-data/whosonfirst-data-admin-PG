@@ -1,0 +1,67 @@
+{
+  "id": 1259497653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.55706,-8.54867,146.55706,-8.54867",
+    "geom:latitude":-8.54867,
+    "geom:longitude":146.55706,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Aipeana",
+    "gn:country_code":"PG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101186,
+    "gn:latitude":-8.54867,
+    "gn:longitude":146.55706,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Aipeana",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091702751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101186
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0f1f2e3e47e94c21ad966b77c601a5ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702751,
+            "locality_id":1259497653,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1259497653,
+    "wof:lastmodified":1536837349,
+    "wof:name":"Aipeana",
+    "wof:parent_id":1091702751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.55706,
+    -8.54867,
+    146.55706,
+    -8.54867
+],
+  "geometry": {"coordinates":[146.55706000000001,-8.54867],"type":"Point"}
+}

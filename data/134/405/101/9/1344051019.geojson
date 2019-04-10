@@ -1,0 +1,71 @@
+{
+  "id": 1344051019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.89218,-5.54176,151.89218,-5.54176",
+    "geom:latitude":-5.54176,
+    "geom:longitude":151.89218,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Pulpul",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088021,
+    "gn:latitude":-5.54176,
+    "gn:longitude":151.89218,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pulpul",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bilanpun",
+        "Pulpul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091704139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088021
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9635b4e5f45cdb4895287c36765dd2bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704139,
+            "locality_id":1344051019,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1344051019,
+    "wof:lastmodified":1537677072,
+    "wof:name":"Pulpul",
+    "wof:parent_id":1091704139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.89218,
+    -5.54176,
+    151.89218,
+    -5.54176
+],
+  "geometry": {"coordinates":[151.89218,-5.54176],"type":"Point"}
+}

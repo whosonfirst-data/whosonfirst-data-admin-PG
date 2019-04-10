@@ -1,0 +1,70 @@
+{
+  "id": 1276315311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.63697,-5.87564,144.63697,-5.87564",
+    "geom:latitude":-5.87564,
+    "geom:longitude":144.63697,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kurumul",
+    "gn:country_code":"PG",
+    "gn:dem":1550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092952,
+    "gn:latitude":-5.87564,
+    "gn:longitude":144.63697,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kurumul",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kurumuil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        1108805613,
+        1091702057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092952
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f8109c83a3a029d8aaf56b2e00f2444f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702057,
+            "locality_id":1276315311,
+            "region_id":1108805613
+        }
+    ],
+    "wof:id":1276315311,
+    "wof:lastmodified":1537677124,
+    "wof:name":"Kurumul",
+    "wof:parent_id":1091702057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.63697,
+    -5.87564,
+    144.63697,
+    -5.87564
+],
+  "geometry": {"coordinates":[144.63696999999999,-5.87564],"type":"Point"}
+}

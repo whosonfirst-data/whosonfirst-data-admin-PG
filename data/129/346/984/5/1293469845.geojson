@@ -1,0 +1,71 @@
+{
+  "id": 1293469845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.56102,-4.79114,145.56102,-4.79114",
+    "geom:latitude":-4.79114,
+    "geom:longitude":145.56102,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Imbabi",
+    "gn:country_code":"PG",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095678,
+    "gn:latitude":-4.79114,
+    "gn:longitude":145.56102,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Imbabi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imbarb",
+        "Imbabi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095678
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2e5609783d8000d2b52bde042332fb58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704517,
+            "locality_id":1293469845,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1293469845,
+    "wof:lastmodified":1537677156,
+    "wof:name":"Imbabi",
+    "wof:parent_id":1091704517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.56101999999996,
+    -4.79114,
+    145.56101999999996,
+    -4.79114
+],
+  "geometry": {"coordinates":[145.56101999999996,-4.79114],"type":"Point"}
+}

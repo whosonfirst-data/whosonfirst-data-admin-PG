@@ -1,0 +1,61 @@
+{
+  "id": 1209596485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.45,-4.65,143.45,-4.65",
+    "geom:latitude":-4.65,
+    "geom:longitude":143.45,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kombianika",
+    "gn:country_code":"PG",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093614,
+    "gn:latitude":-4.65,
+    "gn:longitude":143.45,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kombianika",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093614
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"7d69cdee7e068cc1d9ec4d6951dd8b15",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209596485
+        }
+    ],
+    "wof:id":1209596485,
+    "wof:lastmodified":1536282308,
+    "wof:name":"Kombianika",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.45,
+    -4.65,
+    143.45,
+    -4.65
+],
+  "geometry": {"coordinates":[143.44999999999999,-4.65],"type":"Point"}
+}

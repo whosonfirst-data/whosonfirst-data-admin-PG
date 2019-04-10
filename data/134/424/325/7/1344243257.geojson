@@ -1,0 +1,63 @@
+{
+  "id": 1344243257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.0621,-1.9823,147.0621,-1.9823",
+    "geom:latitude":-1.9823,
+    "geom:longitude":147.0621,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Derimbat",
+    "gn:country_code":"PG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098217,
+    "gn:latitude":-1.9823,
+    "gn:longitude":147.0621,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Derimbat",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098217
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"5df65febe6c32403c3890a0a000c453b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1344243257,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344243257,
+    "wof:lastmodified":1536609129,
+    "wof:name":"Derimbat",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.0621,
+    -1.9823,
+    147.0621,
+    -1.9823
+],
+  "geometry": {"coordinates":[147.06209999999999,-1.9823],"type":"Point"}
+}

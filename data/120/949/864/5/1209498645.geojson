@@ -1,0 +1,61 @@
+{
+  "id": 1209498645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.11052,-6.16036,147.11052,-6.16036",
+    "geom:latitude":-6.16036,
+    "geom:longitude":147.11052,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Tumung",
+    "gn:country_code":"PG",
+    "gn:dem":1601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085005,
+    "gn:latitude":-6.16036,
+    "gn:longitude":147.11052,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Tumung",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085005
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8a583dd5c6be80a5244157b76271d69d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209498645
+        }
+    ],
+    "wof:id":1209498645,
+    "wof:lastmodified":1536285255,
+    "wof:name":"Tumung",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.11052,
+    -6.16036,
+    147.11052,
+    -6.16036
+],
+  "geometry": {"coordinates":[147.11052000000001,-6.16036],"type":"Point"}
+}

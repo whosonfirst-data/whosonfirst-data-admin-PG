@@ -1,0 +1,67 @@
+{
+  "id": 1242857935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.36527,-6.46511,147.36527,-6.46511",
+    "geom:latitude":-6.46511,
+    "geom:longitude":147.36527,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Semgeta",
+    "gn:country_code":"PG",
+    "gn:dem":1752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086953,
+    "gn:latitude":-6.46511,
+    "gn:longitude":147.36527,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Semgeta",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086953
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"aa6fcfbe736d41e5046f5ce8f39907bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702351,
+            "locality_id":1242857935,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1242857935,
+    "wof:lastmodified":1536659941,
+    "wof:name":"Semgeta",
+    "wof:parent_id":1091702351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.36527,
+    -6.46511,
+    147.36527,
+    -6.46511
+],
+  "geometry": {"coordinates":[147.36527000000001,-6.46511],"type":"Point"}
+}

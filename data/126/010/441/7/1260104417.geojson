@@ -1,0 +1,71 @@
+{
+  "id": 1260104417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.36047,-9.03534,148.36047,-9.03534",
+    "geom:latitude":-9.03534,
+    "geom:longitude":148.36047,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Siurani",
+    "gn:country_code":"PG",
+    "gn:dem":892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086513,
+    "gn:latitude":-9.03534,
+    "gn:longitude":148.36047,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Siurani",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siurami",
+        "Siurani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091702531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086513
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"105bafb89e86e7a9ad200051515e7511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702531,
+            "locality_id":1260104417,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1260104417,
+    "wof:lastmodified":1537677059,
+    "wof:name":"Siurani",
+    "wof:parent_id":1091702531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.36047,
+    -9.03534,
+    148.36047,
+    -9.03534
+],
+  "geometry": {"coordinates":[148.36046999999999,-9.03534],"type":"Point"}
+}

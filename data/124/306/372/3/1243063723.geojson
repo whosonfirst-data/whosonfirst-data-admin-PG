@@ -1,0 +1,67 @@
+{
+  "id": 1243063723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.87928,-6.58363,145.87928,-6.58363",
+    "geom:latitude":-6.58363,
+    "geom:longitude":145.87928,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Baira 2",
+    "gn:country_code":"PG",
+    "gn:dem":1813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100069,
+    "gn:latitude":-6.58363,
+    "gn:longitude":145.87928,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Baira 2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091704061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100069
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ab3cf4b0e5b42e048f796cdbd7aec69b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704061,
+            "locality_id":1243063723,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1243063723,
+    "wof:lastmodified":1536858949,
+    "wof:name":"Baira 2",
+    "wof:parent_id":1091704061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.87928,
+    -6.58363,
+    145.87928,
+    -6.58363
+],
+  "geometry": {"coordinates":[145.87927999999999,-6.58363],"type":"Point"}
+}

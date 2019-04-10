@@ -1,0 +1,67 @@
+{
+  "id": 1309879443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.75467,-6.45916,147.75467,-6.45916",
+    "geom:latitude":-6.45916,
+    "geom:longitude":147.75467,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Uluor",
+    "gn:country_code":"PG",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084760,
+    "gn:latitude":-6.45916,
+    "gn:longitude":147.75467,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Uluor",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084760
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"288d192bd9c88b1b01ce88020ba304bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702351,
+            "locality_id":1309879443,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1309879443,
+    "wof:lastmodified":1536824162,
+    "wof:name":"Uluor",
+    "wof:parent_id":1091702351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.75467,
+    -6.45916,
+    147.75467,
+    -6.45916
+],
+  "geometry": {"coordinates":[147.75467,-6.45916],"type":"Point"}
+}

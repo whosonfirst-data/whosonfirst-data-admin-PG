@@ -1,0 +1,65 @@
+{
+  "id": 1209678837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.08134,-3.26291,141.08134,-3.26291",
+    "geom:latitude":-3.26291,
+    "geom:longitude":141.08134,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Sainendi",
+    "gn:country_code":"PG",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087404,
+    "gn:latitude":-3.26291,
+    "gn:longitude":141.08134,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sainendi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sainindi",
+        "Sainendi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087404
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c3c85c0f0cf5456da4c7057b2baddea1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209678837
+        }
+    ],
+    "wof:id":1209678837,
+    "wof:lastmodified":1537677068,
+    "wof:name":"Sainendi",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.08133999999995,
+    -3.26291,
+    141.08133999999995,
+    -3.26291
+],
+  "geometry": {"coordinates":[141.08133999999995,-3.26291],"type":"Point"}
+}

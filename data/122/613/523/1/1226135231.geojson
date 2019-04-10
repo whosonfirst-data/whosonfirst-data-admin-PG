@@ -1,0 +1,67 @@
+{
+  "id": 1226135231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.05,-6.46667,141.05,-6.46667",
+    "geom:latitude":-6.46667,
+    "geom:longitude":141.05,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ungerem",
+    "gn:country_code":"PG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084666,
+    "gn:latitude":-6.46667,
+    "gn:longitude":141.05,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Ungerem",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084666
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f72f647a6952c20337f20dfa457423a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1226135231,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1226135231,
+    "wof:lastmodified":1537089693,
+    "wof:name":"Ungerem",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.05,
+    -6.46667,
+    141.05,
+    -6.46667
+],
+  "geometry": {"coordinates":[141.05000000000001,-6.46667],"type":"Point"}
+}

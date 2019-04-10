@@ -1,0 +1,63 @@
+{
+  "id": 1209779345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.51667,-5.51667,148.51667,-5.51667",
+    "geom:latitude":-5.51667,
+    "geom:longitude":148.51667,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Mapua",
+    "gn:country_code":"PG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091468,
+    "gn:latitude":-5.51667,
+    "gn:longitude":148.51667,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Mapua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091468
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0574514db2cac69424e413be554f3fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1209779345,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209779345,
+    "wof:lastmodified":1536375403,
+    "wof:name":"Mapua",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.51667,
+    -5.51667,
+    148.51667,
+    -5.51667
+],
+  "geometry": {"coordinates":[148.51667,-5.51667],"type":"Point"}
+}

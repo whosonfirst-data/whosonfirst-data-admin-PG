@@ -1,0 +1,67 @@
+{
+  "id": 1343753587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"155.44024,-6.19969,155.44024,-6.19969",
+    "geom:latitude":-6.19969,
+    "geom:longitude":155.44024,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Boira",
+    "gn:country_code":"PG",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099242,
+    "gn:latitude":-6.19969,
+    "gn:longitude":155.44024,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Boira",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676543,
+        1091702121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099242
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3d616846469912242b3367eb817b0eb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702121,
+            "locality_id":1343753587,
+            "region_id":85676543
+        }
+    ],
+    "wof:id":1343753587,
+    "wof:lastmodified":1536819994,
+    "wof:name":"Boira",
+    "wof:parent_id":1091702121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    155.44024,
+    -6.19969,
+    155.44024,
+    -6.19969
+],
+  "geometry": {"coordinates":[155.44023999999999,-6.19969],"type":"Point"}
+}

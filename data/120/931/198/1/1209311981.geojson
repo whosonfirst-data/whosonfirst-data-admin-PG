@@ -1,0 +1,65 @@
+{
+  "id": 1209311981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.4357,-5.84764,141.4357,-5.84764",
+    "geom:latitude":-5.84764,
+    "geom:longitude":141.4357,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Antriemsomae",
+    "gn:country_code":"PG",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100734,
+    "gn:latitude":-5.84764,
+    "gn:longitude":141.4357,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Antriemsomae",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antriemsomrae",
+        "Antriemsomae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100734
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d40366d90a9e38d480c8af7076804413",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209311981
+        }
+    ],
+    "wof:id":1209311981,
+    "wof:lastmodified":1537677212,
+    "wof:name":"Antriemsomae",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.4357,
+    -5.84764,
+    141.4357,
+    -5.84764
+],
+  "geometry": {"coordinates":[141.4357,-5.84764],"type":"Point"}
+}

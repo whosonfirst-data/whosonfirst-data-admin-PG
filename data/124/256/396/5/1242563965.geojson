@@ -1,0 +1,68 @@
+{
+  "id": 1242563965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.69609,-1.98662,146.69609,-1.98662",
+    "geom:latitude":-1.98662,
+    "geom:longitude":146.69609,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Sori Number 1",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086362,
+    "gn:latitude":-1.98662,
+    "gn:longitude":146.69609,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sori Number 1",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sori",
+        "Sori 1",
+        "Sori Number 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086362
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4485a83697ba10ccda2b774e2594e237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1242563965,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242563965,
+    "wof:lastmodified":1537677057,
+    "wof:name":"Sori Number 1",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.69609,
+    -1.98662,
+    146.69609,
+    -1.98662
+],
+  "geometry": {"coordinates":[146.69609,-1.98662],"type":"Point"}
+}

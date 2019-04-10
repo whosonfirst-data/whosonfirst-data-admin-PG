@@ -1,0 +1,67 @@
+{
+  "id": 1344143913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.04158,-5.11885,145.04158,-5.11885",
+    "geom:latitude":-5.11885,
+    "geom:longitude":145.04158,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Emerum",
+    "gn:country_code":"PG",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097696,
+    "gn:latitude":-5.11885,
+    "gn:longitude":145.04158,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Emerum",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097696
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"935fe66033da57ae6cf22b2034c4934d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704819,
+            "locality_id":1344143913,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1344143913,
+    "wof:lastmodified":1536755270,
+    "wof:name":"Emerum",
+    "wof:parent_id":1091704819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.04158,
+    -5.11885,
+    145.04158,
+    -5.11885
+],
+  "geometry": {"coordinates":[145.04158000000001,-5.11885],"type":"Point"}
+}

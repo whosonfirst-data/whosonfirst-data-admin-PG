@@ -1,0 +1,70 @@
+{
+  "id": 1310227295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.57983,-8.0211,143.57983,-8.0211",
+    "geom:latitude":-8.0211,
+    "geom:longitude":143.57983,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ardadal",
+    "gn:country_code":"PG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425493,
+    "gn:latitude":-8.0211,
+    "gn:longitude":143.57983,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Ardadal",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ardadal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091703673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425493
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"6f837bc444bf01e640a08ec51f025537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703673,
+            "locality_id":1310227295,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1310227295,
+    "wof:lastmodified":1537677227,
+    "wof:name":"Ardadal",
+    "wof:parent_id":1091703673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.57983000000004,
+    -8.0211,
+    143.57983000000004,
+    -8.0211
+],
+  "geometry": {"coordinates":[143.57983000000004,-8.0211],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259866687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.99258,-4.75781,144.99258,-4.75781",
+    "geom:latitude":-4.75781,
+    "geom:longitude":144.99258,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mandugar",
+    "gn:country_code":"PG",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091604,
+    "gn:latitude":-4.75781,
+    "gn:longitude":144.99258,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mandugar",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manduguar",
+        "Mandugar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091703709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091604
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"83b9aae4ee5b255214d6aa11c314a4f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703709,
+            "locality_id":1259866687,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1259866687,
+    "wof:lastmodified":1537677110,
+    "wof:name":"Mandugar",
+    "wof:parent_id":1091703709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.99258,
+    -4.75781,
+    144.99258,
+    -4.75781
+],
+  "geometry": {"coordinates":[144.99258,-4.75781],"type":"Point"}
+}

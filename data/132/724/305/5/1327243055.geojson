@@ -1,0 +1,68 @@
+{
+  "id": 1327243055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.1,-8.5,151.1,-8.5",
+    "geom:latitude":-8.5,
+    "geom:longitude":151.1,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kiriwana",
+    "gn:country_code":"PG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093877,
+    "gn:latitude":-8.5,
+    "gn:longitude":151.1,
+    "gn:modification_date":"2018-04-13",
+    "gn:name":"Kiriwana",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091703083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093877,
+        "wk:page":"Kiriwina"
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d8656a25f8b77289eaf755666a695467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703083,
+            "locality_id":1327243055,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1327243055,
+    "wof:lastmodified":1537570315,
+    "wof:name":"Kiriwana",
+    "wof:parent_id":1091703083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.1,
+    -8.5,
+    151.1,
+    -8.5
+],
+  "geometry": {"coordinates":[151.09999999999999,-8.5],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310429653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.97905,-8.89757,147.97905,-8.89757",
+    "geom:latitude":-8.89757,
+    "geom:longitude":147.97905,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Hojaki",
+    "gn:country_code":"PG",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096091,
+    "gn:latitude":-8.89757,
+    "gn:longitude":147.97905,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Hojaki",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091704393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096091
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c37913a833774f1456d57cf938d061db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704393,
+            "locality_id":1310429653,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1310429653,
+    "wof:lastmodified":1537025263,
+    "wof:name":"Hojaki",
+    "wof:parent_id":1091704393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.97905,
+    -8.89757,
+    147.97905,
+    -8.89757
+],
+  "geometry": {"coordinates":[147.97905,-8.89757],"type":"Point"}
+}

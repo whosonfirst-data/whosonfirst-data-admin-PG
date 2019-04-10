@@ -1,0 +1,67 @@
+{
+  "id": 1310407683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.85,-9.68333,150.85,-9.68333",
+    "geom:latitude":-9.68333,
+    "geom:longitude":150.85,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kanani",
+    "gn:country_code":"PG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094771,
+    "gn:latitude":-9.68333,
+    "gn:longitude":150.85,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kanani",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094771
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"37790e06c6247e29efa7a1663c0ee715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702299,
+            "locality_id":1310407683,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1310407683,
+    "wof:lastmodified":1537055710,
+    "wof:name":"Kanani",
+    "wof:parent_id":1091702299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.85,
+    -9.68333,
+    150.85,
+    -9.68333
+],
+  "geometry": {"coordinates":[150.84999999999999,-9.68333],"type":"Point"}
+}

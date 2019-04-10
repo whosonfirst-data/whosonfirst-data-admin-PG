@@ -1,0 +1,72 @@
+{
+  "id": 1343363889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.6,-6.08333,143.6,-6.08333",
+    "geom:latitude":-6.08333,
+    "geom:longitude":143.6,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Suabi",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":1892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086266,
+    "gn:latitude":-6.08333,
+    "gn:longitude":143.6,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Suabi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suebi",
+        "Suabi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091703589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086266
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"52b440980fa3932d1115db381561c93e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703589,
+            "locality_id":1343363889,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1343363889,
+    "wof:lastmodified":1537677056,
+    "wof:name":"Suabi",
+    "wof:parent_id":1091703589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.6,
+    -6.08333,
+    143.6,
+    -6.08333
+],
+  "geometry": {"coordinates":[143.59999999999999,-6.08333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1343537639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.38468,-5.54351,149.38468,-5.54351",
+    "geom:latitude":-5.54351,
+    "geom:longitude":149.38468,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Kapo",
+    "gn:country_code":"PG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094668,
+    "gn:latitude":-5.54351,
+    "gn:longitude":149.38468,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Kapo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094668
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d3c7178a1320186609340aed356d3c39",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343537639,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343537639,
+    "wof:lastmodified":1536633562,
+    "wof:name":"Kapo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.38468,
+    -5.54351,
+    149.38468,
+    -5.54351
+],
+  "geometry": {"coordinates":[149.38468,-5.54351],"type":"Point"}
+}

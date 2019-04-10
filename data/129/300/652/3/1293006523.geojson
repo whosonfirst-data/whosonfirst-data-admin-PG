@@ -1,0 +1,68 @@
+{
+  "id": 1293006523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.71444,-8.84025,147.71444,-8.84025",
+    "geom:latitude":-8.84025,
+    "geom:longitude":147.71444,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"2093690",
+    "gn:asciiname":"Komo",
+    "gn:country_code":"PG",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093576,
+    "gn:latitude":-8.84025,
+    "gn:longitude":147.71444,
+    "gn:modification_date":"2015-04-02",
+    "gn:name":"Komo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091704393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093576
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"69782da5df37963f96ec20f9b680a818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704393,
+            "locality_id":1293006523,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1293006523,
+    "wof:lastmodified":1536982620,
+    "wof:name":"Komo",
+    "wof:parent_id":1091704393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.71444,
+    -8.84025,
+    147.71444,
+    -8.84025
+],
+  "geometry": {"coordinates":[147.71444,-8.84025],"type":"Point"}
+}

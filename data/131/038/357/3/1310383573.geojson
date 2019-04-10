@@ -1,0 +1,67 @@
+{
+  "id": 1310383573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.9646,-3.76573,142.9646,-3.76573",
+    "geom:latitude":-3.76573,
+    "geom:longitude":142.9646,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Stapigum",
+    "gn:country_code":"PG",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086302,
+    "gn:latitude":-3.76573,
+    "gn:longitude":142.9646,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Stapigum",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086302
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"31676cbeb313782a5e5df69414bfe8ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705131,
+            "locality_id":1310383573,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1310383573,
+    "wof:lastmodified":1537089705,
+    "wof:name":"Stapigum",
+    "wof:parent_id":1091705131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.9646,
+    -3.76573,
+    142.9646,
+    -3.76573
+],
+  "geometry": {"coordinates":[142.96459999999999,-3.76573],"type":"Point"}
+}

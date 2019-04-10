@@ -1,0 +1,67 @@
+{
+  "id": 1327228989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.06667,-8.88333,143.06667,-8.88333",
+    "geom:latitude":-8.88333,
+    "geom:longitude":143.06667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dogwa",
+    "gn:country_code":"PG",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098072,
+    "gn:latitude":-8.88333,
+    "gn:longitude":143.06667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Dogwa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098072
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"26793ea28858b0c8db5300289d864573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704467,
+            "locality_id":1327228989,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1327228989,
+    "wof:lastmodified":1536974091,
+    "wof:name":"Dogwa",
+    "wof:parent_id":1091704467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.06667,
+    -8.88333,
+    143.06667,
+    -8.88333
+],
+  "geometry": {"coordinates":[143.06666999999999,-8.88333],"type":"Point"}
+}

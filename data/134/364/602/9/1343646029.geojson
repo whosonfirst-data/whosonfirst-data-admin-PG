@@ -1,0 +1,67 @@
+{
+  "id": 1343646029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.49358,-6.52753,145.49358,-6.52753",
+    "geom:latitude":-6.52753,
+    "geom:longitude":145.49358,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tunuku",
+    "gn:country_code":"PG",
+    "gn:dem":2128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084975,
+    "gn:latitude":-6.52753,
+    "gn:longitude":145.49358,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Tunuku",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091704103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084975
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"56c90a81a5bab80b5a7284e08692ab56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704103,
+            "locality_id":1343646029,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1343646029,
+    "wof:lastmodified":1536975376,
+    "wof:name":"Tunuku",
+    "wof:parent_id":1091704103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.49358,
+    -6.52753,
+    145.49358,
+    -6.52753
+],
+  "geometry": {"coordinates":[145.49358000000001,-6.52753],"type":"Point"}
+}

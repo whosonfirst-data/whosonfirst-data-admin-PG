@@ -1,0 +1,67 @@
+{
+  "id": 1344240745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.05755,-4.12087,152.05755,-4.12087",
+    "geom:latitude":-4.12087,
+    "geom:longitude":152.05755,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Valaur",
+    "gn:country_code":"PG",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084453,
+    "gn:latitude":-4.12087,
+    "gn:longitude":152.05755,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Valaur",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091704181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084453
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f38f6e27ee719d14adf8822e693c417b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704181,
+            "locality_id":1344240745,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1344240745,
+    "wof:lastmodified":1536613029,
+    "wof:name":"Valaur",
+    "wof:parent_id":1091704181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.05755,
+    -4.12087,
+    152.05755,
+    -4.12087
+],
+  "geometry": {"coordinates":[152.05754999999999,-4.12087],"type":"Point"}
+}

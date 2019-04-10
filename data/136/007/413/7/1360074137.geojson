@@ -1,0 +1,67 @@
+{
+  "id": 1360074137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.61229,-5.56322,151.61229,-5.56322",
+    "geom:latitude":-5.56322,
+    "geom:longitude":151.61229,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bovalpun",
+    "gn:country_code":"PG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099052,
+    "gn:latitude":-5.56322,
+    "gn:longitude":151.61229,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Bovalpun",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091704139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099052
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"10e22fa84d8a10011559d281b4bdc333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704139,
+            "locality_id":1360074137,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1360074137,
+    "wof:lastmodified":1536961393,
+    "wof:name":"Bovalpun",
+    "wof:parent_id":1091704139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.61229,
+    -5.56322,
+    151.61229,
+    -5.56322
+],
+  "geometry": {"coordinates":[151.61229,-5.56322],"type":"Point"}
+}

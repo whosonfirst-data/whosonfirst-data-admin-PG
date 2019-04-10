@@ -1,0 +1,67 @@
+{
+  "id": 1260282989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.51816,-6.0942,143.51816,-6.0942",
+    "geom:latitude":-6.0942,
+    "geom:longitude":143.51816,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mapkebol",
+    "gn:country_code":"PG",
+    "gn:dem":2179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091479,
+    "gn:latitude":-6.0942,
+    "gn:longitude":143.51816,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Mapkebol",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091703589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091479
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a9c00928841e3444ebbd610ff186e3ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703589,
+            "locality_id":1260282989,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1260282989,
+    "wof:lastmodified":1536712920,
+    "wof:name":"Mapkebol",
+    "wof:parent_id":1091703589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.51816000000005,
+    -6.0942,
+    143.51816000000005,
+    -6.0942
+],
+  "geometry": {"coordinates":[143.51816000000005,-6.0942],"type":"Point"}
+}

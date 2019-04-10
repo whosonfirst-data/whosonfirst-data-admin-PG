@@ -1,0 +1,67 @@
+{
+  "id": 1344058679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.5,-9.66667,149.5,-9.66667",
+    "geom:latitude":-9.66667,
+    "geom:longitude":149.5,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mokoruwa",
+    "gn:country_code":"PG",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090598,
+    "gn:latitude":-9.66667,
+    "gn:longitude":149.5,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Mokoruwa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090598
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"6ceae28989180eb20c09f448e0e4d633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702001,
+            "locality_id":1344058679,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1344058679,
+    "wof:lastmodified":1536877287,
+    "wof:name":"Mokoruwa",
+    "wof:parent_id":1091702001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.5,
+    -9.66667,
+    149.5,
+    -9.66667
+],
+  "geometry": {"coordinates":[149.5,-9.66667],"type":"Point"}
+}

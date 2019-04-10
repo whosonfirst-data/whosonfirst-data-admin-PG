@@ -1,0 +1,67 @@
+{
+  "id": 1243537395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.0076,-2.80353,151.0076,-2.80353",
+    "geom:latitude":-2.80353,
+    "geom:longitude":151.0076,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Pauk",
+    "gn:country_code":"PG",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088530,
+    "gn:latitude":-2.80353,
+    "gn:longitude":151.0076,
+    "gn:modification_date":"2015-08-18",
+    "gn:name":"Pauk",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091702917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088530
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"eff32b740bccd8df09860a1eebce62bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702917,
+            "locality_id":1243537395,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1243537395,
+    "wof:lastmodified":1536674445,
+    "wof:name":"Pauk",
+    "wof:parent_id":1091702917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.0076,
+    -2.80353,
+    151.0076,
+    -2.80353
+],
+  "geometry": {"coordinates":[151.0076,-2.80353],"type":"Point"}
+}

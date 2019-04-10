@@ -1,0 +1,68 @@
+{
+  "id": 1242946173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.00675,-2.95934,151.00675,-2.95934",
+    "geom:latitude":-2.95934,
+    "geom:longitude":151.00675,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Karia Number 2",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094569,
+    "gn:latitude":-2.95934,
+    "gn:longitude":151.00675,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Karia Number 2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karia Two",
+        "Karia",
+        "Karia Number 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094569
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1e4e5e1b335c5511e2d7bc2560d4478e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1242946173,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242946173,
+    "wof:lastmodified":1537677143,
+    "wof:name":"Karia Number 2",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.00675,
+    -2.95934,
+    151.00675,
+    -2.95934
+],
+  "geometry": {"coordinates":[151.00675000000001,-2.95934],"type":"Point"}
+}

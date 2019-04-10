@@ -1,0 +1,63 @@
+{
+  "id": 1343248345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.92824,-1.9688,146.92824,-1.9688",
+    "geom:latitude":-1.9688,
+    "geom:longitude":146.92824,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Saha",
+    "gn:country_code":"PG",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087422,
+    "gn:latitude":-1.9688,
+    "gn:longitude":146.92824,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Saha",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087422
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ac8694ed3b9f331cd4005b68264b40ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1343248345,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343248345,
+    "wof:lastmodified":1537050353,
+    "wof:name":"Saha",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.92824,
+    -1.9688,
+    146.92824,
+    -1.9688
+],
+  "geometry": {"coordinates":[146.92823999999999,-1.9688],"type":"Point"}
+}

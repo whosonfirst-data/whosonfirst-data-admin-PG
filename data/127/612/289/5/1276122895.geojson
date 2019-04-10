@@ -1,0 +1,72 @@
+{
+  "id": 1276122895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.83333,-6.0,142.83333,-6.0",
+    "geom:latitude":-6.0,
+    "geom:longitude":142.83333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Angora",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":1315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100766,
+    "gn:latitude":-6.0,
+    "gn:longitude":142.83333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Angora",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Angore",
+        "Angora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        1108805615,
+        1091703179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100766
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3fcaabfdd097d16cdd40f7449bb135cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703179,
+            "locality_id":1276122895,
+            "region_id":1108805615
+        }
+    ],
+    "wof:id":1276122895,
+    "wof:lastmodified":1537677213,
+    "wof:name":"Angora",
+    "wof:parent_id":1091703179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.83333000000005,
+    -6.0,
+    142.83333000000005,
+    -6.0
+],
+  "geometry": {"coordinates":[142.83333000000005,-6.0],"type":"Point"}
+}

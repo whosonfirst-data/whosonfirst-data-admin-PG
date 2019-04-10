@@ -1,0 +1,67 @@
+{
+  "id": 1209324207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.86654,-9.97769,147.86654,-9.97769",
+    "geom:latitude":-9.97769,
+    "geom:longitude":147.86654,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bababagu",
+    "gn:country_code":"PG",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100177,
+    "gn:latitude":-9.97769,
+    "gn:longitude":147.86654,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bababagu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Babaga",
+        "Babau",
+        "Babagu",
+        "Bababagu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100177
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4181bde541f03e639edc02dc672bd2a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209324207
+        }
+    ],
+    "wof:id":1209324207,
+    "wof:lastmodified":1537677205,
+    "wof:name":"Bababagu",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.86654,
+    -9.97769,
+    147.86654,
+    -9.97769
+],
+  "geometry": {"coordinates":[147.86653999999999,-9.97769],"type":"Point"}
+}

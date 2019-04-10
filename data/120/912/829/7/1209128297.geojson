@@ -1,0 +1,66 @@
+{
+  "id": 1209128297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.90476,-7.94428,142.90476,-7.94428",
+    "geom:latitude":-7.94428,
+    "geom:longitude":142.90476,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kewa",
+    "gn:country_code":"PG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094190,
+    "gn:latitude":-7.94428,
+    "gn:longitude":142.90476,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kewa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kiwa",
+        "Kewa",
+        "Kenewa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094190
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f137856d932fc27c9d22f0e064b7aceb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209128297
+        }
+    ],
+    "wof:id":1209128297,
+    "wof:lastmodified":1537677140,
+    "wof:name":"Kewa",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.90476,
+    -7.94428,
+    142.90476,
+    -7.94428
+],
+  "geometry": {"coordinates":[142.90476000000001,-7.94428],"type":"Point"}
+}

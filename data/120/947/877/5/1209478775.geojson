@@ -1,0 +1,61 @@
+{
+  "id": 1209478775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.88584,-5.57734,150.88584,-5.57734",
+    "geom:latitude":-5.57734,
+    "geom:longitude":150.88584,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Uasilau",
+    "gn:country_code":"PG",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084894,
+    "gn:latitude":-5.57734,
+    "gn:longitude":150.88584,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Uasilau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084894
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4aeccfa4e3abeed6e5e386a05eff90c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209478775
+        }
+    ],
+    "wof:id":1209478775,
+    "wof:lastmodified":1536285850,
+    "wof:name":"Uasilau",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.88584,
+    -5.57734,
+    150.88584,
+    -5.57734
+],
+  "geometry": {"coordinates":[150.88584,-5.57734],"type":"Point"}
+}

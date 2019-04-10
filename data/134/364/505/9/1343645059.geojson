@@ -1,0 +1,73 @@
+{
+  "id": 1343645059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.34807,-6.84314,146.34807,-6.84314",
+    "geom:latitude":-6.84314,
+    "geom:longitude":146.34807,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Tsile Tsile",
+    "gn:country_code":"PG",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085109,
+    "gn:latitude":-6.84314,
+    "gn:longitude":146.34807,
+    "gn:modification_date":"2018-03-15",
+    "gn:name":"Tsile Tsile",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gomorok",
+        "Tsili Tsili",
+        "Tsile Tsile"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085109,
+        "wk:page":"Tsili_Tsili"
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f4b2a16eff0f68758dfa4500cc30569b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702453,
+            "locality_id":1343645059,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1343645059,
+    "wof:lastmodified":1537677043,
+    "wof:name":"Tsile Tsile",
+    "wof:parent_id":1091702453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.34807,
+    -6.84314,
+    146.34807,
+    -6.84314
+],
+  "geometry": {"coordinates":[146.34807000000001,-6.84314],"type":"Point"}
+}

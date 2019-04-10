@@ -1,0 +1,71 @@
+{
+  "id": 1344134865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.92777,-3.62945,142.92777,-3.62945",
+    "geom:latitude":-3.62945,
+    "geom:longitude":142.92777,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Balangabadanga",
+    "gn:country_code":"PG",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100014,
+    "gn:latitude":-3.62945,
+    "gn:longitude":142.92777,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Balangabadanga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balangabadangal",
+        "Balangabadanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091703523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100014
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"352a47c0a6c207ec6b1e45bde755e271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703523,
+            "locality_id":1344134865,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1344134865,
+    "wof:lastmodified":1537677203,
+    "wof:name":"Balangabadanga",
+    "wof:parent_id":1091703523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.92777,
+    -3.62945,
+    142.92777,
+    -3.62945
+],
+  "geometry": {"coordinates":[142.92777000000001,-3.62945],"type":"Point"}
+}

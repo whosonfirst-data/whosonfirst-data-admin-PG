@@ -1,0 +1,75 @@
+{
+  "id": 1243295581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.8652,-5.92828,142.8652,-5.92828",
+    "geom:latitude":-5.92828,
+    "geom:longitude":142.8652,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Idauwi",
+    "gn:country_code":"PG",
+    "gn:dem":1787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8528023,
+    "gn:latitude":-5.92828,
+    "gn:longitude":142.8652,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Idauwi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        1108805615,
+        1091704637,
+        85676547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8528023
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"5d6a87cb6307c108187dc6aa2d355947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704637,
+            "locality_id":1243295581,
+            "region_id":1108805615
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704637,
+            "locality_id":1243295581,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1243295581,
+    "wof:lastmodified":1537022052,
+    "wof:name":"Idauwi",
+    "wof:parent_id":1091704637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.8652,
+    -5.92828,
+    142.8652,
+    -5.92828
+],
+  "geometry": {"coordinates":[142.86519999999999,-5.92828],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343938043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.34368,-4.4214,145.34368,-4.4214",
+    "geom:latitude":-4.4214,
+    "geom:longitude":145.34368,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Simbini",
+    "gn:country_code":"PG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086688,
+    "gn:latitude":-4.4214,
+    "gn:longitude":145.34368,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Simbini",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091702063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086688
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a2fe085e9701428a179c3d139950db67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702063,
+            "locality_id":1343938043,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1343938043,
+    "wof:lastmodified":1537050312,
+    "wof:name":"Simbini",
+    "wof:parent_id":1091702063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.34368,
+    -4.4214,
+    145.34368,
+    -4.4214
+],
+  "geometry": {"coordinates":[145.34368000000001,-4.4214],"type":"Point"}
+}

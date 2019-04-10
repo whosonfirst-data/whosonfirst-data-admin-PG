@@ -1,0 +1,67 @@
+{
+  "id": 1327336817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.77102,-6.83962,144.77102,-6.83962",
+    "geom:latitude":-6.83962,
+    "geom:longitude":144.77102,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Suru",
+    "gn:country_code":"PG",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086106,
+    "gn:latitude":-6.83962,
+    "gn:longitude":144.77102,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Suru",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091703049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086106
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c81d68568834a6f3b15c5862f2bb1357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703049,
+            "locality_id":1327336817,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1327336817,
+    "wof:lastmodified":1536817939,
+    "wof:name":"Suru",
+    "wof:parent_id":1091703049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.77102,
+    -6.83962,
+    144.77102,
+    -6.83962
+],
+  "geometry": {"coordinates":[144.77101999999999,-6.83962],"type":"Point"}
+}

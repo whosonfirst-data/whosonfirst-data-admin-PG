@@ -1,0 +1,67 @@
+{
+  "id": 1276761571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.66404,-6.2517,143.66404,-6.2517",
+    "geom:latitude":-6.2517,
+    "geom:longitude":143.66404,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Iore",
+    "gn:country_code":"PG",
+    "gn:dem":1760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095531,
+    "gn:latitude":-6.2517,
+    "gn:longitude":143.66404,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Iore",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095531
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e07a292eafde8c2791a75a3ef42dc78b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702573,
+            "locality_id":1276761571,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1276761571,
+    "wof:lastmodified":1536702328,
+    "wof:name":"Iore",
+    "wof:parent_id":1091702573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.66404,
+    -6.2517,
+    143.66404,
+    -6.2517
+],
+  "geometry": {"coordinates":[143.66404,-6.2517],"type":"Point"}
+}

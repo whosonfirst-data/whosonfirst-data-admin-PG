@@ -1,0 +1,71 @@
+{
+  "id": 1327204901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.7444,-6.90422,146.7444,-6.90422",
+    "geom:latitude":-6.90422,
+    "geom:longitude":146.7444,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Chimbuluk",
+    "gn:country_code":"PG",
+    "gn:dem":1187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098594,
+    "gn:latitude":-6.90422,
+    "gn:longitude":146.7444,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chimbuluk",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chimbulok",
+        "Chimbuluk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098594
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a11179fbb02d2cbe18095a2be4fb83a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702091,
+            "locality_id":1327204901,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1327204901,
+    "wof:lastmodified":1537677185,
+    "wof:name":"Chimbuluk",
+    "wof:parent_id":1091702091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.7444,
+    -6.90422,
+    146.7444,
+    -6.90422
+],
+  "geometry": {"coordinates":[146.74440000000001,-6.90422],"type":"Point"}
+}

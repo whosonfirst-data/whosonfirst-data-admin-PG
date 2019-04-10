@@ -1,0 +1,67 @@
+{
+  "id": 1226746757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.16667,-6.46667,144.16667,-6.46667",
+    "geom:latitude":-6.46667,
+    "geom:longitude":144.16667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Maubin",
+    "gn:country_code":"PG",
+    "gn:dem":1510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091144,
+    "gn:latitude":-6.46667,
+    "gn:longitude":144.16667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Maubin",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091144
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"fbca24778cc7c9302580c1ef884a9881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702491,
+            "locality_id":1226746757,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1226746757,
+    "wof:lastmodified":1536714372,
+    "wof:name":"Maubin",
+    "wof:parent_id":1091702491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.16666999999995,
+    -6.46667,
+    144.16666999999995,
+    -6.46667
+],
+  "geometry": {"coordinates":[144.16666999999995,-6.46667],"type":"Point"}
+}

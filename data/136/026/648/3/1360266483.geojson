@@ -1,0 +1,71 @@
+{
+  "id": 1360266483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.43048,-3.70241,143.43048,-3.70241",
+    "geom:latitude":-3.70241,
+    "geom:longitude":143.43048,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Abauia 1",
+    "gn:country_code":"PG",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101428,
+    "gn:latitude":-3.70241,
+    "gn:longitude":143.43048,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Abauia 1",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abauia",
+        "Abauia 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101428
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"19f39e7742fb2f0c42b087d851cbb545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705179,
+            "locality_id":1360266483,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1360266483,
+    "wof:lastmodified":1537677220,
+    "wof:name":"Abauia 1",
+    "wof:parent_id":1091705179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.43048000000005,
+    -3.70241,
+    143.43048000000005,
+    -3.70241
+],
+  "geometry": {"coordinates":[143.43048000000005,-3.70241],"type":"Point"}
+}

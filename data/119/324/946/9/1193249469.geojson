@@ -1,0 +1,67 @@
+{
+  "id": 1193249469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.21709,-6.17983,146.21709,-6.17983",
+    "geom:latitude":-6.17983,
+    "geom:longitude":146.21709,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Tofmora",
+    "gn:country_code":"PG",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8439207,
+    "gn:latitude":-6.17983,
+    "gn:longitude":146.21709,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Tofmora",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8439207
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b72412b85837a8c505c5fb84eb67e48c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703565,
+            "locality_id":1193249469,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1193249469,
+    "wof:lastmodified":1536369652,
+    "wof:name":"Tofmora",
+    "wof:parent_id":1091703565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.21708999999996,
+    -6.17983,
+    146.21708999999996,
+    -6.17983
+],
+  "geometry": {"coordinates":[146.21708999999996,-6.17983],"type":"Point"}
+}

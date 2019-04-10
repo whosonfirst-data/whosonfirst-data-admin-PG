@@ -1,0 +1,67 @@
+{
+  "id": 1226321621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.7,-7.03333,146.7,-7.03333",
+    "geom:latitude":-7.03333,
+    "geom:longitude":146.7,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Katumani Hamlet",
+    "gn:country_code":"PG",
+    "gn:dem":1126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094442,
+    "gn:latitude":-7.03333,
+    "gn:longitude":146.7,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Katumani Hamlet",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094442
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"91b2899ed11472e206d3c1815d18dc75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702091,
+            "locality_id":1226321621,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1226321621,
+    "wof:lastmodified":1536823433,
+    "wof:name":"Katumani Hamlet",
+    "wof:parent_id":1091702091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.7,
+    -7.03333,
+    146.7,
+    -7.03333
+],
+  "geometry": {"coordinates":[146.69999999999999,-7.03333],"type":"Point"}
+}

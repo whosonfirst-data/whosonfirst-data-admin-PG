@@ -1,0 +1,61 @@
+{
+  "id": 1243154885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.24659,-2.37271,150.24659,-2.37271",
+    "geom:latitude":-2.37271,
+    "geom:longitude":150.24659,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Ungalik",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084674,
+    "gn:latitude":-2.37271,
+    "gn:longitude":150.24659,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Ungalik",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084674
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"56577f9503ed1982b024c36b4f74c271",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243154885,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243154885,
+    "wof:lastmodified":1536729341,
+    "wof:name":"Ungalik",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.24659,
+    -2.37271,
+    150.24659,
+    -2.37271
+],
+  "geometry": {"coordinates":[150.24659,-2.37271],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326952293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.21667,-8.28333,143.21667,-8.28333",
+    "geom:latitude":-8.28333,
+    "geom:longitude":143.21667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Wariabodora",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083790,
+    "gn:latitude":-8.28333,
+    "gn:longitude":143.21667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Wariabodora",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wariobodoro",
+        "Waribodoro",
+        "Wariabodora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083790
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"7c29ea5f11f81f9cdbb64069df799620",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1326952293,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326952293,
+    "wof:lastmodified":1537677031,
+    "wof:name":"Wariabodora",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.21667,
+    -8.28333,
+    143.21667,
+    -8.28333
+],
+  "geometry": {"coordinates":[143.21666999999999,-8.28333],"type":"Point"}
+}

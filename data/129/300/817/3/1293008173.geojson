@@ -1,0 +1,67 @@
+{
+  "id": 1293008173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.96131,-10.05221,150.96131,-10.05221",
+    "geom:latitude":-10.05221,
+    "geom:longitude":150.96131,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Waikaiuna",
+    "gn:country_code":"PG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2132340,
+    "gn:latitude":-10.05221,
+    "gn:longitude":150.96131,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Waikaiuna",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2132340
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"275ee3f6c363339eb0c0bcc4ed2d987f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702299,
+            "locality_id":1293008173,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1293008173,
+    "wof:lastmodified":1536980283,
+    "wof:name":"Waikaiuna",
+    "wof:parent_id":1091702299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.96131,
+    -10.05221,
+    150.96131,
+    -10.05221
+],
+  "geometry": {"coordinates":[150.96131,-10.05221],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209385235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.96642,-4.70834,152.96642,-4.70834",
+    "geom:latitude":-4.70834,
+    "geom:longitude":152.96642,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Beriota",
+    "gn:country_code":"PG",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099601,
+    "gn:latitude":-4.70834,
+    "gn:longitude":152.96642,
+    "gn:modification_date":"2015-08-18",
+    "gn:name":"Beriota",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099601,
+        "wk:page":"Beriota"
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"5d279becd9c545860e831549cf50fe30",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209385235
+        }
+    ],
+    "wof:id":1209385235,
+    "wof:lastmodified":1537570323,
+    "wof:name":"Beriota",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.96642,
+    -4.70834,
+    152.96642,
+    -4.70834
+],
+  "geometry": {"coordinates":[152.96642,-4.70834],"type":"Point"}
+}

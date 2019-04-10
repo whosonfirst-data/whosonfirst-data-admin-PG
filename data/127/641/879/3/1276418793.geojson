@@ -1,0 +1,67 @@
+{
+  "id": 1276418793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.31644,-4.58575,142.31644,-4.58575",
+    "geom:latitude":-4.58575,
+    "geom:longitude":142.31644,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Waurinapi",
+    "gn:country_code":"PG",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8527977,
+    "gn:latitude":-4.58575,
+    "gn:longitude":142.31644,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Waurinapi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8527977
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"69d4f094de2e591f3ba22e1255017bdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702053,
+            "locality_id":1276418793,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1276418793,
+    "wof:lastmodified":1536664213,
+    "wof:name":"Waurinapi",
+    "wof:parent_id":1091702053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.31644,
+    -4.58575,
+    142.31644,
+    -4.58575
+],
+  "geometry": {"coordinates":[142.31644,-4.58575],"type":"Point"}
+}

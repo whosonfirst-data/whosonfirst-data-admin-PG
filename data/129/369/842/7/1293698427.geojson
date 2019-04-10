@@ -1,0 +1,67 @@
+{
+  "id": 1293698427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.95,-10.6,150.95,-10.6",
+    "geom:latitude":-10.6,
+    "geom:longitude":150.95,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Hamama",
+    "gn:country_code":"PG",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133401,
+    "gn:latitude":-10.6,
+    "gn:longitude":150.95,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Hamama",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091704299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133401
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"36f8f29d81c003bb120c76767dae45e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704299,
+            "locality_id":1293698427,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1293698427,
+    "wof:lastmodified":1536979581,
+    "wof:name":"Hamama",
+    "wof:parent_id":1091704299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.95,
+    -10.6,
+    150.95,
+    -10.6
+],
+  "geometry": {"coordinates":[150.94999999999999,-10.6],"type":"Point"}
+}

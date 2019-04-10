@@ -1,0 +1,67 @@
+{
+  "id": 1276573723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.1,-5.81667,141.1,-5.81667",
+    "geom:latitude":-5.81667,
+    "geom:longitude":141.1,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sarae",
+    "gn:country_code":"PG",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087179,
+    "gn:latitude":-5.81667,
+    "gn:longitude":141.1,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Sarae",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087179
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a606e5af0f80f79580e87c631dee043f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1276573723,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1276573723,
+    "wof:lastmodified":1536954249,
+    "wof:name":"Sarae",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.1,
+    -5.81667,
+    141.1,
+    -5.81667
+],
+  "geometry": {"coordinates":[141.09999999999999,-5.81667],"type":"Point"}
+}

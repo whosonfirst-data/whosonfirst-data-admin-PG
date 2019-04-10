@@ -1,0 +1,67 @@
+{
+  "id": 1193144533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.03384,-10.11111,151.03384,-10.11111",
+    "geom:latitude":-10.11111,
+    "geom:longitude":151.03384,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kurada",
+    "gn:country_code":"PG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133103,
+    "gn:latitude":-10.11111,
+    "gn:longitude":151.03384,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kurada",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133103
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"128e15c86e4c834ab5e6b68d0a8a8ce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702299,
+            "locality_id":1193144533,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1193144533,
+    "wof:lastmodified":1536384646,
+    "wof:name":"Kurada",
+    "wof:parent_id":1091702299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.03384,
+    -10.11111,
+    151.03384,
+    -10.11111
+],
+  "geometry": {"coordinates":[151.03384,-10.11111],"type":"Point"}
+}

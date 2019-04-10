@@ -1,0 +1,72 @@
+{
+  "id": 1310402595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.96667,-5.81667,144.96667,-5.81667",
+    "geom:latitude":-5.81667,
+    "geom:longitude":144.96667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Yingumkane",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":2860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2082899,
+    "gn:latitude":-5.81667,
+    "gn:longitude":144.96667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yingumkane",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yinggumkane",
+        "Yingumkane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091703003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2082899
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"912520b29e8984badb244e302aab17e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703003,
+            "locality_id":1310402595,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1310402595,
+    "wof:lastmodified":1537677019,
+    "wof:name":"Yingumkane",
+    "wof:parent_id":1091703003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.96667,
+    -5.81667,
+    144.96667,
+    -5.81667
+],
+  "geometry": {"coordinates":[144.96666999999999,-5.81667],"type":"Point"}
+}

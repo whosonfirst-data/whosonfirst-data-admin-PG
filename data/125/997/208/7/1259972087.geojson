@@ -1,0 +1,71 @@
+{
+  "id": 1259972087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.04314,-5.6119,141.04314,-5.6119",
+    "geom:latitude":-5.6119,
+    "geom:longitude":141.04314,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tarabits",
+    "gn:country_code":"PG",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085793,
+    "gn:latitude":-5.6119,
+    "gn:longitude":141.04314,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Tarabits",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tarakbits",
+        "Tarabits"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085793
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ad98728e08e2c25cdbf4081d63038898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1259972087,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1259972087,
+    "wof:lastmodified":1537677051,
+    "wof:name":"Tarabits",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.04314,
+    -5.6119,
+    141.04314,
+    -5.6119
+],
+  "geometry": {"coordinates":[141.04313999999999,-5.6119],"type":"Point"}
+}

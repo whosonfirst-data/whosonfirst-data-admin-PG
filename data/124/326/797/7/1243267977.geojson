@@ -1,0 +1,67 @@
+{
+  "id": 1243267977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.40941,-10.17737,149.40941,-10.17737",
+    "geom:latitude":-10.17737,
+    "geom:longitude":149.40941,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gaburu",
+    "gn:country_code":"PG",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133558,
+    "gn:latitude":-10.17737,
+    "gn:longitude":149.40941,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Gaburu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091701919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133558
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4f2ce957d2d1f98b3ddd54b3a66a6ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091701919,
+            "locality_id":1243267977,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1243267977,
+    "wof:lastmodified":1537060116,
+    "wof:name":"Gaburu",
+    "wof:parent_id":1091701919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.40941,
+    -10.17737,
+    149.40941,
+    -10.17737
+],
+  "geometry": {"coordinates":[149.40941000000001,-10.17737],"type":"Point"}
+}

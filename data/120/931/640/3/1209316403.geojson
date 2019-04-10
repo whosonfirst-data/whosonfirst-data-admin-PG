@@ -1,0 +1,61 @@
+{
+  "id": 1209316403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.42806,-9.90104,149.42806,-9.90104",
+    "geom:latitude":-9.90104,
+    "geom:longitude":149.42806,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Uni",
+    "gn:country_code":"PG",
+    "gn:dem":1060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084660,
+    "gn:latitude":-9.90104,
+    "gn:longitude":149.42806,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Uni",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084660
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f4603066fd47a8e8e2f42ca2fc0d2868",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209316403
+        }
+    ],
+    "wof:id":1209316403,
+    "wof:lastmodified":1536290849,
+    "wof:name":"Uni",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.42806000000004,
+    -9.90104,
+    149.42806000000004,
+    -9.90104
+],
+  "geometry": {"coordinates":[149.42806000000004,-9.90104],"type":"Point"}
+}

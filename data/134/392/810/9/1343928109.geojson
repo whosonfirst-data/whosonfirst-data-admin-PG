@@ -1,0 +1,67 @@
+{
+  "id": 1343928109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.96159,-2.87171,151.96159,-2.87171",
+    "geom:latitude":-2.87171,
+    "geom:longitude":151.96159,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Tiripats",
+    "gn:country_code":"PG",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085385,
+    "gn:latitude":-2.87171,
+    "gn:longitude":151.96159,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Tiripats",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091703829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085385
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"7693bf32b8e0fe703e6727eb5eb876d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703829,
+            "locality_id":1343928109,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1343928109,
+    "wof:lastmodified":1537063952,
+    "wof:name":"Tiripats",
+    "wof:parent_id":1091703829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.96159,
+    -2.87171,
+    151.96159,
+    -2.87171
+],
+  "geometry": {"coordinates":[151.96159,-2.87171],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277148485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.26667,-5.83333,150.26667,-5.83333",
+    "geom:latitude":-5.83333,
+    "geom:longitude":150.26667,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Iok",
+    "gn:country_code":"PG",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095552,
+    "gn:latitude":-5.83333,
+    "gn:longitude":150.26667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Iok",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676599,
+        1091704547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095552
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"86ff5bd2cea671b745aeafd28f24d04b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704547,
+            "locality_id":1277148485,
+            "region_id":85676599
+        }
+    ],
+    "wof:id":1277148485,
+    "wof:lastmodified":1536672940,
+    "wof:name":"Iok",
+    "wof:parent_id":1091704547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.26667,
+    -5.83333,
+    150.26667,
+    -5.83333
+],
+  "geometry": {"coordinates":[150.26667,-5.83333],"type":"Point"}
+}

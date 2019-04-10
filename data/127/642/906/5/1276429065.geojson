@@ -1,0 +1,67 @@
+{
+  "id": 1276429065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.05316,-4.36126,144.05316,-4.36126",
+    "geom:latitude":-4.36126,
+    "geom:longitude":144.05316,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kambuku Village",
+    "gn:country_code":"PG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094824,
+    "gn:latitude":-4.36126,
+    "gn:longitude":144.05316,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kambuku Village",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094824
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c33c66714694e79f43e5076ed66c4531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702059,
+            "locality_id":1276429065,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1276429065,
+    "wof:lastmodified":1536650160,
+    "wof:name":"Kambuku Village",
+    "wof:parent_id":1091702059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.05316000000005,
+    -4.36126,
+    144.05316000000005,
+    -4.36126
+],
+  "geometry": {"coordinates":[144.05316000000005,-4.36126],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327011019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.41654,-5.18909,144.41654,-5.18909",
+    "geom:latitude":-5.18909,
+    "geom:longitude":144.41654,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Dusin",
+    "gn:country_code":"PG",
+    "gn:dem":1707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8529052,
+    "gn:latitude":-5.18909,
+    "gn:longitude":144.41654,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Dusin",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091703709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8529052
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e4b0cca977b1888358eef6a5411d9141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703709,
+            "locality_id":1327011019,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1327011019,
+    "wof:lastmodified":1536791719,
+    "wof:name":"Dusin",
+    "wof:parent_id":1091703709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.41654,
+    -5.18909,
+    144.41654,
+    -5.18909
+],
+  "geometry": {"coordinates":[144.41654,-5.18909],"type":"Point"}
+}

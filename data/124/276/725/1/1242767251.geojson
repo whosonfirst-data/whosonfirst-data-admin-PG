@@ -1,0 +1,67 @@
+{
+  "id": 1242767251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.31667,-5.95,145.31667,-5.95",
+    "geom:latitude":-5.95,
+    "geom:longitude":145.31667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Gohenayuno",
+    "gn:country_code":"PG",
+    "gn:dem":1859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096833,
+    "gn:latitude":-5.95,
+    "gn:longitude":145.31667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Gohenayuno",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091702211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096833
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a803ed1a5c1b8df3f7377f04f0b6f214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702211,
+            "locality_id":1242767251,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1242767251,
+    "wof:lastmodified":1536790908,
+    "wof:name":"Gohenayuno",
+    "wof:parent_id":1091702211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.31667,
+    -5.95,
+    145.31667,
+    -5.95
+],
+  "geometry": {"coordinates":[145.31666999999999,-5.95],"type":"Point"}
+}

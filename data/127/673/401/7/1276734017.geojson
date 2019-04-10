@@ -1,0 +1,71 @@
+{
+  "id": 1276734017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.14678,-5.53199,149.14678,-5.53199",
+    "geom:latitude":-5.53199,
+    "geom:longitude":149.14678,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Ketenge",
+    "gn:country_code":"PG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094099,
+    "gn:latitude":-5.53199,
+    "gn:longitude":149.14678,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ketenge",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ketengi",
+        "Ketenge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676599,
+        1091702827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094099
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"53df2019b700097e710565fef83abc69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702827,
+            "locality_id":1276734017,
+            "region_id":85676599
+        }
+    ],
+    "wof:id":1276734017,
+    "wof:lastmodified":1537677139,
+    "wof:name":"Ketenge",
+    "wof:parent_id":1091702827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.14678,
+    -5.53199,
+    149.14678,
+    -5.53199
+],
+  "geometry": {"coordinates":[149.14678000000001,-5.53199],"type":"Point"}
+}

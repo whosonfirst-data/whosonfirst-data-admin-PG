@@ -1,0 +1,72 @@
+{
+  "id": 1225968409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.45,-9.51667,148.45,-9.51667",
+    "geom:latitude":-9.51667,
+    "geom:longitude":148.45,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Liamu",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092374,
+    "gn:latitude":-9.51667,
+    "gn:longitude":148.45,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Liamu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liamo",
+        "Liamu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091702531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092374
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"020634a837c3b3c08910459b1c3622ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702531,
+            "locality_id":1225968409,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1225968409,
+    "wof:lastmodified":1537677118,
+    "wof:name":"Liamu",
+    "wof:parent_id":1091702531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.45,
+    -9.51667,
+    148.45,
+    -9.51667
+],
+  "geometry": {"coordinates":[148.44999999999999,-9.51667],"type":"Point"}
+}

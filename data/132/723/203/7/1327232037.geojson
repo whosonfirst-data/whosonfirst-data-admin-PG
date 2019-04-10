@@ -1,0 +1,72 @@
+{
+  "id": 1327232037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.01499,-8.7463,148.01499,-8.7463",
+    "geom:latitude":-8.7463,
+    "geom:longitude":148.01499,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Divinikoiari",
+    "gn:country_code":"PG",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098107,
+    "gn:latitude":-8.7463,
+    "gn:longitude":148.01499,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Divinikoiari",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Divinukoiari",
+        "Divinikoari",
+        "Divinikoiari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091704393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098107
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"317ead3c9c563c0100cfe323e86c718b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704393,
+            "locality_id":1327232037,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1327232037,
+    "wof:lastmodified":1537677182,
+    "wof:name":"Divinikoiari",
+    "wof:parent_id":1091704393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.01498999999995,
+    -8.7463,
+    148.01498999999995,
+    -8.7463
+],
+  "geometry": {"coordinates":[148.01498999999995,-8.7463],"type":"Point"}
+}

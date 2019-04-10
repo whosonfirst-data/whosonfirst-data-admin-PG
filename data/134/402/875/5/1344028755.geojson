@@ -1,0 +1,67 @@
+{
+  "id": 1344028755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.93178,-6.40311,146.93178,-6.40311",
+    "geom:latitude":-6.40311,
+    "geom:longitude":146.93178,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Bangdap",
+    "gn:country_code":"PG",
+    "gn:dem":1091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099914,
+    "gn:latitude":-6.40311,
+    "gn:longitude":146.93178,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Bangdap",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099914
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"296d934f83a3a832014f17781c9c1d06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703899,
+            "locality_id":1344028755,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1344028755,
+    "wof:lastmodified":1536922136,
+    "wof:name":"Bangdap",
+    "wof:parent_id":1091703899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.93178,
+    -6.40311,
+    146.93178,
+    -6.40311
+],
+  "geometry": {"coordinates":[146.93178,-6.40311],"type":"Point"}
+}

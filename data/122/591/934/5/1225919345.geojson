@@ -1,0 +1,67 @@
+{
+  "id": 1225919345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.17513,-5.44362,143.17513,-5.44362",
+    "geom:latitude":-5.44362,
+    "geom:longitude":143.17513,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Pandam",
+    "gn:country_code":"PG",
+    "gn:dem":2222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8528160,
+    "gn:latitude":-5.44362,
+    "gn:longitude":143.17513,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Pandam",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676513,
+        1091703371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8528160
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"33f2361e3738729ba914872cbee9f009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703371,
+            "locality_id":1225919345,
+            "region_id":85676513
+        }
+    ],
+    "wof:id":1225919345,
+    "wof:lastmodified":1536907903,
+    "wof:name":"Pandam",
+    "wof:parent_id":1091703371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.17513,
+    -5.44362,
+    143.17513,
+    -5.44362
+],
+  "geometry": {"coordinates":[143.17513,-5.44362],"type":"Point"}
+}

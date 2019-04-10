@@ -1,0 +1,71 @@
+{
+  "id": 1242647499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"153.32737,-3.39463,153.32737,-3.39463",
+    "geom:latitude":-3.39463,
+    "geom:longitude":153.32737,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Tiriwan",
+    "gn:country_code":"PG",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085383,
+    "gn:latitude":-3.39463,
+    "gn:longitude":153.32737,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tiriwan",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trewon",
+        "Tiriwan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091703829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085383
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"50299ad3b5d5f15b0a50e15d096e3907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703829,
+            "locality_id":1242647499,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1242647499,
+    "wof:lastmodified":1537677046,
+    "wof:name":"Tiriwan",
+    "wof:parent_id":1091703829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    153.32737,
+    -3.39463,
+    153.32737,
+    -3.39463
+],
+  "geometry": {"coordinates":[153.32737,-3.39463],"type":"Point"}
+}

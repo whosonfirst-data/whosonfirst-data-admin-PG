@@ -1,0 +1,67 @@
+{
+  "id": 1277066447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.87527,-6.20509,145.87527,-6.20509",
+    "geom:latitude":-6.20509,
+    "geom:longitude":145.87527,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Unantu",
+    "gn:country_code":"PG",
+    "gn:dem":1680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084693,
+    "gn:latitude":-6.20509,
+    "gn:longitude":145.87527,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Unantu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091702711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084693
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"647faa63151280e97450c2341224a388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702711,
+            "locality_id":1277066447,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1277066447,
+    "wof:lastmodified":1536791299,
+    "wof:name":"Unantu",
+    "wof:parent_id":1091702711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.87527,
+    -6.20509,
+    145.87527,
+    -6.20509
+],
+  "geometry": {"coordinates":[145.87527,-6.20509],"type":"Point"}
+}

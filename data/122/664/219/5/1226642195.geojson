@@ -1,0 +1,67 @@
+{
+  "id": 1226642195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.30441,-6.33878,145.30441,-6.33878",
+    "geom:latitude":-6.33878,
+    "geom:longitude":145.30441,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Lufa",
+    "gn:country_code":"PG",
+    "gn:dem":1855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092105,
+    "gn:latitude":-6.33878,
+    "gn:longitude":145.30441,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Lufa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091703417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092105
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"46d23a075018507db9c73f3fc7cd2252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703417,
+            "locality_id":1226642195,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1226642195,
+    "wof:lastmodified":1536863190,
+    "wof:name":"Lufa",
+    "wof:parent_id":1091703417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.30441000000005,
+    -6.33878,
+    145.30441000000005,
+    -6.33878
+],
+  "geometry": {"coordinates":[145.30441000000005,-6.33878],"type":"Point"}
+}

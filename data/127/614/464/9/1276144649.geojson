@@ -1,0 +1,67 @@
+{
+  "id": 1276144649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.99008,-6.09261,144.99008,-6.09261",
+    "geom:latitude":-6.09261,
+    "geom:longitude":144.99008,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sirai",
+    "gn:country_code":"PG",
+    "gn:dem":1976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8529230,
+    "gn:latitude":-6.09261,
+    "gn:longitude":144.99008,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Sirai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091704349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8529230
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"01bb3b932dd6275b0819f47d31407c18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704349,
+            "locality_id":1276144649,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1276144649,
+    "wof:lastmodified":1537030256,
+    "wof:name":"Sirai",
+    "wof:parent_id":1091704349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.99008,
+    -6.09261,
+    144.99008,
+    -6.09261
+],
+  "geometry": {"coordinates":[144.99008000000001,-6.09261],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225931965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.05,-3.68333,143.05,-3.68333",
+    "geom:latitude":-3.68333,
+    "geom:longitude":143.05,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Wora",
+    "gn:country_code":"PG",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083344,
+    "gn:latitude":-3.68333,
+    "gn:longitude":143.05,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Wora",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091703523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083344
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"031c5bc0271b2fa6907e0285dfb89e20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703523,
+            "locality_id":1225931965,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1225931965,
+    "wof:lastmodified":1536888923,
+    "wof:name":"Wora",
+    "wof:parent_id":1091703523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.05,
+    -3.68333,
+    143.05,
+    -3.68333
+],
+  "geometry": {"coordinates":[143.05000000000001,-3.68333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243194983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.98333,-6.41667,143.98333,-6.41667",
+    "geom:latitude":-6.41667,
+    "geom:longitude":143.98333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Taguanda",
+    "gn:country_code":"PG",
+    "gn:dem":2011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086012,
+    "gn:latitude":-6.41667,
+    "gn:longitude":143.98333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Taguanda",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086012
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0d684f34481ab081a17687746e0cf8bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702665,
+            "locality_id":1243194983,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1243194983,
+    "wof:lastmodified":1536671065,
+    "wof:name":"Taguanda",
+    "wof:parent_id":1091702665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.98333,
+    -6.41667,
+    143.98333,
+    -6.41667
+],
+  "geometry": {"coordinates":[143.98333,-6.41667],"type":"Point"}
+}

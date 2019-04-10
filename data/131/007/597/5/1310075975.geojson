@@ -1,0 +1,67 @@
+{
+  "id": 1310075975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.53427,-3.91563,152.53427,-3.91563",
+    "geom:latitude":-3.91563,
+    "geom:longitude":152.53427,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Kabahon Mission",
+    "gn:country_code":"PG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095215,
+    "gn:latitude":-3.91563,
+    "gn:longitude":152.53427,
+    "gn:modification_date":"2015-08-18",
+    "gn:name":"Kabahon Mission",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091703829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095215
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ced71058bf3e7ded84cad5556d612578",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703829,
+            "locality_id":1310075975,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1310075975,
+    "wof:lastmodified":1537037578,
+    "wof:name":"Kabahon Mission",
+    "wof:parent_id":1091703829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.53427,
+    -3.91563,
+    152.53427,
+    -3.91563
+],
+  "geometry": {"coordinates":[152.53426999999999,-3.91563],"type":"Point"}
+}

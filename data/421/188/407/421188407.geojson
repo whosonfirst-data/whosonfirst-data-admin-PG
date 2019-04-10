@@ -1,0 +1,93 @@
+{
+  "id": 421188407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.18333,-9.5,147.18333,-9.5",
+    "geom:latitude":-9.5,
+    "geom:longitude":147.18333,
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Kila"
+    ],
+    "name:nld_x_preferred":[
+        "Kila"
+    ],
+    "name:que_x_preferred":[
+        "Kila"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kila"
+    ],
+    "qs:gn_country":"PG",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":2093999,
+    "qs:gn_pop":0,
+    "qs:name":"Kila",
+    "qs:name_adm0":"Papua New Guinea",
+    "qs:name_adm1":"National Capital",
+    "qs:photos":10,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":10,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1096455,
+    "qs:woe_adm0":23424926,
+    "qs:woe_id":1055186,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        1091703859,
+        85676581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093999,
+        "gp:id":1055186,
+        "qs:id":1096455
+    },
+    "wof:country":"PG",
+    "wof:created":1459009554,
+    "wof:geomhash":"d3445b4a8f9e139bc9a52cd38fcf1d15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703859,
+            "locality_id":-1,
+            "neighbourhood_id":421188407,
+            "region_id":85676581
+        }
+    ],
+    "wof:id":421188407,
+    "wof:lastmodified":1531858619,
+    "wof:name":"Kila",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.18333,
+    -9.5,
+    147.18333,
+    -9.5
+],
+  "geometry": {"coordinates":[147.18333000000001,-9.5],"type":"Point"}
+}

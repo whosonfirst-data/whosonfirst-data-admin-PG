@@ -1,0 +1,67 @@
+{
+  "id": 1276439125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.09182,-5.8967,141.09182,-5.8967",
+    "geom:latitude":-5.8967,
+    "geom:longitude":141.09182,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Iogi",
+    "gn:country_code":"PG",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095555,
+    "gn:latitude":-5.8967,
+    "gn:longitude":141.09182,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Iogi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095555
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"51a1a50f22a481de6dfb67cc47790441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1276439125,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1276439125,
+    "wof:lastmodified":1536635641,
+    "wof:name":"Iogi",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.09181999999996,
+    -5.8967,
+    141.09181999999996,
+    -5.8967
+],
+  "geometry": {"coordinates":[141.09181999999996,-5.8967],"type":"Point"}
+}

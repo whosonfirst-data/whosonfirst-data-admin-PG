@@ -1,0 +1,71 @@
+{
+  "id": 1226050053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.39518,-9.68047,149.39518,-9.68047",
+    "geom:latitude":-9.68047,
+    "geom:longitude":149.39518,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Wapon",
+    "gn:country_code":"PG",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083847,
+    "gn:latitude":-9.68047,
+    "gn:longitude":149.39518,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Wapon",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wapona",
+        "Wapon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083847
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"724b2919c0ee2c25ea42f76b4c56bec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702001,
+            "locality_id":1226050053,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1226050053,
+    "wof:lastmodified":1537677031,
+    "wof:name":"Wapon",
+    "wof:parent_id":1091702001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.39518,
+    -9.68047,
+    149.39518,
+    -9.68047
+],
+  "geometry": {"coordinates":[149.39518000000001,-9.68047],"type":"Point"}
+}

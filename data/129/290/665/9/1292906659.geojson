@@ -1,0 +1,67 @@
+{
+  "id": 1292906659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.50706,-7.92067,145.50706,-7.92067",
+    "geom:latitude":-7.92067,
+    "geom:longitude":145.50706,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Aruruhu",
+    "gn:country_code":"PG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100501,
+    "gn:latitude":-7.92067,
+    "gn:longitude":145.50706,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Aruruhu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091703049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100501
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8ccf1a0be8a6a83d930e954a58ead834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703049,
+            "locality_id":1292906659,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1292906659,
+    "wof:lastmodified":1536628555,
+    "wof:name":"Aruruhu",
+    "wof:parent_id":1091703049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.50706,
+    -7.92067,
+    145.50706,
+    -7.92067
+],
+  "geometry": {"coordinates":[145.50706,-7.92067],"type":"Point"}
+}

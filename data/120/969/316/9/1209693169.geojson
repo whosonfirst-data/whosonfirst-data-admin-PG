@@ -1,0 +1,61 @@
+{
+  "id": 1209693169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.65993,-5.22877,144.65993,-5.22877",
+    "geom:latitude":-5.22877,
+    "geom:longitude":144.65993,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Giringiri",
+    "gn:country_code":"PG",
+    "gn:dem":825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096913,
+    "gn:latitude":-5.22877,
+    "gn:longitude":144.65993,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Giringiri",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096913
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"35421796fc887c64c2e1ee3e683ca83f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209693169
+        }
+    ],
+    "wof:id":1209693169,
+    "wof:lastmodified":1536279168,
+    "wof:name":"Giringiri",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.65993,
+    -5.22877,
+    144.65993,
+    -5.22877
+],
+  "geometry": {"coordinates":[144.65993,-5.22877],"type":"Point"}
+}

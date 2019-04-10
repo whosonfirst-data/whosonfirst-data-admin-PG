@@ -1,0 +1,67 @@
+{
+  "id": 1343642639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.28333,-4.3,142.28333,-4.3",
+    "geom:latitude":-4.3,
+    "geom:longitude":142.28333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Yarmu",
+    "gn:country_code":"PG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083043,
+    "gn:latitude":-4.3,
+    "gn:longitude":142.28333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Yarmu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083043
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d9c8ab6cdef8274f83e5c8a604faf953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702053,
+            "locality_id":1343642639,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1343642639,
+    "wof:lastmodified":1536980143,
+    "wof:name":"Yarmu",
+    "wof:parent_id":1091702053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.28333,
+    -4.3,
+    142.28333,
+    -4.3
+],
+  "geometry": {"coordinates":[142.28333000000001,-4.3],"type":"Point"}
+}

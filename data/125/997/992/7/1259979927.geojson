@@ -1,0 +1,67 @@
+{
+  "id": 1259979927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.07027,-8.73372,148.07027,-8.73372",
+    "geom:latitude":-8.73372,
+    "geom:longitude":148.07027,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Togahau",
+    "gn:country_code":"PG",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085338,
+    "gn:latitude":-8.73372,
+    "gn:longitude":148.07027,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Togahau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091704393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085338
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0481c0f908e6f36f6ca3f720f5e13639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704393,
+            "locality_id":1259979927,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1259979927,
+    "wof:lastmodified":1536639271,
+    "wof:name":"Togahau",
+    "wof:parent_id":1091704393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.07027,
+    -8.73372,
+    148.07027,
+    -8.73372
+],
+  "geometry": {"coordinates":[148.07026999999999,-8.73372],"type":"Point"}
+}

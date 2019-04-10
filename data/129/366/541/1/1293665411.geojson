@@ -1,0 +1,67 @@
+{
+  "id": 1293665411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.83333,-5.58333,150.83333,-5.58333",
+    "geom:latitude":-5.58333,
+    "geom:longitude":150.83333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Salelubu",
+    "gn:country_code":"PG",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087355,
+    "gn:latitude":-5.58333,
+    "gn:longitude":150.83333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Salelubu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676599,
+        1091704547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087355
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"cc973c9a0f6bb01b40822523ef9915eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704547,
+            "locality_id":1293665411,
+            "region_id":85676599
+        }
+    ],
+    "wof:id":1293665411,
+    "wof:lastmodified":1537026660,
+    "wof:name":"Salelubu",
+    "wof:parent_id":1091704547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.83333000000005,
+    -5.58333,
+    150.83333000000005,
+    -5.58333
+],
+  "geometry": {"coordinates":[150.83333000000005,-5.58333],"type":"Point"}
+}

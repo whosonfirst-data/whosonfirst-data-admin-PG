@@ -1,0 +1,67 @@
+{
+  "id": 1276740077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.13757,-5.57226,146.13757,-5.57226",
+    "geom:latitude":-5.57226,
+    "geom:longitude":146.13757,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kubuk",
+    "gn:country_code":"PG",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093260,
+    "gn:latitude":-5.57226,
+    "gn:longitude":146.13757,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Kubuk",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093260
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"71905bc1c19c20316ccc51af04ef36dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704219,
+            "locality_id":1276740077,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1276740077,
+    "wof:lastmodified":1536731215,
+    "wof:name":"Kubuk",
+    "wof:parent_id":1091704219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.13756999999995,
+    -5.57226,
+    146.13756999999995,
+    -5.57226
+],
+  "geometry": {"coordinates":[146.13756999999995,-5.57226],"type":"Point"}
+}

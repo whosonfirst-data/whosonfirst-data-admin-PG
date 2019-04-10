@@ -1,0 +1,67 @@
+{
+  "id": 1343266501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.27109,-5.35514,142.27109,-5.35514",
+    "geom:latitude":-5.35514,
+    "geom:longitude":142.27109,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Yeru",
+    "gn:country_code":"PG",
+    "gn:dem":1321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8527991,
+    "gn:latitude":-5.35514,
+    "gn:longitude":142.27109,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Yeru",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        1108805615,
+        1091703247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8527991
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1ee293ab9c2823507cb17a4f2e8b7e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703247,
+            "locality_id":1343266501,
+            "region_id":1108805615
+        }
+    ],
+    "wof:id":1343266501,
+    "wof:lastmodified":1537025038,
+    "wof:name":"Yeru",
+    "wof:parent_id":1091703247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.27109,
+    -5.35514,
+    142.27109,
+    -5.35514
+],
+  "geometry": {"coordinates":[142.27108999999999,-5.35514],"type":"Point"}
+}

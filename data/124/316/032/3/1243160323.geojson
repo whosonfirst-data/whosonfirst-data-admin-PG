@@ -1,0 +1,67 @@
+{
+  "id": 1243160323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.92135,-4.38609,141.92135,-4.38609",
+    "geom:latitude":-4.38609,
+    "geom:longitude":141.92135,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Auom",
+    "gn:country_code":"PG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100330,
+    "gn:latitude":-4.38609,
+    "gn:longitude":141.92135,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Auom",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100330
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"aff714a543ba5d483da1d2d75ffcef2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702053,
+            "locality_id":1243160323,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1243160323,
+    "wof:lastmodified":1536721457,
+    "wof:name":"Auom",
+    "wof:parent_id":1091702053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.92135,
+    -4.38609,
+    141.92135,
+    -4.38609
+],
+  "geometry": {"coordinates":[141.92134999999999,-4.38609],"type":"Point"}
+}

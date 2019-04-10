@@ -1,0 +1,67 @@
+{
+  "id": 1293461331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.95583,-5.27349,149.95583,-5.27349",
+    "geom:latitude":-5.27349,
+    "geom:longitude":149.95583,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Buluwara",
+    "gn:country_code":"PG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098848,
+    "gn:latitude":-5.27349,
+    "gn:longitude":149.95583,
+    "gn:modification_date":"2015-04-09",
+    "gn:name":"Buluwara",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676599,
+        1091704547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098848
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9fc60f981048ae3080f1ffa98d231715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704547,
+            "locality_id":1293461331,
+            "region_id":85676599
+        }
+    ],
+    "wof:id":1293461331,
+    "wof:lastmodified":1536824016,
+    "wof:name":"Buluwara",
+    "wof:parent_id":1091704547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.95583,
+    -5.27349,
+    149.95583,
+    -5.27349
+],
+  "geometry": {"coordinates":[149.95582999999999,-5.27349],"type":"Point"}
+}

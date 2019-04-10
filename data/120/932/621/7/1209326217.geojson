@@ -1,0 +1,61 @@
+{
+  "id": 1209326217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.8,-9.78333,149.8,-9.78333",
+    "geom:latitude":-9.78333,
+    "geom:longitude":149.8,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Reburebusiwasiwa",
+    "gn:country_code":"PG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087693,
+    "gn:latitude":-9.78333,
+    "gn:longitude":149.8,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Reburebusiwasiwa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087693
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"27a614c9c3490bf78e4e6027cc264cbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209326217
+        }
+    ],
+    "wof:id":1209326217,
+    "wof:lastmodified":1536290526,
+    "wof:name":"Reburebusiwasiwa",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.8,
+    -9.78333,
+    149.8,
+    -9.78333
+],
+  "geometry": {"coordinates":[149.80000000000001,-9.78333],"type":"Point"}
+}

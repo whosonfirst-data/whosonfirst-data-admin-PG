@@ -1,0 +1,63 @@
+{
+  "id": 1209896405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.97252,-4.2397,144.97252,-4.2397",
+    "geom:latitude":-4.2397,
+    "geom:longitude":144.97252,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Buaikulu",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098994,
+    "gn:latitude":-4.2397,
+    "gn:longitude":144.97252,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Buaikulu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098994
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"167280d99ca6daa4e88f5f0be3a597d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1209896405,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209896405,
+    "wof:lastmodified":1536388415,
+    "wof:name":"Buaikulu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.97252,
+    -4.2397,
+    144.97252,
+    -4.2397
+],
+  "geometry": {"coordinates":[144.97252,-4.2397],"type":"Point"}
+}

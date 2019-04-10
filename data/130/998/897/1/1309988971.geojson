@@ -1,0 +1,67 @@
+{
+  "id": 1309988971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.68477,-4.23942,152.68477,-4.23942",
+    "geom:latitude":-4.23942,
+    "geom:longitude":152.68477,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Semalu",
+    "gn:country_code":"PG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086960,
+    "gn:latitude":-4.23942,
+    "gn:longitude":152.68477,
+    "gn:modification_date":"2015-08-18",
+    "gn:name":"Semalu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091703829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086960
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"10d11b975c059b2fe13fcbaab4d24988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703829,
+            "locality_id":1309988971,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1309988971,
+    "wof:lastmodified":1536667185,
+    "wof:name":"Semalu",
+    "wof:parent_id":1091703829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.68477,
+    -4.23942,
+    152.68477,
+    -4.23942
+],
+  "geometry": {"coordinates":[152.68476999999999,-4.23942],"type":"Point"}
+}

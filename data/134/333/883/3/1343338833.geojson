@@ -1,0 +1,67 @@
+{
+  "id": 1343338833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.81666,-4.4819,144.81666,-4.4819",
+    "geom:latitude":-4.4819,
+    "geom:longitude":144.81666,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Barit",
+    "gn:country_code":"PG",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099829,
+    "gn:latitude":-4.4819,
+    "gn:longitude":144.81666,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Barit",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091702063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099829
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"00fe3760d215960308584e15fe8e5f0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702063,
+            "locality_id":1343338833,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1343338833,
+    "wof:lastmodified":1536922536,
+    "wof:name":"Barit",
+    "wof:parent_id":1091702063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.81666,
+    -4.4819,
+    144.81666,
+    -4.4819
+],
+  "geometry": {"coordinates":[144.81666000000001,-4.4819],"type":"Point"}
+}

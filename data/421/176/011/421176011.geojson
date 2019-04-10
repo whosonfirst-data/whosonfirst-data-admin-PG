@@ -1,0 +1,79 @@
+{
+  "id": 421176011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.3,-9.06667,149.3,-9.06667",
+    "geom:latitude":-9.06667,
+    "geom:longitude":149.3,
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Sefoa Mission"
+    ],
+    "qs:gn_country":"PG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2087008,
+    "qs:gn_pop":0,
+    "qs:name":"Sefoa",
+    "qs:name_adm0":"Papua New Guinea",
+    "qs:name_adm1":"Northern",
+    "qs:photos":66,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":66,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1039695,
+    "qs:woe_adm0":23424926,
+    "qs:woe_id":1061984,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091702531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087008,
+        "gp:id":1061984,
+        "qs:id":1039695
+    },
+    "wof:country":"PG",
+    "wof:created":1459009087,
+    "wof:geomhash":"d981b252f732009a9b8e83d1611bcf44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702531,
+            "locality_id":421176011,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":421176011,
+    "wof:lastmodified":1501229229,
+    "wof:name":"Sefoa",
+    "wof:parent_id":1091702531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.3,
+    -9.06667,
+    149.3,
+    -9.06667
+],
+  "geometry": {"coordinates":[149.30000000000001,-9.06667],"type":"Point"}
+}

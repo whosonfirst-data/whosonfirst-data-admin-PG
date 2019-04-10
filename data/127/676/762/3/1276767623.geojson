@@ -1,0 +1,67 @@
+{
+  "id": 1276767623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.84149,-6.21491,143.84149,-6.21491",
+    "geom:latitude":-6.21491,
+    "geom:longitude":143.84149,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Pundia",
+    "gn:country_code":"PG",
+    "gn:dem":2119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087991,
+    "gn:latitude":-6.21491,
+    "gn:longitude":143.84149,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Pundia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087991
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"99ceb4746ad72828c640c89ebef0b996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702573,
+            "locality_id":1276767623,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1276767623,
+    "wof:lastmodified":1536694111,
+    "wof:name":"Pundia",
+    "wof:parent_id":1091702573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.84149,
+    -6.21491,
+    143.84149,
+    -6.21491
+],
+  "geometry": {"coordinates":[143.84148999999999,-6.21491],"type":"Point"}
+}

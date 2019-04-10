@@ -1,0 +1,67 @@
+{
+  "id": 1276569235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.6939,-4.80863,151.6939,-4.80863",
+    "geom:latitude":-4.80863,
+    "geom:longitude":151.6939,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Matanakuani",
+    "gn:country_code":"PG",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10177600,
+    "gn:latitude":-4.80863,
+    "gn:longitude":151.6939,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Matanakuani",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091702397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10177600
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"03b2c4aa7226df3ccdce377a0d3a39ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702397,
+            "locality_id":1276569235,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1276569235,
+    "wof:lastmodified":1536960082,
+    "wof:name":"Matanakuani",
+    "wof:parent_id":1091702397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.6939,
+    -4.80863,
+    151.6939,
+    -4.80863
+],
+  "geometry": {"coordinates":[151.69390000000001,-4.80863],"type":"Point"}
+}

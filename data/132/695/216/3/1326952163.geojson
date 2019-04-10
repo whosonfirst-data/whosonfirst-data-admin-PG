@@ -1,0 +1,70 @@
+{
+  "id": 1326952163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.22788,-8.45776,143.22788,-8.45776",
+    "geom:latitude":-8.45776,
+    "geom:longitude":143.22788,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kubira",
+    "gn:country_code":"PG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425485,
+    "gn:latitude":-8.45776,
+    "gn:longitude":143.22788,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Kubira",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kubira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425485
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"bfeba41686c67a7a941f7a6cf9381aeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704467,
+            "locality_id":1326952163,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1326952163,
+    "wof:lastmodified":1537677227,
+    "wof:name":"Kubira",
+    "wof:parent_id":1091704467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.22788,
+    -8.45776,
+    143.22788,
+    -8.45776
+],
+  "geometry": {"coordinates":[143.22788,-8.45776],"type":"Point"}
+}

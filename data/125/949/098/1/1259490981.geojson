@@ -1,0 +1,67 @@
+{
+  "id": 1259490981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.83055,-9.48855,150.83055,-9.48855",
+    "geom:latitude":-9.48855,
+    "geom:longitude":150.83055,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Eiatoto-Unu",
+    "gn:country_code":"PG",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097788,
+    "gn:latitude":-9.48855,
+    "gn:longitude":150.83055,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Eiatoto-Unu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097788
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c0d0b7004b7e85ef4fe99714be9e935a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702299,
+            "locality_id":1259490981,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1259490981,
+    "wof:lastmodified":1536846860,
+    "wof:name":"Eiatoto-Unu",
+    "wof:parent_id":1091702299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.83055,
+    -9.48855,
+    150.83055,
+    -9.48855
+],
+  "geometry": {"coordinates":[150.83054999999999,-9.48855],"type":"Point"}
+}

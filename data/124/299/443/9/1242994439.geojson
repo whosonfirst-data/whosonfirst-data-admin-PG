@@ -1,0 +1,72 @@
+{
+  "id": 1242994439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"155.4494,-6.24606,155.4494,-6.24606",
+    "geom:latitude":-6.24606,
+    "geom:longitude":155.4494,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Korpe",
+    "gn:country_code":"PG",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093369,
+    "gn:latitude":-6.24606,
+    "gn:longitude":155.4494,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Korpe",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kopei",
+        "Korpei",
+        "Korpe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676543,
+        1091702121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093369
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"6a048e7a0583ecdb322648422f81aa13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702121,
+            "locality_id":1242994439,
+            "region_id":85676543
+        }
+    ],
+    "wof:id":1242994439,
+    "wof:lastmodified":1537677130,
+    "wof:name":"Korpe",
+    "wof:parent_id":1091702121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    155.4494,
+    -6.24606,
+    155.4494,
+    -6.24606
+],
+  "geometry": {"coordinates":[155.4494,-6.24606],"type":"Point"}
+}

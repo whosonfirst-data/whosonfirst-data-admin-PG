@@ -1,0 +1,67 @@
+{
+  "id": 1226416269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.42518,-6.48834,147.42518,-6.48834",
+    "geom:latitude":-6.48834,
+    "geom:longitude":147.42518,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Tumnang",
+    "gn:country_code":"PG",
+    "gn:dem":1288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085012,
+    "gn:latitude":-6.48834,
+    "gn:longitude":147.42518,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Tumnang",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085012
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"6d95d22731d4db192c5b9e759d6d5d67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702351,
+            "locality_id":1226416269,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1226416269,
+    "wof:lastmodified":1536688119,
+    "wof:name":"Tumnang",
+    "wof:parent_id":1091702351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.42518,
+    -6.48834,
+    147.42518,
+    -6.48834
+],
+  "geometry": {"coordinates":[147.42518000000001,-6.48834],"type":"Point"}
+}

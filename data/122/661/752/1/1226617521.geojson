@@ -1,0 +1,61 @@
+{
+  "id": 1226617521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.33333,-4.95,151.33333,-4.95",
+    "geom:latitude":-4.95,
+    "geom:longitude":151.33333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Madidua",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091986,
+    "gn:latitude":-4.95,
+    "gn:longitude":151.33333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Madidua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091986
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"712404b7e33749b306c0a227f3c0edd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226617521,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226617521,
+    "wof:lastmodified":1536900018,
+    "wof:name":"Madidua",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.33333000000005,
+    -4.95,
+    151.33333000000005,
+    -4.95
+],
+  "geometry": {"coordinates":[151.33333000000005,-4.95],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327007137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.65981,-5.67716,145.65981,-5.67716",
+    "geom:latitude":-5.67716,
+    "geom:longitude":145.65981,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Yokopi",
+    "gn:country_code":"PG",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2082868,
+    "gn:latitude":-5.67716,
+    "gn:longitude":145.65981,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yokopi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saipa",
+        "Wagobi",
+        "Saipa 1",
+        "Saiba",
+        "Yokopi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2082868
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9a770345385d5ad99261f56e10f5b700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704219,
+            "locality_id":1327007137,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1327007137,
+    "wof:lastmodified":1537677018,
+    "wof:name":"Yokopi",
+    "wof:parent_id":1091704219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.65981000000005,
+    -5.67716,
+    145.65981000000005,
+    -5.67716
+],
+  "geometry": {"coordinates":[145.65981000000005,-5.67716],"type":"Point"}
+}

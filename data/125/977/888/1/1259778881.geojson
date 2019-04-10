@@ -1,0 +1,67 @@
+{
+  "id": 1259778881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.95,-5.86667,144.95,-5.86667",
+    "geom:latitude":-5.86667,
+    "geom:longitude":144.95,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Suamuglmangge",
+    "gn:country_code":"PG",
+    "gn:dem":2425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086256,
+    "gn:latitude":-5.86667,
+    "gn:longitude":144.95,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Suamuglmangge",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091703003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086256
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f2e3542ea5265f8383b9ed21614aed61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703003,
+            "locality_id":1259778881,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1259778881,
+    "wof:lastmodified":1536930561,
+    "wof:name":"Suamuglmangge",
+    "wof:parent_id":1091703003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.95,
+    -5.86667,
+    144.95,
+    -5.86667
+],
+  "geometry": {"coordinates":[144.94999999999999,-5.86667],"type":"Point"}
+}

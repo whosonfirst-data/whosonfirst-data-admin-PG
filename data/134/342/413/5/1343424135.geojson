@@ -1,0 +1,67 @@
+{
+  "id": 1343424135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.03333,-3.51667,141.03333,-3.51667",
+    "geom:latitude":-3.51667,
+    "geom:longitude":141.03333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"New Mambruk",
+    "gn:country_code":"PG",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089688,
+    "gn:latitude":-3.51667,
+    "gn:longitude":141.03333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"New Mambruk",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091704901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089688
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"88522de3d29ae688dd5c109b81bdb425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704901,
+            "locality_id":1343424135,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1343424135,
+    "wof:lastmodified":1536798907,
+    "wof:name":"New Mambruk",
+    "wof:parent_id":1091704901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.03333,
+    -3.51667,
+    141.03333,
+    -3.51667
+],
+  "geometry": {"coordinates":[141.03333000000001,-3.51667],"type":"Point"}
+}

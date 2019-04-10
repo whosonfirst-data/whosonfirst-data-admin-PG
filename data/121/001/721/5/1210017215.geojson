@@ -1,0 +1,71 @@
+{
+  "id": 1210017215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.19804,-9.45317,149.19804,-9.45317",
+    "geom:latitude":-9.45317,
+    "geom:longitude":149.19804,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ganjiga",
+    "gn:country_code":"PG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097196,
+    "gn:latitude":-9.45317,
+    "gn:longitude":149.19804,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ganjiga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gonjige",
+        "Ganjiga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091702531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097196
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"987ecd122fe4e8f18d233c4235540088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702531,
+            "locality_id":1210017215,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1210017215,
+    "wof:lastmodified":1537677174,
+    "wof:name":"Ganjiga",
+    "wof:parent_id":1091702531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.19804,
+    -9.45317,
+    149.19804,
+    -9.45317
+],
+  "geometry": {"coordinates":[149.19803999999999,-9.45317],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259684921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.41312,-8.02281,147.41312,-8.02281",
+    "geom:latitude":-8.02281,
+    "geom:longitude":147.41312,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Iema",
+    "gn:country_code":"PG",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095790,
+    "gn:latitude":-8.02281,
+    "gn:longitude":147.41312,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Iema",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yema",
+        "Iema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091704393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095790
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2c1352c049597a5289f6409acefc4668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704393,
+            "locality_id":1259684921,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1259684921,
+    "wof:lastmodified":1537677158,
+    "wof:name":"Iema",
+    "wof:parent_id":1091704393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.41312,
+    -8.02281,
+    147.41312,
+    -8.02281
+],
+  "geometry": {"coordinates":[147.41311999999999,-8.02281],"type":"Point"}
+}

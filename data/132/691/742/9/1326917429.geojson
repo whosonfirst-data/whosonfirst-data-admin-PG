@@ -1,0 +1,67 @@
+{
+  "id": 1326917429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.5,-4.88333,145.5,-4.88333",
+    "geom:latitude":-4.88333,
+    "geom:longitude":145.5,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Karian",
+    "gn:country_code":"PG",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094570,
+    "gn:latitude":-4.88333,
+    "gn:longitude":145.5,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Karian",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094570
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1704d08550d4fabbe679aec126eea3b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704517,
+            "locality_id":1326917429,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1326917429,
+    "wof:lastmodified":1536926852,
+    "wof:name":"Karian",
+    "wof:parent_id":1091704517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.5,
+    -4.88333,
+    145.5,
+    -4.88333
+],
+  "geometry": {"coordinates":[145.5,-4.88333],"type":"Point"}
+}

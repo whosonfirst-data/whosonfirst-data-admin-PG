@@ -1,0 +1,67 @@
+{
+  "id": 1226624287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.58333,-3.7,143.58333,-3.7",
+    "geom:latitude":-3.7,
+    "geom:longitude":143.58333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Winkubu",
+    "gn:country_code":"PG",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083455,
+    "gn:latitude":-3.7,
+    "gn:longitude":143.58333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Winkubu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083455
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"5c407fd0a19626827b7a4d69c18ede3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705179,
+            "locality_id":1226624287,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1226624287,
+    "wof:lastmodified":1536890083,
+    "wof:name":"Winkubu",
+    "wof:parent_id":1091705179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.58333000000005,
+    -3.7,
+    143.58333000000005,
+    -3.7
+],
+  "geometry": {"coordinates":[143.58333000000005,-3.7],"type":"Point"}
+}

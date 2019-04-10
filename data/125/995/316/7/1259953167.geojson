@@ -1,0 +1,61 @@
+{
+  "id": 1259953167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.8059,-2.55331,150.8059,-2.55331",
+    "geom:latitude":-2.55331,
+    "geom:longitude":150.8059,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Mongol",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090538,
+    "gn:latitude":-2.55331,
+    "gn:longitude":150.8059,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Mongol",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090538
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"fb42518172e05b151fddbd4a6870f5a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259953167,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259953167,
+    "wof:lastmodified":1536678870,
+    "wof:name":"Mongol",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.8059,
+    -2.55331,
+    150.8059,
+    -2.55331
+],
+  "geometry": {"coordinates":[150.80590000000001,-2.55331],"type":"Point"}
+}

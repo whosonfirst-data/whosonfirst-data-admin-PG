@@ -1,0 +1,67 @@
+{
+  "id": 1276986907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.39798,-9.20625,148.39798,-9.20625",
+    "geom:latitude":-9.20625,
+    "geom:longitude":148.39798,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Toma",
+    "gn:country_code":"PG",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085272,
+    "gn:latitude":-9.20625,
+    "gn:longitude":148.39798,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Toma",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091702531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085272
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0ebf2ef5ab400c4388ae32ab6b1cc693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702531,
+            "locality_id":1276986907,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1276986907,
+    "wof:lastmodified":1536897575,
+    "wof:name":"Toma",
+    "wof:parent_id":1091702531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.39798000000005,
+    -9.20625,
+    148.39798000000005,
+    -9.20625
+],
+  "geometry": {"coordinates":[148.39798000000005,-9.20625],"type":"Point"}
+}

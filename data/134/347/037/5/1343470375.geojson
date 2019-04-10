@@ -1,0 +1,67 @@
+{
+  "id": 1343470375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.81997,-9.73926,150.81997,-9.73926",
+    "geom:latitude":-9.73926,
+    "geom:longitude":150.81997,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Esa'ala",
+    "gn:country_code":"PG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097573,
+    "gn:latitude":-9.73926,
+    "gn:longitude":150.81997,
+    "gn:modification_date":"2013-11-16",
+    "gn:name":"Esa\u2019ala",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Esa\u2019ala"
+    ],
+    "name:und_x_variant":[
+        "Esa\u2019ala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097573
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e9b29c666f8c828adaf030fc127208f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343470375,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343470375,
+    "wof:lastmodified":1537677177,
+    "wof:name":"Esa'ala",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.81996999999996,
+    -9.73926,
+    150.81996999999996,
+    -9.73926
+],
+  "geometry": {"coordinates":[150.81996999999996,-9.73926],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310622211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"155.53652,-6.19137,155.53652,-6.19137",
+    "geom:latitude":-6.19137,
+    "geom:longitude":155.53652,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Rorovana",
+    "gn:country_code":"PG",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087555,
+    "gn:latitude":-6.19137,
+    "gn:longitude":155.53652,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Rorovana",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676543,
+        1091702121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087555
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ecab1ed774a3f939a28f5e205fc43139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702121,
+            "locality_id":1310622211,
+            "region_id":85676543
+        }
+    ],
+    "wof:id":1310622211,
+    "wof:lastmodified":1536748454,
+    "wof:name":"Rorovana",
+    "wof:parent_id":1091702121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    155.53652,
+    -6.19137,
+    155.53652,
+    -6.19137
+],
+  "geometry": {"coordinates":[155.53652,-6.19137],"type":"Point"}
+}

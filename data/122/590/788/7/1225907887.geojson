@@ -1,0 +1,67 @@
+{
+  "id": 1225907887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.73333,-6.01667,149.73333,-6.01667",
+    "geom:latitude":-6.01667,
+    "geom:longitude":149.73333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Umbi",
+    "gn:country_code":"PG",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084736,
+    "gn:latitude":-6.01667,
+    "gn:longitude":149.73333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Umbi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676599,
+        1091702827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084736
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"cbedf9bcc9726bc19391e9b985f82c14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702827,
+            "locality_id":1225907887,
+            "region_id":85676599
+        }
+    ],
+    "wof:id":1225907887,
+    "wof:lastmodified":1536924993,
+    "wof:name":"Umbi",
+    "wof:parent_id":1091702827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.73333,
+    -6.01667,
+    149.73333,
+    -6.01667
+],
+  "geometry": {"coordinates":[149.73333,-6.01667],"type":"Point"}
+}

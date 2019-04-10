@@ -1,0 +1,67 @@
+{
+  "id": 1326823489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.01667,-6.1,145.01667,-6.1",
+    "geom:latitude":-6.1,
+    "geom:longitude":145.01667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tsil",
+    "gn:country_code":"PG",
+    "gn:dem":1908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085110,
+    "gn:latitude":-6.1,
+    "gn:longitude":145.01667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Tsil",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091704349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085110
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ced409f5abf85cd4569e4ed9671d5490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704349,
+            "locality_id":1326823489,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1326823489,
+    "wof:lastmodified":1537058852,
+    "wof:name":"Tsil",
+    "wof:parent_id":1091704349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.01667,
+    -6.1,
+    145.01667,
+    -6.1
+],
+  "geometry": {"coordinates":[145.01667,-6.1],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242681769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.40935,-9.62351,147.40935,-9.62351",
+    "geom:latitude":-9.62351,
+    "geom:longitude":147.40935,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Seme",
+    "gn:country_code":"PG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086954,
+    "gn:latitude":-9.62351,
+    "gn:longitude":147.40935,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Seme",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091702751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086954
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"5f815bccbd78b469c718ef5242a2eaa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702751,
+            "locality_id":1242681769,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1242681769,
+    "wof:lastmodified":1536914171,
+    "wof:name":"Seme",
+    "wof:parent_id":1091702751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.40935,
+    -9.62351,
+    147.40935,
+    -9.62351
+],
+  "geometry": {"coordinates":[147.40934999999999,-9.62351],"type":"Point"}
+}

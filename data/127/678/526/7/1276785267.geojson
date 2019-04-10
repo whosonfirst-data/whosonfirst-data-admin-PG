@@ -1,0 +1,67 @@
+{
+  "id": 1276785267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.31253,-6.54508,145.31253,-6.54508",
+    "geom:latitude":-6.54508,
+    "geom:longitude":145.31253,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Utunu",
+    "gn:country_code":"PG",
+    "gn:dem":2434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084494,
+    "gn:latitude":-6.54508,
+    "gn:longitude":145.31253,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Utunu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091704103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084494
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"cc2f79e9bfe9fd3052d3e72d0b6aa937",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704103,
+            "locality_id":1276785267,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1276785267,
+    "wof:lastmodified":1536670417,
+    "wof:name":"Utunu",
+    "wof:parent_id":1091704103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.31253,
+    -6.54508,
+    145.31253,
+    -6.54508
+],
+  "geometry": {"coordinates":[145.31253000000001,-6.54508],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326717381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.89257,-4.71992,144.89257,-4.71992",
+    "geom:latitude":-4.71992,
+    "geom:longitude":144.89257,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Midsivindi Mutang",
+    "gn:country_code":"PG",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090847,
+    "gn:latitude":-4.71992,
+    "gn:longitude":144.89257,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Midsivindi Mutang",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Midsivindi",
+        "Midsivindi Mutang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091703709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090847
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9785a3e87792c89d100d288de3989fee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703709,
+            "locality_id":1326717381,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1326717381,
+    "wof:lastmodified":1537677101,
+    "wof:name":"Midsivindi Mutang",
+    "wof:parent_id":1091703709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.89257,
+    -4.71992,
+    144.89257,
+    -4.71992
+],
+  "geometry": {"coordinates":[144.89257000000001,-4.71992],"type":"Point"}
+}

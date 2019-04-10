@@ -1,0 +1,67 @@
+{
+  "id": 1310496175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.83408,-6.62681,145.83408,-6.62681",
+    "geom:latitude":-6.62681,
+    "geom:longitude":145.83408,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Meiauna",
+    "gn:country_code":"PG",
+    "gn:dem":1728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091045,
+    "gn:latitude":-6.62681,
+    "gn:longitude":145.83408,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Meiauna",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091704061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091045
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0a12fce2645b37f15be47494bd85be83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704061,
+            "locality_id":1310496175,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1310496175,
+    "wof:lastmodified":1536931118,
+    "wof:name":"Meiauna",
+    "wof:parent_id":1091704061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.83408,
+    -6.62681,
+    145.83408,
+    -6.62681
+],
+  "geometry": {"coordinates":[145.83408,-6.62681],"type":"Point"}
+}

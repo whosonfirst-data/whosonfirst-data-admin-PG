@@ -1,0 +1,61 @@
+{
+  "id": 1259881841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.05,-10.66667,151.05,-10.66667",
+    "geom:latitude":-10.66667,
+    "geom:longitude":151.05,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kawalolo",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133190,
+    "gn:latitude":-10.66667,
+    "gn:longitude":151.05,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kawalolo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133190
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"fa07257ef55a79ac85484811f085ca14",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259881841,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259881841,
+    "wof:lastmodified":1536782020,
+    "wof:name":"Kawalolo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.05,
+    -10.66667,
+    151.05,
+    -10.66667
+],
+  "geometry": {"coordinates":[151.05000000000001,-10.66667],"type":"Point"}
+}

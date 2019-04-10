@@ -1,0 +1,67 @@
+{
+  "id": 1310684629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.44903,-7.50215,146.44903,-7.50215",
+    "geom:latitude":-7.50215,
+    "geom:longitude":146.44903,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Yelaua",
+    "gn:country_code":"PG",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2082964,
+    "gn:latitude":-7.50215,
+    "gn:longitude":146.44903,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Yelaua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2082964
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"6bd27243d5b26054e40a7458cf6e9472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703633,
+            "locality_id":1310684629,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1310684629,
+    "wof:lastmodified":1536658606,
+    "wof:name":"Yelaua",
+    "wof:parent_id":1091703633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.44903,
+    -7.50215,
+    146.44903,
+    -7.50215
+],
+  "geometry": {"coordinates":[146.44902999999999,-7.50215],"type":"Point"}
+}

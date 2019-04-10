@@ -1,0 +1,74 @@
+{
+  "id": 1276298137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.06667,-3.43333,141.06667,-3.43333",
+    "geom:latitude":-3.43333,
+    "geom:longitude":141.06667,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Sowanda Hamlets",
+    "gn:country_code":"PG",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086318,
+    "gn:latitude":-3.43333,
+    "gn:longitude":141.06667,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Sowanda Hamlets",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sowanda Number 1",
+        "Sowanda 1",
+        "Sowanda Number 2",
+        "Sowanda 2",
+        "Sowanda Hamlets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091704901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086318
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a3f3c3f1259fe427550deeaaaf5dffbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704901,
+            "locality_id":1276298137,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1276298137,
+    "wof:lastmodified":1537677056,
+    "wof:name":"Sowanda Hamlets",
+    "wof:parent_id":1091704901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.06667,
+    -3.43333,
+    141.06667,
+    -3.43333
+],
+  "geometry": {"coordinates":[141.06666999999999,-3.43333],"type":"Point"}
+}

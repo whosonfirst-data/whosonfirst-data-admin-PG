@@ -1,0 +1,67 @@
+{
+  "id": 1260082167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.11667,-10.4,150.11667,-10.4",
+    "geom:latitude":-10.4,
+    "geom:longitude":150.11667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Gabitaeu",
+    "gn:country_code":"PG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133562,
+    "gn:latitude":-10.4,
+    "gn:longitude":150.11667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Gabitaeu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133562
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c4f054155e38ae9c5fc2a780d7605488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702001,
+            "locality_id":1260082167,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1260082167,
+    "wof:lastmodified":1536989075,
+    "wof:name":"Gabitaeu",
+    "wof:parent_id":1091702001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.11667,
+    -10.4,
+    150.11667,
+    -10.4
+],
+  "geometry": {"coordinates":[150.11667,-10.4],"type":"Point"}
+}

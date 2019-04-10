@@ -1,0 +1,67 @@
+{
+  "id": 1276865717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.17352,-4.16054,152.17352,-4.16054",
+    "geom:latitude":-4.16054,
+    "geom:longitude":152.17352,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tavui Number 3",
+    "gn:country_code":"PG",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085647,
+    "gn:latitude":-4.16054,
+    "gn:longitude":152.17352,
+    "gn:modification_date":"2016-07-17",
+    "gn:name":"Tavui Number 3",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091704181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085647
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9819ea4237f6f62536a011db33bc51a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704181,
+            "locality_id":1276865717,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1276865717,
+    "wof:lastmodified":1537057604,
+    "wof:name":"Tavui Number 3",
+    "wof:parent_id":1091704181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.17352,
+    -4.16054,
+    152.17352,
+    -4.16054
+],
+  "geometry": {"coordinates":[152.17352,-4.16054],"type":"Point"}
+}

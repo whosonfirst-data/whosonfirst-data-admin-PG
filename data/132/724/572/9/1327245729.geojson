@@ -1,0 +1,67 @@
+{
+  "id": 1327245729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.75667,-9.91556,147.75667,-9.91556",
+    "geom:latitude":-9.91556,
+    "geom:longitude":147.75667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tololo-Fogenai",
+    "gn:country_code":"PG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085279,
+    "gn:latitude":-9.91556,
+    "gn:longitude":147.75667,
+    "gn:modification_date":"2000-11-16",
+    "gn:name":"Tololo-Fogenai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091704253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085279
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b89e2f026638bddc406f7ab540722505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704253,
+            "locality_id":1327245729,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1327245729,
+    "wof:lastmodified":1536950447,
+    "wof:name":"Tololo-Fogenai",
+    "wof:parent_id":1091704253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.75667,
+    -9.91556,
+    147.75667,
+    -9.91556
+],
+  "geometry": {"coordinates":[147.75667000000001,-9.91556],"type":"Point"}
+}

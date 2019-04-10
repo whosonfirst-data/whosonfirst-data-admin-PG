@@ -1,0 +1,71 @@
+{
+  "id": 1243087693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.06746,-6.20703,145.06746,-6.20703",
+    "geom:latitude":-6.20703,
+    "geom:longitude":145.06746,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Emeregam Number 2",
+    "gn:country_code":"PG",
+    "gn:dem":2071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097697,
+    "gn:latitude":-6.20703,
+    "gn:longitude":145.06746,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Emeregam Number 2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Emeregam 2",
+        "Emeregam Number 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091702163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097697
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f542a1aca1b377587db5f19d512c7d5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702163,
+            "locality_id":1243087693,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1243087693,
+    "wof:lastmodified":1537677179,
+    "wof:name":"Emeregam Number 2",
+    "wof:parent_id":1091702163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.06746,
+    -6.20703,
+    145.06746,
+    -6.20703
+],
+  "geometry": {"coordinates":[145.06746000000001,-6.20703],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277146561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.04626,-6.04556,144.04626,-6.04556",
+    "geom:latitude":-6.04556,
+    "geom:longitude":144.04626,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Gia",
+    "gn:country_code":"PG",
+    "gn:dem":2118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096993,
+    "gn:latitude":-6.04556,
+    "gn:longitude":144.04626,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Gia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096993
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8ab2c97ae47e20fc2d265872f5dde3da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702573,
+            "locality_id":1277146561,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1277146561,
+    "wof:lastmodified":1536675738,
+    "wof:name":"Gia",
+    "wof:parent_id":1091702573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.04626000000005,
+    -6.04556,
+    144.04626000000005,
+    -6.04556
+],
+  "geometry": {"coordinates":[144.04626000000005,-6.04556],"type":"Point"}
+}

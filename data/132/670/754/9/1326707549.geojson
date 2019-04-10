@@ -1,0 +1,67 @@
+{
+  "id": 1326707549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.45858,-5.40252,145.45858,-5.40252",
+    "geom:latitude":-5.40252,
+    "geom:longitude":145.45858,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Sai",
+    "gn:country_code":"PG",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087418,
+    "gn:latitude":-5.40252,
+    "gn:longitude":145.45858,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Sai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087418
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c8db5a3a75dbdd8ccc2b90a8af0c1c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704819,
+            "locality_id":1326707549,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1326707549,
+    "wof:lastmodified":1536731648,
+    "wof:name":"Sai",
+    "wof:parent_id":1091704819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.45858,
+    -5.40252,
+    145.45858,
+    -5.40252
+],
+  "geometry": {"coordinates":[145.45858000000001,-5.40252],"type":"Point"}
+}

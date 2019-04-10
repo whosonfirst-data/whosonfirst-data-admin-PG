@@ -1,0 +1,61 @@
+{
+  "id": 1209415481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.79863,-8.9391,147.79863,-8.9391",
+    "geom:latitude":-8.9391,
+    "geom:longitude":147.79863,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sengi",
+    "gn:country_code":"PG",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086928,
+    "gn:latitude":-8.9391,
+    "gn:longitude":147.79863,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Sengi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086928
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"450ec9cb1bfbf31dc9ef8214bab42bb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209415481
+        }
+    ],
+    "wof:id":1209415481,
+    "wof:lastmodified":1536287702,
+    "wof:name":"Sengi",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.79863,
+    -8.9391,
+    147.79863,
+    -8.9391
+],
+  "geometry": {"coordinates":[147.79863,-8.9391],"type":"Point"}
+}

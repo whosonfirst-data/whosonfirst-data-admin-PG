@@ -1,0 +1,67 @@
+{
+  "id": 1243462003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.16465,-9.42459,150.16465,-9.42459",
+    "geom:latitude":-9.42459,
+    "geom:longitude":150.16465,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Diodio",
+    "gn:country_code":"PG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098123,
+    "gn:latitude":-9.42459,
+    "gn:longitude":150.16465,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"Diodio",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091703083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098123
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d3cec4e00355e92752bcf10e7a726c07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703083,
+            "locality_id":1243462003,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1243462003,
+    "wof:lastmodified":1536783526,
+    "wof:name":"Diodio",
+    "wof:parent_id":1091703083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.16465,
+    -9.42459,
+    150.16465,
+    -9.42459
+],
+  "geometry": {"coordinates":[150.16464999999999,-9.42459],"type":"Point"}
+}

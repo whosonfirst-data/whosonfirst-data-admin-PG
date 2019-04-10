@@ -1,0 +1,67 @@
+{
+  "id": 1327338425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.9085,-6.30715,143.9085,-6.30715",
+    "geom:latitude":-6.30715,
+    "geom:longitude":143.9085,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tuli",
+    "gn:country_code":"PG",
+    "gn:dem":1840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085045,
+    "gn:latitude":-6.30715,
+    "gn:longitude":143.9085,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Tuli",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085045
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a193fc194d2fb7034dba8f2a3d1d6ad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702491,
+            "locality_id":1327338425,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1327338425,
+    "wof:lastmodified":1536815707,
+    "wof:name":"Tuli",
+    "wof:parent_id":1091702491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.9085,
+    -6.30715,
+    143.9085,
+    -6.30715
+],
+  "geometry": {"coordinates":[143.9085,-6.30715],"type":"Point"}
+}

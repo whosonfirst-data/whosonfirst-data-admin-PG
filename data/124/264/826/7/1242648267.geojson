@@ -1,0 +1,67 @@
+{
+  "id": 1242648267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.5,-6.41667,147.5,-6.41667",
+    "geom:latitude":-6.41667,
+    "geom:longitude":147.5,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Wagazaring",
+    "gn:country_code":"PG",
+    "gn:dem":1151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084169,
+    "gn:latitude":-6.41667,
+    "gn:longitude":147.5,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Wagazaring",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084169
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"988c492f596ef8cc273484b6f1beea47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702351,
+            "locality_id":1242648267,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1242648267,
+    "wof:lastmodified":1536962037,
+    "wof:name":"Wagazaring",
+    "wof:parent_id":1091702351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.5,
+    -6.41667,
+    147.5,
+    -6.41667
+],
+  "geometry": {"coordinates":[147.5,-6.41667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343946017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.10735,-4.18241,144.10735,-4.18241",
+    "geom:latitude":-4.18241,
+    "geom:longitude":144.10735,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Chuimondo",
+    "gn:country_code":"PG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098575,
+    "gn:latitude":-4.18241,
+    "gn:longitude":144.10735,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chuimondo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chinundo",
+        "Chimundu",
+        "Chimundo",
+        "Chuimondo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098575
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"47a00af3b5c48c838ec63a4b3c81cb68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702059,
+            "locality_id":1343946017,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1343946017,
+    "wof:lastmodified":1537677185,
+    "wof:name":"Chuimondo",
+    "wof:parent_id":1091702059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.10735,
+    -4.18241,
+    144.10735,
+    -4.18241
+],
+  "geometry": {"coordinates":[144.10735,-4.18241],"type":"Point"}
+}

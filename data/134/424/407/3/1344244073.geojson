@@ -1,0 +1,67 @@
+{
+  "id": 1344244073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.40823,-5.78293,145.40823,-5.78293",
+    "geom:latitude":-5.78293,
+    "geom:longitude":145.40823,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Tauya",
+    "gn:country_code":"PG",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085672,
+    "gn:latitude":-5.78293,
+    "gn:longitude":145.40823,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Tauya",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085672
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"dc07b193439be25150e00f2c2ca2da4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704819,
+            "locality_id":1344244073,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1344244073,
+    "wof:lastmodified":1536607857,
+    "wof:name":"Tauya",
+    "wof:parent_id":1091704819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.40823,
+    -5.78293,
+    145.40823,
+    -5.78293
+],
+  "geometry": {"coordinates":[145.40823,-5.78293],"type":"Point"}
+}

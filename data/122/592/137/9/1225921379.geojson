@@ -1,0 +1,65 @@
+{
+  "id": 1225921379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.81437,-5.19951,145.81437,-5.19951",
+    "geom:latitude":-5.19951,
+    "geom:longitude":145.81437,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"7910339",
+    "gn:asciiname":"Kranket",
+    "gn:country_code":"PG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093310,
+    "gn:latitude":-5.19951,
+    "gn:longitude":145.81437,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Kranket",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kranget"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093310
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1dbdc2f650a47881aa7edbddd7709bdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1225921379,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225921379,
+    "wof:lastmodified":1537677129,
+    "wof:name":"Kranket",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.81437,
+    -5.19951,
+    145.81437,
+    -5.19951
+],
+  "geometry": {"coordinates":[145.81437,-5.19951],"type":"Point"}
+}

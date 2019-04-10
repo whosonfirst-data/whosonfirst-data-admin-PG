@@ -1,0 +1,70 @@
+{
+  "id": 1225966377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.74269,-5.52437,141.74269,-5.52437",
+    "geom:latitude":-5.52437,
+    "geom:longitude":141.74269,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Biangabip",
+    "gn:country_code":"PG",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8693222,
+    "gn:latitude":-5.52437,
+    "gn:longitude":141.74269,
+    "gn:modification_date":"2014-02-08",
+    "gn:name":"Biangabip",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Biangabip"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8693222
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"48b3e71f0225f433bd836ce8851e64d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1225966377,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1225966377,
+    "wof:lastmodified":1537677229,
+    "wof:name":"Biangabip",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.74268999999995,
+    -5.52437,
+    141.74268999999995,
+    -5.52437
+],
+  "geometry": {"coordinates":[141.74268999999995,-5.52437],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243565967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"154.015,-11.358,154.015,-11.358",
+    "geom:latitude":-11.358,
+    "geom:longitude":154.015,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dara Mission",
+    "gn:country_code":"PG",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425445,
+    "gn:latitude":-11.358,
+    "gn:longitude":154.015,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Dara Mission",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091704299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425445
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8430da2489211cd6ea0df27ccf94488d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704299,
+            "locality_id":1243565967,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1243565967,
+    "wof:lastmodified":1536631739,
+    "wof:name":"Dara Mission",
+    "wof:parent_id":1091704299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    154.015,
+    -11.358,
+    154.015,
+    -11.358
+],
+  "geometry": {"coordinates":[154.01499999999999,-11.358],"type":"Point"}
+}

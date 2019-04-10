@@ -1,0 +1,65 @@
+{
+  "id": 1209028037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"155.70686,-6.28463,155.70686,-6.28463",
+    "geom:latitude":-6.28463,
+    "geom:longitude":155.70686,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kobeinan",
+    "gn:country_code":"PG",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093801,
+    "gn:latitude":-6.28463,
+    "gn:longitude":155.70686,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kobeinan",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kovena",
+        "Kobeinan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093801
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"6e8ba9b4b24ae4e4309515464e623c76",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209028037
+        }
+    ],
+    "wof:id":1209028037,
+    "wof:lastmodified":1537677135,
+    "wof:name":"Kobeinan",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    155.70686,
+    -6.28463,
+    155.70686,
+    -6.28463
+],
+  "geometry": {"coordinates":[155.70686000000001,-6.28463],"type":"Point"}
+}

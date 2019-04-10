@@ -1,0 +1,67 @@
+{
+  "id": 1344061825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.67437,-6.27223,143.67437,-6.27223",
+    "geom:latitude":-6.27223,
+    "geom:longitude":143.67437,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Iaria",
+    "gn:country_code":"PG",
+    "gn:dem":1712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095877,
+    "gn:latitude":-6.27223,
+    "gn:longitude":143.67437,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Iaria",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095877
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"5d50f6135ea47fe87b7976f89b90bc72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702573,
+            "locality_id":1344061825,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1344061825,
+    "wof:lastmodified":1536872541,
+    "wof:name":"Iaria",
+    "wof:parent_id":1091702573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.67436999999995,
+    -6.27223,
+    143.67436999999995,
+    -6.27223
+],
+  "geometry": {"coordinates":[143.67436999999995,-6.27223],"type":"Point"}
+}

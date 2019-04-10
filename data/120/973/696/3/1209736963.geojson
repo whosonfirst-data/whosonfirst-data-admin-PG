@@ -1,0 +1,67 @@
+{
+  "id": 1209736963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"155.39412,-6.00636,155.39412,-6.00636",
+    "geom:latitude":-6.00636,
+    "geom:longitude":155.39412,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tarara",
+    "gn:country_code":"PG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085784,
+    "gn:latitude":-6.00636,
+    "gn:longitude":155.39412,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Tarara",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676543,
+        1091702121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085784
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"730d3e8a421d1ffbaf8d2d5d046dd50c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702121,
+            "locality_id":1209736963,
+            "region_id":85676543
+        }
+    ],
+    "wof:id":1209736963,
+    "wof:lastmodified":1536372675,
+    "wof:name":"Tarara",
+    "wof:parent_id":1091702121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    155.39412,
+    -6.00636,
+    155.39412,
+    -6.00636
+],
+  "geometry": {"coordinates":[155.39411999999999,-6.00636],"type":"Point"}
+}

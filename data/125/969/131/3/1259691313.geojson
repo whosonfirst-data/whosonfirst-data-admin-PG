@@ -1,0 +1,67 @@
+{
+  "id": 1259691313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.18606,-10.15242,151.18606,-10.15242",
+    "geom:latitude":-10.15242,
+    "geom:longitude":151.18606,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Godumuri",
+    "gn:country_code":"PG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133482,
+    "gn:latitude":-10.15242,
+    "gn:longitude":151.18606,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Godumuri",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133482
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"91a7f6ee398db41847becbbe4750a358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702299,
+            "locality_id":1259691313,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1259691313,
+    "wof:lastmodified":1537053373,
+    "wof:name":"Godumuri",
+    "wof:parent_id":1091702299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.18606,
+    -10.15242,
+    151.18606,
+    -10.15242
+],
+  "geometry": {"coordinates":[151.18606,-10.15242],"type":"Point"}
+}

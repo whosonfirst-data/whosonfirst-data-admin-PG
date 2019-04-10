@@ -1,0 +1,67 @@
+{
+  "id": 1293369091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.87592,-6.13609,146.87592,-6.13609",
+    "geom:latitude":-6.13609,
+    "geom:longitude":146.87592,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Yawan",
+    "gn:country_code":"PG",
+    "gn:dem":1646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2082991,
+    "gn:latitude":-6.13609,
+    "gn:longitude":146.87592,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Yawan",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2082991
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f943218dd2ab7ebbe8aadfd45aafc0f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702647,
+            "locality_id":1293369091,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1293369091,
+    "wof:lastmodified":1536957757,
+    "wof:name":"Yawan",
+    "wof:parent_id":1091702647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.87592,
+    -6.13609,
+    146.87592,
+    -6.13609
+],
+  "geometry": {"coordinates":[146.87592000000001,-6.13609],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326639595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.75332,-10.05625,147.75332,-10.05625",
+    "geom:latitude":-10.05625,
+    "geom:longitude":147.75332,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kamali",
+    "gn:country_code":"PG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133215,
+    "gn:latitude":-10.05625,
+    "gn:longitude":147.75332,
+    "gn:modification_date":"2016-04-14",
+    "gn:name":"Kamali",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091704253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133215
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"068942d5dc27b7bd8774c9968dea4959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704253,
+            "locality_id":1326639595,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1326639595,
+    "wof:lastmodified":1536828138,
+    "wof:name":"Kamali",
+    "wof:parent_id":1091704253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.75332,
+    -10.05625,
+    147.75332,
+    -10.05625
+],
+  "geometry": {"coordinates":[147.75332,-10.05625],"type":"Point"}
+}

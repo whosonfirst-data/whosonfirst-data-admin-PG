@@ -1,0 +1,67 @@
+{
+  "id": 1260368221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.30959,-4.46356,143.30959,-4.46356",
+    "geom:latitude":-4.46356,
+    "geom:longitude":143.30959,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Tungambit",
+    "gn:country_code":"PG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084990,
+    "gn:latitude":-4.46356,
+    "gn:longitude":143.30959,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Tungambit",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084990
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"60e8f0fb9bfaca89ddb96f0a314f8865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702059,
+            "locality_id":1260368221,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1260368221,
+    "wof:lastmodified":1537092148,
+    "wof:name":"Tungambit",
+    "wof:parent_id":1091702059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.30959,
+    -4.46356,
+    143.30959,
+    -4.46356
+],
+  "geometry": {"coordinates":[143.30958999999999,-4.46356],"type":"Point"}
+}

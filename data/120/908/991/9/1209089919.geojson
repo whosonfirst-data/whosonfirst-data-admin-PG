@@ -1,0 +1,61 @@
+{
+  "id": 1209089919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.34323,-7.39832,146.34323,-7.39832",
+    "geom:latitude":-7.39832,
+    "geom:longitude":146.34323,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Passaia",
+    "gn:country_code":"PG",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088578,
+    "gn:latitude":-7.39832,
+    "gn:longitude":146.34323,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Passaia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088578
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2fe374ef658cb2eb253563d19ed074af",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209089919
+        }
+    ],
+    "wof:id":1209089919,
+    "wof:lastmodified":1536298067,
+    "wof:name":"Passaia",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.34323,
+    -7.39832,
+    146.34323,
+    -7.39832
+],
+  "geometry": {"coordinates":[146.34323000000001,-7.39832],"type":"Point"}
+}

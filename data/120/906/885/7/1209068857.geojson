@@ -1,0 +1,61 @@
+{
+  "id": 1209068857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.79904,-5.63478,143.79904,-5.63478",
+    "geom:latitude":-5.63478,
+    "geom:longitude":143.79904,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Saposa",
+    "gn:country_code":"PG",
+    "gn:dem":2138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087187,
+    "gn:latitude":-5.63478,
+    "gn:longitude":143.79904,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Saposa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087187
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"6e21baeee64b6f5e6ad8e79482b8eb42",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209068857
+        }
+    ],
+    "wof:id":1209068857,
+    "wof:lastmodified":1536298712,
+    "wof:name":"Saposa",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.79904,
+    -5.63478,
+    143.79904,
+    -5.63478
+],
+  "geometry": {"coordinates":[143.79903999999999,-5.63478],"type":"Point"}
+}

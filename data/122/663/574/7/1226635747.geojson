@@ -1,0 +1,67 @@
+{
+  "id": 1226635747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.26667,-5.91667,145.26667,-5.91667",
+    "geom:latitude":-5.91667,
+    "geom:longitude":145.26667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Maiyeve",
+    "gn:country_code":"PG",
+    "gn:dem":1816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091827,
+    "gn:latitude":-5.91667,
+    "gn:longitude":145.26667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Maiyeve",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091702211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091827
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"94118c83dbfd9cb68054c52e71dbd369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702211,
+            "locality_id":1226635747,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1226635747,
+    "wof:lastmodified":1536872870,
+    "wof:name":"Maiyeve",
+    "wof:parent_id":1091702211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.26667,
+    -5.91667,
+    145.26667,
+    -5.91667
+],
+  "geometry": {"coordinates":[145.26667,-5.91667],"type":"Point"}
+}

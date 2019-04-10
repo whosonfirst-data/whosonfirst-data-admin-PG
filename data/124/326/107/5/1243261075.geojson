@@ -1,0 +1,71 @@
+{
+  "id": 1243261075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.6764,-8.42193,143.6764,-8.42193",
+    "geom:latitude":-8.42193,
+    "geom:longitude":143.6764,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dameratamu",
+    "gn:country_code":"PG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098393,
+    "gn:latitude":-8.42193,
+    "gn:longitude":143.6764,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Dameratamu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dameramuda",
+        "Dameratamu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098393
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9fbc1a7a8e451d8eb0d72a03613f2734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704467,
+            "locality_id":1243261075,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1243261075,
+    "wof:lastmodified":1537677184,
+    "wof:name":"Dameratamu",
+    "wof:parent_id":1091704467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.6764,
+    -8.42193,
+    143.6764,
+    -8.42193
+],
+  "geometry": {"coordinates":[143.6764,-8.42193],"type":"Point"}
+}

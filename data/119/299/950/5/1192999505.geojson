@@ -1,0 +1,67 @@
+{
+  "id": 1192999505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.80651,-3.55464,142.80651,-3.55464",
+    "geom:latitude":-3.55464,
+    "geom:longitude":142.80651,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Misim",
+    "gn:country_code":"PG",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090703,
+    "gn:latitude":-3.55464,
+    "gn:longitude":142.80651,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Misim",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090703
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1f20ba6a50905f6aceccc43193036c0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702053,
+            "locality_id":1192999505,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1192999505,
+    "wof:lastmodified":1536372181,
+    "wof:name":"Misim",
+    "wof:parent_id":1091702053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.80651,
+    -3.55464,
+    142.80651,
+    -3.55464
+],
+  "geometry": {"coordinates":[142.80651,-3.55464],"type":"Point"}
+}

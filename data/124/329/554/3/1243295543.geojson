@@ -1,0 +1,67 @@
+{
+  "id": 1243295543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.28822,-6.81839,144.28822,-6.81839",
+    "geom:latitude":-6.81839,
+    "geom:longitude":144.28822,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Negebare",
+    "gn:country_code":"PG",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8529169,
+    "gn:latitude":-6.81839,
+    "gn:longitude":144.28822,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Negebare",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091703049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8529169
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8f2d03e4e7a5e92f987571f76ea74b5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703049,
+            "locality_id":1243295543,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1243295543,
+    "wof:lastmodified":1537022105,
+    "wof:name":"Negebare",
+    "wof:parent_id":1091703049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.28822,
+    -6.81839,
+    144.28822,
+    -6.81839
+],
+  "geometry": {"coordinates":[144.28822,-6.81839],"type":"Point"}
+}

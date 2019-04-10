@@ -1,0 +1,61 @@
+{
+  "id": 1226040249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.71667,-8.18333,143.71667,-8.18333",
+    "geom:latitude":-8.18333,
+    "geom:longitude":143.71667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mapiana",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2113760,
+    "gn:latitude":-8.18333,
+    "gn:longitude":143.71667,
+    "gn:modification_date":"1997-01-27",
+    "gn:name":"Mapiana",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2113760
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"283df13489c65a21cd6c8745363c3dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226040249,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226040249,
+    "wof:lastmodified":1536733355,
+    "wof:name":"Mapiana",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.71667,
+    -8.18333,
+    143.71667,
+    -8.18333
+],
+  "geometry": {"coordinates":[143.71666999999999,-8.18333],"type":"Point"}
+}

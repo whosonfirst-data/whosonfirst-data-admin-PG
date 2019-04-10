@@ -1,0 +1,65 @@
+{
+  "id": 1209202773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.97159,-3.84245,142.97159,-3.84245",
+    "geom:latitude":-3.84245,
+    "geom:longitude":142.97159,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kwaunjama 2",
+    "gn:country_code":"PG",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092833,
+    "gn:latitude":-3.84245,
+    "gn:longitude":142.97159,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kwaunjama 2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwaunjama Number 2",
+        "Kwaunjama 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092833
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a74620b4d3349fa038627fe4f403e9c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209202773
+        }
+    ],
+    "wof:id":1209202773,
+    "wof:lastmodified":1537677123,
+    "wof:name":"Kwaunjama 2",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.97159,
+    -3.84245,
+    142.97159,
+    -3.84245
+],
+  "geometry": {"coordinates":[142.97158999999999,-3.84245],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1259375515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.00321,-7.82035,144.00321,-7.82035",
+    "geom:latitude":-7.82035,
+    "geom:longitude":144.00321,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dadebi",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2113768,
+    "gn:latitude":-7.82035,
+    "gn:longitude":144.00321,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Dadebi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2113768
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"75c3f958f35723585b2757248096fbf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259375515,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259375515,
+    "wof:lastmodified":1537013052,
+    "wof:name":"Dadebi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.00321,
+    -7.82035,
+    144.00321,
+    -7.82035
+],
+  "geometry": {"coordinates":[144.00321,-7.82035],"type":"Point"}
+}

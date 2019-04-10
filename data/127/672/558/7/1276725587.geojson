@@ -1,0 +1,72 @@
+{
+  "id": 1276725587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.024,-5.29667,150.024,-5.29667",
+    "geom:latitude":-5.29667,
+    "geom:longitude":150.024,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Bitokara",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099370,
+    "gn:latitude":-5.29667,
+    "gn:longitude":150.024,
+    "gn:modification_date":"2015-04-09",
+    "gn:name":"Bitokara",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bitokara Mission",
+        "Bitokara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676599,
+        1091704547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099370
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"325681e0d95c8c9eaf50af2c8a1d2128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704547,
+            "locality_id":1276725587,
+            "region_id":85676599
+        }
+    ],
+    "wof:id":1276725587,
+    "wof:lastmodified":1537677195,
+    "wof:name":"Bitokara",
+    "wof:parent_id":1091704547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.024,
+    -5.29667,
+    150.024,
+    -5.29667
+],
+  "geometry": {"coordinates":[150.024,-5.29667],"type":"Point"}
+}

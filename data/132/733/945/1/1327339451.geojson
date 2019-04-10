@@ -1,0 +1,63 @@
+{
+  "id": 1327339451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.20139,-8.29156,148.20139,-8.29156",
+    "geom:latitude":-8.29156,
+    "geom:longitude":148.20139,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Jinena",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095251,
+    "gn:latitude":-8.29156,
+    "gn:longitude":148.20139,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Jinena",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095251
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b80376f602152a7c38d218ae725d8e29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1327339451,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327339451,
+    "wof:lastmodified":1536814283,
+    "wof:name":"Jinena",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.20139,
+    -8.29156,
+    148.20139,
+    -8.29156
+],
+  "geometry": {"coordinates":[148.20139,-8.29156],"type":"Point"}
+}

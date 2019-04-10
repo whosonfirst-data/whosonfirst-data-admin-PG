@@ -1,0 +1,72 @@
+{
+  "id": 1259804743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"154.68067,-5.36059,154.68067,-5.36059",
+    "geom:latitude":-5.36059,
+    "geom:longitude":154.68067,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Malasang",
+    "gn:country_code":"PG",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091731,
+    "gn:latitude":-5.36059,
+    "gn:longitude":154.68067,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Malasang",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Melasang",
+        "Malassang",
+        "Malasang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676543,
+        1091703967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091731
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"31147d7737e0a0dbfb120de468cff4dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703967,
+            "locality_id":1259804743,
+            "region_id":85676543
+        }
+    ],
+    "wof:id":1259804743,
+    "wof:lastmodified":1537677112,
+    "wof:name":"Malasang",
+    "wof:parent_id":1091703967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    154.68067,
+    -5.36059,
+    154.68067,
+    -5.36059
+],
+  "geometry": {"coordinates":[154.68066999999999,-5.36059],"type":"Point"}
+}

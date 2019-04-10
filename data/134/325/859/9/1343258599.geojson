@@ -1,0 +1,67 @@
+{
+  "id": 1343258599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.61169,-6.40229,145.61169,-6.40229",
+    "geom:latitude":-6.40229,
+    "geom:longitude":145.61169,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Motuo",
+    "gn:country_code":"PG",
+    "gn:dem":1787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090421,
+    "gn:latitude":-6.40229,
+    "gn:longitude":145.61169,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Motuo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091704103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090421
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"cac1e5cbb45673cc5106b898d0e65f98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704103,
+            "locality_id":1343258599,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1343258599,
+    "wof:lastmodified":1537036035,
+    "wof:name":"Motuo",
+    "wof:parent_id":1091704103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.61168999999995,
+    -6.40229,
+    145.61168999999995,
+    -6.40229
+],
+  "geometry": {"coordinates":[145.61168999999995,-6.40229],"type":"Point"}
+}

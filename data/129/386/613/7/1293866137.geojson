@@ -1,0 +1,67 @@
+{
+  "id": 1293866137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.33333,-5.61667,144.33333,-5.61667",
+    "geom:latitude":-5.61667,
+    "geom:longitude":144.33333,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Mararong",
+    "gn:country_code":"PG",
+    "gn:dem":2392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091414,
+    "gn:latitude":-5.61667,
+    "gn:longitude":144.33333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Mararong",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676551,
+        1091702251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091414
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"33790e78785a588ff3cbb06aa0905c75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702251,
+            "locality_id":1293866137,
+            "region_id":85676551
+        }
+    ],
+    "wof:id":1293866137,
+    "wof:lastmodified":1536738310,
+    "wof:name":"Mararong",
+    "wof:parent_id":1091702251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.33333000000005,
+    -5.61667,
+    144.33333000000005,
+    -5.61667
+],
+  "geometry": {"coordinates":[144.33333000000005,-5.61667],"type":"Point"}
+}

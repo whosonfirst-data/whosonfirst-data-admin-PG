@@ -1,0 +1,67 @@
+{
+  "id": 1327100735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.16679,-3.01246,141.16679,-3.01246",
+    "geom:latitude":-3.01246,
+    "geom:longitude":141.16679,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Apwambo",
+    "gn:country_code":"PG",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100682,
+    "gn:latitude":-3.01246,
+    "gn:longitude":141.16679,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Apwambo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091704901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100682
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"831216663c1a10fc7c042fc359c73c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704901,
+            "locality_id":1327100735,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1327100735,
+    "wof:lastmodified":1536661977,
+    "wof:name":"Apwambo",
+    "wof:parent_id":1091704901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.16679,
+    -3.01246,
+    141.16679,
+    -3.01246
+],
+  "geometry": {"coordinates":[141.16678999999999,-3.01246],"type":"Point"}
+}

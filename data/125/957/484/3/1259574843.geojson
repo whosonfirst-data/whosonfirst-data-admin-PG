@@ -1,0 +1,67 @@
+{
+  "id": 1259574843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"155.0811,-5.88787,155.0811,-5.88787",
+    "geom:latitude":-5.88787,
+    "geom:longitude":155.0811,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tutupaia",
+    "gn:country_code":"PG",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084924,
+    "gn:latitude":-5.88787,
+    "gn:longitude":155.0811,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Tutupaia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676543,
+        1091702121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084924
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c36cc6929b1a2bfc3333865d06dfedb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702121,
+            "locality_id":1259574843,
+            "region_id":85676543
+        }
+    ],
+    "wof:id":1259574843,
+    "wof:lastmodified":1536727723,
+    "wof:name":"Tutupaia",
+    "wof:parent_id":1091702121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    155.0811,
+    -5.88787,
+    155.0811,
+    -5.88787
+],
+  "geometry": {"coordinates":[155.08109999999999,-5.88787],"type":"Point"}
+}

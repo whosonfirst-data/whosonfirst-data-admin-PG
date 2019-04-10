@@ -1,0 +1,67 @@
+{
+  "id": 1310294773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.81626,-6.3586,145.81626,-6.3586",
+    "geom:latitude":-6.3586,
+    "geom:longitude":145.81626,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Torgkera",
+    "gn:country_code":"PG",
+    "gn:dem":1770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085201,
+    "gn:latitude":-6.3586,
+    "gn:longitude":145.81626,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Torgkera",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091702711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085201
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e86f893486703a39556d58f03a84abe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702711,
+            "locality_id":1310294773,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1310294773,
+    "wof:lastmodified":1536723775,
+    "wof:name":"Torgkera",
+    "wof:parent_id":1091702711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.81626,
+    -6.3586,
+    145.81626,
+    -6.3586
+],
+  "geometry": {"coordinates":[145.81626,-6.3586],"type":"Point"}
+}

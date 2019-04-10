@@ -1,0 +1,67 @@
+{
+  "id": 1310079287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.5815,-5.9678,146.5815,-5.9678",
+    "geom:latitude":-5.9678,
+    "geom:longitude":146.5815,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Gua",
+    "gn:country_code":"PG",
+    "gn:dem":1974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096679,
+    "gn:latitude":-5.9678,
+    "gn:longitude":146.5815,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Gua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096679
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"cd3b15c65ca36a72bbb96760d1753bf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702647,
+            "locality_id":1310079287,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1310079287,
+    "wof:lastmodified":1537032990,
+    "wof:name":"Gua",
+    "wof:parent_id":1091702647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.5815,
+    -5.9678,
+    146.5815,
+    -5.9678
+],
+  "geometry": {"coordinates":[146.58150000000001,-5.9678],"type":"Point"}
+}

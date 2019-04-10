@@ -1,0 +1,67 @@
+{
+  "id": 1327435683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.11403,-10.1301,148.11403,-10.1301",
+    "geom:latitude":-10.1301,
+    "geom:longitude":148.11403,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Wairavanua",
+    "gn:country_code":"PG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2132333,
+    "gn:latitude":-10.1301,
+    "gn:longitude":148.11403,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Wairavanua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091701919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2132333
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2df6f652566fc41ba7589bca76e79b97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091701919,
+            "locality_id":1327435683,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1327435683,
+    "wof:lastmodified":1536676034,
+    "wof:name":"Wairavanua",
+    "wof:parent_id":1091701919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.11403,
+    -10.1301,
+    148.11403,
+    -10.1301
+],
+  "geometry": {"coordinates":[148.11403000000001,-10.1301],"type":"Point"}
+}

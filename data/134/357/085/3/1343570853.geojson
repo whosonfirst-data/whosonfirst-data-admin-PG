@@ -1,0 +1,67 @@
+{
+  "id": 1343570853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.88169,-9.65381,147.88169,-9.65381",
+    "geom:latitude":-9.65381,
+    "geom:longitude":147.88169,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Amuraika",
+    "gn:country_code":"PG",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100855,
+    "gn:latitude":-9.65381,
+    "gn:longitude":147.88169,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Amuraika",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091704253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100855
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"960b1978252d29afdc9df23b0da8606f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704253,
+            "locality_id":1343570853,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1343570853,
+    "wof:lastmodified":1537081235,
+    "wof:name":"Amuraika",
+    "wof:parent_id":1091704253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.88169,
+    -9.65381,
+    147.88169,
+    -9.65381
+],
+  "geometry": {"coordinates":[147.88168999999999,-9.65381],"type":"Point"}
+}

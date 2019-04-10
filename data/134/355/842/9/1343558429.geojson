@@ -1,0 +1,71 @@
+{
+  "id": 1343558429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.91051,-6.35144,144.91051,-6.35144",
+    "geom:latitude":-6.35144,
+    "geom:longitude":144.91051,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ganima'ia",
+    "gn:country_code":"PG",
+    "gn:dem":1130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097197,
+    "gn:latitude":-6.35144,
+    "gn:longitude":144.91051,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ganima\u2019ia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ganimai\u2019ia",
+        "Ganima\u2019ia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091702873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097197
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"7f668bc100b3fe86f9fbffe78e7663a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702873,
+            "locality_id":1343558429,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1343558429,
+    "wof:lastmodified":1537677174,
+    "wof:name":"Ganima'ia",
+    "wof:parent_id":1091702873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.91051000000004,
+    -6.35144,
+    144.91051000000004,
+    -6.35144
+],
+  "geometry": {"coordinates":[144.91051000000004,-6.35144],"type":"Point"}
+}

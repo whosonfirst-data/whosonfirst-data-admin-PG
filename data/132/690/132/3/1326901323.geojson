@@ -1,0 +1,67 @@
+{
+  "id": 1326901323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.10689,-7.05009,146.10689,-7.05009",
+    "geom:latitude":-7.05009,
+    "geom:longitude":146.10689,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kwasimerga",
+    "gn:country_code":"PG",
+    "gn:dem":1269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092841,
+    "gn:latitude":-7.05009,
+    "gn:longitude":146.10689,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kwasimerga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092841
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"55a98649ed2748a620b00c2a8d7f363e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703633,
+            "locality_id":1326901323,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1326901323,
+    "wof:lastmodified":1536949670,
+    "wof:name":"Kwasimerga",
+    "wof:parent_id":1091703633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.10689,
+    -7.05009,
+    146.10689,
+    -7.05009
+],
+  "geometry": {"coordinates":[146.10688999999999,-7.05009],"type":"Point"}
+}

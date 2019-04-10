@@ -1,0 +1,71 @@
+{
+  "id": 1193125343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.02933,-3.749,143.02933,-3.749",
+    "geom:latitude":-3.749,
+    "geom:longitude":143.02933,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mikau 2",
+    "gn:country_code":"PG",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090836,
+    "gn:latitude":-3.749,
+    "gn:longitude":143.02933,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mikau 2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mikau Number 2",
+        "Mikau 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090836
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a74d21e5f02386cb421f601a975566fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705131,
+            "locality_id":1193125343,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1193125343,
+    "wof:lastmodified":1537677101,
+    "wof:name":"Mikau 2",
+    "wof:parent_id":1091705131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.02933000000004,
+    -3.749,
+    143.02933000000004,
+    -3.749
+],
+  "geometry": {"coordinates":[143.02933000000004,-3.749],"type":"Point"}
+}

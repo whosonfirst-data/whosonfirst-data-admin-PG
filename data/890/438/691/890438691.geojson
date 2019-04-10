@@ -1,0 +1,87 @@
+{
+  "id": 890438691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.66667,-10.61667,150.66667,-10.61667",
+    "geom:latitude":-10.61667,
+    "geom:longitude":150.66667,
+    "gn:country":"PG",
+    "gn:fcode":"PPL",
+    "gn:pop":1638,
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u85a9\u99ac\u8cf4"
+    ],
+    "name:dut_x_preferred":[
+        "Samarai"
+    ],
+    "name:eng_x_preferred":[
+        "Samarai"
+    ],
+    "name:fre_x_preferred":[
+        "Samarai"
+    ],
+    "name:ita_x_preferred":[
+        "Samarai"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30de\u30e9\u30a4"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0627\u0645\u0627\u0631\u0627\u0626\u06cc"
+    ],
+    "name:unk_x_variant":[
+        "Samaria"
+    ],
+    "qs:name":"Samarai",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":810,
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2132606,
+        "gp:id":1062336,
+        "qs:id":1033853,
+        "wd:id":"Q938379",
+        "wk:page":"Samarai"
+    },
+    "wof:country":"PG",
+    "wof:created":1469052205,
+    "wof:geomhash":"78c1c7327e9162102ffedc6b3f11af15",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":890438691
+        }
+    ],
+    "wof:id":890438691,
+    "wof:lastmodified":1527735425,
+    "wof:name":"Samarai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":1638,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.66667,
+    -10.61667,
+    150.66667,
+    -10.61667
+],
+  "geometry": {"coordinates":[150.66667000000001,-10.61667],"type":"Point"}
+}

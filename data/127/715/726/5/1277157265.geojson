@@ -1,0 +1,71 @@
+{
+  "id": 1277157265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.4842,-5.68186,146.4842,-5.68186",
+    "geom:latitude":-5.68186,
+    "geom:longitude":146.4842,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mulumiang",
+    "gn:country_code":"PG",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090321,
+    "gn:latitude":-5.68186,
+    "gn:longitude":146.4842,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mulumiang",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mulumiag",
+        "Mulumiang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090321
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d04fef8f96d3866d65b767a3546ea27e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704219,
+            "locality_id":1277157265,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1277157265,
+    "wof:lastmodified":1537677096,
+    "wof:name":"Mulumiang",
+    "wof:parent_id":1091704219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.4842,
+    -5.68186,
+    146.4842,
+    -5.68186
+],
+  "geometry": {"coordinates":[146.48419999999999,-5.68186],"type":"Point"}
+}

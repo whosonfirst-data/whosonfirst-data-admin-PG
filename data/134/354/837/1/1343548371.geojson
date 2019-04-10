@@ -1,0 +1,67 @@
+{
+  "id": 1343548371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.60859,-4.16327,144.60859,-4.16327",
+    "geom:latitude":-4.16327,
+    "geom:longitude":144.60859,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Taringi",
+    "gn:country_code":"PG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085765,
+    "gn:latitude":-4.16327,
+    "gn:longitude":144.60859,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Taringi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091702063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085765
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3c563e859f16122fb3c41edbe2762a00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702063,
+            "locality_id":1343548371,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1343548371,
+    "wof:lastmodified":1536617165,
+    "wof:name":"Taringi",
+    "wof:parent_id":1091702063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.60859,
+    -4.16327,
+    144.60859,
+    -4.16327
+],
+  "geometry": {"coordinates":[144.60858999999999,-4.16327],"type":"Point"}
+}

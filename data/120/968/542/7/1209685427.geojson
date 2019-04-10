@@ -1,0 +1,61 @@
+{
+  "id": 1209685427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.12193,-5.50645,144.12193,-5.50645",
+    "geom:latitude":-5.50645,
+    "geom:longitude":144.12193,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kumbwareta",
+    "gn:country_code":"PG",
+    "gn:dem":1219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8529057,
+    "gn:latitude":-5.50645,
+    "gn:longitude":144.12193,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Kumbwareta",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8529057
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"fe3fc28ecd6a8643b84048ace2e7a305",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209685427
+        }
+    ],
+    "wof:id":1209685427,
+    "wof:lastmodified":1536279427,
+    "wof:name":"Kumbwareta",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.12193,
+    -5.50645,
+    144.12193,
+    -5.50645
+],
+  "geometry": {"coordinates":[144.12192999999999,-5.50645],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193029721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.05251,-8.38682,147.05251,-8.38682",
+    "geom:latitude":-8.38682,
+    "geom:longitude":147.05251,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Lavavai",
+    "gn:country_code":"PG",
+    "gn:dem":1275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092489,
+    "gn:latitude":-8.38682,
+    "gn:longitude":147.05251,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Lavavai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091702425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092489
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b9c45c45eccd94f652db6389d983ec1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702425,
+            "locality_id":1193029721,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1193029721,
+    "wof:lastmodified":1536365116,
+    "wof:name":"Lavavai",
+    "wof:parent_id":1091702425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.05251,
+    -8.38682,
+    147.05251,
+    -8.38682
+],
+  "geometry": {"coordinates":[147.05251000000001,-8.38682],"type":"Point"}
+}

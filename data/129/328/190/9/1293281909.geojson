@@ -1,0 +1,71 @@
+{
+  "id": 1293281909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.57545,-6.53808,145.57545,-6.53808",
+    "geom:latitude":-6.53808,
+    "geom:longitude":145.57545,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Aneiga Number 2",
+    "gn:country_code":"PG",
+    "gn:dem":1733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100800,
+    "gn:latitude":-6.53808,
+    "gn:longitude":145.57545,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Aneiga Number 2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aneiga 2",
+        "Aneiga Number 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091704103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100800
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"fa5dfbdd5eb38b91048211b1124fa33c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704103,
+            "locality_id":1293281909,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1293281909,
+    "wof:lastmodified":1537677213,
+    "wof:name":"Aneiga Number 2",
+    "wof:parent_id":1091704103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.57545,
+    -6.53808,
+    145.57545,
+    -6.53808
+],
+  "geometry": {"coordinates":[145.57544999999999,-6.53808],"type":"Point"}
+}

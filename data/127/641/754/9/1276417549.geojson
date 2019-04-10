@@ -1,0 +1,67 @@
+{
+  "id": 1276417549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.8641,-5.81731,145.8641,-5.81731",
+    "geom:latitude":-5.81731,
+    "geom:longitude":145.8641,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Guria",
+    "gn:country_code":"PG",
+    "gn:dem":1005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096574,
+    "gn:latitude":-5.81731,
+    "gn:longitude":145.8641,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Guria",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096574
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"7d2ccc3d0fce59728b1d506d655c6b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704219,
+            "locality_id":1276417549,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1276417549,
+    "wof:lastmodified":1536665869,
+    "wof:name":"Guria",
+    "wof:parent_id":1091704219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.8641,
+    -5.81731,
+    145.8641,
+    -5.81731
+],
+  "geometry": {"coordinates":[145.86410000000001,-5.81731],"type":"Point"}
+}

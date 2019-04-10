@@ -1,0 +1,61 @@
+{
+  "id": 1209072461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.90853,-3.33106,141.90853,-3.33106",
+    "geom:latitude":-3.33106,
+    "geom:longitude":141.90853,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Piako",
+    "gn:country_code":"PG",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088404,
+    "gn:latitude":-3.33106,
+    "gn:longitude":141.90853,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Piako",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088404
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c0b90310a247be28bc8cbd3796cbba76",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209072461
+        }
+    ],
+    "wof:id":1209072461,
+    "wof:lastmodified":1536298602,
+    "wof:name":"Piako",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.90853,
+    -3.33106,
+    141.90853,
+    -3.33106
+],
+  "geometry": {"coordinates":[141.90853000000001,-3.33106],"type":"Point"}
+}

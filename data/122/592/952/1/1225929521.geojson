@@ -1,0 +1,67 @@
+{
+  "id": 1225929521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.96096,-6.11393,144.96096,-6.11393",
+    "geom:latitude":-6.11393,
+    "geom:longitude":144.96096,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Nabare",
+    "gn:country_code":"PG",
+    "gn:dem":2195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8529229,
+    "gn:latitude":-6.11393,
+    "gn:longitude":144.96096,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Nabare",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091704349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8529229
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"37f987e18b411734fa25c33be41a8323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704349,
+            "locality_id":1225929521,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1225929521,
+    "wof:lastmodified":1536892581,
+    "wof:name":"Nabare",
+    "wof:parent_id":1091704349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.96096,
+    -6.11393,
+    144.96096,
+    -6.11393
+],
+  "geometry": {"coordinates":[144.96096,-6.11393],"type":"Point"}
+}

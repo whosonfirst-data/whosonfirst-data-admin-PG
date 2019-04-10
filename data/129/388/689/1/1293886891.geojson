@@ -1,0 +1,67 @@
+{
+  "id": 1293886891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.02261,-7.39619,146.02261,-7.39619",
+    "geom:latitude":-7.39619,
+    "geom:longitude":146.02261,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gemantua",
+    "gn:country_code":"PG",
+    "gn:dem":1641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097055,
+    "gn:latitude":-7.39619,
+    "gn:longitude":146.02261,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Gemantua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091702955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097055
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"70770148c05a0fbceba6fe05a2e626f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702955,
+            "locality_id":1293886891,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1293886891,
+    "wof:lastmodified":1536708727,
+    "wof:name":"Gemantua",
+    "wof:parent_id":1091702955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.02261,
+    -7.39619,
+    146.02261,
+    -7.39619
+],
+  "geometry": {"coordinates":[146.02260999999999,-7.39619],"type":"Point"}
+}

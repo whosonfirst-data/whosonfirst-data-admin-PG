@@ -1,0 +1,67 @@
+{
+  "id": 1293287639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.5,-8.08333,143.5,-8.08333",
+    "geom:latitude":-8.08333,
+    "geom:longitude":143.5,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Etere",
+    "gn:country_code":"PG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097555,
+    "gn:latitude":-8.08333,
+    "gn:longitude":143.5,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Etere",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091703673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097555
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"210940f36edce773b2189fa46dcc6620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703673,
+            "locality_id":1293287639,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1293287639,
+    "wof:lastmodified":1537072049,
+    "wof:name":"Etere",
+    "wof:parent_id":1091703673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.5,
+    -8.08333,
+    143.5,
+    -8.08333
+],
+  "geometry": {"coordinates":[143.5,-8.08333],"type":"Point"}
+}

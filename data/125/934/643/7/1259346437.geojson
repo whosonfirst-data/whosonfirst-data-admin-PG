@@ -1,0 +1,67 @@
+{
+  "id": 1259346437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.48682,-5.43402,150.48682,-5.43402",
+    "geom:latitude":-5.43402,
+    "geom:longitude":150.48682,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Kavutu",
+    "gn:country_code":"PG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094333,
+    "gn:latitude":-5.43402,
+    "gn:longitude":150.48682,
+    "gn:modification_date":"2015-04-06",
+    "gn:name":"Kavutu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676599,
+        1091704547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094333
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4c9d096d88fd7319f4009903fad43cd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704547,
+            "locality_id":1259346437,
+            "region_id":85676599
+        }
+    ],
+    "wof:id":1259346437,
+    "wof:lastmodified":1537053424,
+    "wof:name":"Kavutu",
+    "wof:parent_id":1091704547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.48682,
+    -5.43402,
+    150.48682,
+    -5.43402
+],
+  "geometry": {"coordinates":[150.48681999999999,-5.43402],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293779319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.09088,-6.1131,145.09088,-6.1131",
+    "geom:latitude":-6.1131,
+    "geom:longitude":145.09088,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kainggunua",
+    "gn:country_code":"PG",
+    "gn:dem":1872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095033,
+    "gn:latitude":-6.1131,
+    "gn:longitude":145.09088,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kainggunua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091702163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095033
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3ef44a5ffdc4a602135f48b9f7ef3fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702163,
+            "locality_id":1293779319,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1293779319,
+    "wof:lastmodified":1536862068,
+    "wof:name":"Kainggunua",
+    "wof:parent_id":1091702163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.09088,
+    -6.1131,
+    145.09088,
+    -6.1131
+],
+  "geometry": {"coordinates":[145.09088,-6.1131],"type":"Point"}
+}

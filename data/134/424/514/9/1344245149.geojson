@@ -1,0 +1,67 @@
+{
+  "id": 1344245149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.31274,-3.68574,143.31274,-3.68574",
+    "geom:latitude":-3.68574,
+    "geom:longitude":143.31274,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Haringer",
+    "gn:country_code":"PG",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096320,
+    "gn:latitude":-3.68574,
+    "gn:longitude":143.31274,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Haringer",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096320
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"909b34baf814caed8e2c1b8e4350f0ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705179,
+            "locality_id":1344245149,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1344245149,
+    "wof:lastmodified":1536606175,
+    "wof:name":"Haringer",
+    "wof:parent_id":1091705179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.31274,
+    -3.68574,
+    143.31274,
+    -3.68574
+],
+  "geometry": {"coordinates":[143.31273999999999,-3.68574],"type":"Point"}
+}

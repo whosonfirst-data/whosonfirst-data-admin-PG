@@ -1,0 +1,67 @@
+{
+  "id": 1343442181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.84556,-4.14337,143.84556,-4.14337",
+    "geom:latitude":-4.14337,
+    "geom:longitude":143.84556,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kambrindo",
+    "gn:country_code":"PG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094829,
+    "gn:latitude":-4.14337,
+    "gn:longitude":143.84556,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kambrindo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094829
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c4965ca887bd3f292bb42903cdde321b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702059,
+            "locality_id":1343442181,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1343442181,
+    "wof:lastmodified":1536773289,
+    "wof:name":"Kambrindo",
+    "wof:parent_id":1091702059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.84556,
+    -4.14337,
+    143.84556,
+    -4.14337
+],
+  "geometry": {"coordinates":[143.84556000000001,-4.14337],"type":"Point"}
+}

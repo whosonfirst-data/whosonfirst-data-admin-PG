@@ -1,0 +1,66 @@
+{
+  "id": 1209498667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.45,-7.25,146.45,-7.25",
+    "geom:latitude":-7.25,
+    "geom:longitude":146.45,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ikyaua",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":1235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095728,
+    "gn:latitude":-7.25,
+    "gn:longitude":146.45,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ikyaua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iki\u2019awa",
+        "Ikyaua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095728
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"6320569cdb3490e784fc078b0f51d5c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209498667
+        }
+    ],
+    "wof:id":1209498667,
+    "wof:lastmodified":1537677157,
+    "wof:name":"Ikyaua",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.45,
+    -7.25,
+    146.45,
+    -7.25
+],
+  "geometry": {"coordinates":[146.44999999999999,-7.25],"type":"Point"}
+}

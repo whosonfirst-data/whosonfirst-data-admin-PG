@@ -1,0 +1,67 @@
+{
+  "id": 1259463251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.28276,-4.80934,145.28276,-4.80934",
+    "geom:latitude":-4.80934,
+    "geom:longitude":145.28276,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Koguman",
+    "gn:country_code":"PG",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093756,
+    "gn:latitude":-4.80934,
+    "gn:longitude":145.28276,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Koguman",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091703709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093756
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e52b5b7a864952f1360ea94ab9b9bb39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703709,
+            "locality_id":1259463251,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1259463251,
+    "wof:lastmodified":1536887475,
+    "wof:name":"Koguman",
+    "wof:parent_id":1091703709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.28276,
+    -4.80934,
+    145.28276,
+    -4.80934
+],
+  "geometry": {"coordinates":[145.28276,-4.80934],"type":"Point"}
+}

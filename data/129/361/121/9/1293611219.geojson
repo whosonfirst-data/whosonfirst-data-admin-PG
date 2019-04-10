@@ -1,0 +1,67 @@
+{
+  "id": 1293611219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.18182,-5.85091,141.18182,-5.85091",
+    "geom:latitude":-5.85091,
+    "geom:longitude":141.18182,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ipoknai",
+    "gn:country_code":"PG",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095503,
+    "gn:latitude":-5.85091,
+    "gn:longitude":141.18182,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Ipoknai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095503
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b49e416393368151d35dd6b2bb15a83f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1293611219,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1293611219,
+    "wof:lastmodified":1536605852,
+    "wof:name":"Ipoknai",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.18182,
+    -5.85091,
+    141.18182,
+    -5.85091
+],
+  "geometry": {"coordinates":[141.18181999999999,-5.85091],"type":"Point"}
+}

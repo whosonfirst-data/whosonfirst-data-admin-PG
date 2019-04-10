@@ -1,0 +1,61 @@
+{
+  "id": 1209107045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.28333,-9.16667,149.28333,-9.16667",
+    "geom:latitude":-9.16667,
+    "geom:longitude":149.28333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Jikuataia",
+    "gn:country_code":"PG",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095256,
+    "gn:latitude":-9.16667,
+    "gn:longitude":149.28333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Jikuataia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095256
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f63a4c2243f10c2d0acfdf5ef1dde6ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209107045
+        }
+    ],
+    "wof:id":1209107045,
+    "wof:lastmodified":1536297534,
+    "wof:name":"Jikuataia",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.28333,
+    -9.16667,
+    149.28333,
+    -9.16667
+],
+  "geometry": {"coordinates":[149.28333000000001,-9.16667],"type":"Point"}
+}

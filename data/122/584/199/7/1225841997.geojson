@@ -1,0 +1,67 @@
+{
+  "id": 1225841997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.9965,-6.2984,144.9965,-6.2984",
+    "geom:latitude":-6.2984,
+    "geom:longitude":144.9965,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kilau",
+    "gn:country_code":"PG",
+    "gn:dem":1891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093994,
+    "gn:latitude":-6.2984,
+    "gn:longitude":144.9965,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kilau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091702873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093994
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8f61da05983bb01e0cfd603d21c8949b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702873,
+            "locality_id":1225841997,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1225841997,
+    "wof:lastmodified":1537018345,
+    "wof:name":"Kilau",
+    "wof:parent_id":1091702873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.9965,
+    -6.2984,
+    144.9965,
+    -6.2984
+],
+  "geometry": {"coordinates":[144.9965,-6.2984],"type":"Point"}
+}

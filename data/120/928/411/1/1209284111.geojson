@@ -1,0 +1,65 @@
+{
+  "id": 1209284111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.19528,-5.71437,144.19528,-5.71437",
+    "geom:latitude":-5.71437,
+    "geom:longitude":144.19528,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kumdi",
+    "gn:country_code":"PG",
+    "gn:dem":1869,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093121,
+    "gn:latitude":-5.71437,
+    "gn:longitude":144.19528,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kumdi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kumbi",
+        "Kumdi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093121
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f46c1d7805dc765cafbccb810dadbbdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209284111
+        }
+    ],
+    "wof:id":1209284111,
+    "wof:lastmodified":1537677126,
+    "wof:name":"Kumdi",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.19528,
+    -5.71437,
+    144.19528,
+    -5.71437
+],
+  "geometry": {"coordinates":[144.19528,-5.71437],"type":"Point"}
+}

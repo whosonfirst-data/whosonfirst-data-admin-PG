@@ -1,0 +1,65 @@
+{
+  "id": 1277047011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.45346,-5.51294,149.45346,-5.51294",
+    "geom:latitude":-5.51294,
+    "geom:longitude":149.45346,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Nukakau",
+    "gn:country_code":"PG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089423,
+    "gn:latitude":-5.51294,
+    "gn:longitude":149.45346,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nukakau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nugakau",
+        "Nukakau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089423
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e0f96c84afb0620135e3905e47694d31",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1277047011,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277047011,
+    "wof:lastmodified":1537677086,
+    "wof:name":"Nukakau",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.45346,
+    -5.51294,
+    149.45346,
+    -5.51294
+],
+  "geometry": {"coordinates":[149.45346000000001,-5.51294],"type":"Point"}
+}

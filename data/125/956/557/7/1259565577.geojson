@@ -1,0 +1,72 @@
+{
+  "id": 1259565577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.13333,-5.58333,144.13333,-5.58333",
+    "geom:latitude":-5.58333,
+    "geom:longitude":144.13333,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Mainis",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":2049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091870,
+    "gn:latitude":-5.58333,
+    "gn:longitude":144.13333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mainis",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maints",
+        "Mainis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676551,
+        1091703785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091870
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f1fd921c641ae48f10fda2cbd44f24f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703785,
+            "locality_id":1259565577,
+            "region_id":85676551
+        }
+    ],
+    "wof:id":1259565577,
+    "wof:lastmodified":1537677114,
+    "wof:name":"Mainis",
+    "wof:parent_id":1091703785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.13333,
+    -5.58333,
+    144.13333,
+    -5.58333
+],
+  "geometry": {"coordinates":[144.13333,-5.58333],"type":"Point"}
+}

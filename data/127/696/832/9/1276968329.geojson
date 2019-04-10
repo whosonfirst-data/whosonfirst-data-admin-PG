@@ -1,0 +1,67 @@
+{
+  "id": 1276968329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.2,-4.4,152.2,-4.4",
+    "geom:latitude":-4.4,
+    "geom:longitude":152.2,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Malakuna",
+    "gn:country_code":"PG",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091766,
+    "gn:latitude":-4.4,
+    "gn:longitude":152.2,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Malakuna",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091703131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091766
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2ca0199cc071b3b14147e1a2d6bfe5d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703131,
+            "locality_id":1276968329,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1276968329,
+    "wof:lastmodified":1536923459,
+    "wof:name":"Malakuna",
+    "wof:parent_id":1091703131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.2,
+    -4.4,
+    152.2,
+    -4.4
+],
+  "geometry": {"coordinates":[152.19999999999999,-4.4],"type":"Point"}
+}

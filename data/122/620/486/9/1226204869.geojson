@@ -1,0 +1,67 @@
+{
+  "id": 1226204869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.45947,-5.82955,143.45947,-5.82955",
+    "geom:latitude":-5.82955,
+    "geom:longitude":143.45947,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Kokas",
+    "gn:country_code":"PG",
+    "gn:dem":2332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093704,
+    "gn:latitude":-5.82955,
+    "gn:longitude":143.45947,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Kokas",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676513,
+        1091702785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093704
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3735a9f73f479ce5ca753e0e9c1a0d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702785,
+            "locality_id":1226204869,
+            "region_id":85676513
+        }
+    ],
+    "wof:id":1226204869,
+    "wof:lastmodified":1536991868,
+    "wof:name":"Kokas",
+    "wof:parent_id":1091702785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.45946999999995,
+    -5.82955,
+    143.45946999999995,
+    -5.82955
+],
+  "geometry": {"coordinates":[143.45946999999995,-5.82955],"type":"Point"}
+}

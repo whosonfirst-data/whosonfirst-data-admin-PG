@@ -1,0 +1,67 @@
+{
+  "id": 1360168211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.84624,-7.6782,146.84624,-7.6782",
+    "geom:latitude":-7.6782,
+    "geom:longitude":146.84624,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Daudoro",
+    "gn:country_code":"PG",
+    "gn:dem":1589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098313,
+    "gn:latitude":-7.6782,
+    "gn:longitude":146.84624,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Daudoro",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098313
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"955b5ea6f4fc7f601070ed5a2e8e39dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702091,
+            "locality_id":1360168211,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1360168211,
+    "wof:lastmodified":1536824830,
+    "wof:name":"Daudoro",
+    "wof:parent_id":1091702091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.84624,
+    -7.6782,
+    146.84624,
+    -7.6782
+],
+  "geometry": {"coordinates":[146.84623999999999,-7.6782],"type":"Point"}
+}

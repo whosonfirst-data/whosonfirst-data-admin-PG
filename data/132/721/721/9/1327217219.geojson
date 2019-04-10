@@ -1,0 +1,67 @@
+{
+  "id": 1327217219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.02539,-6.98278,146.02539,-6.98278",
+    "geom:latitude":-6.98278,
+    "geom:longitude":146.02539,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Wapicika",
+    "gn:country_code":"PG",
+    "gn:dem":1917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8439778,
+    "gn:latitude":-6.98278,
+    "gn:longitude":146.02539,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Wapicika",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8439778
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4c9a0340c408492d79825479f183de20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703633,
+            "locality_id":1327217219,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1327217219,
+    "wof:lastmodified":1536990754,
+    "wof:name":"Wapicika",
+    "wof:parent_id":1091703633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.02539,
+    -6.98278,
+    146.02539,
+    -6.98278
+],
+  "geometry": {"coordinates":[146.02538999999999,-6.98278],"type":"Point"}
+}

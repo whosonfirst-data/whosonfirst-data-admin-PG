@@ -1,0 +1,71 @@
+{
+  "id": 1360092445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.65217,-9.54944,150.65217,-9.54944",
+    "geom:latitude":-9.54944,
+    "geom:longitude":150.65217,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tutubea",
+    "gn:country_code":"PG",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084927,
+    "gn:latitude":-9.54944,
+    "gn:longitude":150.65217,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tutubea",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tutubeia",
+        "Tutubea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084927
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"fa66447a63a58d9b884bb68c6e933f29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702299,
+            "locality_id":1360092445,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1360092445,
+    "wof:lastmodified":1537677041,
+    "wof:name":"Tutubea",
+    "wof:parent_id":1091702299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.65216999999996,
+    -9.54944,
+    150.65216999999996,
+    -9.54944
+],
+  "geometry": {"coordinates":[150.65216999999996,-9.54944],"type":"Point"}
+}

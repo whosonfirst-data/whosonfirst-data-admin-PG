@@ -1,0 +1,61 @@
+{
+  "id": 1209236559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.36667,-6.31667,142.36667,-6.31667",
+    "geom:latitude":-6.31667,
+    "geom:longitude":142.36667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Wamobi",
+    "gn:country_code":"PG",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083968,
+    "gn:latitude":-6.31667,
+    "gn:longitude":142.36667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Wamobi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083968
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"5c3ce4b8241f71f63a6645f77974c784",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209236559
+        }
+    ],
+    "wof:id":1209236559,
+    "wof:lastmodified":1536293460,
+    "wof:name":"Wamobi",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.36667,
+    -6.3166699999999985,
+    142.36667,
+    -6.3166699999999985
+],
+  "geometry": {"coordinates":[142.36667,-6.31667],"type":"Point"}
+}

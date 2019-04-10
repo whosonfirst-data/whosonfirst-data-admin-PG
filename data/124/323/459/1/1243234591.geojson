@@ -1,0 +1,68 @@
+{
+  "id": 1243234591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.00449,-6.70165,147.00449,-6.70165",
+    "geom:latitude":-6.70165,
+    "geom:longitude":147.00449,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Omili",
+    "gn:country_code":"PG",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089103,
+    "gn:latitude":-6.70165,
+    "gn:longitude":147.00449,
+    "gn:modification_date":"2015-01-26",
+    "gn:name":"Omili",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089103,
+        "wk:page":"Omili"
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"af338e634592fc849ac068584d6ae339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703335,
+            "locality_id":1243234591,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1243234591,
+    "wof:lastmodified":1537570308,
+    "wof:name":"Omili",
+    "wof:parent_id":1091703335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.00449,
+    -6.70165,
+    147.00449,
+    -6.70165
+],
+  "geometry": {"coordinates":[147.00449,-6.70165],"type":"Point"}
+}

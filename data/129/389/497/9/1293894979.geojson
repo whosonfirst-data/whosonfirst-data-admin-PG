@@ -1,0 +1,72 @@
+{
+  "id": 1293894979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.61519,-9.62507,149.61519,-9.62507",
+    "geom:latitude":-9.62507,
+    "geom:longitude":149.61519,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Midino",
+    "gn:country_code":"PG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090850,
+    "gn:latitude":-9.62507,
+    "gn:longitude":149.61519,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Midino",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Medino Mission",
+        "Medino",
+        "Midino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090850
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e86c7d0ffd0daf6cb7fbd40a5ee74796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702001,
+            "locality_id":1293894979,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1293894979,
+    "wof:lastmodified":1537677101,
+    "wof:name":"Midino",
+    "wof:parent_id":1091702001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.61518999999996,
+    -9.62507,
+    149.61518999999996,
+    -9.62507
+],
+  "geometry": {"coordinates":[149.61518999999996,-9.62507],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243245623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.58333,-5.78333,144.58333,-5.78333",
+    "geom:latitude":-5.78333,
+    "geom:longitude":144.58333,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Amulibanth",
+    "gn:country_code":"PG",
+    "gn:dem":1576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100860,
+    "gn:latitude":-5.78333,
+    "gn:longitude":144.58333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Amulibanth",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        1108805613,
+        1091704043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100860
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2638db2f90f7bf65637d0a5078c4993f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704043,
+            "locality_id":1243245623,
+            "region_id":1108805613
+        }
+    ],
+    "wof:id":1243245623,
+    "wof:lastmodified":1537091767,
+    "wof:name":"Amulibanth",
+    "wof:parent_id":1091704043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.58333000000005,
+    -5.78333,
+    144.58333000000005,
+    -5.78333
+],
+  "geometry": {"coordinates":[144.58333000000005,-5.78333],"type":"Point"}
+}

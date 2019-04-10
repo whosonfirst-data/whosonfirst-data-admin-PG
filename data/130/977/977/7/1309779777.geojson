@@ -1,0 +1,67 @@
+{
+  "id": 1309779777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.40218,-6.3985,147.40218,-6.3985",
+    "geom:latitude":-6.3985,
+    "geom:longitude":147.40218,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Korumba",
+    "gn:country_code":"PG",
+    "gn:dem":1388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093357,
+    "gn:latitude":-6.3985,
+    "gn:longitude":147.40218,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Korumba",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093357
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3e70a72127cb5480ae34ffaed87acfad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702351,
+            "locality_id":1309779777,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1309779777,
+    "wof:lastmodified":1536968414,
+    "wof:name":"Korumba",
+    "wof:parent_id":1091702351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.40218000000004,
+    -6.3985,
+    147.40218000000004,
+    -6.3985
+],
+  "geometry": {"coordinates":[147.40218000000004,-6.3985],"type":"Point"}
+}

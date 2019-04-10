@@ -1,0 +1,67 @@
+{
+  "id": 1310681293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.13256,-5.62708,146.13256,-5.62708",
+    "geom:latitude":-5.62708,
+    "geom:longitude":146.13256,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Dogingo",
+    "gn:country_code":"PG",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098085,
+    "gn:latitude":-5.62708,
+    "gn:longitude":146.13256,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Dogingo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098085
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"315356b15ba54c0fa228e73cf6ec4c0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704219,
+            "locality_id":1310681293,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1310681293,
+    "wof:lastmodified":1536663362,
+    "wof:name":"Dogingo",
+    "wof:parent_id":1091704219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.13256,
+    -5.62708,
+    146.13256,
+    -5.62708
+],
+  "geometry": {"coordinates":[146.13256000000001,-5.62708],"type":"Point"}
+}

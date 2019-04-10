@@ -1,0 +1,67 @@
+{
+  "id": 1226425291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.6617,-3.15196,152.6617,-3.15196",
+    "geom:latitude":-3.15196,
+    "geom:longitude":152.6617,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Libuko",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092360,
+    "gn:latitude":-3.15196,
+    "gn:longitude":152.6617,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Libuko",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lipokok",
+        "Libuko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092360
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"765472d8c94415e3097bcdb25ab491f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1226425291,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226425291,
+    "wof:lastmodified":1537677118,
+    "wof:name":"Libuko",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.6617,
+    -3.15196,
+    152.6617,
+    -3.15196
+],
+  "geometry": {"coordinates":[152.6617,-3.15196],"type":"Point"}
+}

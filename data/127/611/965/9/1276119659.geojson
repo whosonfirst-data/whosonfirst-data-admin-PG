@@ -1,0 +1,71 @@
+{
+  "id": 1276119659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.60168,-9.99006,149.60168,-9.99006",
+    "geom:latitude":-9.99006,
+    "geom:longitude":149.60168,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Taubadi",
+    "gn:country_code":"PG",
+    "gn:dem":1336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085717,
+    "gn:latitude":-9.99006,
+    "gn:longitude":149.60168,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Taubadi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuabadi",
+        "Taubadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085717
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d5ee05db2ad8f3eebb86d210417521ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702001,
+            "locality_id":1276119659,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1276119659,
+    "wof:lastmodified":1537677050,
+    "wof:name":"Taubadi",
+    "wof:parent_id":1091702001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.60168000000004,
+    -9.99006,
+    149.60168000000004,
+    -9.99006
+],
+  "geometry": {"coordinates":[149.60168000000004,-9.99006],"type":"Point"}
+}

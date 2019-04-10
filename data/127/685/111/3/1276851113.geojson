@@ -1,0 +1,71 @@
+{
+  "id": 1276851113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.5738,-5.12728,145.5738,-5.12728",
+    "geom:latitude":-5.12728,
+    "geom:longitude":145.5738,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Silopi",
+    "gn:country_code":"PG",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086707,
+    "gn:latitude":-5.12728,
+    "gn:longitude":145.5738,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Silopi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Silipi",
+        "Silopi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091703451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086707
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"34817e52607911d3721e0771b1b355b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703451,
+            "locality_id":1276851113,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1276851113,
+    "wof:lastmodified":1537677061,
+    "wof:name":"Silopi",
+    "wof:parent_id":1091703451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.5738,
+    -5.12728,
+    145.5738,
+    -5.12728
+],
+  "geometry": {"coordinates":[145.57380000000001,-5.12728],"type":"Point"}
+}

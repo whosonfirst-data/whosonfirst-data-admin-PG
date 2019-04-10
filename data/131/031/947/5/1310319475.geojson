@@ -1,0 +1,67 @@
+{
+  "id": 1310319475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.9612,-9.7492,147.9612,-9.7492",
+    "geom:latitude":-9.7492,
+    "geom:longitude":147.9612,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gaigoro",
+    "gn:country_code":"PG",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097264,
+    "gn:latitude":-9.7492,
+    "gn:longitude":147.9612,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Gaigoro",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091704253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097264
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"401fe52f96cac30546e367216071c710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704253,
+            "locality_id":1310319475,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1310319475,
+    "wof:lastmodified":1536687741,
+    "wof:name":"Gaigoro",
+    "wof:parent_id":1091704253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.9612,
+    -9.7492,
+    147.9612,
+    -9.7492
+],
+  "geometry": {"coordinates":[147.96119999999999,-9.7492],"type":"Point"}
+}

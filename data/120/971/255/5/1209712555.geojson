@@ -1,0 +1,67 @@
+{
+  "id": 1209712555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"154.80316,-5.49094,154.80316,-5.49094",
+    "geom:latitude":-5.49094,
+    "geom:longitude":154.80316,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Siara",
+    "gn:country_code":"PG",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2113808,
+    "gn:latitude":-5.49094,
+    "gn:longitude":154.80316,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Siara",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676543,
+        1091703967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2113808
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a96b00ec4e09246b1d09193d63d135bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703967,
+            "locality_id":1209712555,
+            "region_id":85676543
+        }
+    ],
+    "wof:id":1209712555,
+    "wof:lastmodified":1536390037,
+    "wof:name":"Siara",
+    "wof:parent_id":1091703967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    154.80316000000005,
+    -5.49094,
+    154.80316000000005,
+    -5.49094
+],
+  "geometry": {"coordinates":[154.80316000000005,-5.49094],"type":"Point"}
+}

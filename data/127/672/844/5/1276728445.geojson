@@ -1,0 +1,71 @@
+{
+  "id": 1276728445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.33506,-3.68118,142.33506,-3.68118",
+    "geom:latitude":-3.68118,
+    "geom:longitude":142.33506,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Yemereba",
+    "gn:country_code":"PG",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2082955,
+    "gn:latitude":-3.68118,
+    "gn:longitude":142.33506,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yemereba",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yemerebo",
+        "Yemereba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091704057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2082955
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3c4034783e6da592ca420a5e53f3d7c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704057,
+            "locality_id":1276728445,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1276728445,
+    "wof:lastmodified":1537677020,
+    "wof:name":"Yemereba",
+    "wof:parent_id":1091704057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.33506,
+    -3.68118,
+    142.33506,
+    -3.68118
+],
+  "geometry": {"coordinates":[142.33506,-3.68118],"type":"Point"}
+}

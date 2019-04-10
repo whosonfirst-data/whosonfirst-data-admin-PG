@@ -1,0 +1,67 @@
+{
+  "id": 1192996353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.37512,-4.7113,143.37512,-4.7113",
+    "geom:latitude":-4.7113,
+    "geom:longitude":143.37512,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Sikaium",
+    "gn:country_code":"PG",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086757,
+    "gn:latitude":-4.7113,
+    "gn:longitude":143.37512,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Sikaium",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086757
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4c191d42f0cb9e18ee50d710b2c47ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702059,
+            "locality_id":1192996353,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1192996353,
+    "wof:lastmodified":1536375421,
+    "wof:name":"Sikaium",
+    "wof:parent_id":1091702059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.37511999999995,
+    -4.7113,
+    143.37511999999995,
+    -4.7113
+],
+  "geometry": {"coordinates":[143.37511999999995,-4.7113],"type":"Point"}
+}

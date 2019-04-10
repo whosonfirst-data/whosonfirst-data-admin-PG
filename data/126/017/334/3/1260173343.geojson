@@ -1,0 +1,67 @@
+{
+  "id": 1260173343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"155.31312,-6.42183,155.31312,-6.42183",
+    "geom:latitude":-6.42183,
+    "geom:longitude":155.31312,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kupon",
+    "gn:country_code":"PG",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8439955,
+    "gn:latitude":-6.42183,
+    "gn:longitude":155.31312,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Kupon",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676543,
+        1091704421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8439955
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"74b0df3fc49bdd1dfe7d577968bc631b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704421,
+            "locality_id":1260173343,
+            "region_id":85676543
+        }
+    ],
+    "wof:id":1260173343,
+    "wof:lastmodified":1536860498,
+    "wof:name":"Kupon",
+    "wof:parent_id":1091704421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    155.31312,
+    -6.42183,
+    155.31312,
+    -6.42183
+],
+  "geometry": {"coordinates":[155.31312,-6.42183],"type":"Point"}
+}

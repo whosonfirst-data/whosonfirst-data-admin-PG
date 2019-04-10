@@ -1,0 +1,67 @@
+{
+  "id": 1310495405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.01667,-5.71667,151.01667,-5.71667",
+    "geom:latitude":-5.71667,
+    "geom:longitude":151.01667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Talalo",
+    "gn:country_code":"PG",
+    "gn:dem":836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085950,
+    "gn:latitude":-5.71667,
+    "gn:longitude":151.01667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Talalo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676565,
+        1091704139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085950
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"829524099535d8d03023340264a07337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704139,
+            "locality_id":1310495405,
+            "region_id":85676565
+        }
+    ],
+    "wof:id":1310495405,
+    "wof:lastmodified":1536932224,
+    "wof:name":"Talalo",
+    "wof:parent_id":1091704139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.01667,
+    -5.71667,
+    151.01667,
+    -5.71667
+],
+  "geometry": {"coordinates":[151.01667,-5.71667],"type":"Point"}
+}

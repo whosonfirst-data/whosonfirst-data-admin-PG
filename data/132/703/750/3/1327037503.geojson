@@ -1,0 +1,71 @@
+{
+  "id": 1327037503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.14604,-10.02931,151.14604,-10.02931",
+    "geom:latitude":-10.02931,
+    "geom:longitude":151.14604,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Elasi",
+    "gn:country_code":"PG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133601,
+    "gn:latitude":-10.02931,
+    "gn:longitude":151.14604,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Elasi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Elasi Mission",
+        "Elasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133601
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0138dc55ccf9076705e27464c2c7c1cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702299,
+            "locality_id":1327037503,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1327037503,
+    "wof:lastmodified":1537677225,
+    "wof:name":"Elasi",
+    "wof:parent_id":1091702299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.14604,
+    -10.02931,
+    151.14604,
+    -10.02931
+],
+  "geometry": {"coordinates":[151.14604,-10.02931],"type":"Point"}
+}

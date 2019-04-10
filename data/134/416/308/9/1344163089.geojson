@@ -1,0 +1,67 @@
+{
+  "id": 1344163089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.2598,-9.16027,149.2598,-9.16027",
+    "geom:latitude":-9.16027,
+    "geom:longitude":149.2598,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Itonomata",
+    "gn:country_code":"PG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095418,
+    "gn:latitude":-9.16027,
+    "gn:longitude":149.2598,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Itonomata",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091702531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095418
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"304103eb371b45d668dbb4a1638d55f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702531,
+            "locality_id":1344163089,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1344163089,
+    "wof:lastmodified":1536727838,
+    "wof:name":"Itonomata",
+    "wof:parent_id":1091702531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.2598,
+    -9.16027,
+    149.2598,
+    -9.16027
+],
+  "geometry": {"coordinates":[149.25980000000001,-9.16027],"type":"Point"}
+}

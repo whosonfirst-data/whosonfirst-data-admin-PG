@@ -1,0 +1,67 @@
+{
+  "id": 1276552447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.55334,-6.11577,143.55334,-6.11577",
+    "geom:latitude":-6.11577,
+    "geom:longitude":143.55334,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kip",
+    "gn:country_code":"PG",
+    "gn:dem":1821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093905,
+    "gn:latitude":-6.11577,
+    "gn:longitude":143.55334,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Kip",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091703589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093905
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"af281b60982faa767305275124fd3153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703589,
+            "locality_id":1276552447,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1276552447,
+    "wof:lastmodified":1536981692,
+    "wof:name":"Kip",
+    "wof:parent_id":1091703589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.55334,
+    -6.11577,
+    143.55334,
+    -6.11577
+],
+  "geometry": {"coordinates":[143.55333999999999,-6.11577],"type":"Point"}
+}

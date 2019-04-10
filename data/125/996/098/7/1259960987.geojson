@@ -1,0 +1,72 @@
+{
+  "id": 1259960987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.86468,-4.08032,142.86468,-4.08032",
+    "geom:latitude":-4.08032,
+    "geom:longitude":142.86468,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Biananambu",
+    "gn:country_code":"PG",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099558,
+    "gn:latitude":-4.08032,
+    "gn:longitude":142.86468,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Biananambu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bianumbui",
+        "Bianumbu",
+        "Biananambu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099558
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8d84fb831e7efc5e09c7c884e41157ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702053,
+            "locality_id":1259960987,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1259960987,
+    "wof:lastmodified":1537677197,
+    "wof:name":"Biananambu",
+    "wof:parent_id":1091702053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.86468,
+    -4.08032,
+    142.86468,
+    -4.08032
+],
+  "geometry": {"coordinates":[142.86467999999999,-4.08032],"type":"Point"}
+}

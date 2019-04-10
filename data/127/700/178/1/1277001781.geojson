@@ -1,0 +1,67 @@
+{
+  "id": 1277001781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.97756,-6.07749,144.97756,-6.07749",
+    "geom:latitude":-6.07749,
+    "geom:longitude":144.97756,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kamalakane",
+    "gn:country_code":"PG",
+    "gn:dem":1596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094887,
+    "gn:latitude":-6.07749,
+    "gn:longitude":144.97756,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kamalakane",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091704349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094887
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"3f269d4bf9905c3b27bd89e76539775c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704349,
+            "locality_id":1277001781,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1277001781,
+    "wof:lastmodified":1536876972,
+    "wof:name":"Kamalakane",
+    "wof:parent_id":1091704349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.97756,
+    -6.07749,
+    144.97756,
+    -6.07749
+],
+  "geometry": {"coordinates":[144.97756000000001,-6.07749],"type":"Point"}
+}

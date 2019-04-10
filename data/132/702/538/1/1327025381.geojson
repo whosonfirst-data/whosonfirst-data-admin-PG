@@ -1,0 +1,67 @@
+{
+  "id": 1327025381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.0,-5.91667,145.0,-5.91667",
+    "geom:latitude":-5.91667,
+    "geom:longitude":145.0,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kenggaku-Inaukane",
+    "gn:country_code":"PG",
+    "gn:dem":2583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094184,
+    "gn:latitude":-5.91667,
+    "gn:longitude":145.0,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Kenggaku-Inaukane",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091703309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094184
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2fb0cb2aff4c5c479fe942d67ddee099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703309,
+            "locality_id":1327025381,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1327025381,
+    "wof:lastmodified":1536771156,
+    "wof:name":"Kenggaku-Inaukane",
+    "wof:parent_id":1091703309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.0,
+    -5.91667,
+    145.0,
+    -5.91667
+],
+  "geometry": {"coordinates":[145.0,-5.91667],"type":"Point"}
+}

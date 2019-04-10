@@ -1,0 +1,61 @@
+{
+  "id": 1209399213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.50626,-6.1683,145.50626,-6.1683",
+    "geom:latitude":-6.1683,
+    "geom:longitude":145.50626,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Magahiyufa",
+    "gn:country_code":"PG",
+    "gn:dem":1502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091968,
+    "gn:latitude":-6.1683,
+    "gn:longitude":145.50626,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Magahiyufa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091968
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"edd3775e3d8a426373afb108ba559003",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209399213
+        }
+    ],
+    "wof:id":1209399213,
+    "wof:lastmodified":1536288201,
+    "wof:name":"Magahiyufa",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.50626,
+    -6.1683,
+    145.50626,
+    -6.1683
+],
+  "geometry": {"coordinates":[145.50626,-6.1683],"type":"Point"}
+}

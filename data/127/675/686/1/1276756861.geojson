@@ -1,0 +1,72 @@
+{
+  "id": 1276756861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.21667,-7.73333,143.21667,-7.73333",
+    "geom:latitude":-7.73333,
+    "geom:longitude":143.21667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Aworro",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100191,
+    "gn:latitude":-7.73333,
+    "gn:longitude":143.21667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Aworro",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aworra",
+        "Aworro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091703673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100191
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c73e2e9319d4dc551dbbbd68be1c5eb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703673,
+            "locality_id":1276756861,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1276756861,
+    "wof:lastmodified":1537677205,
+    "wof:name":"Aworro",
+    "wof:parent_id":1091703673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.21667,
+    -7.73333,
+    143.21667,
+    -7.73333
+],
+  "geometry": {"coordinates":[143.21666999999999,-7.73333],"type":"Point"}
+}

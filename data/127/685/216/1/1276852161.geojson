@@ -1,0 +1,71 @@
+{
+  "id": 1276852161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.25,-3.66667,143.25,-3.66667",
+    "geom:latitude":-3.66667,
+    "geom:longitude":143.25,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Nindepolye Villages",
+    "gn:country_code":"PG",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089606,
+    "gn:latitude":-3.66667,
+    "gn:longitude":143.25,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Nindepolye Villages",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nindepoyle Villages",
+        "Nindepolye Villages"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089606
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0a799880e6a0fea8c56c27d8ac3d0291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705179,
+            "locality_id":1276852161,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1276852161,
+    "wof:lastmodified":1537677088,
+    "wof:name":"Nindepolye Villages",
+    "wof:parent_id":1091705179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.25,
+    -3.66667,
+    143.25,
+    -3.66667
+],
+  "geometry": {"coordinates":[143.25,-3.66667],"type":"Point"}
+}

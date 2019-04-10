@@ -1,0 +1,72 @@
+{
+  "id": 1309930059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.45,-8.75,148.45,-8.75",
+    "geom:latitude":-8.75,
+    "geom:longitude":148.45,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Garuro Number 2",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097134,
+    "gn:latitude":-8.75,
+    "gn:longitude":148.45,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Garuro Number 2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garuru 2",
+        "Garuro Number 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091702531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097134
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ede3f746922ea4c2ed55e91b42dc5f97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702531,
+            "locality_id":1309930059,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1309930059,
+    "wof:lastmodified":1537677173,
+    "wof:name":"Garuro Number 2",
+    "wof:parent_id":1091702531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.45,
+    -8.75,
+    148.45,
+    -8.75
+],
+  "geometry": {"coordinates":[148.44999999999999,-8.75],"type":"Point"}
+}

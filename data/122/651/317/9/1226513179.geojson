@@ -1,0 +1,67 @@
+{
+  "id": 1226513179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.81667,-6.81667,146.81667,-6.81667",
+    "geom:latitude":-6.81667,
+    "geom:longitude":146.81667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Buwai",
+    "gn:country_code":"PG",
+    "gn:dem":1333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098683,
+    "gn:latitude":-6.81667,
+    "gn:longitude":146.81667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Buwai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098683
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"dbec79c2014e6924bb19219cb43d2e4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702091,
+            "locality_id":1226513179,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1226513179,
+    "wof:lastmodified":1537043305,
+    "wof:name":"Buwai",
+    "wof:parent_id":1091702091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.81667,
+    -6.81667,
+    146.81667,
+    -6.81667
+],
+  "geometry": {"coordinates":[146.81666999999999,-6.81667],"type":"Point"}
+}

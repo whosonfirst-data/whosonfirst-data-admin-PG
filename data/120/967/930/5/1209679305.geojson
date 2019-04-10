@@ -1,0 +1,61 @@
+{
+  "id": 1209679305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.34478,-6.2519,150.34478,-6.2519",
+    "geom:latitude":-6.2519,
+    "geom:longitude":150.34478,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Ringring",
+    "gn:country_code":"PG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087620,
+    "gn:latitude":-6.2519,
+    "gn:longitude":150.34478,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Ringring",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087620
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"10f6825df59c03929277b3c7fbb674c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209679305
+        }
+    ],
+    "wof:id":1209679305,
+    "wof:lastmodified":1536279634,
+    "wof:name":"Ringring",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.34478,
+    -6.2519,
+    150.34478,
+    -6.2519
+],
+  "geometry": {"coordinates":[150.34477999999999,-6.2519],"type":"Point"}
+}

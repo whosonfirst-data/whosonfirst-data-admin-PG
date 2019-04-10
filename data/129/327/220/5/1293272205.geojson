@@ -1,0 +1,67 @@
+{
+  "id": 1293272205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.64749,-5.60183,145.64749,-5.60183",
+    "geom:latitude":-5.60183,
+    "geom:longitude":145.64749,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mabeluku",
+    "gn:country_code":"PG",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092028,
+    "gn:latitude":-5.60183,
+    "gn:longitude":145.64749,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Mabeluku",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092028
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"32bee834a5de94ad46d48756c2a57012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704219,
+            "locality_id":1293272205,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1293272205,
+    "wof:lastmodified":1537094212,
+    "wof:name":"Mabeluku",
+    "wof:parent_id":1091704219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.64749,
+    -5.60183,
+    145.64749,
+    -5.60183
+],
+  "geometry": {"coordinates":[145.64749,-5.60183],"type":"Point"}
+}

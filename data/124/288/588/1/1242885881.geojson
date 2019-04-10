@@ -1,0 +1,67 @@
+{
+  "id": 1242885881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"149.56667,-9.8,149.56667,-9.8",
+    "geom:latitude":-9.8,
+    "geom:longitude":149.56667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Radike",
+    "gn:country_code":"PG",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087878,
+    "gn:latitude":-9.8,
+    "gn:longitude":149.56667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Radike",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087878
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8e1475486cdf830636294366a4822d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702001,
+            "locality_id":1242885881,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1242885881,
+    "wof:lastmodified":1536617371,
+    "wof:name":"Radike",
+    "wof:parent_id":1091702001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    149.56667,
+    -9.8,
+    149.56667,
+    -9.8
+],
+  "geometry": {"coordinates":[149.56666999999999,-9.8],"type":"Point"}
+}

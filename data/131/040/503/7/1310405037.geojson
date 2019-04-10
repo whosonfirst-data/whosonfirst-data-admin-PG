@@ -1,0 +1,67 @@
+{
+  "id": 1310405037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.30906,-5.83428,143.30906,-5.83428",
+    "geom:latitude":-5.83428,
+    "geom:longitude":143.30906,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Panduaka Mission",
+    "gn:country_code":"PG",
+    "gn:dem":2402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088680,
+    "gn:latitude":-5.83428,
+    "gn:longitude":143.30906,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Panduaka Mission",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        1108805615,
+        1091703179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088680
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"169b11dc9edb317dbb5a9f17993ba695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703179,
+            "locality_id":1310405037,
+            "region_id":1108805615
+        }
+    ],
+    "wof:id":1310405037,
+    "wof:lastmodified":1537059361,
+    "wof:name":"Panduaka Mission",
+    "wof:parent_id":1091703179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.30906000000004,
+    -5.83428,
+    143.30906000000004,
+    -5.83428
+],
+  "geometry": {"coordinates":[143.30906000000004,-5.83428],"type":"Point"}
+}

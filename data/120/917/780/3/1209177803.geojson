@@ -1,0 +1,66 @@
+{
+  "id": 1209177803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.3307,-6.2647,150.3307,-6.2647",
+    "geom:latitude":-6.2647,
+    "geom:longitude":150.3307,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Gasmata",
+    "gn:country_code":"PG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097131,
+    "gn:latitude":-6.2647,
+    "gn:longitude":150.3307,
+    "gn:modification_date":"2017-07-23",
+    "gn:name":"Gasmata",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gasmatta",
+        "Gasmata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097131,
+        "wk:page":"Gasmata"
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2e5f4e1a1e0edc7b9a45b10175759b7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209177803
+        }
+    ],
+    "wof:id":1209177803,
+    "wof:lastmodified":1537677173,
+    "wof:name":"Gasmata",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.3307,
+    -6.2647,
+    150.3307,
+    -6.2647
+],
+  "geometry": {"coordinates":[150.33070000000001,-6.2647],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193159779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.60311,-6.23898,143.60311,-6.23898",
+    "geom:latitude":-6.23898,
+    "geom:longitude":143.60311,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Pumi",
+    "gn:country_code":"PG",
+    "gn:dem":1938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088004,
+    "gn:latitude":-6.23898,
+    "gn:longitude":143.60311,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Pumi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091703941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088004
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"79b5d85b6fe6912a43ee2fb13fdcbdfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703941,
+            "locality_id":1193159779,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1193159779,
+    "wof:lastmodified":1536369198,
+    "wof:name":"Pumi",
+    "wof:parent_id":1091703941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.60311000000004,
+    -6.23898,
+    143.60311000000004,
+    -6.23898
+],
+  "geometry": {"coordinates":[143.60311000000004,-6.23898],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310519239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.56188,-9.79703,147.56188,-9.79703",
+    "geom:latitude":-9.79703,
+    "geom:longitude":147.56188,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gomore",
+    "gn:country_code":"PG",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096785,
+    "gn:latitude":-9.79703,
+    "gn:longitude":147.56188,
+    "gn:modification_date":"2014-09-27",
+    "gn:name":"Gomore",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091704253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096785
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"20972ea87fc151dc14f6b069042ffb75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704253,
+            "locality_id":1310519239,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1310519239,
+    "wof:lastmodified":1536896933,
+    "wof:name":"Gomore",
+    "wof:parent_id":1091704253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.56188,
+    -9.79703,
+    147.56188,
+    -9.79703
+],
+  "geometry": {"coordinates":[147.56188,-9.79703],"type":"Point"}
+}

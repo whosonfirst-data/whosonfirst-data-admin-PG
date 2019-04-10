@@ -1,0 +1,67 @@
+{
+  "id": 1242776967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.36203,-6.234,143.36203,-6.234",
+    "geom:latitude":-6.234,
+    "geom:longitude":143.36203,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kawari",
+    "gn:country_code":"PG",
+    "gn:dem":1791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2094316,
+    "gn:latitude":-6.234,
+    "gn:longitude":143.36203,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kawari",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091703941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2094316
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"6c602cb1b3b365c0617dca7a06056191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703941,
+            "locality_id":1242776967,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1242776967,
+    "wof:lastmodified":1536777083,
+    "wof:name":"Kawari",
+    "wof:parent_id":1091703941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.36203,
+    -6.234,
+    143.36203,
+    -6.234
+],
+  "geometry": {"coordinates":[143.36203,-6.234],"type":"Point"}
+}

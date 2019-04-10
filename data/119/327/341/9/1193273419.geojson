@@ -1,0 +1,67 @@
+{
+  "id": 1193273419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.93227,-8.42799,142.93227,-8.42799",
+    "geom:latitude":-8.42799,
+    "geom:longitude":142.93227,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tirio",
+    "gn:country_code":"PG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085386,
+    "gn:latitude":-8.42799,
+    "gn:longitude":142.93227,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Tirio",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091703673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085386
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0155abbf512adcca6116a87a40038860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703673,
+            "locality_id":1193273419,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1193273419,
+    "wof:lastmodified":1536367995,
+    "wof:name":"Tirio",
+    "wof:parent_id":1091703673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.93227,
+    -8.42799,
+    142.93227,
+    -8.42799
+],
+  "geometry": {"coordinates":[142.93226999999999,-8.42799],"type":"Point"}
+}

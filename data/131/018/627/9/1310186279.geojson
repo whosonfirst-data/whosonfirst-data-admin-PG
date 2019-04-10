@@ -1,0 +1,67 @@
+{
+  "id": 1310186279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.0328,-3.68788,143.0328,-3.68788",
+    "geom:latitude":-3.68788,
+    "geom:longitude":143.0328,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Serandu",
+    "gn:country_code":"PG",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086891,
+    "gn:latitude":-3.68788,
+    "gn:longitude":143.0328,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Serandu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091703523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086891
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b9fe3d1ef6bed6b598abc6c6a4aab239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703523,
+            "locality_id":1310186279,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1310186279,
+    "wof:lastmodified":1536879278,
+    "wof:name":"Serandu",
+    "wof:parent_id":1091703523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.0328,
+    -3.68788,
+    143.0328,
+    -3.68788
+],
+  "geometry": {"coordinates":[143.03280000000001,-3.68788],"type":"Point"}
+}

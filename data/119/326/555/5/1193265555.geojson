@@ -1,0 +1,67 @@
+{
+  "id": 1193265555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.48333,-5.4,145.48333,-5.4",
+    "geom:latitude":-5.4,
+    "geom:longitude":145.48333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Gumus",
+    "gn:country_code":"PG",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096607,
+    "gn:latitude":-5.4,
+    "gn:longitude":145.48333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Gumus",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096607
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"efdc39336c9c38ed7147b5b2aed9ee94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704819,
+            "locality_id":1193265555,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1193265555,
+    "wof:lastmodified":1536376261,
+    "wof:name":"Gumus",
+    "wof:parent_id":1091704819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.48333,
+    -5.4,
+    145.48333,
+    -5.4
+],
+  "geometry": {"coordinates":[145.48333,-5.4],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193125479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.7984,-3.63842,143.7984,-3.63842",
+    "geom:latitude":-3.63842,
+    "geom:longitude":143.7984,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kaiep",
+    "gn:country_code":"PG",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095068,
+    "gn:latitude":-3.63842,
+    "gn:longitude":143.7984,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kaiep",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095068
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"87b0af287315f72ddfa69dc7ff8cd84c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705089,
+            "locality_id":1193125479,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1193125479,
+    "wof:lastmodified":1536381412,
+    "wof:name":"Kaiep",
+    "wof:parent_id":1091705089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.7984,
+    -3.63842,
+    143.7984,
+    -3.63842
+],
+  "geometry": {"coordinates":[143.79839999999999,-3.63842],"type":"Point"}
+}

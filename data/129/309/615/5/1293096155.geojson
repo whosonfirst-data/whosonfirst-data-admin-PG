@@ -1,0 +1,67 @@
+{
+  "id": 1293096155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.42905,-8.62944,141.42905,-8.62944",
+    "geom:latitude":-8.62944,
+    "geom:longitude":141.42905,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Iokwa",
+    "gn:country_code":"PG",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095547,
+    "gn:latitude":-8.62944,
+    "gn:longitude":141.42905,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Iokwa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095547
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"25b46154d7441df2b14bb5cdf8506d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704467,
+            "locality_id":1293096155,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1293096155,
+    "wof:lastmodified":1536853162,
+    "wof:name":"Iokwa",
+    "wof:parent_id":1091704467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.42905,
+    -8.62944,
+    141.42905,
+    -8.62944
+],
+  "geometry": {"coordinates":[141.42904999999999,-8.62944],"type":"Point"}
+}

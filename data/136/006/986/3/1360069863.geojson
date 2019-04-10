@@ -1,0 +1,72 @@
+{
+  "id": 1360069863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.2092,-6.63758,145.2092,-6.63758",
+    "geom:latitude":-6.63758,
+    "geom:longitude":145.2092,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Adumo",
+    "gn:country_code":"PG",
+    "gn:dem":1420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101352,
+    "gn:latitude":-6.63758,
+    "gn:longitude":145.2092,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Adumo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adum",
+        "Adumo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091703417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101352,
+        "wk:page":"Adumo"
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ef395c5c5b9c514b68e1717208c6fe61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703417,
+            "locality_id":1360069863,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1360069863,
+    "wof:lastmodified":1537677219,
+    "wof:name":"Adumo",
+    "wof:parent_id":1091703417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.2092,
+    -6.63758,
+    145.2092,
+    -6.63758
+],
+  "geometry": {"coordinates":[145.20920000000001,-6.63758],"type":"Point"}
+}

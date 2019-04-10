@@ -1,0 +1,67 @@
+{
+  "id": 1243004855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.36667,-6.08333,143.36667,-6.08333",
+    "geom:latitude":-6.08333,
+    "geom:longitude":143.36667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Solwan",
+    "gn:country_code":"PG",
+    "gn:dem":2036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086414,
+    "gn:latitude":-6.08333,
+    "gn:longitude":143.36667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Solwan",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        1108805615,
+        1091703179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086414
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8d5e97ad4b57d3370ae12330ea7f40d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703179,
+            "locality_id":1243004855,
+            "region_id":1108805615
+        }
+    ],
+    "wof:id":1243004855,
+    "wof:lastmodified":1536945699,
+    "wof:name":"Solwan",
+    "wof:parent_id":1091703179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.36667,
+    -6.08333,
+    143.36667,
+    -6.08333
+],
+  "geometry": {"coordinates":[143.36667,-6.08333],"type":"Point"}
+}

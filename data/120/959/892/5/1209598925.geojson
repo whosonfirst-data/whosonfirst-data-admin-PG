@@ -1,0 +1,61 @@
+{
+  "id": 1209598925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.08713,-6.63132,146.08713,-6.63132",
+    "geom:latitude":-6.63132,
+    "geom:longitude":146.08713,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Siaga",
+    "gn:country_code":"PG",
+    "gn:dem":1371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086834,
+    "gn:latitude":-6.63132,
+    "gn:longitude":146.08713,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Siaga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086834
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"900de3bd57ca015d488a73c593baa257",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209598925
+        }
+    ],
+    "wof:id":1209598925,
+    "wof:lastmodified":1536282232,
+    "wof:name":"Siaga",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.08713,
+    -6.63132,
+    146.08713,
+    -6.63132
+],
+  "geometry": {"coordinates":[146.08713,-6.63132],"type":"Point"}
+}

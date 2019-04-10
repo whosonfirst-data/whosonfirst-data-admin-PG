@@ -1,0 +1,67 @@
+{
+  "id": 1226046649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.15885,-10.02108,148.15885,-10.02108",
+    "geom:latitude":-10.02108,
+    "geom:longitude":148.15885,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kalapa",
+    "gn:country_code":"PG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133222,
+    "gn:latitude":-10.02108,
+    "gn:longitude":148.15885,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kalapa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091701919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133222
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"bde43013142f67ed8557f05302c3436b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091701919,
+            "locality_id":1226046649,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1226046649,
+    "wof:lastmodified":1536724191,
+    "wof:name":"Kalapa",
+    "wof:parent_id":1091701919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.15885,
+    -10.02108,
+    148.15885,
+    -10.02108
+],
+  "geometry": {"coordinates":[148.15885,-10.02108],"type":"Point"}
+}

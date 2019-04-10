@@ -1,0 +1,67 @@
+{
+  "id": 1276242571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.53664,-9.79923,147.53664,-9.79923",
+    "geom:latitude":-9.79923,
+    "geom:longitude":147.53664,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tagana",
+    "gn:country_code":"PG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086028,
+    "gn:latitude":-9.79923,
+    "gn:longitude":147.53664,
+    "gn:modification_date":"2014-09-27",
+    "gn:name":"Tagana",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091704253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086028
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"719948120b3785530a045ddc556f3e55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704253,
+            "locality_id":1276242571,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1276242571,
+    "wof:lastmodified":1536900253,
+    "wof:name":"Tagana",
+    "wof:parent_id":1091704253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.53663999999995,
+    -9.79923,
+    147.53663999999995,
+    -9.79923
+],
+  "geometry": {"coordinates":[147.53663999999995,-9.79923],"type":"Point"}
+}

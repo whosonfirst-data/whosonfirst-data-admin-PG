@@ -1,0 +1,67 @@
+{
+  "id": 1292982167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.30449,-3.40526,143.30449,-3.40526",
+    "geom:latitude":-3.40526,
+    "geom:longitude":143.30449,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Urip Villages",
+    "gn:country_code":"PG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2084564,
+    "gn:latitude":-3.40526,
+    "gn:longitude":143.30449,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Urip Villages",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2084564
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a2aa25dcbbecf3f495e431eea85a9944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705089,
+            "locality_id":1292982167,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1292982167,
+    "wof:lastmodified":1537017768,
+    "wof:name":"Urip Villages",
+    "wof:parent_id":1091705089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.30449,
+    -3.40526,
+    143.30449,
+    -3.40526
+],
+  "geometry": {"coordinates":[143.30448999999999,-3.40526],"type":"Point"}
+}

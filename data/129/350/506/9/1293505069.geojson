@@ -1,0 +1,67 @@
+{
+  "id": 1293505069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.04399,-10.08465,148.04399,-10.08465",
+    "geom:latitude":-10.08465,
+    "geom:longitude":148.04399,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Keagolo",
+    "gn:country_code":"PG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133189,
+    "gn:latitude":-10.08465,
+    "gn:longitude":148.04399,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Keagolo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091701919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133189
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"626cdd3f22aba7e801877bd20b2c91bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091701919,
+            "locality_id":1293505069,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1293505069,
+    "wof:lastmodified":1536761965,
+    "wof:name":"Keagolo",
+    "wof:parent_id":1091701919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.04398999999995,
+    -10.08465,
+    148.04398999999995,
+    -10.08465
+],
+  "geometry": {"coordinates":[148.04398999999995,-10.08465],"type":"Point"}
+}

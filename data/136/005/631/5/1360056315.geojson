@@ -1,0 +1,67 @@
+{
+  "id": 1360056315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.84024,-7.8199,146.84024,-7.8199",
+    "geom:latitude":-7.8199,
+    "geom:longitude":146.84024,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Koi'ioro",
+    "gn:country_code":"PG",
+    "gn:dem":2093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093731,
+    "gn:latitude":-7.8199,
+    "gn:longitude":146.84024,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Koi\u2019ioro",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093731
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"35f83928517c2855159209066061d1ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702091,
+            "locality_id":1360056315,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1360056315,
+    "wof:lastmodified":1536986510,
+    "wof:name":"Koi'ioro",
+    "wof:parent_id":1091702091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.84024,
+    -7.8199,
+    146.84024,
+    -7.8199
+],
+  "geometry": {"coordinates":[146.84023999999999,-7.8199],"type":"Point"}
+}

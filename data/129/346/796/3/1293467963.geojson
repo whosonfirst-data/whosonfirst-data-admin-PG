@@ -1,0 +1,71 @@
+{
+  "id": 1293467963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.42513,-3.95819,143.42513,-3.95819",
+    "geom:latitude":-3.95819,
+    "geom:longitude":143.42513,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Timbunangua",
+    "gn:country_code":"PG",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085453,
+    "gn:latitude":-3.95819,
+    "gn:longitude":143.42513,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Timbunangua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Timbunangu",
+        "Timbunangua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085453
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"648a03ea912d8deae931aa7ede0a64eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705179,
+            "locality_id":1293467963,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1293467963,
+    "wof:lastmodified":1537677047,
+    "wof:name":"Timbunangua",
+    "wof:parent_id":1091705179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.42513,
+    -3.95819,
+    143.42513,
+    -3.95819
+],
+  "geometry": {"coordinates":[143.42513,-3.95819],"type":"Point"}
+}

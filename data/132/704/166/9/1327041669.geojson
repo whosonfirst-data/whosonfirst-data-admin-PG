@@ -1,0 +1,67 @@
+{
+  "id": 1327041669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.06667,-8.5,151.06667,-8.5",
+    "geom:latitude":-8.5,
+    "geom:longitude":151.06667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ialaka",
+    "gn:country_code":"PG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095928,
+    "gn:latitude":-8.5,
+    "gn:longitude":151.06667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Ialaka",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091703083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095928
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e677e07e78b86e4433d2df992cf1022d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703083,
+            "locality_id":1327041669,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1327041669,
+    "wof:lastmodified":1536746780,
+    "wof:name":"Ialaka",
+    "wof:parent_id":1091703083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.06667,
+    -8.5,
+    151.06667,
+    -8.5
+],
+  "geometry": {"coordinates":[151.06666999999999,-8.5],"type":"Point"}
+}

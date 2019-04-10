@@ -1,0 +1,65 @@
+{
+  "id": 1344235067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.56078,-3.92292,144.56078,-3.92292",
+    "geom:latitude":-3.92292,
+    "geom:longitude":144.56078,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Watam",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083689,
+    "gn:latitude":-3.92292,
+    "gn:longitude":144.56078,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Watam",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uatam",
+        "Watam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083689
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0954d944681ca03ed75ce02a2917cbbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1344235067,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344235067,
+    "wof:lastmodified":1537677029,
+    "wof:name":"Watam",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.56078,
+    -3.92292,
+    144.56078,
+    -3.92292
+],
+  "geometry": {"coordinates":[144.56077999999999,-3.92292],"type":"Point"}
+}

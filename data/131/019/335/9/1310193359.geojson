@@ -1,0 +1,67 @@
+{
+  "id": 1310193359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.86929,-4.53655,143.86929,-4.53655",
+    "geom:latitude":-4.53655,
+    "geom:longitude":143.86929,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Avangumba",
+    "gn:country_code":"PG",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100278,
+    "gn:latitude":-4.53655,
+    "gn:longitude":143.86929,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Avangumba",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100278
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"d065879b6ef6c2d817ab1c72bd289b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702059,
+            "locality_id":1310193359,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1310193359,
+    "wof:lastmodified":1536868657,
+    "wof:name":"Avangumba",
+    "wof:parent_id":1091702059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.86928999999995,
+    -4.53655,
+    143.86928999999995,
+    -4.53655
+],
+  "geometry": {"coordinates":[143.86928999999995,-4.53655],"type":"Point"}
+}

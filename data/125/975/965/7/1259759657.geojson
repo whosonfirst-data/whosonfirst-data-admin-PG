@@ -1,0 +1,67 @@
+{
+  "id": 1259759657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.18328,-2.13469,147.18328,-2.13469",
+    "geom:latitude":-2.13469,
+    "geom:longitude":147.18328,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Sirra",
+    "gn:country_code":"PG",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086555,
+    "gn:latitude":-2.13469,
+    "gn:longitude":147.18328,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Sirra",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676569,
+        1091703475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086555
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"53cf9507422f8b45770e52ff62403207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703475,
+            "locality_id":1259759657,
+            "region_id":85676569
+        }
+    ],
+    "wof:id":1259759657,
+    "wof:lastmodified":1536957508,
+    "wof:name":"Sirra",
+    "wof:parent_id":1091703475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.18328,
+    -2.13469,
+    147.18328,
+    -2.13469
+],
+  "geometry": {"coordinates":[147.18328,-2.13469],"type":"Point"}
+}

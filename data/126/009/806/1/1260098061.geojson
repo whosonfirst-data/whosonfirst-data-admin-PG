@@ -1,0 +1,67 @@
+{
+  "id": 1260098061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.01728,-10.13341,148.01728,-10.13341",
+    "geom:latitude":-10.13341,
+    "geom:longitude":148.01728,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Maopa",
+    "gn:country_code":"PG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2132941,
+    "gn:latitude":-10.13341,
+    "gn:longitude":148.01728,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Maopa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091701919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2132941
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"751b07a2f728fd743f365dddac9b4f34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091701919,
+            "locality_id":1260098061,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1260098061,
+    "wof:lastmodified":1536966844,
+    "wof:name":"Maopa",
+    "wof:parent_id":1091701919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.01728,
+    -10.13341,
+    148.01728,
+    -10.13341
+],
+  "geometry": {"coordinates":[148.01728,-10.13341],"type":"Point"}
+}

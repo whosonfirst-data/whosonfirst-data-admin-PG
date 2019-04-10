@@ -1,0 +1,67 @@
+{
+  "id": 1259588111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.98144,-6.32448,143.98144,-6.32448",
+    "geom:latitude":-6.32448,
+    "geom:longitude":143.98144,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Wangai",
+    "gn:country_code":"PG",
+    "gn:dem":2006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083913,
+    "gn:latitude":-6.32448,
+    "gn:longitude":143.98144,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Wangai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083913
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"7cc94839c2360f270b91e85b13c6740d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702491,
+            "locality_id":1259588111,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1259588111,
+    "wof:lastmodified":1536708402,
+    "wof:name":"Wangai",
+    "wof:parent_id":1091702491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.98144,
+    -6.32448,
+    143.98144,
+    -6.32448
+],
+  "geometry": {"coordinates":[143.98143999999999,-6.32448],"type":"Point"}
+}

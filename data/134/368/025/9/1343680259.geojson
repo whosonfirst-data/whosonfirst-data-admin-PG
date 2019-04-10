@@ -1,0 +1,67 @@
+{
+  "id": 1343680259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.33629,-5.88995,143.33629,-5.88995",
+    "geom:latitude":-5.88995,
+    "geom:longitude":143.33629,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ariaka",
+    "gn:country_code":"PG",
+    "gn:dem":2671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100609,
+    "gn:latitude":-5.88995,
+    "gn:longitude":143.33629,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Ariaka",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        1108805615,
+        1091703179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100609
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"21764bfb1f507cac197e49a801482e1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703179,
+            "locality_id":1343680259,
+            "region_id":1108805615
+        }
+    ],
+    "wof:id":1343680259,
+    "wof:lastmodified":1536927193,
+    "wof:name":"Ariaka",
+    "wof:parent_id":1091703179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.33629,
+    -5.88995,
+    143.33629,
+    -5.88995
+],
+  "geometry": {"coordinates":[143.33628999999999,-5.88995],"type":"Point"}
+}

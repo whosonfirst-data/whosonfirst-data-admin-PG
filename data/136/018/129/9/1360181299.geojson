@@ -1,0 +1,67 @@
+{
+  "id": 1360181299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.3062,-6.57053,145.3062,-6.57053",
+    "geom:latitude":-6.57053,
+    "geom:longitude":145.3062,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Mane",
+    "gn:country_code":"PG",
+    "gn:dem":1960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091602,
+    "gn:latitude":-6.57053,
+    "gn:longitude":145.3062,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Mane",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091704103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091602
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"e537be65df119e6332fd45fa4ddf10c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704103,
+            "locality_id":1360181299,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1360181299,
+    "wof:lastmodified":1536806616,
+    "wof:name":"Mane",
+    "wof:parent_id":1091704103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.3062,
+    -6.57053,
+    145.3062,
+    -6.57053
+],
+  "geometry": {"coordinates":[145.30619999999999,-6.57053],"type":"Point"}
+}

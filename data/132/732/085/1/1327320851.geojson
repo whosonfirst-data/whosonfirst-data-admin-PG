@@ -1,0 +1,67 @@
+{
+  "id": 1327320851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.71667,-4.8,144.71667,-4.8",
+    "geom:latitude":-4.8,
+    "geom:longitude":144.71667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Korap",
+    "gn:country_code":"PG",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093443,
+    "gn:latitude":-4.8,
+    "gn:longitude":144.71667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Korap",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091703709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093443
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"1bbe0af7df4b7107d71326e4dba91ec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703709,
+            "locality_id":1327320851,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1327320851,
+    "wof:lastmodified":1536840924,
+    "wof:name":"Korap",
+    "wof:parent_id":1091703709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.71667,
+    -4.8,
+    144.71667,
+    -4.8
+],
+  "geometry": {"coordinates":[144.71666999999999,-4.8],"type":"Point"}
+}

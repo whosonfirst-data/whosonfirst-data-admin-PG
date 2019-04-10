@@ -1,0 +1,61 @@
+{
+  "id": 1327125991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"154.52302,-5.19903,154.52302,-5.19903",
+    "geom:latitude":-5.19903,
+    "geom:longitude":154.52302,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Pororan",
+    "gn:country_code":"PG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8439861,
+    "gn:latitude":-5.19903,
+    "gn:longitude":154.52302,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Pororan",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8439861
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8db7eb46123a6d3b6e66f781e4521cac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327125991,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327125991,
+    "wof:lastmodified":1536623393,
+    "wof:name":"Pororan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    154.52302,
+    -5.19903,
+    154.52302,
+    -5.19903
+],
+  "geometry": {"coordinates":[154.52302,-5.19903],"type":"Point"}
+}

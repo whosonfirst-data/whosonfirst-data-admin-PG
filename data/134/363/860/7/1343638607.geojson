@@ -1,0 +1,67 @@
+{
+  "id": 1343638607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.26667,-4.7,145.26667,-4.7",
+    "geom:latitude":-4.7,
+    "geom:longitude":145.26667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mesekor",
+    "gn:country_code":"PG",
+    "gn:dem":1203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2090921,
+    "gn:latitude":-4.7,
+    "gn:longitude":145.26667,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Mesekor",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2090921
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"465c79621d1e45cedd7881216145a81a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704517,
+            "locality_id":1343638607,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1343638607,
+    "wof:lastmodified":1536985828,
+    "wof:name":"Mesekor",
+    "wof:parent_id":1091704517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.26667,
+    -4.7,
+    145.26667,
+    -4.7
+],
+  "geometry": {"coordinates":[145.26667,-4.7],"type":"Point"}
+}

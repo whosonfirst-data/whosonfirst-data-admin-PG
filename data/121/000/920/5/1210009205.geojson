@@ -1,0 +1,67 @@
+{
+  "id": 1210009205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.22094,-5.85525,141.22094,-5.85525",
+    "geom:latitude":-5.85525,
+    "geom:longitude":141.22094,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Grehorsorae",
+    "gn:country_code":"PG",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2096697,
+    "gn:latitude":-5.85525,
+    "gn:longitude":141.22094,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Grehorsorae",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2096697
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"55d0a03b6be6f62e318656294ab1db58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1210009205,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1210009205,
+    "wof:lastmodified":1536370327,
+    "wof:name":"Grehorsorae",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.22093999999996,
+    -5.85525,
+    141.22093999999996,
+    -5.85525
+],
+  "geometry": {"coordinates":[141.22093999999996,-5.85525],"type":"Point"}
+}

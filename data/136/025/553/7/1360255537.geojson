@@ -1,0 +1,63 @@
+{
+  "id": 1360255537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"151.59646,-3.01979,151.59646,-3.01979",
+    "geom:latitude":-3.01979,
+    "geom:longitude":151.59646,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Liandan",
+    "gn:country_code":"PG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2092372,
+    "gn:latitude":-3.01979,
+    "gn:longitude":151.59646,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Liandan",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2092372
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"70ade0698741fb075b6d9f00cda1c7e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1360255537,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360255537,
+    "wof:lastmodified":1536700107,
+    "wof:name":"Liandan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    151.59646,
+    -3.01979,
+    151.59646,
+    -3.01979
+],
+  "geometry": {"coordinates":[151.59646000000001,-3.01979],"type":"Point"}
+}

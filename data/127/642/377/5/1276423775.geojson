@@ -1,0 +1,72 @@
+{
+  "id": 1276423775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"153.00457,-4.65881,153.00457,-4.65881",
+    "geom:latitude":-4.65881,
+    "geom:longitude":153.00457,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Matkumlagir",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091174,
+    "gn:latitude":-4.65881,
+    "gn:longitude":153.00457,
+    "gn:modification_date":"2015-08-18",
+    "gn:name":"Matkumlagir",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Natkumlagia",
+        "Matkumlagir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676587,
+        1091703829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091174
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0d33922d5390db27341df8d58e311d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703829,
+            "locality_id":1276423775,
+            "region_id":85676587
+        }
+    ],
+    "wof:id":1276423775,
+    "wof:lastmodified":1537677105,
+    "wof:name":"Matkumlagir",
+    "wof:parent_id":1091703829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    153.00457,
+    -4.65881,
+    153.00457,
+    -4.65881
+],
+  "geometry": {"coordinates":[153.00457,-4.65881],"type":"Point"}
+}

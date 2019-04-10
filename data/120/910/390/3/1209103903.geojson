@@ -1,0 +1,67 @@
+{
+  "id": 1209103903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.24988,-8.63851,142.24988,-8.63851",
+    "geom:latitude":-8.63851,
+    "geom:longitude":142.24988,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dimsibi",
+    "gn:country_code":"PG",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098146,
+    "gn:latitude":-8.63851,
+    "gn:longitude":142.24988,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dimsibi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dimsisi",
+        "Dimisisi",
+        "Dimisibi",
+        "Dimsibi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098146
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"de9b61b0b170ca9e39215a7f5217255c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209103903
+        }
+    ],
+    "wof:id":1209103903,
+    "wof:lastmodified":1537677183,
+    "wof:name":"Dimsibi",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.24988000000005,
+    -8.63851,
+    142.24988000000005,
+    -8.63851
+],
+  "geometry": {"coordinates":[142.24988000000005,-8.63851],"type":"Point"}
+}

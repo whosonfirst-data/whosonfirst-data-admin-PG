@@ -1,0 +1,71 @@
+{
+  "id": 1343256319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"155.13098,-5.85867,155.13098,-5.85867",
+    "geom:latitude":-5.85867,
+    "geom:longitude":155.13098,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Pipipaia",
+    "gn:country_code":"PG",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088310,
+    "gn:latitude":-5.85867,
+    "gn:longitude":155.13098,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pipipaia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pipipala",
+        "Pipipaia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676543,
+        1091702121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088310
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b9a7c071009681f67031f142ec174229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702121,
+            "locality_id":1343256319,
+            "region_id":85676543
+        }
+    ],
+    "wof:id":1343256319,
+    "wof:lastmodified":1537677075,
+    "wof:name":"Pipipaia",
+    "wof:parent_id":1091702121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    155.13098,
+    -5.85867,
+    155.13098,
+    -5.85867
+],
+  "geometry": {"coordinates":[155.13097999999999,-5.85867],"type":"Point"}
+}

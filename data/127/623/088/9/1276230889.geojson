@@ -1,0 +1,67 @@
+{
+  "id": 1276230889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.89933,-8.03941,145.89933,-8.03941",
+    "geom:latitude":-8.03941,
+    "geom:longitude":145.89933,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Silo Number 2",
+    "gn:country_code":"PG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2086708,
+    "gn:latitude":-8.03941,
+    "gn:longitude":145.89933,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Silo Number 2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676539,
+        1091702955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2086708
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c037a8b5c75c4289d5671a9540f32872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702955,
+            "locality_id":1276230889,
+            "region_id":85676539
+        }
+    ],
+    "wof:id":1276230889,
+    "wof:lastmodified":1536916613,
+    "wof:name":"Silo Number 2",
+    "wof:parent_id":1091702955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.89933,
+    -8.03941,
+    145.89933,
+    -8.03941
+],
+  "geometry": {"coordinates":[145.89932999999999,-8.03941],"type":"Point"}
+}

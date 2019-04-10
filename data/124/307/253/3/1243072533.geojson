@@ -1,0 +1,67 @@
+{
+  "id": 1243072533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.64332,-6.11118,143.64332,-6.11118",
+    "geom:latitude":-6.11118,
+    "geom:longitude":143.64332,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Pangal",
+    "gn:country_code":"PG",
+    "gn:dem":1784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088674,
+    "gn:latitude":-6.11118,
+    "gn:longitude":143.64332,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Pangal",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091703589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088674
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"de87a5397d9cc16b23afbf7669071688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703589,
+            "locality_id":1243072533,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1243072533,
+    "wof:lastmodified":1536846406,
+    "wof:name":"Pangal",
+    "wof:parent_id":1091703589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.64332,
+    -6.11118,
+    143.64332,
+    -6.11118
+],
+  "geometry": {"coordinates":[143.64331999999999,-6.11118],"type":"Point"}
+}

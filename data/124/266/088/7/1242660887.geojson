@@ -1,0 +1,67 @@
+{
+  "id": 1242660887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.56834,-7.02461,146.56834,-7.02461",
+    "geom:latitude":-7.02461,
+    "geom:longitude":146.56834,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Old Bangalum",
+    "gn:country_code":"PG",
+    "gn:dem":1315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089185,
+    "gn:latitude":-7.02461,
+    "gn:longitude":146.56834,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Old Bangalum",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089185
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"2a6014aac1a16dbda1cb3723cb834e7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702091,
+            "locality_id":1242660887,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1242660887,
+    "wof:lastmodified":1536944356,
+    "wof:name":"Old Bangalum",
+    "wof:parent_id":1091702091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.56833999999995,
+    -7.02461,
+    146.56833999999995,
+    -7.02461
+],
+  "geometry": {"coordinates":[146.56833999999995,-7.02461],"type":"Point"}
+}

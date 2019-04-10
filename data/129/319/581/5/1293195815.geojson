@@ -1,0 +1,63 @@
+{
+  "id": 1293195815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.13348,-5.35339,152.13348,-5.35339",
+    "geom:latitude":-5.35339,
+    "geom:longitude":152.13348,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Sampun",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087268,
+    "gn:latitude":-5.35339,
+    "gn:longitude":152.13348,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Sampun",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087268
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"6cd1a276692239f3534e75c95f0126f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1293195815,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293195815,
+    "wof:lastmodified":1536710909,
+    "wof:name":"Sampun",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.13348,
+    -5.35339,
+    152.13348,
+    -5.35339
+],
+  "geometry": {"coordinates":[152.13347999999999,-5.35339],"type":"Point"}
+}

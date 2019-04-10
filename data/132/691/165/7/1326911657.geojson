@@ -1,0 +1,67 @@
+{
+  "id": 1326911657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"142.84584,-3.52224,142.84584,-3.52224",
+    "geom:latitude":-3.52224,
+    "geom:longitude":142.84584,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Arisili",
+    "gn:country_code":"PG",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100566,
+    "gn:latitude":-3.52224,
+    "gn:longitude":142.84584,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Arisili",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100566
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"502b9431909a8adc7d635a3bc0f0381b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702053,
+            "locality_id":1326911657,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1326911657,
+    "wof:lastmodified":1536935221,
+    "wof:name":"Arisili",
+    "wof:parent_id":1091702053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    142.84583999999995,
+    -3.52224,
+    142.84583999999995,
+    -3.52224
+],
+  "geometry": {"coordinates":[142.84583999999995,-3.52224],"type":"Point"}
+}

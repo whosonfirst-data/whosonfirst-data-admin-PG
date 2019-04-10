@@ -1,0 +1,67 @@
+{
+  "id": 1360107385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.61098,-6.1991,143.61098,-6.1991",
+    "geom:latitude":-6.1991,
+    "geom:longitude":143.61098,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Pinj",
+    "gn:country_code":"PG",
+    "gn:dem":2290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088334,
+    "gn:latitude":-6.1991,
+    "gn:longitude":143.61098,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Pinj",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088334
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"87df25fd84977ec0faec75ed5a4df0eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702573,
+            "locality_id":1360107385,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1360107385,
+    "wof:lastmodified":1536913924,
+    "wof:name":"Pinj",
+    "wof:parent_id":1091702573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.61098,
+    -6.1991,
+    143.61098,
+    -6.1991
+],
+  "geometry": {"coordinates":[143.61098000000001,-6.1991],"type":"Point"}
+}

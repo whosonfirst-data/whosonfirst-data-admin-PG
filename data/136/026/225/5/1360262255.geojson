@@ -1,0 +1,72 @@
+{
+  "id": 1360262255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.98122,-4.30127,144.98122,-4.30127",
+    "geom:latitude":-4.30127,
+    "geom:longitude":144.98122,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Naupi",
+    "gn:country_code":"PG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089841,
+    "gn:latitude":-4.30127,
+    "gn:longitude":144.98122,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Naupi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Noupi",
+        "Naupi 2",
+        "Naupi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091702063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089841
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"656c9592409345fb987e0a291b61729a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702063,
+            "locality_id":1360262255,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1360262255,
+    "wof:lastmodified":1537677090,
+    "wof:name":"Naupi",
+    "wof:parent_id":1091702063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.98122,
+    -4.30127,
+    144.98122,
+    -4.30127
+],
+  "geometry": {"coordinates":[144.98122000000001,-4.30127],"type":"Point"}
+}

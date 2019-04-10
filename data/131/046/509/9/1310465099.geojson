@@ -1,0 +1,63 @@
+{
+  "id": 1310465099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.84293,-2.94292,141.84293,-2.94292",
+    "geom:latitude":-2.94292,
+    "geom:longitude":141.84293,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Onei",
+    "gn:country_code":"PG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089062,
+    "gn:latitude":-2.94292,
+    "gn:longitude":141.84293,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Onei",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089062
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"7f10dcd3d0d9f1d627b9162f3d5b62ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1310465099,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310465099,
+    "wof:lastmodified":1536974815,
+    "wof:name":"Onei",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.84293,
+    -2.94292,
+    141.84293,
+    -2.94292
+],
+  "geometry": {"coordinates":[141.84293,-2.94292],"type":"Point"}
+}

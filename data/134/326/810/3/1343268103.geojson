@@ -1,0 +1,67 @@
+{
+  "id": 1343268103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.46359,-8.88114,148.46359,-8.88114",
+    "geom:latitude":-8.88114,
+    "geom:longitude":148.46359,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kopure",
+    "gn:country_code":"PG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093463,
+    "gn:latitude":-8.88114,
+    "gn:longitude":148.46359,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kopure",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091702531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093463
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"73a4157424819d651b2215a7aad0a220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702531,
+            "locality_id":1343268103,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1343268103,
+    "wof:lastmodified":1537022814,
+    "wof:name":"Kopure",
+    "wof:parent_id":1091702531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.46358999999995,
+    -8.88114,
+    148.46358999999995,
+    -8.88114
+],
+  "geometry": {"coordinates":[148.46358999999995,-8.88114],"type":"Point"}
+}

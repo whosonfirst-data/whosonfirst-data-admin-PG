@@ -1,0 +1,71 @@
+{
+  "id": 1276140785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.37199,-6.20561,145.37199,-6.20561",
+    "geom:latitude":-6.20561,
+    "geom:longitude":145.37199,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Otomonorobe",
+    "gn:country_code":"PG",
+    "gn:dem":1977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088891,
+    "gn:latitude":-6.20561,
+    "gn:longitude":145.37199,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Otomonorobe",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Otomonarobe",
+        "Otomonorobe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091704771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088891
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"124a137c33989a98bb9b835bdf0edea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704771,
+            "locality_id":1276140785,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1276140785,
+    "wof:lastmodified":1537677080,
+    "wof:name":"Otomonorobe",
+    "wof:parent_id":1091704771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.37198999999995,
+    -6.20561,
+    145.37198999999995,
+    -6.20561
+],
+  "geometry": {"coordinates":[145.37198999999995,-6.20561],"type":"Point"}
+}

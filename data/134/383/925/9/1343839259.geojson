@@ -1,0 +1,67 @@
+{
+  "id": 1343839259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.40439,-3.42112,143.40439,-3.42112",
+    "geom:latitude":-3.42112,
+    "geom:longitude":143.40439,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kumudu",
+    "gn:country_code":"PG",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093083,
+    "gn:latitude":-3.42112,
+    "gn:longitude":143.40439,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Kumudu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093083
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"be11a24fc79b38b3297c3f56f6792cae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705089,
+            "locality_id":1343839259,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1343839259,
+    "wof:lastmodified":1536697432,
+    "wof:name":"Kumudu",
+    "wof:parent_id":1091705089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.40438999999995,
+    -3.42112,
+    143.40438999999995,
+    -3.42112
+],
+  "geometry": {"coordinates":[143.40438999999995,-3.42112],"type":"Point"}
+}

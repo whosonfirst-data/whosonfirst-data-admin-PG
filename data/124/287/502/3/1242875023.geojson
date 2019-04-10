@@ -1,0 +1,67 @@
+{
+  "id": 1242875023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.68333,-8.81667,147.68333,-8.81667",
+    "geom:latitude":-8.81667,
+    "geom:longitude":147.68333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Yodda",
+    "gn:country_code":"PG",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2082883,
+    "gn:latitude":-8.81667,
+    "gn:longitude":147.68333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Yodda",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676595,
+        1091704393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2082883
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"22e93916b35561928cb9b9b94fa662fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704393,
+            "locality_id":1242875023,
+            "region_id":85676595
+        }
+    ],
+    "wof:id":1242875023,
+    "wof:lastmodified":1536633946,
+    "wof:name":"Yodda",
+    "wof:parent_id":1091704393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.68333,
+    -8.81667,
+    147.68333,
+    -8.81667
+],
+  "geometry": {"coordinates":[147.68333000000001,-8.81667],"type":"Point"}
+}

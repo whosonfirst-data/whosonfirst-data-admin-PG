@@ -1,0 +1,67 @@
+{
+  "id": 1193012977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"154.73333,-5.49722,154.73333,-5.49722",
+    "geom:latitude":-5.49722,
+    "geom:longitude":154.73333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chabai",
+    "gn:country_code":"PG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2113807,
+    "gn:latitude":-5.49722,
+    "gn:longitude":154.73333,
+    "gn:modification_date":"1997-02-21",
+    "gn:name":"Chabai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Bougainville",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676543,
+        1091703967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2113807
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"87b4b93adea10e2db3da8d862bd18b47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703967,
+            "locality_id":1193012977,
+            "region_id":85676543
+        }
+    ],
+    "wof:id":1193012977,
+    "wof:lastmodified":1536381539,
+    "wof:name":"Chabai",
+    "wof:parent_id":1091703967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    154.73333,
+    -5.49722,
+    154.73333,
+    -5.49722
+],
+  "geometry": {"coordinates":[154.73333,-5.49722],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309821509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.00717,-10.15051,148.00717,-10.15051",
+    "geom:latitude":-10.15051,
+    "geom:longitude":148.00717,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Wapagai",
+    "gn:country_code":"PG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2132310,
+    "gn:latitude":-10.15051,
+    "gn:longitude":148.00717,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Wapagai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091701919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2132310
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"5a91a6c0df1153298d4d4bcc0f8ebc9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091701919,
+            "locality_id":1309821509,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1309821509,
+    "wof:lastmodified":1536908731,
+    "wof:name":"Wapagai",
+    "wof:parent_id":1091701919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.00717,
+    -10.15051,
+    148.00717,
+    -10.15051
+],
+  "geometry": {"coordinates":[148.00717,-10.15051],"type":"Point"}
+}

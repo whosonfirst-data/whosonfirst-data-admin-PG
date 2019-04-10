@@ -1,0 +1,65 @@
+{
+  "id": 1209521767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.25669,-8.67211,148.25669,-8.67211",
+    "geom:latitude":-8.67211,
+    "geom:longitude":148.25669,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Beiuru",
+    "gn:country_code":"PG",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099701,
+    "gn:latitude":-8.67211,
+    "gn:longitude":148.25669,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Beiuru",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "New Beuru",
+        "Beiuru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099701
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"338cde376127bc63e9a4d1bb9fa3f9b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209521767
+        }
+    ],
+    "wof:id":1209521767,
+    "wof:lastmodified":1537677199,
+    "wof:name":"Beiuru",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.25669,
+    -8.67211,
+    148.25669,
+    -8.67211
+],
+  "geometry": {"coordinates":[148.25668999999999,-8.67211],"type":"Point"}
+}

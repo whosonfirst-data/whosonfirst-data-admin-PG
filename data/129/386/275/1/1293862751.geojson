@@ -1,0 +1,67 @@
+{
+  "id": 1293862751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.48333,-6.03333,147.48333,-6.03333",
+    "geom:latitude":-6.03333,
+    "geom:longitude":147.48333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ezanko",
+    "gn:country_code":"PG",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097503,
+    "gn:latitude":-6.03333,
+    "gn:longitude":147.48333,
+    "gn:modification_date":"1994-01-06",
+    "gn:name":"Ezanko",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091704719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097503
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4a6427765eee6ed287f690ef8edddbaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704719,
+            "locality_id":1293862751,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1293862751,
+    "wof:lastmodified":1536742999,
+    "wof:name":"Ezanko",
+    "wof:parent_id":1091704719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.48333,
+    -6.03333,
+    147.48333,
+    -6.03333
+],
+  "geometry": {"coordinates":[147.48333,-6.03333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326753229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.08052,-6.66952,144.08052,-6.66952",
+    "geom:latitude":-6.66952,
+    "geom:longitude":144.08052,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kerabi",
+    "gn:country_code":"PG",
+    "gn:dem":1479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8529166,
+    "gn:latitude":-6.66952,
+    "gn:longitude":144.08052,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Kerabi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8529166
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"339f73327140cfd9741e9cba2a1177c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702665,
+            "locality_id":1326753229,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1326753229,
+    "wof:lastmodified":1536665442,
+    "wof:name":"Kerabi",
+    "wof:parent_id":1091702665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.08052,
+    -6.66952,
+    144.08052,
+    -6.66952
+],
+  "geometry": {"coordinates":[144.08052000000001,-6.66952],"type":"Point"}
+}

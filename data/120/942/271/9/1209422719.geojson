@@ -1,0 +1,61 @@
+{
+  "id": 1209422719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152.992,-9.163,152.992,-9.163",
+    "geom:latitude":-9.163,
+    "geom:longitude":152.992,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kavatana",
+    "gn:country_code":"PG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8425416,
+    "gn:latitude":-9.163,
+    "gn:longitude":152.992,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Kavatana",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8425416
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"ddca36bf38942ea37f7f01aaa7120407",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209422719
+        }
+    ],
+    "wof:id":1209422719,
+    "wof:lastmodified":1536287478,
+    "wof:name":"Kavatana",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.99200000000005,
+    -9.163,
+    152.99200000000005,
+    -9.163
+],
+  "geometry": {"coordinates":[152.99200000000005,-9.163],"type":"Point"}
+}

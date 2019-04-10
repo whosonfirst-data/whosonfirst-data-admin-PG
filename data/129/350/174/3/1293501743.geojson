@@ -1,0 +1,68 @@
+{
+  "id": 1293501743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.50719,-8.63173,146.50719,-8.63173",
+    "geom:latitude":-8.63173,
+    "geom:longitude":146.50719,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bereina",
+    "gn:country_code":"PG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099612,
+    "gn:latitude":-8.63173,
+    "gn:longitude":146.50719,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"Bereina",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091702751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099612,
+        "wk:page":"Bereina"
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"7987e12023661c09424966ec34495fd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702751,
+            "locality_id":1293501743,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1293501743,
+    "wof:lastmodified":1537570323,
+    "wof:name":"Bereina",
+    "wof:parent_id":1091702751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.50718999999995,
+    -8.63173,
+    146.50718999999995,
+    -8.63173
+],
+  "geometry": {"coordinates":[146.50718999999995,-8.63173],"type":"Point"}
+}

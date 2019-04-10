@@ -1,0 +1,67 @@
+{
+  "id": 1209948265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.26745,-6.46949,144.26745,-6.46949",
+    "geom:latitude":-6.46949,
+    "geom:longitude":144.26745,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Pugi",
+    "gn:country_code":"PG",
+    "gn:dem":1487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2088059,
+    "gn:latitude":-6.46949,
+    "gn:longitude":144.26745,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Pugi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676547,
+        1091702491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2088059
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"40d146373ba1e5d47998789ab2b3b64a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702491,
+            "locality_id":1209948265,
+            "region_id":85676547
+        }
+    ],
+    "wof:id":1209948265,
+    "wof:lastmodified":1536385374,
+    "wof:name":"Pugi",
+    "wof:parent_id":1091702491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.26745,
+    -6.46949,
+    144.26745,
+    -6.46949
+],
+  "geometry": {"coordinates":[144.26745,-6.46949],"type":"Point"}
+}

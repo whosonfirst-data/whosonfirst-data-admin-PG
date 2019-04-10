@@ -1,0 +1,67 @@
+{
+  "id": 1226147129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.09279,-8.39063,147.09279,-8.39063",
+    "geom:latitude":-8.39063,
+    "geom:longitude":147.09279,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dioro",
+    "gn:country_code":"PG",
+    "gn:dem":1645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098121,
+    "gn:latitude":-8.39063,
+    "gn:longitude":147.09279,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Dioro",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676561,
+        1091702425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098121
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b7e0d0f25e5899ca114205fafcdc8b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702425,
+            "locality_id":1226147129,
+            "region_id":85676561
+        }
+    ],
+    "wof:id":1226147129,
+    "wof:lastmodified":1537072589,
+    "wof:name":"Dioro",
+    "wof:parent_id":1091702425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.09278999999995,
+    -8.39063,
+    147.09278999999995,
+    -8.39063
+],
+  "geometry": {"coordinates":[147.09278999999995,-8.39063],"type":"Point"}
+}

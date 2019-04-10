@@ -1,0 +1,67 @@
+{
+  "id": 1243150421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.27474,-4.0209,143.27474,-4.0209",
+    "geom:latitude":-4.0209,
+    "geom:longitude":143.27474,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Sarum",
+    "gn:country_code":"PG",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087137,
+    "gn:latitude":-4.0209,
+    "gn:longitude":143.27474,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Sarum",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091705131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087137
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"14d4f0f83380add68fcd099d3c9e6dca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091705131,
+            "locality_id":1243150421,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1243150421,
+    "wof:lastmodified":1536735514,
+    "wof:name":"Sarum",
+    "wof:parent_id":1091705131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.27473999999995,
+    -4.0209,
+    143.27473999999995,
+    -4.0209
+],
+  "geometry": {"coordinates":[143.27473999999995,-4.0209],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259363055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.7754,-5.1177,145.7754,-5.1177",
+    "geom:latitude":-5.1177,
+    "geom:longitude":145.7754,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Alexishafen",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2101036,
+    "gn:latitude":-5.1177,
+    "gn:longitude":145.7754,
+    "gn:modification_date":"2018-03-14",
+    "gn:name":"Alexishafen",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saint Michael\u2019s",
+        "Alexishaffen",
+        "Saint Micheal",
+        "Alexishaven",
+        "Alexishafen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091703451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2101036,
+        "wk:page":"Alexishafen"
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"9d94b3924dad0027388800ce4313175a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703451,
+            "locality_id":1259363055,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1259363055,
+    "wof:lastmodified":1537677216,
+    "wof:name":"Alexishafen",
+    "wof:parent_id":1091703451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.7754,
+    -5.1177,
+    145.7754,
+    -5.1177
+],
+  "geometry": {"coordinates":[145.77539999999999,-5.1177],"type":"Point"}
+}

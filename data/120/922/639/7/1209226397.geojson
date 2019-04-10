@@ -1,0 +1,61 @@
+{
+  "id": 1209226397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.25507,-10.67372,150.25507,-10.67372",
+    "geom:latitude":-10.67372,
+    "geom:longitude":150.25507,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ipulai",
+    "gn:country_code":"PG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133271,
+    "gn:latitude":-10.67372,
+    "gn:longitude":150.25507,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"Ipulai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133271
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a20f631d92383dfddbcd7355d171dfa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209226397
+        }
+    ],
+    "wof:id":1209226397,
+    "wof:lastmodified":1536293786,
+    "wof:name":"Ipulai",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.25507,
+    -10.67372,
+    150.25507,
+    -10.67372
+],
+  "geometry": {"coordinates":[150.25506999999999,-10.67372],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293555623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.19586,-3.96798,141.19586,-3.96798",
+    "geom:latitude":-3.96798,
+    "geom:longitude":141.19586,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Iabaru Number 2",
+    "gn:country_code":"PG",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095950,
+    "gn:latitude":-3.96798,
+    "gn:longitude":141.19586,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Iabaru Number 2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676525,
+        1091704901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095950
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"629ca4dd2843c48790315d6a7ff552e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704901,
+            "locality_id":1293555623,
+            "region_id":85676525
+        }
+    ],
+    "wof:id":1293555623,
+    "wof:lastmodified":1536689112,
+    "wof:name":"Iabaru Number 2",
+    "wof:parent_id":1091704901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.19586,
+    -3.96798,
+    141.19586,
+    -3.96798
+],
+  "geometry": {"coordinates":[141.19586000000001,-3.96798],"type":"Point"}
+}

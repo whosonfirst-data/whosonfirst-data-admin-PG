@@ -1,0 +1,70 @@
+{
+  "id": 1310106441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"148.37498,-8.63859,148.37498,-8.63859",
+    "geom:latitude":-8.63859,
+    "geom:longitude":148.37498,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sanananda",
+    "gn:country_code":"PG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2087259,
+    "gn:latitude":-8.63859,
+    "gn:longitude":148.37498,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sanananda",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanandana",
+        "Sananada",
+        "Sanananda Roads",
+        "Sanananda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2087259,
+        "wk:page":"Sanananda"
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b8db0f6c0ebc42a03895ea6b118951f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "locality_id":1310106441,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310106441,
+    "wof:lastmodified":1537677066,
+    "wof:name":"Sanananda",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    148.37498,
+    -8.63859,
+    148.37498,
+    -8.63859
+],
+  "geometry": {"coordinates":[148.37497999999999,-8.63859],"type":"Point"}
+}

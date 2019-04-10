@@ -1,0 +1,67 @@
+{
+  "id": 1276211217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.8507,-6.58745,145.8507,-6.58745",
+    "geom:latitude":-6.58745,
+    "geom:longitude":145.8507,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Komboro",
+    "gn:country_code":"PG",
+    "gn:dem":1895,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2093600,
+    "gn:latitude":-6.58745,
+    "gn:longitude":145.8507,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Komboro",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091704061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2093600
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"adcc15fd4b725582d746aab1e01ff86a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704061,
+            "locality_id":1276211217,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1276211217,
+    "wof:lastmodified":1536943308,
+    "wof:name":"Komboro",
+    "wof:parent_id":1091704061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.8507,
+    -6.58745,
+    145.8507,
+    -6.58745
+],
+  "geometry": {"coordinates":[145.85069999999999,-6.58745],"type":"Point"}
+}

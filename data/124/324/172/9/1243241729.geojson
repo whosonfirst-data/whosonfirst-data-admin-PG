@@ -1,0 +1,72 @@
+{
+  "id": 1243241729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.54989,-4.00626,144.54989,-4.00626",
+    "geom:latitude":-4.00626,
+    "geom:longitude":144.54989,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Wangan",
+    "gn:country_code":"PG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2083912,
+    "gn:latitude":-4.00626,
+    "gn:longitude":144.54989,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Wangan",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wongan",
+        "Wongun",
+        "Wangan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2083912
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"41166d6785652f8a62102f2aa2700c09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702059,
+            "locality_id":1243241729,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1243241729,
+    "wof:lastmodified":1537677032,
+    "wof:name":"Wangan",
+    "wof:parent_id":1091702059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.54989,
+    -4.00626,
+    144.54989,
+    -4.00626
+],
+  "geometry": {"coordinates":[144.54989,-4.00626],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226523571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.55259,-4.69124,143.55259,-4.69124",
+    "geom:latitude":-4.69124,
+    "geom:longitude":143.55259,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Yimas",
+    "gn:country_code":"PG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2082913,
+    "gn:latitude":-4.69124,
+    "gn:longitude":143.55259,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Yimas",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2082913
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"8fa0a3f244be077cae8e814c5be0a1ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702059,
+            "locality_id":1226523571,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1226523571,
+    "wof:lastmodified":1537028817,
+    "wof:name":"Yimas",
+    "wof:parent_id":1091702059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.55258999999995,
+    -4.69124,
+    143.55258999999995,
+    -4.69124
+],
+  "geometry": {"coordinates":[143.55258999999995,-4.69124],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276855599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.00667,-6.31663,146.00667,-6.31663",
+    "geom:latitude":-6.31663,
+    "geom:longitude":146.00667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bioka",
+    "gn:country_code":"PG",
+    "gn:dem":1315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2099435,
+    "gn:latitude":-6.31663,
+    "gn:longitude":146.00667,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Bioka",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091702711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2099435
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0223bdd2ebb912a07f7266d285f8d3b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702711,
+            "locality_id":1276855599,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1276855599,
+    "wof:lastmodified":1537070582,
+    "wof:name":"Bioka",
+    "wof:parent_id":1091702711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.00667,
+    -6.31663,
+    146.00667,
+    -6.31663
+],
+  "geometry": {"coordinates":[146.00667000000001,-6.31663],"type":"Point"}
+}

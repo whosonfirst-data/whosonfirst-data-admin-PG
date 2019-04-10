@@ -1,0 +1,67 @@
+{
+  "id": 1243155515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.66809,-5.9688,146.66809,-5.9688",
+    "geom:latitude":-5.9688,
+    "geom:longitude":146.66809,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Danatum",
+    "gn:country_code":"PG",
+    "gn:dem":2347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2098374,
+    "gn:latitude":-5.9688,
+    "gn:longitude":146.66809,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Danatum",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091702647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2098374
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"15d7c217e59e11add3dfb3580259d87f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702647,
+            "locality_id":1243155515,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1243155515,
+    "wof:lastmodified":1536728404,
+    "wof:name":"Danatum",
+    "wof:parent_id":1091702647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.66808999999995,
+    -5.9688,
+    146.66808999999995,
+    -5.9688
+],
+  "geometry": {"coordinates":[146.66808999999995,-5.9688],"type":"Point"}
+}

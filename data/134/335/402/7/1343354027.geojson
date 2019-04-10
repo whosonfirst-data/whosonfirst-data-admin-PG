@@ -1,0 +1,70 @@
+{
+  "id": 1343354027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.39294,-6.09983,141.39294,-6.09983",
+    "geom:latitude":-6.09983,
+    "geom:longitude":141.39294,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Drimdenasuk",
+    "gn:country_code":"PG",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097983,
+    "gn:latitude":-6.09983,
+    "gn:longitude":141.39294,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Drimdenasuk",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Drimdemasuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097983
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"f616c5617e6e4d2f197a942444718620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1343354027,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1343354027,
+    "wof:lastmodified":1537677181,
+    "wof:name":"Drimdenasuk",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.39293999999995,
+    -6.09983,
+    141.39293999999995,
+    -6.09983
+],
+  "geometry": {"coordinates":[141.39293999999995,-6.09983],"type":"Point"}
+}

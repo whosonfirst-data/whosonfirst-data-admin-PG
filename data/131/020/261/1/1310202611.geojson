@@ -1,0 +1,67 @@
+{
+  "id": 1310202611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"141.00931,-5.54359,141.00931,-5.54359",
+    "geom:latitude":-5.54359,
+    "geom:longitude":141.00931,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ogun",
+    "gn:country_code":"PG",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2089235,
+    "gn:latitude":-5.54359,
+    "gn:longitude":141.00931,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Ogun",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676557,
+        1091704007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2089235
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"939baf96bc34757d568a9cfa3cdc5243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704007,
+            "locality_id":1310202611,
+            "region_id":85676557
+        }
+    ],
+    "wof:id":1310202611,
+    "wof:lastmodified":1536855280,
+    "wof:name":"Ogun",
+    "wof:parent_id":1091704007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    141.00931,
+    -5.54359,
+    141.00931,
+    -5.54359
+],
+  "geometry": {"coordinates":[141.00931,-5.54359],"type":"Point"}
+}

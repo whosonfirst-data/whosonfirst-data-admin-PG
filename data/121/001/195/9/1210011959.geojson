@@ -1,0 +1,67 @@
+{
+  "id": 1210011959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.71777,-6.3625,144.71777,-6.3625",
+    "geom:latitude":-6.3625,
+    "geom:longitude":144.71777,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Awiko",
+    "gn:country_code":"PG",
+    "gn:dem":907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100207,
+    "gn:latitude":-6.3625,
+    "gn:longitude":144.71777,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Awiko",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676531,
+        1091702873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100207
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"4d57c5486a344455ae550178c0ff21db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702873,
+            "locality_id":1210011959,
+            "region_id":85676531
+        }
+    ],
+    "wof:id":1210011959,
+    "wof:lastmodified":1536396796,
+    "wof:name":"Awiko",
+    "wof:parent_id":1091702873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.71777,
+    -6.3625,
+    144.71777,
+    -6.3625
+],
+  "geometry": {"coordinates":[144.71777,-6.3625],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243542689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"143.5634,-4.93898,143.5634,-4.93898",
+    "geom:latitude":-4.93898,
+    "geom:longitude":143.5634,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Avieme",
+    "gn:country_code":"PG",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2100260,
+    "gn:latitude":-4.93898,
+    "gn:longitude":143.5634,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Avieme",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aviemi",
+        "Avieme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676519,
+        1091702059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2100260
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"66090b4bef4840e6716dd0256753f702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702059,
+            "locality_id":1243542689,
+            "region_id":85676519
+        }
+    ],
+    "wof:id":1243542689,
+    "wof:lastmodified":1537677206,
+    "wof:name":"Avieme",
+    "wof:parent_id":1091702059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    143.5634,
+    -4.93898,
+    143.5634,
+    -4.93898
+],
+  "geometry": {"coordinates":[143.5634,-4.93898],"type":"Point"}
+}

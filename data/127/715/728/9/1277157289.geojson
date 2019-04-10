@@ -1,0 +1,72 @@
+{
+  "id": 1277157289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.61879,-5.2348,145.61879,-5.2348",
+    "geom:latitude":-5.2348,
+    "geom:longitude":145.61879,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Fumulu",
+    "gn:country_code":"PG",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2097315,
+    "gn:latitude":-5.2348,
+    "gn:longitude":145.61879,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Fumulu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fuluma",
+        "Fulumu",
+        "Fumulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091703451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2097315
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"855c765e014141ae584ebf237975e059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703451,
+            "locality_id":1277157289,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1277157289,
+    "wof:lastmodified":1537677175,
+    "wof:name":"Fumulu",
+    "wof:parent_id":1091703451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.61879,
+    -5.2348,
+    145.61879,
+    -5.2348
+],
+  "geometry": {"coordinates":[145.61878999999999,-5.2348],"type":"Point"}
+}

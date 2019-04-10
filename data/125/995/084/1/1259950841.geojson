@@ -1,0 +1,71 @@
+{
+  "id": 1259950841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"147.85411,-5.65634,147.85411,-5.65634",
+    "geom:latitude":-5.65634,
+    "geom:longitude":147.85411,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Tarawe",
+    "gn:country_code":"PG",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085779,
+    "gn:latitude":-5.65634,
+    "gn:longitude":147.85411,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tarawe",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tarowi",
+        "Tarawe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091704719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085779
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"63c6c8ac9bcb34cc83bdcd4e7b9c3c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704719,
+            "locality_id":1259950841,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1259950841,
+    "wof:lastmodified":1537677051,
+    "wof:name":"Tarawe",
+    "wof:parent_id":1091704719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    147.85411000000005,
+    -5.65634,
+    147.85411000000005,
+    -5.65634
+],
+  "geometry": {"coordinates":[147.85411000000005,-5.65634],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209592817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.76667,-4.81667,145.76667,-4.81667",
+    "geom:latitude":-4.81667,
+    "geom:longitude":145.76667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Megiar",
+    "gn:cc2":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2091059,
+    "gn:latitude":-4.81667,
+    "gn:longitude":145.76667,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Megiar",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meigar",
+        "Megiar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2091059
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"854d4246a883c60e2638578391bd54db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632347,
+            "locality_id":1209592817
+        }
+    ],
+    "wof:id":1209592817,
+    "wof:lastmodified":1537677104,
+    "wof:name":"Megiar",
+    "wof:parent_id":85632347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.76667,
+    -4.81667,
+    145.76667,
+    -4.81667
+],
+  "geometry": {"coordinates":[145.76667,-4.81667],"type":"Point"}
+}

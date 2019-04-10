@@ -1,0 +1,71 @@
+{
+  "id": 1242564733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.51694,-4.58909,145.51694,-4.58909",
+    "geom:latitude":-4.58909,
+    "geom:longitude":145.51694,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Tavultae",
+    "gn:country_code":"PG",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085645,
+    "gn:latitude":-4.58909,
+    "gn:longitude":145.51694,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tavultae",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taviltae",
+        "Tavultae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676523,
+        1091704517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2085645
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"0a4f9b16e92a382fbf91cda6555cd948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704517,
+            "locality_id":1242564733,
+            "region_id":85676523
+        }
+    ],
+    "wof:id":1242564733,
+    "wof:lastmodified":1537677049,
+    "wof:name":"Tavultae",
+    "wof:parent_id":1091704517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.51693999999995,
+    -4.58909,
+    145.51693999999995,
+    -4.58909
+],
+  "geometry": {"coordinates":[145.51693999999995,-4.58909],"type":"Point"}
+}

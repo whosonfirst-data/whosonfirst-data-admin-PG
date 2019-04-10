@@ -1,0 +1,67 @@
+{
+  "id": 1327407641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.05901,-7.05066,146.05901,-7.05066",
+    "geom:latitude":-7.05066,
+    "geom:longitude":146.05901,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Uyakoji",
+    "gn:country_code":"PG",
+    "gn:dem":1472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8439780,
+    "gn:latitude":-7.05066,
+    "gn:longitude":146.05901,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Uyakoji",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676579,
+        1091703633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8439780
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"444e460a8b5a869ea81c985063f5eda9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703633,
+            "locality_id":1327407641,
+            "region_id":85676579
+        }
+    ],
+    "wof:id":1327407641,
+    "wof:lastmodified":1536716910,
+    "wof:name":"Uyakoji",
+    "wof:parent_id":1091703633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.05901,
+    -7.05066,
+    146.05901,
+    -7.05066
+],
+  "geometry": {"coordinates":[146.05901,-7.05066],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310407547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"150.60754,-10.28251,150.60754,-10.28251",
+    "geom:latitude":-10.28251,
+    "geom:longitude":150.60754,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Iaviau",
+    "gn:country_code":"PG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2133303,
+    "gn:latitude":-10.28251,
+    "gn:longitude":150.60754,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Iaviau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676575,
+        1091702001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2133303
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"b15a2545d4f6c913fe15b50778e73026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091702001,
+            "locality_id":1310407547,
+            "region_id":85676575
+        }
+    ],
+    "wof:id":1310407547,
+    "wof:lastmodified":1537055900,
+    "wof:name":"Iaviau",
+    "wof:parent_id":1091702001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    150.60754,
+    -10.28251,
+    150.60754,
+    -10.28251
+],
+  "geometry": {"coordinates":[150.60754,-10.28251],"type":"Point"}
+}

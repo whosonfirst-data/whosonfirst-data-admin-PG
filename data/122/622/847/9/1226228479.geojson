@@ -1,0 +1,67 @@
+{
+  "id": 1226228479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"146.66947,-2.13045,146.66947,-2.13045",
+    "geom:latitude":-2.13045,
+    "geom:longitude":146.66947,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kabuli",
+    "gn:country_code":"PG",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095143,
+    "gn:latitude":-2.13045,
+    "gn:longitude":146.66947,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kabuli",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676569,
+        1091703475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095143
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"c5610e2dfeb21352d69420bccc4c197f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091703475,
+            "locality_id":1226228479,
+            "region_id":85676569
+        }
+    ],
+    "wof:id":1226228479,
+    "wof:lastmodified":1536958526,
+    "wof:name":"Kabuli",
+    "wof:parent_id":1091703475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    146.66947,
+    -2.13045,
+    146.66947,
+    -2.13045
+],
+  "geometry": {"coordinates":[146.66946999999999,-2.13045],"type":"Point"}
+}

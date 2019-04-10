@@ -1,0 +1,67 @@
+{
+  "id": 1276963571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.50587,-6.45912,145.50587,-6.45912",
+    "geom:latitude":-6.45912,
+    "geom:longitude":145.50587,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kagu",
+    "gn:country_code":"PG",
+    "gn:dem":1757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2095092,
+    "gn:latitude":-6.45912,
+    "gn:longitude":145.50587,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Kagu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Port_Moresby",
+    "iso:country":"PG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632347,
+        85676533,
+        1091704103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2095092
+    },
+    "wof:country":"PG",
+    "wof:geomhash":"a5237cd7565283c86200b9006242f290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632347,
+            "county_id":1091704103,
+            "locality_id":1276963571,
+            "region_id":85676533
+        }
+    ],
+    "wof:id":1276963571,
+    "wof:lastmodified":1536929899,
+    "wof:name":"Kagu",
+    "wof:parent_id":1091704103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.50587,
+    -6.45912,
+    145.50587,
+    -6.45912
+],
+  "geometry": {"coordinates":[145.50586999999999,-6.45912],"type":"Point"}
+}
