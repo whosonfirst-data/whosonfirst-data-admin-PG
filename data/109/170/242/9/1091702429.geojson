@@ -10,6 +10,12 @@
     "geom:latitude":-6.036037,
     "geom:longitude":145.382391,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Goroka District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-6.037447,
     "lbl:longitude":145.38989,
     "meso:admin_1":"Eastern Highlands",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091702429,
-    "wof:lastmodified":1536614971,
+    "wof:lastmodified":1553717935,
     "wof:name":"Goroka",
     "wof:parent_id":85676533,
     "wof:placetype":"county",

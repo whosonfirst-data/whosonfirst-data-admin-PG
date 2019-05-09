@@ -10,6 +10,12 @@
     "geom:latitude":-6.196153,
     "geom:longitude":144.834219,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Gumine District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-6.196787,
     "lbl:longitude":144.837052,
     "meso:admin_1":"Chimbu",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091702431,
-    "wof:lastmodified":1536614971,
+    "wof:lastmodified":1553717935,
     "wof:name":"Gumine",
     "wof:parent_id":85676531,
     "wof:placetype":"county",

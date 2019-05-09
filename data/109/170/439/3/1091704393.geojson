@@ -10,6 +10,12 @@
     "geom:latitude":-8.541534,
     "geom:longitude":147.77468,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Sohe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-8.727532,
     "lbl:longitude":147.887597,
     "meso:admin_1":"Oro",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091704393,
-    "wof:lastmodified":1536614976,
+    "wof:lastmodified":1553717939,
     "wof:name":"Sohe",
     "wof:parent_id":85676595,
     "wof:placetype":"county",

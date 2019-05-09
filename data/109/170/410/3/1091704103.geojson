@@ -10,6 +10,12 @@
     "geom:latitude":-6.626002,
     "geom:longitude":145.517571,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Okapa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-6.613149,
     "lbl:longitude":145.512866,
     "meso:admin_1":"Eastern Highlands",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091704103,
-    "wof:lastmodified":1536614975,
+    "wof:lastmodified":1553717936,
     "wof:name":"Okapa",
     "wof:parent_id":85676533,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-6.050055,
     "geom:longitude":143.030362,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Komo-Magarima District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-6.09415,
     "lbl:longitude":143.036387,
     "meso:admin_1":"Hela",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091703179,
-    "wof:lastmodified":1536614973,
+    "wof:lastmodified":1553717933,
     "wof:name":"Komo-Magarima",
     "wof:parent_id":1108805615,
     "wof:placetype":"county",

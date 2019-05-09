@@ -10,6 +10,12 @@
     "geom:latitude":-4.361817,
     "geom:longitude":152.308976,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Kokopo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-4.406476,
     "lbl:longitude":152.272526,
     "meso:admin_1":"East New Britain",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091703131,
-    "wof:lastmodified":1536614973,
+    "wof:lastmodified":1553717933,
     "wof:name":"Kokopo",
     "wof:parent_id":85676565,
     "wof:placetype":"county",

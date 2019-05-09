@@ -10,6 +10,12 @@
     "geom:latitude":-6.357436,
     "geom:longitude":146.264431,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Markham District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-6.287156,
     "lbl:longitude":146.29888,
     "meso:admin_1":"Morobe",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091703565,
-    "wof:lastmodified":1536614974,
+    "wof:lastmodified":1553717934,
     "wof:name":"Markham",
     "wof:parent_id":85676579,
     "wof:placetype":"county",

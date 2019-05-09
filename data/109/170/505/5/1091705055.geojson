@@ -10,6 +10,12 @@
     "geom:latitude":-5.668987,
     "geom:longitude":143.873925,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Wapenamanda District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-5.664525,
     "lbl:longitude":143.877216,
     "meso:admin_1":"Enga",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091705055,
-    "wof:lastmodified":1536614977,
+    "wof:lastmodified":1553717939,
     "wof:name":"Wapenamanda",
     "wof:parent_id":85676513,
     "wof:placetype":"county",

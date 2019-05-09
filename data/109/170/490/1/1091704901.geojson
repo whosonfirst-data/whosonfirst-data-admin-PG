@@ -10,6 +10,12 @@
     "geom:latitude":-3.432263,
     "geom:longitude":141.347313,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Vanimo-Green River District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-3.43518,
     "lbl:longitude":141.355442,
     "meso:admin_1":"Sandaun",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091704901,
-    "wof:lastmodified":1536614977,
+    "wof:lastmodified":1553717940,
     "wof:name":"Vanimo-Green River",
     "wof:parent_id":85676525,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-4.676757,
     "geom:longitude":141.697489,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Telefomin District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-4.917686,
     "lbl:longitude":141.685744,
     "meso:admin_1":"Sandaun",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091704679,
-    "wof:lastmodified":1536614976,
+    "wof:lastmodified":1553717940,
     "wof:name":"Telefomin",
     "wof:parent_id":85676525,
     "wof:placetype":"county",

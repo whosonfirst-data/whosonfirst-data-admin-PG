@@ -10,6 +10,12 @@
     "geom:latitude":-5.432783,
     "geom:longitude":142.513334,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Koroba-Kopiago District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-5.464938,
     "lbl:longitude":142.505936,
     "meso:admin_1":"Hela",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091703247,
-    "wof:lastmodified":1536614973,
+    "wof:lastmodified":1553717935,
     "wof:name":"Koroba-Kopiago",
     "wof:parent_id":1108805615,
     "wof:placetype":"county",

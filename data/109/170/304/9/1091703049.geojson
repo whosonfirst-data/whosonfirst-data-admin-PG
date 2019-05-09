@@ -10,6 +10,12 @@
     "geom:latitude":-7.274962,
     "geom:longitude":144.46924,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Kikori District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-7.069744,
     "lbl:longitude":144.60521,
     "meso:admin_1":"Gulf",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091703049,
-    "wof:lastmodified":1536614973,
+    "wof:lastmodified":1553717938,
     "wof:name":"Kikori",
     "wof:parent_id":85676539,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-6.518363,
     "geom:longitude":143.15978,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Nipa-Kutubu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-6.555347,
     "lbl:longitude":143.256076,
     "meso:admin_1":"Southern Highlands",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091703941,
-    "wof:lastmodified":1536614975,
+    "wof:lastmodified":1553717935,
     "wof:name":"Nipa-Kutubu",
     "wof:parent_id":85676547,
     "wof:placetype":"county",

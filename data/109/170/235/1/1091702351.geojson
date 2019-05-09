@@ -10,6 +10,12 @@
     "geom:latitude":-6.514773,
     "geom:longitude":147.539417,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Finschhafen District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-6.500179,
     "lbl:longitude":147.532568,
     "meso:admin_1":"Morobe",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091702351,
-    "wof:lastmodified":1536614971,
+    "wof:lastmodified":1553717937,
     "wof:name":"Finschhafen",
     "wof:parent_id":85676579,
     "wof:placetype":"county",

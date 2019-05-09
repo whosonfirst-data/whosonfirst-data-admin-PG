@@ -10,6 +10,12 @@
     "geom:latitude":-5.546316,
     "geom:longitude":144.625358,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Jimi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-5.547178,
     "lbl:longitude":144.619788,
     "meso:admin_1":"Jiwaka",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091702609,
-    "wof:lastmodified":1536614972,
+    "wof:lastmodified":1553717934,
     "wof:name":"Jimi",
     "wof:parent_id":1108805613,
     "wof:placetype":"county",

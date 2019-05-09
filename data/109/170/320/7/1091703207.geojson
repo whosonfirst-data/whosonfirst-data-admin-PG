@@ -10,6 +10,12 @@
     "geom:latitude":-5.25869,
     "geom:longitude":143.881738,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Kompiam-Ambum District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-5.264198,
     "lbl:longitude":143.881745,
     "meso:admin_1":"Enga",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091703207,
-    "wof:lastmodified":1536614973,
+    "wof:lastmodified":1553717936,
     "wof:name":"Kompiam-Ambum",
     "wof:parent_id":85676513,
     "wof:placetype":"county",

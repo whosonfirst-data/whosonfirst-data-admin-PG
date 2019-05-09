@@ -10,6 +10,12 @@
     "geom:latitude":-10.131397,
     "geom:longitude":149.910295,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Alotau District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-10.260326,
     "lbl:longitude":149.973947,
     "meso:admin_1":"Milne Bay",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091702001,
-    "wof:lastmodified":1536614970,
+    "wof:lastmodified":1553717938,
     "wof:name":"Alotau",
     "wof:parent_id":85676575,
     "wof:placetype":"county",

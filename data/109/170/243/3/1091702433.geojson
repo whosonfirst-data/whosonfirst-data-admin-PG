@@ -10,6 +10,12 @@
     "geom:latitude":-6.199638,
     "geom:longitude":145.653451,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Henganofi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-6.232634,
     "lbl:longitude":145.656072,
     "meso:admin_1":"Eastern Highlands",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091702433,
-    "wof:lastmodified":1536614971,
+    "wof:lastmodified":1553717935,
     "wof:name":"Henganofi",
     "wof:parent_id":85676533,
     "wof:placetype":"county",

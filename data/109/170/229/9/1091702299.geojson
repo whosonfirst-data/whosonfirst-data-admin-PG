@@ -10,6 +10,12 @@
     "geom:latitude":-9.709528,
     "geom:longitude":150.824807,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Esa'ala District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-10.059285,
     "lbl:longitude":151.023606,
     "meso:admin_1":"Milne Bay",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091702299,
-    "wof:lastmodified":1536614971,
+    "wof:lastmodified":1553717935,
     "wof:name":"Esa'ala",
     "wof:parent_id":85676575,
     "wof:placetype":"county",

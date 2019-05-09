@@ -10,6 +10,12 @@
     "geom:latitude":-3.324433,
     "geom:longitude":142.161101,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Aitape-Lumi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-3.273047,
     "lbl:longitude":141.971067,
     "meso:admin_1":"Sandaun",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091701955,
-    "wof:lastmodified":1536614970,
+    "wof:lastmodified":1553717931,
     "wof:name":"Aitape-Lumi",
     "wof:parent_id":85676525,
     "wof:placetype":"county",

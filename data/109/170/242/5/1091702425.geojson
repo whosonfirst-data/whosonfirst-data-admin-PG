@@ -10,6 +10,12 @@
     "geom:latitude":-8.364141,
     "geom:longitude":147.005221,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Goilala District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-8.227131,
     "lbl:longitude":146.899416,
     "meso:admin_1":"Central",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091702425,
-    "wof:lastmodified":1536614971,
+    "wof:lastmodified":1553717936,
     "wof:name":"Goilala",
     "wof:parent_id":85676561,
     "wof:placetype":"county",

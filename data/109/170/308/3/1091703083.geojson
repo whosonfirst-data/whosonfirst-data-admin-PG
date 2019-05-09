@@ -10,6 +10,12 @@
     "geom:latitude":-9.079189,
     "geom:longitude":150.533331,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Kiriwina-Goodenough District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-9.339182,
     "lbl:longitude":150.239858,
     "meso:admin_1":"Milne Bay",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091703083,
-    "wof:lastmodified":1536614973,
+    "wof:lastmodified":1553717936,
     "wof:name":"Kiriwina-Goodenough",
     "wof:parent_id":85676575,
     "wof:placetype":"county",

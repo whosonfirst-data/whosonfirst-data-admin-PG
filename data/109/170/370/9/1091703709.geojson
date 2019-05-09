@@ -10,6 +10,12 @@
     "geom:latitude":-4.920397,
     "geom:longitude":144.710523,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Middle Ramu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-4.899193,
     "lbl:longitude":144.601722,
     "meso:admin_1":"Madang",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091703709,
-    "wof:lastmodified":1536614974,
+    "wof:lastmodified":1553717937,
     "wof:name":"Middle Ramu",
     "wof:parent_id":85676523,
     "wof:placetype":"county",

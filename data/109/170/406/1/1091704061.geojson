@@ -10,6 +10,12 @@
     "geom:latitude":-6.842389,
     "geom:longitude":145.775155,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Obura-Wonenara District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-6.860998,
     "lbl:longitude":145.780313,
     "meso:admin_1":"Eastern Highlands",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091704061,
-    "wof:lastmodified":1536614975,
+    "wof:lastmodified":1553717935,
     "wof:name":"Obura-Wonenara",
     "wof:parent_id":85676533,
     "wof:placetype":"county",

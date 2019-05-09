@@ -10,6 +10,12 @@
     "geom:latitude":-9.703623,
     "geom:longitude":147.834924,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Rigo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-9.727944,
     "lbl:longitude":147.806564,
     "meso:admin_1":"Central",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091704253,
-    "wof:lastmodified":1536614975,
+    "wof:lastmodified":1553717937,
     "wof:name":"Rigo",
     "wof:parent_id":85676561,
     "wof:placetype":"county",

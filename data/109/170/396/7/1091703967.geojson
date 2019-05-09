@@ -10,6 +10,12 @@
     "geom:latitude":-5.620376,
     "geom:longitude":154.82167,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "North Bougainville District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-5.703988,
     "lbl:longitude":154.869029,
     "meso:admin_1":"Bougainville",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091703967,
-    "wof:lastmodified":1536614975,
+    "wof:lastmodified":1553717937,
     "wof:name":"North Bougainville",
     "wof:parent_id":85676543,
     "wof:placetype":"county",

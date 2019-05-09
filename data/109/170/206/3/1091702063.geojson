@@ -10,6 +10,12 @@
     "geom:latitude":-4.383342,
     "geom:longitude":144.921352,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Bogia District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-4.374138,
     "lbl:longitude":144.811509,
     "meso:admin_1":"Madang",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091702063,
-    "wof:lastmodified":1536614970,
+    "wof:lastmodified":1553717933,
     "wof:name":"Bogia",
     "wof:parent_id":85676523,
     "wof:placetype":"county",

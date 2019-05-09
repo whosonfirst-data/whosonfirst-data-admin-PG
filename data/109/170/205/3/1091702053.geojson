@@ -10,6 +10,12 @@
     "geom:latitude":-4.346,
     "geom:longitude":142.30768,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Ambunti-Dreikikir District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-4.335598,
     "lbl:longitude":142.272776,
     "meso:admin_1":"East Sepik",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091702053,
-    "wof:lastmodified":1536614970,
+    "wof:lastmodified":1553717932,
     "wof:name":"Ambunti-Dreikikir",
     "wof:parent_id":85676519,
     "wof:placetype":"county",

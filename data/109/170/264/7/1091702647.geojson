@@ -10,6 +10,12 @@
     "geom:latitude":-6.163856,
     "geom:longitude":147.026609,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Kabwum District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-6.152613,
     "lbl:longitude":146.98137,
     "meso:admin_1":"Morobe",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091702647,
-    "wof:lastmodified":1536614972,
+    "wof:lastmodified":1553717936,
     "wof:name":"Kabwum",
     "wof:parent_id":85676579,
     "wof:placetype":"county",

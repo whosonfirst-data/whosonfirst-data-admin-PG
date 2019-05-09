@@ -10,6 +10,12 @@
     "geom:latitude":-7.77385,
     "geom:longitude":146.065333,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Kerema District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-7.800906,
     "lbl:longitude":146.057634,
     "meso:admin_1":"Gulf",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091702955,
-    "wof:lastmodified":1536614973,
+    "wof:lastmodified":1553717935,
     "wof:name":"Kerema",
     "wof:parent_id":85676539,
     "wof:placetype":"county",

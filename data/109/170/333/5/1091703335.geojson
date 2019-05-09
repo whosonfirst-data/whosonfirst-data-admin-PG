@@ -10,6 +10,12 @@
     "geom:latitude":-6.684016,
     "geom:longitude":147.010444,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Lae District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-6.690327,
     "lbl:longitude":147.015096,
     "meso:admin_1":"Morobe",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091703335,
-    "wof:lastmodified":1536614973,
+    "wof:lastmodified":1553717933,
     "wof:name":"Lae",
     "wof:parent_id":85676579,
     "wof:placetype":"county",

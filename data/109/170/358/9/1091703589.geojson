@@ -10,6 +10,12 @@
     "geom:latitude":-6.030189,
     "geom:longitude":143.640974,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Mendi-Munihu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-6.011482,
     "lbl:longitude":143.716707,
     "meso:admin_1":"Southern Highlands",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091703589,
-    "wof:lastmodified":1536614974,
+    "wof:lastmodified":1553717934,
     "wof:name":"Mendi-Munihu",
     "wof:parent_id":85676547,
     "wof:placetype":"county",

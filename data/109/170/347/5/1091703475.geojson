@@ -10,6 +10,12 @@
     "geom:latitude":-2.10044,
     "geom:longitude":146.941579,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Manus District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-2.0868,
     "lbl:longitude":146.927275,
     "meso:admin_1":"Manus",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091703475,
-    "wof:lastmodified":1536614973,
+    "wof:lastmodified":1553717939,
     "wof:name":"Manus",
     "wof:parent_id":85676569,
     "wof:placetype":"county",

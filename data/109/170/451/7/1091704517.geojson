@@ -10,6 +10,12 @@
     "geom:latitude":-4.756168,
     "geom:longitude":145.651592,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Sumkar District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-4.778567,
     "lbl:longitude":145.546678,
     "meso:admin_1":"Madang",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091704517,
-    "wof:lastmodified":1536614976,
+    "wof:lastmodified":1553717940,
     "wof:name":"Sumkar",
     "wof:parent_id":85676523,
     "wof:placetype":"county",

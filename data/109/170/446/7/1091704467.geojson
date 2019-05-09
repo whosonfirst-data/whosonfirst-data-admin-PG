@@ -10,6 +10,12 @@
     "geom:latitude":-8.598383,
     "geom:longitude":142.036353,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "South Fly District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-8.61643,
     "lbl:longitude":141.65725,
     "meso:admin_1":"Western",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091704467,
-    "wof:lastmodified":1536614976,
+    "wof:lastmodified":1553717942,
     "wof:name":"South Fly",
     "wof:parent_id":85676557,
     "wof:placetype":"county",

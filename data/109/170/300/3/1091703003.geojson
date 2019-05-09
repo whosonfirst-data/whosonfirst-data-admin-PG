@@ -10,6 +10,12 @@
     "geom:latitude":-5.924442,
     "geom:longitude":144.869896,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Kerowagi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-5.889084,
     "lbl:longitude":144.894943,
     "meso:admin_1":"Chimbu",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091703003,
-    "wof:lastmodified":1536614973,
+    "wof:lastmodified":1553717932,
     "wof:name":"Kerowagi",
     "wof:parent_id":85676531,
     "wof:placetype":"county",

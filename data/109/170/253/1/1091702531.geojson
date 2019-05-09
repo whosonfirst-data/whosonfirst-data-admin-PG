@@ -10,6 +10,12 @@
     "geom:latitude":-9.313622,
     "geom:longitude":148.612703,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Ijivitari District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-9.407765,
     "lbl:longitude":148.48882,
     "meso:admin_1":"Oro",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091702531,
-    "wof:lastmodified":1536614972,
+    "wof:lastmodified":1553717937,
     "wof:name":"Ijivitari",
     "wof:parent_id":85676595,
     "wof:placetype":"county",

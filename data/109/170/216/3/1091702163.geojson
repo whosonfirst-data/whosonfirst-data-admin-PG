@@ -10,6 +10,12 @@
     "geom:latitude":-6.204655,
     "geom:longitude":145.153122,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Chuave District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-6.213149,
     "lbl:longitude":145.143506,
     "meso:admin_1":"Chimbu",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091702163,
-    "wof:lastmodified":1536614971,
+    "wof:lastmodified":1553717936,
     "wof:name":"Chuave",
     "wof:parent_id":85676531,
     "wof:placetype":"county",

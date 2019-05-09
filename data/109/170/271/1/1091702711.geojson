@@ -10,6 +10,12 @@
     "geom:latitude":-6.303753,
     "geom:longitude":145.90373,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Kainantu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-6.335869,
     "lbl:longitude":145.921627,
     "meso:admin_1":"Eastern Highlands",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091702711,
-    "wof:lastmodified":1536614972,
+    "wof:lastmodified":1553717935,
     "wof:name":"Kainantu",
     "wof:parent_id":85676533,
     "wof:placetype":"county",

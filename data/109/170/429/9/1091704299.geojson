@@ -10,6 +10,12 @@
     "geom:latitude":-10.494484,
     "geom:longitude":152.848646,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Samarai-Murua District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-11.498294,
     "lbl:longitude":153.448391,
     "meso:admin_1":"Milne Bay",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091704299,
-    "wof:lastmodified":1536614975,
+    "wof:lastmodified":1553717941,
     "wof:name":"Samarai-Murua",
     "wof:parent_id":85676575,
     "wof:placetype":"county",

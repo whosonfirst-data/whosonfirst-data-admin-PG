@@ -10,6 +10,12 @@
     "geom:latitude":-6.158988,
     "geom:longitude":155.382615,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Central Bougainville District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-6.173633,
     "lbl:longitude":155.34097,
     "meso:admin_1":"Bougainville",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091702121,
-    "wof:lastmodified":1536614971,
+    "wof:lastmodified":1553717937,
     "wof:name":"Central Bougainville",
     "wof:parent_id":85676543,
     "wof:placetype":"county",

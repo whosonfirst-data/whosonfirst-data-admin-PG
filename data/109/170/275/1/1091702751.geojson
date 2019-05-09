@@ -10,6 +10,12 @@
     "geom:latitude":-8.96758,
     "geom:longitude":147.068314,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Kairuku-Hiri District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-9.119348,
     "lbl:longitude":147.204184,
     "meso:admin_1":"Central",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091702751,
-    "wof:lastmodified":1536614972,
+    "wof:lastmodified":1553717938,
     "wof:name":"Kairuku-Hiri",
     "wof:parent_id":85676561,
     "wof:placetype":"county",

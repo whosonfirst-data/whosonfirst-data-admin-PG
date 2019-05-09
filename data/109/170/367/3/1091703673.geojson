@@ -10,6 +10,12 @@
     "geom:latitude":-7.200557,
     "geom:longitude":142.273526,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Middle Fly District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-7.04368,
     "lbl:longitude":141.901411,
     "meso:admin_1":"Western",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091703673,
-    "wof:lastmodified":1536614974,
+    "wof:lastmodified":1553717939,
     "wof:name":"Middle Fly",
     "wof:parent_id":85676557,
     "wof:placetype":"county",

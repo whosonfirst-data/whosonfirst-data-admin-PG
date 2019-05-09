@@ -10,6 +10,12 @@
     "geom:latitude":-6.161072,
     "geom:longitude":143.909272,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Imbonggu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-6.134225,
     "lbl:longitude":143.993782,
     "meso:admin_1":"Southern Highlands",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091702573,
-    "wof:lastmodified":1536614972,
+    "wof:lastmodified":1553717933,
     "wof:name":"Imbonggu",
     "wof:parent_id":85676547,
     "wof:placetype":"county",

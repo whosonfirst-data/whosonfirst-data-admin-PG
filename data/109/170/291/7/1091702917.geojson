@@ -10,6 +10,12 @@
     "geom:latitude":-2.528001,
     "geom:longitude":150.535724,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Kavieng District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-2.84264,
     "lbl:longitude":151.144517,
     "meso:admin_1":"New Ireland",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091702917,
-    "wof:lastmodified":1536614972,
+    "wof:lastmodified":1553717937,
     "wof:name":"Kavieng",
     "wof:parent_id":85676587,
     "wof:placetype":"county",

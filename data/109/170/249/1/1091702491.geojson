@@ -10,6 +10,12 @@
     "geom:latitude":-6.381949,
     "geom:longitude":144.224091,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Ialibu-Pangia District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-6.391897,
     "lbl:longitude":144.282652,
     "meso:admin_1":"Southern Highlands",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091702491,
-    "wof:lastmodified":1536614971,
+    "wof:lastmodified":1553717936,
     "wof:name":"Ialibu-Pangia",
     "wof:parent_id":85676547,
     "wof:placetype":"county",

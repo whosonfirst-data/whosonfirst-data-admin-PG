@@ -10,6 +10,12 @@
     "geom:latitude":-7.263094,
     "geom:longitude":146.176144,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Menyamya District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-7.167498,
     "lbl:longitude":146.114821,
     "meso:admin_1":"Morobe",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091703633,
-    "wof:lastmodified":1536614974,
+    "wof:lastmodified":1553717935,
     "wof:name":"Menyamya",
     "wof:parent_id":85676579,
     "wof:placetype":"county",

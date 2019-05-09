@@ -10,6 +10,12 @@
     "geom:latitude":-6.040753,
     "geom:longitude":144.546086,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Anglimp-South Waghi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-5.966842,
     "lbl:longitude":144.593792,
     "meso:admin_1":"Jiwaka",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091702057,
-    "wof:lastmodified":1536614970,
+    "wof:lastmodified":1553717934,
     "wof:name":"Anglimp-South Waghi",
     "wof:parent_id":1108805613,
     "wof:placetype":"county",

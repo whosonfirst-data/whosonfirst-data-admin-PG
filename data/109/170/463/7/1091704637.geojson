@@ -10,6 +10,12 @@
     "geom:latitude":-5.795606,
     "geom:longitude":142.963374,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Tari-Pori District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-5.770809,
     "lbl:longitude":142.963334,
     "meso:admin_1":"Hela",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1091704637,
-    "wof:lastmodified":1536614976,
+    "wof:lastmodified":1553717939,
     "wof:name":"Tari-Pori",
     "wof:parent_id":-1,
     "wof:placetype":"county",

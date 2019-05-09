@@ -10,6 +10,12 @@
     "geom:latitude":-6.547143,
     "geom:longitude":155.486663,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "South Bougainville District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-6.613092,
     "lbl:longitude":155.478894,
     "meso:admin_1":"Bougainville",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091704421,
-    "wof:lastmodified":1536614976,
+    "wof:lastmodified":1553717939,
     "wof:name":"South Bougainville",
     "wof:parent_id":85676543,
     "wof:placetype":"county",

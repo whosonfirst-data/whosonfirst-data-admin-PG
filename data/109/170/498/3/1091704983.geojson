@@ -10,6 +10,12 @@
     "geom:latitude":-5.323933,
     "geom:longitude":143.575491,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Wabag District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-5.194117,
     "lbl:longitude":143.490958,
     "meso:admin_1":"Enga",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091704983,
-    "wof:lastmodified":1536614977,
+    "wof:lastmodified":1553717940,
     "wof:name":"Wabag",
     "wof:parent_id":85676513,
     "wof:placetype":"county",

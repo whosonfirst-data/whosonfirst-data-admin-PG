@@ -10,6 +10,12 @@
     "geom:latitude":-3.692675,
     "geom:longitude":142.381219,
     "iso:country":"PG",
+    "label:eng_x_preferred_longname":[
+        "Nuku District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-3.636586,
     "lbl:longitude":142.417723,
     "meso:admin_1":"Sandaun",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091704057,
-    "wof:lastmodified":1536614975,
+    "wof:lastmodified":1553717935,
     "wof:name":"Nuku",
     "wof:parent_id":85676525,
     "wof:placetype":"county",
