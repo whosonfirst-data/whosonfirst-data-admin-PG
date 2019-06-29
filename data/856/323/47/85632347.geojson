@@ -147,9 +147,6 @@
     "name:cze_x_colloquial":[
         "Papua-Nova Guinea"
     ],
-    "name:cze_x_preferred":[
-        "Papua-Nov\u00e1 Guinea"
-    ],
     "name:cze_x_variant":[
         "Papua Nov\u00e1 Guinea"
     ],
@@ -553,9 +550,6 @@
     "name:ron_x_preferred":[
         "Papua Noua Guinee"
     ],
-    "name:rum_x_preferred":[
-        "Papua Noua Guinee"
-    ],
     "name:run_x_preferred":[
         "Papuwa Niyugineya"
     ],
@@ -917,7 +911,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1544059237,
+    "wof:lastmodified":1561778240,
     "wof:name":"Papua New Guinea",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

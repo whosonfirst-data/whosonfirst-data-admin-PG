@@ -16,16 +16,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
-    "name:baq_x_preferred":[
-        "Arawa"
-    ],
     "name:cat_x_preferred":[
         "Arawa"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u62c9\u74e6"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Arawa"
     ],
     "name:eng_x_preferred":[
@@ -34,13 +28,16 @@
     "name:est_x_preferred":[
         "Arawa"
     ],
+    "name:eus_x_preferred":[
+        "Arawa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u0627\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Arawa"
     ],
-    "name:fre_x_preferred":[
-        "Arawa"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Arawa"
     ],
     "name:glg_x_preferred":[
@@ -58,8 +55,8 @@
     "name:lit_x_preferred":[
         "Arava"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0631\u0627\u0648\u0627"
+    "name:nld_x_preferred":[
+        "Arawa"
     ],
     "name:pol_x_preferred":[
         "Arawa"
@@ -84,6 +81,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0622\u0631\u0627\u0648\u0627\u060c \u067e\u0627\u067e\u0648\u0627 \u0646\u06cc\u0648 \u06af\u0646\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u62c9\u74e6"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Papua New Guinea",
@@ -210,7 +210,7 @@
         }
     ],
     "wof:id":890444213,
-    "wof:lastmodified":1553816400,
+    "wof:lastmodified":1561778291,
     "wof:name":"Arawa",
     "wof:parent_id":1091702121,
     "wof:placetype":"locality",

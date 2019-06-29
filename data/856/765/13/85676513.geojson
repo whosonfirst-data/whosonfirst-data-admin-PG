@@ -28,23 +28,20 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0625\u0646\u063a\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Enga"
-    ],
     "name:ben_x_preferred":[
         "\u098f\u0999\u09cd\u0997\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
     "name:bul_x_preferred":[
         "\u0415\u043d\u0433\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u6069\u52a0\u7701"
-    ],
     "name:dan_x_preferred":[
         "Enga Province"
     ],
-    "name:dut_x_preferred":[
-        "Enga"
+    "name:deu_x_preferred":[
+        "Enga Province"
+    ],
+    "name:ell_x_preferred":[
+        "\u0388\u03bd\u03b3\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Enga"
@@ -55,23 +52,20 @@
     "name:est_x_preferred":[
         "Enga"
     ],
+    "name:eus_x_preferred":[
+        "Enga"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0646\u06af\u0627"
+    ],
     "name:fin_x_preferred":[
         "Engan provinssi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Enga"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10dc\u10d2\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Enga Province"
     ],
     "name:glg_x_preferred":[
         "Enga"
-    ],
-    "name:gre_x_preferred":[
-        "\u0388\u03bd\u03b3\u03ba\u03b1"
     ],
     "name:gsw_x_preferred":[
         "Enga Province"
@@ -97,6 +91,9 @@
     "name:kan_x_preferred":[
         "\u0c8e\u0c82\u0c97\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10dc\u10d2\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc5e5\uac00 \uc8fc"
     ],
@@ -109,14 +106,14 @@
     "name:mar_x_preferred":[
         "\u090f\u0902\u0917\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Enga Province"
+    ],
+    "name:nld_x_preferred":[
+        "Enga"
     ],
     "name:nob_x_preferred":[
         "Enga provins"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0646\u06af\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0646\u06af\u0627"
@@ -165,6 +162,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Enga"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u52a0\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PNG",
@@ -293,7 +293,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1553550574,
+    "wof:lastmodified":1561778240,
     "wof:name":"Enga",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

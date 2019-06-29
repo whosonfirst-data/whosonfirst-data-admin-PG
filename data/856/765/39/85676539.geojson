@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.858697,
-    "geom:area_square_m":35054981260.465759,
+    "geom:area_square_m":35054981260.470215,
     "geom:bbox":"142.990373146,-8.58276035889,146.652964923,-6.69963861655",
     "geom:latitude":-7.378577,
     "geom:longitude":144.800735,
@@ -28,23 +28,20 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u0644\u064a\u062c"
     ],
-    "name:baq_x_preferred":[
-        "Golkoa"
-    ],
     "name:ben_x_preferred":[
         "\u09a1\u09cb\u09b2\u09c7\u099e\u09cd\u099c\u09b8\u09cd\u0995\u09be \u099f\u09aa\u09cd\u09b2\u09bf\u09b8 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
     ],
     "name:bul_x_preferred":[
         "\u0413\u0443\u043b\u0444"
     ],
-    "name:chi_x_preferred":[
-        "\u6d77\u7063\u7701"
-    ],
     "name:dan_x_preferred":[
         "Gulf"
     ],
-    "name:dut_x_preferred":[
-        "Gulf"
+    "name:deu_x_preferred":[
+        "Gulf Province"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03bb\u03c0\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "Gulf"
@@ -52,23 +49,20 @@
     "name:epo_x_preferred":[
         "Provinco Golfo"
     ],
+    "name:eus_x_preferred":[
+        "Golkoa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062e\u0644\u06cc\u062c"
+    ],
     "name:fin_x_preferred":[
         "Gulf"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Golfe"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10d0\u10da\u10e4\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Gulf Province"
     ],
     "name:glg_x_preferred":[
         "Gulf"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03cc\u03bb\u03c0\u03bf\u03c2"
     ],
     "name:gsw_x_preferred":[
         "Gulf"
@@ -91,6 +85,9 @@
     "name:kan_x_preferred":[
         "\u0c97\u0cb2\u0ccd\u0cab\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d0\u10da\u10e4\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uac78\ud504 \uc8fc"
     ],
@@ -103,14 +100,14 @@
     "name:mar_x_preferred":[
         "\u0917\u0932\u094d\u092b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Gulf"
+    ],
+    "name:nld_x_preferred":[
         "Gulf"
     ],
     "name:nob_x_preferred":[
         "Gulf"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062e\u0644\u06cc\u062c"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u06af\u0644\u0641"
@@ -159,6 +156,9 @@
     ],
     "name:vie_x_preferred":[
         "Gulf"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u7063\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PNG",
@@ -287,7 +287,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1553814813,
+    "wof:lastmodified":1561778238,
     "wof:name":"Gulf",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

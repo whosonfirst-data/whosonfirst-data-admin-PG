@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022017,
-    "geom:area_square_m":268557992.586132,
+    "geom:area_square_m":268557992.586174,
     "geom:bbox":"147.066253662,-9.542111397,147.290375368,-9.35640566353",
     "geom:latitude":-9.43676,
     "geom:longitude":147.196089,
@@ -28,14 +28,8 @@
     "name:bul_x_preferred":[
         "\u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u0435\u043d \u0441\u0442\u043e\u043b\u0438\u0447\u0435\u043d \u043e\u043a\u0440\u044a\u0433"
     ],
-    "name:chi_x_preferred":[
-        "\u570b\u5bb6\u9996\u90fd\u5340"
-    ],
     "name:deu_x_preferred":[
         "Hauptstadtdistrikt"
-    ],
-    "name:dut_x_preferred":[
-        "National Capital District"
     ],
     "name:eng_x_preferred":[
         "National Capital"
@@ -43,11 +37,8 @@
     "name:epo_x_preferred":[
         "\u0108efurbaj distriktoj kaj teritorioj"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de la Capitale nationale"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d4\u10d3\u10d0\u10e5\u10d0\u10da\u10d0\u10e5\u10d8\u10e1 \u10d4\u10e0\u10dd\u10d5\u10dc\u10e3\u10da\u10d8 \u10dd\u10da\u10e5\u10d8"
     ],
     "name:ind_x_preferred":[
         "Daerah dan distrik ibu kota"
@@ -58,6 +49,9 @@
     "name:jpn_x_preferred":[
         "\u9996\u90fd\u5dde"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d4\u10d3\u10d0\u10e5\u10d0\u10da\u10d0\u10e5\u10d8\u10e1 \u10d4\u10e0\u10dd\u10d5\u10dc\u10e3\u10da\u10d8 \u10dd\u10da\u10e5\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d\u0430\u043b\u044b\u049b \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f"
     ],
@@ -66,6 +60,9 @@
     ],
     "name:nld_x_preferred":[
         "Distrito Capital"
+    ],
+    "name:nld_x_variant":[
+        "National Capital District"
     ],
     "name:nor_x_preferred":[
         "Port Moresby"
@@ -96,6 +93,9 @@
     ],
     "name:unk_x_variant":[
         "National Capital Province"
+    ],
+    "name:zho_x_preferred":[
+        "\u570b\u5bb6\u9996\u90fd\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PNG",
@@ -225,7 +225,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1553814814,
+    "wof:lastmodified":1561778238,
     "wof:name":"National Capital District",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

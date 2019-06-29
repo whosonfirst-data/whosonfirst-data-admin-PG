@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.783081,
-    "geom:area_square_m":9664150791.180841,
+    "geom:area_square_m":9664150791.178001,
     "geom:bbox":"149.505386353,-4.853805542,153.74458313,-1.315444469",
     "geom:latitude":-3.475702,
     "geom:longitude":151.928057,
@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0646\u064a\u0648 \u0625\u0631\u064a\u0644\u0627\u0646\u062f"
     ],
-    "name:baq_x_preferred":[
-        "Irlanda Berria"
-    ],
     "name:ben_x_preferred":[
         "\u09a8\u09bf\u0989 \u0986\u09af\u09bc\u09be\u09b0\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -40,17 +37,17 @@
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f"
     ],
-    "name:chi_x_preferred":[
-        "\u65b0\u611b\u723e\u862d\u7701"
-    ],
     "name:dan_x_preferred":[
         "New Ireland"
     ],
     "name:deu_x_preferred":[
         "New Ireland"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "New Ireland Province"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ad\u03b1 \u0399\u03c1\u03bb\u03b1\u03bd\u03b4\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "New Ireland"
@@ -64,26 +61,20 @@
     "name:est_x_preferred":[
         "Uus-Iirimaa provints"
     ],
+    "name:eus_x_preferred":[
+        "Irlanda Berria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u06cc\u0631\u0644\u0646\u062f \u0646\u0648"
+    ],
     "name:fin_x_preferred":[
         "Uusi-Irlanti"
     ],
     "name:fra_x_preferred":[
         "Nouvelle-Irlande"
     ],
-    "name:fre_x_preferred":[
-        "Nouvelle-Irlande"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10ee\u10d0\u10da\u10d8 \u10d8\u10e0\u10da\u10d0\u10dc\u10d3\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "New Ireland Province"
-    ],
     "name:glg_x_preferred":[
         "Provincia de Nova Irlanda"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03ad\u03b1 \u0399\u03c1\u03bb\u03b1\u03bd\u03b4\u03af\u03b1"
     ],
     "name:gsw_x_preferred":[
         "New Ireland"
@@ -109,6 +100,9 @@
     "name:kan_x_preferred":[
         "\u0ca8\u0ccd\u0caf\u0cc2 \u0c90\u0cb0\u0ccd\u0cb2\u0cc6\u0c82\u0ca1\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10ee\u10d0\u10da\u10d8 \u10d8\u10e0\u10da\u10d0\u10dc\u10d3\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ub274\uc544\uc77c\ub79c\ub4dc \uc8fc"
     ],
@@ -121,17 +115,17 @@
     "name:mar_x_preferred":[
         "\u0928\u094d\u092f\u0942 \u0906\u092f\u0930\u094d\u0932\u0902\u0921 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "New Ireland Province"
     ],
     "name:nld_x_preferred":[
         "Nieuw-Ierland"
     ],
+    "name:nld_x_variant":[
+        "New Ireland Province"
+    ],
     "name:nob_x_preferred":[
         "Ny Irland provins"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u06cc\u0631\u0644\u0646\u062f \u0646\u0648"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0646\u0648\u0627\u06ba \u0622\u0626\u0631\u0644\u06cc\u0646\u0688"
@@ -183,6 +177,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh New Ireland"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u611b\u723e\u862d\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PNG",
@@ -312,7 +309,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1553814814,
+    "wof:lastmodified":1561778237,
     "wof:name":"New Ireland",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

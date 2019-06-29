@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.397024,
-    "geom:area_square_m":4884126130.787346,
+    "geom:area_square_m":4884126130.785919,
     "geom:bbox":"144.273802232,-6.38943906581,145.023082204,-5.21682882075",
     "geom:latitude":-5.795443,
     "geom:longitude":144.593497,
@@ -22,22 +22,19 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.0,
-    "name:baq_x_preferred":[
-        "Jiwaka"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Jiwaka Province"
     ],
     "name:eng_x_preferred":[
         "Jiwaka"
     ],
-    "name:fre_x_preferred":[
-        "Jiwaka Province"
+    "name:eus_x_preferred":[
+        "Jiwaka"
     ],
-    "name:geo_x_preferred":[
-        "\u10ef\u10d8\u10d5\u10d0\u10d9\u10d0"
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062c\u06cc\u0648\u0627\u06a9\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Jiwaka Province"
     ],
     "name:gsw_x_preferred":[
@@ -49,11 +46,14 @@
     "name:jpn_x_preferred":[
         "\u30b8\u30ef\u30ab\u5dde"
     ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10d8\u10d5\u10d0\u10d9\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc9c0\uc640\uce74 \uc8fc"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062c\u06cc\u0648\u0627\u06a9\u0627"
+    "name:nld_x_preferred":[
+        "Jiwaka Province"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u0438\u0432\u0430\u043a\u0430"
@@ -115,7 +115,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1553816514,
+    "wof:lastmodified":1561778268,
     "wof:name":"Jiwaka",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

@@ -21,19 +21,13 @@
     "name:ara_x_preferred":[
         "\u0644\u0627\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Lae"
-    ],
     "name:ben_x_preferred":[
         "\u09b2\u09be\u0987"
     ],
     "name:cat_x_preferred":[
         "Lae"
     ],
-    "name:chi_x_preferred":[
-        "\u83b1\u57ce"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Lae"
     ],
     "name:dan_x_preferred":[
@@ -42,13 +36,16 @@
     "name:deu_x_preferred":[
         "Lae"
     ],
-    "name:dut_x_preferred":[
-        "Lae"
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03b5"
     ],
     "name:eng_x_preferred":[
         "Lae"
     ],
     "name:est_x_preferred":[
+        "Lae"
+    ],
+    "name:eus_x_preferred":[
         "Lae"
     ],
     "name:fas_x_preferred":[
@@ -60,17 +57,8 @@
     "name:fra_x_preferred":[
         "Lae"
     ],
-    "name:fre_x_preferred":[
-        "Lae"
-    ],
-    "name:ger_x_preferred":[
-        "Lae"
-    ],
     "name:glg_x_preferred":[
         "Lae"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03ac\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abe\u0a88"
@@ -108,23 +96,23 @@
     "name:lit_x_preferred":[
         "La\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u0430\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u0932\u093e\u0908"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041b\u0430\u0435"
+    ],
+    "name:msa_x_preferred":[
         "Lae"
     ],
     "name:nan_x_preferred":[
         "Lae"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Lae"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0627\u0626\u0647"
+    "name:nob_x_preferred":[
+        "Lae"
     ],
     "name:pol_x_preferred":[
         "Lae"
@@ -138,7 +126,7 @@
     "name:sin_x_preferred":[
         "\u0dbd\u0dda\u0da0\u0dda"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Lae"
     ],
     "name:slv_x_preferred":[
@@ -305,7 +293,7 @@
         }
     ],
     "wof:id":890451633,
-    "wof:lastmodified":1534379398,
+    "wof:lastmodified":1561778291,
     "wof:name":"Lae",
     "wof:parent_id":1091703335,
     "wof:placetype":"locality",
