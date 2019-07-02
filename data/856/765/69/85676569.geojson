@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.172701,
-    "geom:area_square_m":2134040685.88329,
+    "geom:area_square_m":2134040685.883176,
     "geom:bbox":"142.82371521,-2.579611063,147.880386353,-1.455416679",
     "geom:latitude":-2.10044,
     "geom:longitude":146.941579,
@@ -28,23 +28,20 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0627\u0646\u0648\u0633"
     ],
-    "name:baq_x_preferred":[
-        "Manus"
-    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09a8\u09c1\u09b8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u0443\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u52aa\u65af\u7701"
-    ],
     "name:dan_x_preferred":[
         "Manus Province"
     ],
-    "name:dut_x_preferred":[
-        "Manus"
+    "name:deu_x_preferred":[
+        "Manus Province"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03bd\u03bf\u03c5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Manus"
@@ -52,23 +49,20 @@
     "name:epo_x_preferred":[
         "Provinco Manus"
     ],
+    "name:eus_x_preferred":[
+        "Manus"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0627\u0646\u0648\u0633"
+    ],
     "name:fin_x_preferred":[
         "Manus"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Manus"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10dc\u10e3\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Manus Province"
     ],
     "name:glg_x_preferred":[
         "Provincia de Manus"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03ac\u03bd\u03bf\u03c5\u03c2"
     ],
     "name:gsw_x_preferred":[
         "Manus"
@@ -97,6 +91,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0ca8\u0cc1\u0cb8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10dc\u10e3\u10e1\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub9c8\ub204\uc2a4 \uc8fc"
     ],
@@ -109,14 +106,14 @@
     "name:mar_x_preferred":[
         "\u092e\u0928\u0941\u0938 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Manus Province"
+    ],
+    "name:nld_x_preferred":[
+        "Manus"
     ],
     "name:nob_x_preferred":[
         "Manus provins"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0627\u0646\u0648\u0633"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0645\u0627\u0646\u0648\u0633"
@@ -165,6 +162,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Manus"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u52aa\u65af\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PNG",
@@ -293,7 +293,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1553814814,
+    "wof:lastmodified":1561778236,
     "wof:name":"Manus",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

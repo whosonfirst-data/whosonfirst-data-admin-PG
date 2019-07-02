@@ -19,19 +19,16 @@
     "name:ara_x_preferred":[
         "\u062c\u0648\u0631\u0648\u0643\u0627"
     ],
-    "name:chi_x_preferred":[
-        "\u6208\u7f85\u5361"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Goroka"
     ],
     "name:eng_x_preferred":[
         "Goroka"
     ],
-    "name:fre_x_preferred":[
-        "Goroka"
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0631\u0648\u06a9\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Goroka"
     ],
     "name:glg_x_preferred":[
@@ -52,8 +49,8 @@
     "name:lit_x_preferred":[
         "Goroka"
     ],
-    "name:per_x_preferred":[
-        "\u06af\u0648\u0631\u0648\u06a9\u0627"
+    "name:nld_x_preferred":[
+        "Goroka"
     ],
     "name:pol_x_preferred":[
         "Goroka"
@@ -81,6 +78,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06af\u0648\u0631\u0648\u06a9\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u6208\u7f85\u5361"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Papua New Guinea",
@@ -214,7 +214,7 @@
         }
     ],
     "wof:id":890439937,
-    "wof:lastmodified":1527729729,
+    "wof:lastmodified":1561778290,
     "wof:name":"Goroka",
     "wof:parent_id":1091702429,
     "wof:placetype":"locality",

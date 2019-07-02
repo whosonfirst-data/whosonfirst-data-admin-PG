@@ -14,22 +14,10 @@
     "mz:is_current":1,
     "mz:min_zoom":5.6,
     "mz:note":"quattroshapes points import (201603)",
-    "name:baq_x_preferred":[
-        "Mount Hagen"
-    ],
     "name:ces_x_preferred":[
         "Mount Hagen"
     ],
-    "name:chi_x_preferred":[
-        "\u8292\u7279\u54c8\u6839"
-    ],
-    "name:cze_x_preferred":[
-        "Mount Hagen"
-    ],
     "name:deu_x_preferred":[
-        "Mount Hagen"
-    ],
-    "name:dut_x_preferred":[
         "Mount Hagen"
     ],
     "name:eng_x_preferred":[
@@ -38,16 +26,13 @@
     "name:eng_x_variant":[
         "Mt Hagen"
     ],
+    "name:eus_x_preferred":[
+        "Mount Hagen"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0648\u0646\u062a \u0647\u0627\u06af\u0646"
     ],
     "name:fra_x_preferred":[
-        "Mount Hagen"
-    ],
-    "name:fre_x_preferred":[
-        "Mount Hagen"
-    ],
-    "name:ger_x_preferred":[
         "Mount Hagen"
     ],
     "name:glg_x_preferred":[
@@ -67,9 +52,6 @@
     ],
     "name:nld_x_preferred":[
         "Mount Hagen"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u0646\u062a \u0647\u0627\u06af\u0646"
     ],
     "name:pol_x_preferred":[
         "Mount Hagen"
@@ -241,7 +223,7 @@
         }
     ],
     "wof:id":421197897,
-    "wof:lastmodified":1527716407,
+    "wof:lastmodified":1561778290,
     "wof:name":"Mount Hagen",
     "wof:parent_id":1091703739,
     "wof:placetype":"locality",

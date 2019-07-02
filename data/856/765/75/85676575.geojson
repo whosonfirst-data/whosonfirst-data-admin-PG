@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.178216,
-    "geom:area_square_m":14344170663.892147,
+    "geom:area_square_m":14344170663.896088,
     "geom:bbox":"148.96522264,-11.657972336,154.283752441,-8.327055931",
     "geom:latitude":-10.055587,
     "geom:longitude":150.695555,
@@ -28,23 +28,20 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u062e\u0644\u064a\u062c \u0645\u064a\u0644\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Milne badia"
-    ],
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09b2\u09a8\u09c7 \u09ac\u09c7 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0438\u043b\u043d \u0411\u0435\u0439"
     ],
-    "name:chi_x_preferred":[
-        "\u7c73\u723e\u6069\u7063\u7701"
-    ],
     "name:dan_x_preferred":[
         "Milne Bay Province"
     ],
-    "name:dut_x_preferred":[
-        "Milne Bay"
+    "name:deu_x_preferred":[
+        "Milne Bay Province"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03bb\u03c0\u03bf\u03c2 \u039c\u03af\u03bb\u03bd\u03b5"
     ],
     "name:eng_x_preferred":[
         "Milne Bay"
@@ -52,23 +49,20 @@
     "name:epo_x_preferred":[
         "Provinco Golfeto Milne"
     ],
+    "name:eus_x_preferred":[
+        "Milne badia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062e\u0644\u06cc\u062c \u0645\u06cc\u0644\u0646\u0647"
+    ],
     "name:fin_x_preferred":[
         "Milne Bayn provinssi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Baie de Milne"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d8\u10da\u10dc-\u10d1\u10d4\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Milne Bay Province"
     ],
     "name:glg_x_preferred":[
         "Milne Bay"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03cc\u03bb\u03c0\u03bf\u03c2 \u039c\u03af\u03bb\u03bd\u03b5"
     ],
     "name:gsw_x_preferred":[
         "Milne Bay"
@@ -94,6 +88,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0cbf\u0cb2\u0ccd\u0ca8\u0cc6 \u0cac\u0cc7 \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10da\u10dc-\u10d1\u10d4\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ubc00\ub978\ubca0\uc774 \uc8fc"
     ],
@@ -106,14 +103,14 @@
     "name:mar_x_preferred":[
         "\u092e\u093f\u0932\u092c\u0947 \u092c\u0947 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Milne Bay Province"
+    ],
+    "name:nld_x_preferred":[
+        "Milne Bay"
     ],
     "name:nob_x_preferred":[
         "Milne Bay"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062e\u0644\u06cc\u062c \u0645\u06cc\u0644\u0646\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0645\u0644\u0646\u06d2 \u0628\u06d2"
@@ -162,6 +159,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Milne Bay"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u723e\u6069\u7063\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PNG",
@@ -291,7 +291,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1553814814,
+    "wof:lastmodified":1561778238,
     "wof:name":"Milne Bay",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

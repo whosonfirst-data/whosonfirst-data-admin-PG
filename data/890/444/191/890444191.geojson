@@ -19,22 +19,16 @@
     "name:bul_x_preferred":[
         "\u041a\u0438\u0435\u0442\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u57c3\u5854"
-    ],
     "name:deu_x_preferred":[
-        "Kieta"
-    ],
-    "name:dut_x_preferred":[
         "Kieta"
     ],
     "name:eng_x_preferred":[
         "Kieta"
     ],
-    "name:fre_x_preferred":[
-        "Kieta"
+    "name:fas_x_preferred":[
+        "\u06a9\u0626\u06cc\u062a\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kieta"
     ],
     "name:jpn_x_preferred":[
@@ -43,8 +37,11 @@
     "name:kor_x_preferred":[
         "\ud0a4\uc5d0\ud0c0"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0626\u06cc\u062a\u0627"
+    "name:nld_x_preferred":[
+        "Kieta"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u57c3\u5854"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Papua New Guinea",
@@ -173,7 +170,7 @@
         }
     ],
     "wof:id":890444191,
-    "wof:lastmodified":1527782133,
+    "wof:lastmodified":1561778291,
     "wof:name":"Kieta",
     "wof:parent_id":1091702121,
     "wof:placetype":"locality",

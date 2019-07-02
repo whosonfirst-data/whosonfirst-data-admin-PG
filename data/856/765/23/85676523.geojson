@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0627\u062f\u0627\u0646\u063a"
     ],
-    "name:baq_x_preferred":[
-        "Madang"
-    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09a6\u09be\u0982 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -40,14 +37,14 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0434\u0430\u043d\u0433"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u7576\u7701"
-    ],
     "name:dan_x_preferred":[
         "Madang Province"
     ],
-    "name:dut_x_preferred":[
-        "Madang"
+    "name:deu_x_preferred":[
+        "Madang Province"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03bd\u03c4\u03b1\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Madang"
@@ -58,23 +55,20 @@
     "name:est_x_preferred":[
         "Madangi provints"
     ],
+    "name:eus_x_preferred":[
+        "Madang"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0627\u062f\u0627\u0646\u06af"
+    ],
     "name:fin_x_preferred":[
         "Madang"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Madang"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10d3\u10d0\u10dc\u10d2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Madang Province"
     ],
     "name:glg_x_preferred":[
         "Provincia de Madang"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03ac\u03bd\u03c4\u03b1\u03bd\u03b3\u03ba"
     ],
     "name:gsw_x_preferred":[
         "Madang"
@@ -103,6 +97,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0ca1\u0c82\u0c97\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10d3\u10d0\u10dc\u10d2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub9c8\ub2f9 \uc8fc"
     ],
@@ -115,14 +112,14 @@
     "name:mar_x_preferred":[
         "\u092e\u093e\u0926\u0902\u0917 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Madang Province"
+    ],
+    "name:nld_x_preferred":[
+        "Madang"
     ],
     "name:nob_x_preferred":[
         "Madang provins"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0627\u062f\u0627\u0646\u06af"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0645\u0627\u062f\u0627\u0646\u06af"
@@ -171,6 +168,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Madang"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u7576\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PNG",
@@ -299,7 +299,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1553550573,
+    "wof:lastmodified":1561778239,
     "wof:name":"Madang",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

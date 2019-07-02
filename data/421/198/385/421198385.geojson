@@ -16,9 +16,6 @@
     "name:bul_x_preferred":[
         "\u0410\u0438\u0442\u0430\u043f\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u827e\u5854\u4f69"
-    ],
     "name:deu_x_historical":[
         "Berlinhafen",
         "Bodinhafen"
@@ -29,9 +26,6 @@
     "name:deu_x_variant":[
         "Berlinhafen",
         "Bodinhafen"
-    ],
-    "name:dut_x_preferred":[
-        "Aitape"
     ],
     "name:eng_x_historical":[
         "Berlin Harbour"
@@ -48,9 +42,6 @@
     "name:fra_x_preferred":[
         "Aitape"
     ],
-    "name:fre_x_preferred":[
-        "Aitape"
-    ],
     "name:hrv_x_preferred":[
         "Aitape"
     ],
@@ -63,8 +54,8 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30a4\u30bf\u30da"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0626\u06cc\u062a\u0627\u067e\u0647"
+    "name:nld_x_preferred":[
+        "Aitape"
     ],
     "name:pol_x_preferred":[
         "Aitape"
@@ -128,7 +119,7 @@
         }
     ],
     "wof:id":421198385,
-    "wof:lastmodified":1527716353,
+    "wof:lastmodified":1561778290,
     "wof:name":"Aitape",
     "wof:parent_id":1091701955,
     "wof:placetype":"locality",
