@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Lae"
     ],
+    "name:epo_x_preferred":[
+        "Lae"
+    ],
     "name:est_x_preferred":[
         "Lae"
     ],
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":421188959,
-    "wof:lastmodified":1561778290,
+    "wof:lastmodified":1563323640,
     "wof:name":"Lae",
     "wof:parent_id":1091703335,
     "wof:placetype":"locality",

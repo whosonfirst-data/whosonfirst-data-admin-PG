@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Arawa"
     ],
+    "name:ceb_x_preferred":[
+        "Arawa"
+    ],
     "name:deu_x_preferred":[
         "Arawa"
     ],
@@ -81,6 +84,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0622\u0631\u0627\u0648\u0627\u060c \u067e\u0627\u067e\u0648\u0627 \u0646\u06cc\u0648 \u06af\u0646\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u0622\u0631\u0627\u0648\u0627"
     ],
     "name:zho_x_preferred":[
         "\u963f\u62c9\u74e6"
@@ -210,7 +216,7 @@
         }
     ],
     "wof:id":890444213,
-    "wof:lastmodified":1561778291,
+    "wof:lastmodified":1563323650,
     "wof:name":"Arawa",
     "wof:parent_id":1091702121,
     "wof:placetype":"locality",

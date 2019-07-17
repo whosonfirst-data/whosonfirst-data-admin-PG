@@ -37,6 +37,9 @@
     "name:bul_x_preferred":[
         "\u0418\u0437\u0442\u043e\u0447\u0435\u043d \u0421\u0435\u043f\u0438\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "East Sepik Province"
+    ],
     "name:dan_x_preferred":[
         "East Sepik Province"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:fin_x_preferred":[
         "East Sepikin l\u00e4\u00e4ni"
+    ],
+    "name:fin_x_variant":[
+        "It\u00e4-Sepikin l\u00e4\u00e4ni"
     ],
     "name:fra_x_preferred":[
         "Sepik oriental"
@@ -103,6 +109,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub3d9\uc138\ud53d \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub3d9\uc138\ud53d\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Austrumu Sepikas province"
@@ -300,7 +309,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1561778237,
+    "wof:lastmodified":1563322411,
     "wof:name":"East Sepik",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

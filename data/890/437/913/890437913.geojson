@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0430\u0438\u0430\u0433\u0430\u043c"
     ],
+    "name:ceb_x_preferred":[
+        "Laiagam"
+    ],
     "name:eng_x_preferred":[
         "Laiagam"
     ],
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":890437913,
-    "wof:lastmodified":1561778290,
+    "wof:lastmodified":1563323646,
     "wof:name":"Laiagam",
     "wof:parent_id":1091703207,
     "wof:placetype":"locality",

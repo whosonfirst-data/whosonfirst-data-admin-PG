@@ -37,6 +37,9 @@
     "name:bul_x_preferred":[
         "\u0417\u0430\u043f\u0430\u0434\u043d\u0438 \u0432\u0438\u0441\u043e\u0447\u0438\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Western Highlands Province"
+    ],
     "name:dan_x_preferred":[
         "Western Highlands Province"
     ],
@@ -49,11 +52,17 @@
     "name:eng_x_preferred":[
         "Western Highlands"
     ],
+    "name:eng_x_variant":[
+        "Western Highlands Province"
+    ],
     "name:epo_x_preferred":[
         "Okcidentaj Altaj Teroj"
     ],
     "name:est_x_preferred":[
         "Western Highlandsi provints"
+    ],
+    "name:est_x_variant":[
+        "Western Highlands"
     ],
     "name:eus_x_preferred":[
         "Mendebaldeko Lur Garaiak"
@@ -63,6 +72,9 @@
     ],
     "name:fin_x_preferred":[
         "Western Highlands - provinssi"
+    ],
+    "name:fin_x_variant":[
+        "Western Highlands"
     ],
     "name:fra_x_preferred":[
         "Hautes-Terres occidentales"
@@ -84,6 +96,9 @@
     ],
     "name:ita_x_preferred":[
         "Provincia degli Altopiani Occidentali"
+    ],
+    "name:ita_x_variant":[
+        "provincia degli Altopiani Occidentali"
     ],
     "name:jpn_x_preferred":[
         "\u897f\u90e8\u5c71\u5cb3\u5dde"
@@ -294,7 +309,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1561778237,
+    "wof:lastmodified":1563322408,
     "wof:name":"Western Highlands",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

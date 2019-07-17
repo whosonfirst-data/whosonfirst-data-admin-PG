@@ -28,6 +28,9 @@
     "name:ind_x_preferred":[
         "Bulolo"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ed\u30ed"
+    ],
     "name:pol_x_preferred":[
         "Bulolo"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421167541,
-    "wof:lastmodified":1527716162,
+    "wof:lastmodified":1563323636,
     "wof:name":"Bulolo",
     "wof:parent_id":1091702091,
     "wof:placetype":"locality",

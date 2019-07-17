@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0641\u0627\u0646\u064a\u0645\u0648"
     ],
+    "name:ceb_x_preferred":[
+        "Vanimo"
+    ],
     "name:deu_x_preferred":[
         "Vanimo"
     ],
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":421205125,
-    "wof:lastmodified":1561778290,
+    "wof:lastmodified":1563323638,
     "wof:name":"Vanimo",
     "wof:parent_id":1091704901,
     "wof:placetype":"locality",

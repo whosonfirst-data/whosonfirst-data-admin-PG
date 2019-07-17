@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"147.13333,-9.45,147.13333,-9.45",
     "geom:latitude":-9.45,
     "geom:longitude":147.13333,
@@ -12,8 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Hanuabada"
+    ],
+    "name:ind_x_preferred":[
+        "Hanuabada"
+    ],
     "name:unk_x_variant":[
         "Hanuabada"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u9b6f\u5df4\u9054"
     ],
     "qs:gn_country":"PG",
     "qs:gn_fcode":"PPLX",
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":421181161,
-    "wof:lastmodified":1531858460,
+    "wof:lastmodified":1563323641,
     "wof:name":"Hanuada",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

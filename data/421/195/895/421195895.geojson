@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Kainantu"
+    ],
     "name:eng_x_preferred":[
         "Kainantu"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0438\u043d\u0430\u043d\u0442\u0443"
+    ],
+    "name:zho_x_preferred":[
+        "\u51f1\u5357\u5716"
     ],
     "qs:gn_country":"PG",
     "qs:gn_fcode":"PPL",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":421195895,
-    "wof:lastmodified":1561778288,
+    "wof:lastmodified":1563323634,
     "wof:name":"Kainantu",
     "wof:parent_id":1091702711,
     "wof:placetype":"locality",

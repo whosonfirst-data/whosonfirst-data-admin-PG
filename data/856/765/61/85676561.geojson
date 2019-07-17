@@ -37,6 +37,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia Central"
     ],
+    "name:ceb_x_preferred":[
+        "Central Province"
+    ],
     "name:dan_x_preferred":[
         "Central Province"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:eng_x_preferred":[
         "Central"
+    ],
+    "name:eng_x_variant":[
+        "Central Province"
     ],
     "name:epo_x_preferred":[
         "Centra Provinco"
@@ -63,6 +69,9 @@
     ],
     "name:fin_x_preferred":[
         "Central Province"
+    ],
+    "name:fin_x_variant":[
+        "Keskiprovinssi"
     ],
     "name:fra_x_preferred":[
         "Province centrale"
@@ -96,6 +105,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc911\uc559 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc911\uc559\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Centr\u0101l\u0101 province"
@@ -165,6 +177,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Trung \u01af\u01a1ng"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e2d\u592e\u7701"
     ],
     "name:zho_x_preferred":[
         "\u4e2d\u592e\u7701"
@@ -296,7 +311,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1561778235,
+    "wof:lastmodified":1563322404,
     "wof:name":"Central",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

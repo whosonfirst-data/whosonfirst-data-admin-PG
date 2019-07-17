@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
+    "name:ceb_x_preferred":[
+        "Wabag"
+    ],
     "name:deu_x_preferred":[
         "Wabag"
     ],
@@ -193,7 +196,7 @@
         }
     ],
     "wof:id":890432095,
-    "wof:lastmodified":1561778291,
+    "wof:lastmodified":1563323654,
     "wof:name":"Wabag",
     "wof:parent_id":1091704983,
     "wof:placetype":"locality",

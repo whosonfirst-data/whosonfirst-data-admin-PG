@@ -28,11 +28,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0623\u0648\u0631\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Provincia d'Oro"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u09b0\u09cb \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
     "name:bul_x_preferred":[
         "\u041e\u0440\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Northern Province"
     ],
     "name:dan_x_preferred":[
         "Oro Province"
@@ -45,6 +51,9 @@
     ],
     "name:eng_x_preferred":[
         "Northern"
+    ],
+    "name:eng_x_variant":[
+        "Oro Province"
     ],
     "name:epo_x_preferred":[
         "Provinco Oro"
@@ -63,6 +72,9 @@
     ],
     "name:fra_x_preferred":[
         "Province nord"
+    ],
+    "name:fra_x_variant":[
+        "province nord"
     ],
     "name:glg_x_preferred":[
         "Oro"
@@ -96,6 +108,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc624\ub85c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc624\ub85c\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Provincia Oro"
@@ -299,7 +314,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1561778236,
+    "wof:lastmodified":1563322405,
     "wof:name":"Northern",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

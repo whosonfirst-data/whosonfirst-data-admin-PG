@@ -23,11 +23,17 @@
     "name:eng_x_preferred":[
         "Boroko"
     ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30ed\u30b3"
+    ],
     "name:pol_x_preferred":[
         "Boroko"
     ],
     "name:unk_x_variant":[
         "Boroko"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0631\u0648\u06a9\u0648"
     ],
     "qs_pg:aaroncc":"PG",
     "qs_pg:gn_country":"PG",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1126064939,
-    "wof:lastmodified":1534379399,
+    "wof:lastmodified":1563323655,
     "wof:name":"Boroko",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

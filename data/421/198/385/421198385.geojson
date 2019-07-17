@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0410\u0438\u0442\u0430\u043f\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Aitape"
+    ],
     "name:deu_x_historical":[
         "Berlinhafen",
         "Bodinhafen"
@@ -36,6 +39,9 @@
     "name:eng_x_variant":[
         "Berlin Harbour"
     ],
+    "name:epo_x_preferred":[
+        "Aitape"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u0626\u06cc\u062a\u0627\u067e\u0647"
     ],
@@ -47,6 +53,9 @@
     ],
     "name:ind_x_preferred":[
         "Aitape"
+    ],
+    "name:ind_x_variant":[
+        "Kifamu Mission"
     ],
     "name:ita_x_preferred":[
         "Aitape"
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":421198385,
-    "wof:lastmodified":1561778290,
+    "wof:lastmodified":1563323641,
     "wof:name":"Aitape",
     "wof:parent_id":1091701955,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0646\u062f\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Mendi"
+    ],
     "name:deu_x_preferred":[
         "Mendi"
     ],
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":890444189,
-    "wof:lastmodified":1561778290,
+    "wof:lastmodified":1563323649,
     "wof:name":"Mendi",
     "wof:parent_id":1091702573,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Kimbe"
     ],
+    "name:ceb_x_preferred":[
+        "Kimbe"
+    ],
     "name:deu_x_preferred":[
         "Kimbe"
     ],
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":890432103,
-    "wof:lastmodified":1561778291,
+    "wof:lastmodified":1563323653,
     "wof:name":"Kimbe",
     "wof:parent_id":1091704547,
     "wof:placetype":"locality",
