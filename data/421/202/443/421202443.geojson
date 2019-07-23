@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Rabaul"
     ],
+    "name:ceb_x_preferred":[
+        "Rabaul"
+    ],
     "name:ces_x_preferred":[
         "Rabaul"
     ],
@@ -40,6 +43,9 @@
         "Simpsonhafen"
     ],
     "name:eng_x_preferred":[
+        "Rabaul"
+    ],
+    "name:epo_x_preferred":[
         "Rabaul"
     ],
     "name:est_x_preferred":[
@@ -274,7 +280,7 @@
         }
     ],
     "wof:id":421202443,
-    "wof:lastmodified":1561778289,
+    "wof:lastmodified":1563323637,
     "wof:name":"Rabaul",
     "wof:parent_id":1091704181,
     "wof:placetype":"locality",

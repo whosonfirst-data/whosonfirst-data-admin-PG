@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0628\u0648\u0646\u062f\u064a\u062a\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Popondetta"
+    ],
     "name:deu_x_preferred":[
         "Popondetta"
     ],
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":890444185,
-    "wof:lastmodified":1561778291,
+    "wof:lastmodified":1563323653,
     "wof:name":"Popondetta",
     "wof:parent_id":1091702531,
     "wof:placetype":"locality",

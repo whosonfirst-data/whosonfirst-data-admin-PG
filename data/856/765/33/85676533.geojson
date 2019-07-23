@@ -37,6 +37,9 @@
     "name:bul_x_preferred":[
         "\u0418\u0437\u0442\u043e\u0447\u043d\u0438 \u0432\u0438\u0441\u043e\u0447\u0438\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Eastern Highlands Province"
+    ],
     "name:dan_x_preferred":[
         "Eastern Highlands Province"
     ],
@@ -46,14 +49,23 @@
     "name:ell_x_preferred":[
         "\u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03ac \u03a5\u03c8\u03af\u03c0\u03b5\u03b4\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03ce\u03bd \u03a5\u03c8\u03b9\u03c0\u03ad\u03b4\u03c9\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Eastern Highlands"
+    ],
+    "name:eng_x_variant":[
+        "Eastern Highlands Province"
     ],
     "name:epo_x_preferred":[
         "Orientaj Altaj Teroj"
     ],
     "name:est_x_preferred":[
         "Eastern Highlandsi provints"
+    ],
+    "name:est_x_variant":[
+        "Eastern Highlands"
     ],
     "name:eus_x_preferred":[
         "Ekialdeko Lur Garaiak"
@@ -84,6 +96,9 @@
     ],
     "name:ita_x_preferred":[
         "Provincia degli Altopiani Orientali"
+    ],
+    "name:ita_x_variant":[
+        "provincia degli Altopiani Orientali"
     ],
     "name:jpn_x_preferred":[
         "\u6771\u90e8\u5c71\u5cb3\u5dde"
@@ -162,6 +177,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Eastern Highlands"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e1c\u9ad8\u5730\u7701"
     ],
     "name:zho_x_preferred":[
         "\u6771\u9ad8\u5730\u7701"
@@ -294,7 +312,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1561778237,
+    "wof:lastmodified":1563322409,
     "wof:name":"Eastern Highlands",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

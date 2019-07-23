@@ -19,14 +19,23 @@
     "name:ara_x_preferred":[
         "\u0648\u064a\u0648\u0627\u0643"
     ],
+    "name:ceb_x_preferred":[
+        "Wewak"
+    ],
     "name:deu_x_preferred":[
         "Wewak"
     ],
     "name:eng_x_preferred":[
         "Wewak"
     ],
+    "name:epo_x_preferred":[
+        "Wewak"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u0648\u0627\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Wewak"
     ],
     "name:fra_x_preferred":[
         "Wewak"
@@ -211,7 +220,7 @@
         }
     ],
     "wof:id":890422413,
-    "wof:lastmodified":1561778290,
+    "wof:lastmodified":1563323645,
     "wof:name":"Wewak",
     "wof:parent_id":1091705089,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0438\u043c\u0431\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Chimbu Province"
+    ],
     "name:ces_x_preferred":[
         "Chimbu"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:eng_x_preferred":[
         "Chimbu"
+    ],
+    "name:eng_x_variant":[
+        "Chimbu Province"
     ],
     "name:epo_x_preferred":[
         "Simbu"
@@ -96,6 +102,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc2ec\ubd80 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc2ec\ubd80\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Simbu"
@@ -296,7 +305,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1561778238,
+    "wof:lastmodified":1563322414,
     "wof:name":"Chimbu",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

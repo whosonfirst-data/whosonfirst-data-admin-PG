@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0627\u0646\u062f\u0627\u0648\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Sandaun"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8\u09a1\u09c1\u09af\u09bc\u09be\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:eng_x_preferred":[
         "Sandaun"
+    ],
+    "name:eng_x_variant":[
+        "Sandaun Province"
     ],
     "name:epo_x_preferred":[
         "Sandaun"
@@ -102,6 +108,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0b0\ub2e4\uc6b4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc0b0\ub2e4\uc6b4\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Sandaunas province"
@@ -297,7 +306,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1561778240,
+    "wof:lastmodified":1563322421,
     "wof:name":"Sandaun",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

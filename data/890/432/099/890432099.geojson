@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041b\u043e\u0440\u0435\u043d\u0433\u0430\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Lorengau"
+    ],
     "name:deu_x_preferred":[
         "Lorengau"
     ],
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":890432099,
-    "wof:lastmodified":1561778291,
+    "wof:lastmodified":1563323654,
     "wof:name":"Lorengau",
     "wof:parent_id":1091703475,
     "wof:placetype":"locality",

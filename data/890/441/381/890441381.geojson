@@ -18,6 +18,9 @@
     "name:cat_x_preferred":[
         "Kiunga"
     ],
+    "name:ceb_x_preferred":[
+        "Kiunga"
+    ],
     "name:deu_x_preferred":[
         "Kiunga"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":890441381,
-    "wof:lastmodified":1561778290,
+    "wof:lastmodified":1563323646,
     "wof:name":"Kiunga",
     "wof:parent_id":1091704007,
     "wof:placetype":"locality",

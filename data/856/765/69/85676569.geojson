@@ -34,6 +34,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u0443\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Manus Province"
+    ],
     "name:dan_x_preferred":[
         "Manus Province"
     ],
@@ -46,8 +49,14 @@
     "name:eng_x_preferred":[
         "Manus"
     ],
+    "name:eng_x_variant":[
+        "Manus Province"
+    ],
     "name:epo_x_preferred":[
         "Provinco Manus"
+    ],
+    "name:est_x_preferred":[
+        "Manusi provints"
     ],
     "name:eus_x_preferred":[
         "Manus"
@@ -96,6 +105,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub9c8\ub204\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub9c8\ub204\uc2a4\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Manusas province"
@@ -293,7 +305,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1561778236,
+    "wof:lastmodified":1563322407,
     "wof:name":"Manus",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

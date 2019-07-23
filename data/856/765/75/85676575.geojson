@@ -34,6 +34,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u043b\u043d \u0411\u0435\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Milne Bay Province"
+    ],
     "name:dan_x_preferred":[
         "Milne Bay Province"
     ],
@@ -46,8 +49,14 @@
     "name:eng_x_preferred":[
         "Milne Bay"
     ],
+    "name:eng_x_variant":[
+        "Milne Bay Province"
+    ],
     "name:epo_x_preferred":[
         "Provinco Golfeto Milne"
+    ],
+    "name:est_x_preferred":[
+        "Milne Bay provints"
     ],
     "name:eus_x_preferred":[
         "Milne badia"
@@ -93,6 +102,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubc00\ub978\ubca0\uc774 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubc00\ub978\ubca0\uc774\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Milnbejas province"
@@ -291,7 +303,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1561778238,
+    "wof:lastmodified":1563322412,
     "wof:name":"Milne Bay",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

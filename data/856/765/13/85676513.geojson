@@ -34,6 +34,9 @@
     "name:bul_x_preferred":[
         "\u0415\u043d\u0433\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Enga Province"
+    ],
     "name:dan_x_preferred":[
         "Enga Province"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:eng_x_preferred":[
         "Enga"
+    ],
+    "name:eng_x_variant":[
+        "Enga Province"
     ],
     "name:epo_x_preferred":[
         "Enga"
@@ -96,6 +102,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc5e5\uac00 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc5e5\uac00\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Engas province"
@@ -293,7 +302,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1561778240,
+    "wof:lastmodified":1563322420,
     "wof:name":"Enga",
     "wof:parent_id":85632347,
     "wof:placetype":"region",
