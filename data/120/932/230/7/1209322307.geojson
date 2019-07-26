@@ -25,6 +25,12 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Suau"
+    ],
+    "name:fra_x_preferred":[
+        "Suau"
+    ],
     "name:und_x_variant":[
         "Isudau",
         "Suau"
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1209322307,
-    "wof:lastmodified":1537677221,
+    "wof:lastmodified":1564170792,
     "wof:name":"Suau",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",

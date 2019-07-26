@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Aiyura"
     ],
+    "name:spa_x_preferred":[
+        "Aiyura"
+    ],
     "name:und_x_variant":[
         "Aijura",
         "Aiyura"
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1310200959,
-    "wof:lastmodified":1537677217,
+    "wof:lastmodified":1564171074,
     "wof:name":"Aiyura",
     "wof:parent_id":1091702711,
     "wof:placetype":"locality",

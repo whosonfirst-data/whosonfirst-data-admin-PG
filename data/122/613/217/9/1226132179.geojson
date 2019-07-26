@@ -25,6 +25,117 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0625\u064a\u0644\u0627\u0646\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u0627\u0646\u0648"
+    ],
+    "name:bul_x_preferred":[
+        "\u0415\u043b\u0430\u043d\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Elano Blumer"
+    ],
+    "name:ces_x_preferred":[
+        "Elano"
+    ],
+    "name:dan_x_preferred":[
+        "Elano"
+    ],
+    "name:deu_x_preferred":[
+        "Elano"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0627\u0646\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Elano"
+    ],
+    "name:fra_x_preferred":[
+        "Elano"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05d0\u05e0\u05d5"
+    ],
+    "name:hrv_x_preferred":[
+        "Elano Blumer"
+    ],
+    "name:hun_x_preferred":[
+        "Elano"
+    ],
+    "name:ind_x_preferred":[
+        "Elano"
+    ],
+    "name:ita_x_preferred":[
+        "Elano"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30e9\u30fc\u30ce\u30fb\u30d6\u30eb\u30e1\u30eb"
+    ],
+    "name:kaz_x_preferred":[
+        "\u042d\u043b\u0430\u043d\u043e"
+    ],
+    "name:kor_x_preferred":[
+        "\uc77c\ub77c\ub204"
+    ],
+    "name:lat_x_preferred":[
+        "Elano"
+    ],
+    "name:lit_x_preferred":[
+        "Elano"
+    ],
+    "name:mar_x_preferred":[
+        "\u090f\u0932\u093e\u0928\u094b"
+    ],
+    "name:mlg_x_preferred":[
+        "Elano Blumer"
+    ],
+    "name:nld_x_preferred":[
+        "Elano"
+    ],
+    "name:nno_x_preferred":[
+        "Elano"
+    ],
+    "name:nor_x_preferred":[
+        "Elano"
+    ],
+    "name:pol_x_preferred":[
+        "Elano"
+    ],
+    "name:por_x_preferred":[
+        "Elano"
+    ],
+    "name:que_x_preferred":[
+        "Elano"
+    ],
+    "name:ron_x_preferred":[
+        "Elano"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u0430\u043d\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Elano Blumer"
+    ],
+    "name:swe_x_preferred":[
+        "Elano"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b87\u0bb2\u0bbe\u0ba9\u0bcb"
+    ],
+    "name:tgk_x_preferred":[
+        "\u042d\u043b\u0430\u043d\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "Elano Blumer"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u0430\u043d\u043e \u0411\u043b\u0443\u043c\u0435\u0440"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u62c9\u8bfa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +159,7 @@
         }
     ],
     "wof:id":1226132179,
-    "wof:lastmodified":1537094081,
+    "wof:lastmodified":1564171739,
     "wof:name":"Elano",
     "wof:parent_id":1091703417,
     "wof:placetype":"locality",

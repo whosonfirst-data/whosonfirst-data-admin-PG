@@ -25,6 +25,21 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Veia"
+    ],
+    "name:por_x_preferred":[
+        "Veia"
+    ],
+    "name:swe_x_preferred":[
+        "Veia"
+    ],
+    "name:vie_x_preferred":[
+        "Veia"
+    ],
+    "name:war_x_preferred":[
+        "Veia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1327152191,
-    "wof:lastmodified":1537082218,
+    "wof:lastmodified":1564169952,
     "wof:name":"Veia",
     "wof:parent_id":1091702751,
     "wof:placetype":"locality",

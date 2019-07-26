@@ -25,6 +25,21 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0440\u0435\u0439"
+    ],
+    "name:cat_x_preferred":[
+        "Barea"
+    ],
+    "name:deu_x_preferred":[
+        "Barea"
+    ],
+    "name:ita_x_preferred":[
+        "Barea"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0435\u0430"
+    ],
     "name:und_x_variant":[
         "Varia",
         "Barea"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1344260027,
-    "wof:lastmodified":1537677201,
+    "wof:lastmodified":1564170225,
     "wof:name":"Barea",
     "wof:parent_id":1091703049,
     "wof:placetype":"locality",

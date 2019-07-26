@@ -25,6 +25,9 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yalom"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1327251723,
-    "wof:lastmodified":1536942252,
+    "wof:lastmodified":1564169943,
     "wof:name":"Yalom",
     "wof:parent_id":1091702397,
     "wof:placetype":"locality",

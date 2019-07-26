@@ -25,6 +25,9 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Zare"
+    ],
     "name:und_x_variant":[
         "Zari",
         "Zaribiria",
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1259461919,
-    "wof:lastmodified":1537677017,
+    "wof:lastmodified":1564171549,
     "wof:name":"Zare",
     "wof:parent_id":1091702453,
     "wof:placetype":"locality",

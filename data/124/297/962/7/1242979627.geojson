@@ -25,6 +25,15 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Bavi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0648\u06cc"
+    ],
+    "name:por_x_preferred":[
+        "Aspebedes"
+    ],
     "name:und_x_variant":[
         "Bowi",
         "Bawi"
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1242979627,
-    "wof:lastmodified":1537677200,
+    "wof:lastmodified":1564171463,
     "wof:name":"Bawi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

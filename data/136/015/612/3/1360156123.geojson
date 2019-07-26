@@ -25,6 +25,21 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Sou"
+    ],
+    "name:ceb_x_preferred":[
+        "Sou"
+    ],
+    "name:fra_x_preferred":[
+        "Sou"
+    ],
+    "name:spa_x_preferred":[
+        "Sou"
+    ],
+    "name:swe_x_preferred":[
+        "Sou"
+    ],
     "name:und_x_variant":[
         "Sau",
         "Sou"
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1360156123,
-    "wof:lastmodified":1537677057,
+    "wof:lastmodified":1564171147,
     "wof:name":"Sou",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

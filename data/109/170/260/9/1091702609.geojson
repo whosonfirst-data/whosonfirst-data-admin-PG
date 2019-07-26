@@ -31,10 +31,28 @@
     "mps:longitude":144.619788,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Jimi"
+    ],
+    "name:deu_x_preferred":[
+        "Jimi"
+    ],
     "name:eng_x_preferred":[
         "Jimi"
     ],
     "name:eng_x_variant":[
+        "Jimi"
+    ],
+    "name:fra_x_preferred":[
+        "Jimi"
+    ],
+    "name:ita_x_preferred":[
+        "Jimi"
+    ],
+    "name:swa_x_preferred":[
+        "Kijimi"
+    ],
+    "name:swe_x_preferred":[
         "Jimi"
     ],
     "src:geom":"meso",
@@ -72,7 +90,7 @@
         }
     ],
     "wof:id":1091702609,
-    "wof:lastmodified":1553717934,
+    "wof:lastmodified":1564171209,
     "wof:name":"Jimi",
     "wof:parent_id":1108805613,
     "wof:placetype":"county",

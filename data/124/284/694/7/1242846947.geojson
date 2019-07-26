@@ -25,6 +25,15 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rugi"
+    ],
+    "name:deu_x_preferred":[
+        "Rugi"
+    ],
+    "name:ron_x_preferred":[
+        "Rugi"
+    ],
     "name:und_x_variant":[
         "Rugli",
         "Rugi"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1242846947,
-    "wof:lastmodified":1537677069,
+    "wof:lastmodified":1564171434,
     "wof:name":"Rugi",
     "wof:parent_id":1091703785,
     "wof:placetype":"locality",

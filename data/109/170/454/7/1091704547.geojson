@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Bialla"
     ],
+    "name:spa_x_preferred":[
+        "Talasea"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091704547,
-    "wof:lastmodified":1553717941,
+    "wof:lastmodified":1564171209,
     "wof:name":"Talasea",
     "wof:parent_id":85676599,
     "wof:placetype":"county",

@@ -25,6 +25,21 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kuli"
+    ],
+    "name:deu_x_preferred":[
+        "Kuli"
+    ],
+    "name:nds_x_preferred":[
+        "Kuli"
+    ],
+    "name:nor_x_preferred":[
+        "Kuli"
+    ],
+    "name:swe_x_preferred":[
+        "Kuli"
+    ],
     "name:und_x_variant":[
         "Keli",
         "Kulipin",
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1260255049,
-    "wof:lastmodified":1537677127,
+    "wof:lastmodified":1564170946,
     "wof:name":"Kuli",
     "wof:parent_id":1091702057,
     "wof:placetype":"locality",

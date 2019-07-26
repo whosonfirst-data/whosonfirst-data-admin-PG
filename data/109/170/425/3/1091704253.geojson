@@ -31,10 +31,28 @@
     "mps:longitude":147.806564,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Rigo"
+    ],
+    "name:deu_x_preferred":[
+        "Rigo"
+    ],
     "name:eng_x_preferred":[
         "Rigo"
     ],
     "name:eng_x_variant":[
+        "Rigo"
+    ],
+    "name:fra_x_preferred":[
+        "Rigo"
+    ],
+    "name:ita_x_preferred":[
+        "Rigo"
+    ],
+    "name:srp_x_preferred":[
+        "Rigo"
+    ],
+    "name:swe_x_preferred":[
         "Rigo"
     ],
     "src:geom":"meso",
@@ -72,7 +90,7 @@
         }
     ],
     "wof:id":1091704253,
-    "wof:lastmodified":1553717937,
+    "wof:lastmodified":1564171205,
     "wof:name":"Rigo",
     "wof:parent_id":85676561,
     "wof:placetype":"county",

@@ -26,6 +26,18 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vailala"
+    ],
+    "name:deu_x_preferred":[
+        "Vailala"
+    ],
+    "name:fra_x_preferred":[
+        "Vailala"
+    ],
+    "name:ita_x_preferred":[
+        "Vailala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1293393043,
-    "wof:lastmodified":1536923855,
+    "wof:lastmodified":1564170322,
     "wof:name":"Vailala",
     "wof:parent_id":1091703049,
     "wof:placetype":"locality",

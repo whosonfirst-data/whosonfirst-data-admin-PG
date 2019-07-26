@@ -25,6 +25,12 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mangga"
+    ],
+    "name:msa_x_preferred":[
+        "Mangga"
+    ],
     "name:und_x_variant":[
         "Manga",
         "Mangga"
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1209385865,
-    "wof:lastmodified":1537677110,
+    "wof:lastmodified":1564170693,
     "wof:name":"Mangga",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kagi"
+    ],
+    "name:deu_x_preferred":[
+        "Kagi"
+    ],
+    "name:swe_x_preferred":[
+        "Kagi"
+    ],
     "name:und_x_variant":[
         "Kage",
         "Kagi"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1293112745,
-    "wof:lastmodified":1537677150,
+    "wof:lastmodified":1564170438,
     "wof:name":"Kagi",
     "wof:parent_id":1091702751,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Irobo"
+    ],
+    "name:msa_x_preferred":[
+        "Irobo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632347
@@ -42,7 +48,7 @@
         }
     ],
     "wof:id":1209021901,
-    "wof:lastmodified":1536300121,
+    "wof:lastmodified":1564170810,
     "wof:name":"Irobo",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",

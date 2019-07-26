@@ -25,6 +25,39 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Yamen"
+    ],
+    "name:deu_x_preferred":[
+        "Yamen"
+    ],
+    "name:fra_x_preferred":[
+        "Yamen"
+    ],
+    "name:hin_x_preferred":[
+        "\u092f\u093e\u092e\u0947\u0928"
+    ],
+    "name:ita_x_preferred":[
+        "Yamen"
+    ],
+    "name:nld_x_preferred":[
+        "Yamen"
+    ],
+    "name:nor_x_preferred":[
+        "Yamen"
+    ],
+    "name:pol_x_preferred":[
+        "Yamen"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u043c\u044d\u043d\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Yamen"
+    ],
+    "name:swe_x_preferred":[
+        "Yamen"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632347
@@ -34,7 +67,7 @@
         "gn:id":2083127
     },
     "wof:country":"PG",
-    "wof:geomhash":"bcb59af35338bf555b92a2675d08c2e8",
+    "wof:geomhash":"7d730c92ad7ca66bdad8da4605ed00fb",
     "wof:hierarchy":[
         {
             "country_id":85632347,
@@ -42,7 +75,7 @@
         }
     ],
     "wof:id":1209084373,
-    "wof:lastmodified":1536298234,
+    "wof:lastmodified":1564170717,
     "wof:name":"Yamen",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",
@@ -53,9 +86,9 @@
 },
   "bbox": [
     144.05483999999996,
-    -4.4762900000000005,
+    -4.47629,
     144.05483999999996,
-    -4.4762900000000005
+    -4.47629
 ],
   "geometry": {"coordinates":[144.05483999999996,-4.47629],"type":"Point"}
 }

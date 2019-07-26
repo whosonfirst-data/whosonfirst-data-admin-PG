@@ -25,6 +25,9 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mal_x_preferred":[
+        "\u0d2a\u0d48\u0d28"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1310118791,
-    "wof:lastmodified":1536976688,
+    "wof:lastmodified":1564171084,
     "wof:name":"Paina",
     "wof:parent_id":1091702955,
     "wof:placetype":"locality",

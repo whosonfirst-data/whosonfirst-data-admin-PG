@@ -26,6 +26,21 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kaura"
+    ],
+    "name:deu_x_preferred":[
+        "Kaura"
+    ],
+    "name:ita_x_preferred":[
+        "Kaura"
+    ],
+    "name:spa_x_preferred":[
+        "Kaura"
+    ],
+    "name:swe_x_preferred":[
+        "Kaura"
+    ],
     "name:und_x_variant":[
         "Kauro",
         "Kaura"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1344240503,
-    "wof:lastmodified":1537677141,
+    "wof:lastmodified":1564170130,
     "wof:name":"Kaura",
     "wof:parent_id":1091702091,
     "wof:placetype":"locality",

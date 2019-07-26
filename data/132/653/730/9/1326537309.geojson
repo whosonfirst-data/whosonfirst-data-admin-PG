@@ -25,6 +25,24 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ubu"
+    ],
+    "name:ces_x_preferred":[
+        "Ubu"
+    ],
+    "name:fra_x_preferred":[
+        "Ubu"
+    ],
+    "name:new_x_preferred":[
+        "\u0909\u092c\u0942"
+    ],
+    "name:nld_x_preferred":[
+        "Ubu"
+    ],
+    "name:spa_x_preferred":[
+        "Ubu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1326537309,
-    "wof:lastmodified":1536976126,
+    "wof:lastmodified":1564170037,
     "wof:name":"Ubu",
     "wof:parent_id":1091702001,
     "wof:placetype":"locality",

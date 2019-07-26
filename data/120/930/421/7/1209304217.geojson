@@ -25,6 +25,15 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0628\u0631\u0648"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0628\u0631\u0648"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0628\u0631\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632347
@@ -34,7 +43,7 @@
         "gn:id":2096474
     },
     "wof:country":"PG",
-    "wof:geomhash":"ad4225ed0e1c389b5c4389fa5656e973",
+    "wof:geomhash":"babe69219aa9d354390eb66632b3d5d8",
     "wof:hierarchy":[
         {
             "country_id":85632347,
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209304217,
-    "wof:lastmodified":1536291251,
+    "wof:lastmodified":1564170715,
     "wof:name":"Habaru",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",
@@ -53,9 +62,9 @@
 },
   "bbox": [
     145.40905,
-    -6.4233400000000005,
+    -6.42334,
     145.40905,
-    -6.4233400000000005
+    -6.42334
 ],
   "geometry": {"coordinates":[145.40905000000001,-6.42334],"type":"Point"}
 }

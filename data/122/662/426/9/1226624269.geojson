@@ -25,6 +25,33 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Badby"
+    ],
+    "name:cym_x_preferred":[
+        "Badby"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062f\u0644\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Badby"
+    ],
+    "name:ita_x_preferred":[
+        "Badby"
+    ],
+    "name:nld_x_preferred":[
+        "Badby"
+    ],
+    "name:pol_x_preferred":[
+        "Badby"
+    ],
+    "name:spa_x_preferred":[
+        "Badby"
+    ],
+    "name:swe_x_preferred":[
+        "Badby"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1226624269,
-    "wof:lastmodified":1536890108,
+    "wof:lastmodified":1564171798,
     "wof:name":"Badby",
     "wof:parent_id":1091705131,
     "wof:placetype":"locality",

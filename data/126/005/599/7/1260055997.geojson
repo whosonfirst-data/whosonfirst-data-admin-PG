@@ -25,6 +25,18 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Monga"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0433\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Mto Monga"
+    ],
+    "name:swe_x_preferred":[
+        "Monga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1260055997,
-    "wof:lastmodified":1537026509,
+    "wof:lastmodified":1564171005,
     "wof:name":"Monga",
     "wof:parent_id":1091704901,
     "wof:placetype":"locality",

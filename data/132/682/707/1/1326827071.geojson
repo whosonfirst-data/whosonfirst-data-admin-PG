@@ -25,6 +25,21 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Amia"
+    ],
+    "name:deu_x_preferred":[
+        "Amia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30df\u30a2"
+    ],
+    "name:pol_x_preferred":[
+        "Amia"
+    ],
+    "name:spa_x_preferred":[
+        "Amia"
+    ],
     "name:und_x_variant":[
         "Amiagour"
     ],
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1326827071,
-    "wof:lastmodified":1537677214,
+    "wof:lastmodified":1564169991,
     "wof:name":"Amia",
     "wof:parent_id":1091702431,
     "wof:placetype":"locality",

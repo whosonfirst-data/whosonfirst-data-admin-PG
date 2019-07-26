@@ -25,6 +25,51 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Avia"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u06d5\u06a4\u06cc\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Avia"
+    ],
+    "name:fra_x_preferred":[
+        "Avia"
+    ],
+    "name:hun_x_preferred":[
+        "Avia"
+    ],
+    "name:ita_x_preferred":[
+        "Avia"
+    ],
+    "name:lav_x_preferred":[
+        "Avia"
+    ],
+    "name:nld_x_preferred":[
+        "Avia"
+    ],
+    "name:pol_x_preferred":[
+        "Avia"
+    ],
+    "name:por_x_preferred":[
+        "Avia"
+    ],
+    "name:rus_x_preferred":[
+        "Avia"
+    ],
+    "name:slk_x_preferred":[
+        "Avia"
+    ],
+    "name:spa_x_preferred":[
+        "Avia"
+    ],
+    "name:tur_x_preferred":[
+        "Avia"
+    ],
+    "name:ukr_x_preferred":[
+        "Avia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +93,7 @@
         }
     ],
     "wof:id":1343651403,
-    "wof:lastmodified":1536967831,
+    "wof:lastmodified":1564170077,
     "wof:name":"Avia",
     "wof:parent_id":1091704103,
     "wof:placetype":"locality",

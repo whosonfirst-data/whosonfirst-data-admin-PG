@@ -25,6 +25,18 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Barang"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0646\u06af"
+    ],
+    "name:nld_x_preferred":[
+        "Barang"
+    ],
+    "name:swe_x_preferred":[
+        "Barang"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1225915125,
-    "wof:lastmodified":1536914188,
+    "wof:lastmodified":1564171734,
     "wof:name":"Barang",
     "wof:parent_id":1091704719,
     "wof:placetype":"locality",

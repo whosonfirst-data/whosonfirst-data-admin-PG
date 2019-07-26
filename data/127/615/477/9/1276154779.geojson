@@ -25,6 +25,30 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ibi"
+    ],
+    "name:eus_x_preferred":[
+        "Ibi"
+    ],
+    "name:fra_x_preferred":[
+        "Ibi"
+    ],
+    "name:hun_x_preferred":[
+        "Ibi"
+    ],
+    "name:mlg_x_preferred":[
+        "Ibi"
+    ],
+    "name:por_x_preferred":[
+        "Ibi"
+    ],
+    "name:spa_x_preferred":[
+        "Ibi"
+    ],
+    "name:swe_x_preferred":[
+        "Ibi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1276154779,
-    "wof:lastmodified":1537017300,
+    "wof:lastmodified":1564170619,
     "wof:name":"Ibi",
     "wof:parent_id":1091703179,
     "wof:placetype":"locality",

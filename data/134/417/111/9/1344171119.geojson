@@ -26,6 +26,21 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Koru"
+    ],
+    "name:fra_x_preferred":[
+        "Koru"
+    ],
+    "name:nno_x_preferred":[
+        "Koru"
+    ],
+    "name:por_x_preferred":[
+        "Koru"
+    ],
+    "name:swe_x_preferred":[
+        "Koru"
+    ],
     "name:und_x_variant":[
         "Korau",
         "Koru"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1344171119,
-    "wof:lastmodified":1537677130,
+    "wof:lastmodified":1564170226,
     "wof:name":"Koru",
     "wof:parent_id":1091702425,
     "wof:placetype":"locality",

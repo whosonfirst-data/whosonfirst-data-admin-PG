@@ -25,8 +25,23 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Gipi"
+    ],
+    "name:deu_x_preferred":[
+        "Gipi"
+    ],
+    "name:ita_x_preferred":[
+        "Gipi"
+    ],
+    "name:swe_x_preferred":[
+        "Gipi"
+    ],
     "name:und_x_variant":[
         "Kipi",
+        "Gipi"
+    ],
+    "name:zho_x_preferred":[
         "Gipi"
     ],
     "src:geom":"geonames",
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1276451731,
-    "wof:lastmodified":1537677170,
+    "wof:lastmodified":1564170513,
     "wof:name":"Gipi",
     "wof:parent_id":1091703049,
     "wof:placetype":"locality",

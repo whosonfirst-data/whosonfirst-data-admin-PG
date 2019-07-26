@@ -26,6 +26,30 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kapo"
+    ],
+    "name:deu_x_preferred":[
+        "Kapo"
+    ],
+    "name:epo_x_preferred":[
+        "Kapo"
+    ],
+    "name:fin_x_preferred":[
+        "Kapo"
+    ],
+    "name:fra_x_preferred":[
+        "Kapo"
+    ],
+    "name:pol_x_preferred":[
+        "Kapo"
+    ],
+    "name:por_x_preferred":[
+        "Kapo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043f\u043e"
+    ],
     "name:und_x_variant":[
         "Kapor",
         "Kapo"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1210002979,
-    "wof:lastmodified":1537677145,
+    "wof:lastmodified":1564170872,
     "wof:name":"Kapo",
     "wof:parent_id":1091703475,
     "wof:placetype":"locality",

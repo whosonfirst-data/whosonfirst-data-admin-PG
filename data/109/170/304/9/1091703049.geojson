@@ -37,6 +37,12 @@
     "name:eng_x_variant":[
         "Kikori"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u06a9\u0648\u0631\u06cc"
+    ],
+    "name:nld_x_preferred":[
+        "Kikori"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1091703049,
-    "wof:lastmodified":1553717938,
+    "wof:lastmodified":1564171213,
     "wof:name":"Kikori",
     "wof:parent_id":85676539,
     "wof:placetype":"county",

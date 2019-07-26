@@ -25,6 +25,18 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Masso"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0633\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Masso"
+    ],
+    "name:swe_x_preferred":[
+        "Masso"
+    ],
     "name:und_x_variant":[
         "Maso",
         "Masso"
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1293568511,
-    "wof:lastmodified":1537677106,
+    "wof:lastmodified":1564170396,
     "wof:name":"Masso",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

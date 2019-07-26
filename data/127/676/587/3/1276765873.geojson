@@ -25,6 +25,27 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Faia"
+    ],
+    "name:deu_x_preferred":[
+        "Faia"
+    ],
+    "name:fra_x_preferred":[
+        "Faia"
+    ],
+    "name:nld_x_preferred":[
+        "Faia"
+    ],
+    "name:por_x_preferred":[
+        "Faia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0430\u0439\u044f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1276765873,
-    "wof:lastmodified":1536696433,
+    "wof:lastmodified":1564170601,
     "wof:name":"Faia",
     "wof:parent_id":1091703049,
     "wof:placetype":"locality",

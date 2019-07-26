@@ -25,6 +25,24 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Maio"
+    ],
+    "name:deu_x_preferred":[
+        "Maio"
+    ],
+    "name:fra_x_preferred":[
+        "Maio"
+    ],
+    "name:ita_x_preferred":[
+        "Maio"
+    ],
+    "name:por_x_preferred":[
+        "Maio"
+    ],
+    "name:swe_x_preferred":[
+        "Maio"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1243150331,
-    "wof:lastmodified":1536735629,
+    "wof:lastmodified":1564171393,
     "wof:name":"Maio",
     "wof:parent_id":1091702053,
     "wof:placetype":"locality",

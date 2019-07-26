@@ -25,6 +25,24 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sape"
+    ],
+    "name:deu_x_preferred":[
+        "Sape"
+    ],
+    "name:fra_x_preferred":[
+        "Sape"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043f\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Sape"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043f\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1293672655,
-    "wof:lastmodified":1537016659,
+    "wof:lastmodified":1564170407,
     "wof:name":"Sape",
     "wof:parent_id":1091702647,
     "wof:placetype":"locality",

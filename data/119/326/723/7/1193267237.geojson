@@ -25,6 +25,96 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Meis"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u06cc\u0633"
+    ],
+    "name:cat_x_preferred":[
+        "Meis"
+    ],
+    "name:ceb_x_preferred":[
+        "Meis"
+    ],
+    "name:eus_x_preferred":[
+        "Meis"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Meis"
+    ],
+    "name:fra_x_preferred":[
+        "Meis"
+    ],
+    "name:glg_x_preferred":[
+        "Meis"
+    ],
+    "name:hun_x_preferred":[
+        "Meis"
+    ],
+    "name:ita_x_preferred":[
+        "Meis"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30a4\u30b9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0435\u0439\u0441"
+    ],
+    "name:lmo_x_preferred":[
+        "Meis"
+    ],
+    "name:msa_x_preferred":[
+        "Meis"
+    ],
+    "name:nld_x_preferred":[
+        "Meis"
+    ],
+    "name:oci_x_preferred":[
+        "Meis"
+    ],
+    "name:pol_x_preferred":[
+        "Meis"
+    ],
+    "name:por_x_preferred":[
+        "Meis"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0439\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Meis"
+    ],
+    "name:swe_x_preferred":[
+        "Meis"
+    ],
+    "name:szl_x_preferred":[
+        "Meis"
+    ],
+    "name:tur_x_preferred":[
+        "Meis"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0439\u0441"
+    ],
+    "name:uzb_x_preferred":[
+        "Meis"
+    ],
+    "name:vie_x_preferred":[
+        "Meis"
+    ],
+    "name:war_x_preferred":[
+        "Meis"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u65af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +138,7 @@
         }
     ],
     "wof:id":1193267237,
-    "wof:lastmodified":1536374542,
+    "wof:lastmodified":1564170937,
     "wof:name":"Meis",
     "wof:parent_id":1091704139,
     "wof:placetype":"locality",

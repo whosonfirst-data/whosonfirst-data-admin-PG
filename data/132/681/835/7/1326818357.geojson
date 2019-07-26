@@ -25,6 +25,12 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Anjo"
+    ],
+    "name:por_x_preferred":[
+        "Anjo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1326818357,
-    "wof:lastmodified":1537065905,
+    "wof:lastmodified":1564169895,
     "wof:name":"Anjo",
     "wof:parent_id":1091702059,
     "wof:placetype":"locality",

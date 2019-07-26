@@ -25,6 +25,12 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gagari"
+    ],
+    "name:swe_x_preferred":[
+        "Gagari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1343965717,
-    "wof:lastmodified":1537011592,
+    "wof:lastmodified":1564170080,
     "wof:name":"Gagari",
     "wof:parent_id":1091702001,
     "wof:placetype":"locality",

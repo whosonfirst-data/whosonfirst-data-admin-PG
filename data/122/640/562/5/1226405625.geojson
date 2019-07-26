@@ -25,6 +25,24 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Amer"
+    ],
+    "name:deu_x_preferred":[
+        "Amer"
+    ],
+    "name:fra_x_preferred":[
+        "Amer"
+    ],
+    "name:ita_x_preferred":[
+        "Amer"
+    ],
+    "name:nld_x_preferred":[
+        "Amer"
+    ],
+    "name:swe_x_preferred":[
+        "Amer"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1226405625,
-    "wof:lastmodified":1536703716,
+    "wof:lastmodified":1564171757,
     "wof:name":"Amer",
     "wof:parent_id":1091701955,
     "wof:placetype":"locality",

@@ -25,6 +25,36 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hus"
+    ],
+    "name:dan_x_preferred":[
+        "Hus"
+    ],
+    "name:deu_x_preferred":[
+        "Hus"
+    ],
+    "name:fin_x_preferred":[
+        "Hus"
+    ],
+    "name:fra_x_preferred":[
+        "Hus"
+    ],
+    "name:fry_x_preferred":[
+        "H\u00fbs"
+    ],
+    "name:nld_x_preferred":[
+        "Hus"
+    ],
+    "name:nor_x_preferred":[
+        "Hus"
+    ],
+    "name:slk_x_preferred":[
+        "Hus"
+    ],
+    "name:swe_x_preferred":[
+        "Hus"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -42,7 +72,7 @@
         }
     ],
     "wof:id":1293087377,
-    "wof:lastmodified":1536865629,
+    "wof:lastmodified":1564170308,
     "wof:name":"Hus",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

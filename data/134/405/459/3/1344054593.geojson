@@ -25,6 +25,18 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Wando"
+    ],
+    "name:ces_x_preferred":[
+        "Wando"
+    ],
+    "name:fin_x_preferred":[
+        "Wando"
+    ],
+    "name:swe_x_preferred":[
+        "Wando"
+    ],
     "name:und_x_variant":[
         "Kau",
         "Wando"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1344054593,
-    "wof:lastmodified":1537677032,
+    "wof:lastmodified":1564170233,
     "wof:name":"Wando",
     "wof:parent_id":1091704467,
     "wof:placetype":"locality",

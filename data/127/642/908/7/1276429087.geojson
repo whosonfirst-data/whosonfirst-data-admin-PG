@@ -25,6 +25,15 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kis"
+    ],
+    "name:nor_x_preferred":[
+        "Kis"
+    ],
+    "name:swe_x_preferred":[
+        "Kis"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276429087,
-    "wof:lastmodified":1536650127,
+    "wof:lastmodified":1564170514,
     "wof:name":"Kis",
     "wof:parent_id":1091702059,
     "wof:placetype":"locality",

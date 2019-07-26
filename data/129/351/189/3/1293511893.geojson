@@ -26,11 +26,29 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Tabubil"
+    ],
+    "name:deu_x_preferred":[
+        "Tabubil"
+    ],
     "name:eng_x_preferred":[
         "Tabubil"
     ],
     "name:fra_x_preferred":[
         "Tabubil"
+    ],
+    "name:por_x_preferred":[
+        "Tabubil"
+    ],
+    "name:spa_x_preferred":[
+        "Tabubil"
+    ],
+    "name:tpi_x_preferred":[
+        "Tabubil"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u0628\u0648\u0628\u0644"
     ],
     "name:zho_x_preferred":[
         "\u5854\u5e03\u6bd4\u723e"
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1293511893,
-    "wof:lastmodified":1537677228,
+    "wof:lastmodified":1564170400,
     "wof:name":"Tabubil",
     "wof:parent_id":1091704007,
     "wof:placetype":"locality",

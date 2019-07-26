@@ -25,6 +25,9 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Pangals"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1243072533,
-    "wof:lastmodified":1536846406,
+    "wof:lastmodified":1564171293,
     "wof:name":"Pangal",
     "wof:parent_id":1091703589,
     "wof:placetype":"locality",

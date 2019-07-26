@@ -25,6 +25,12 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Keka"
+    ],
+    "name:swe_x_preferred":[
+        "Keka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1225947409,
-    "wof:lastmodified":1536865589,
+    "wof:lastmodified":1564171638,
     "wof:name":"Keka",
     "wof:parent_id":1091703049,
     "wof:placetype":"locality",

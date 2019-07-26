@@ -25,6 +25,9 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Buyang"
+    ],
     "name:und_x_variant":[
         "Buyang 1",
         "Buyang"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1326909877,
-    "wof:lastmodified":1537677186,
+    "wof:lastmodified":1564170024,
     "wof:name":"Buyang",
     "wof:parent_id":1091703475,
     "wof:placetype":"locality",

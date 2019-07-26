@@ -25,6 +25,45 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Tipas"
+    ],
+    "name:deu_x_preferred":[
+        "Walther Penck"
+    ],
+    "name:epo_x_preferred":[
+        "Tipas"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u067e\u0627\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Nacimientos"
+    ],
+    "name:ita_x_preferred":[
+        "Nacimientos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30b5\u30c7\u30ed"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d8\u10de\u10d0\u10e1\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "Walther Penck"
+    ],
+    "name:slk_x_preferred":[
+        "Tipas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043b\u044c\u0442\u0435\u0440-\u041f\u0435\u043d\u043a"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e2\u10d8\u10de\u10d0\u10e1\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u63d0\u5e15\u65af\u706b\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +87,7 @@
         }
     ],
     "wof:id":1293552579,
-    "wof:lastmodified":1536693644,
+    "wof:lastmodified":1564170324,
     "wof:name":"Tipas",
     "wof:parent_id":1091704679,
     "wof:placetype":"locality",

@@ -25,6 +25,54 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Bak"
+    ],
+    "name:ceb_x_preferred":[
+        "Bak"
+    ],
+    "name:deu_x_preferred":[
+        "Bak"
+    ],
+    "name:fra_x_preferred":[
+        "Bak"
+    ],
+    "name:hrv_x_preferred":[
+        "Bak"
+    ],
+    "name:hun_x_preferred":[
+        "Bak"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u056f"
+    ],
+    "name:nld_x_preferred":[
+        "Bak"
+    ],
+    "name:pol_x_preferred":[
+        "Bak"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Bak"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Bak"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043a"
+    ],
+    "name:zha_x_preferred":[
+        "Bak"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632347
@@ -42,7 +90,7 @@
         }
     ],
     "wof:id":1209693099,
-    "wof:lastmodified":1536279170,
+    "wof:lastmodified":1564170802,
     "wof:name":"Bak",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ikara"
+    ],
+    "name:hau_x_preferred":[
+        "Ikara"
+    ],
+    "name:spa_x_preferred":[
+        "Ikara"
+    ],
     "name:und_x_variant":[
         "Ikana",
         "Ikara"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1310513191,
-    "wof:lastmodified":1537677157,
+    "wof:lastmodified":1564171135,
     "wof:name":"Ikara",
     "wof:parent_id":1091702001,
     "wof:placetype":"locality",

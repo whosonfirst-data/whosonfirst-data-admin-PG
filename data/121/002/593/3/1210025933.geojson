@@ -25,9 +25,33 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Kairuko"
+    ],
+    "name:fin_x_preferred":[
+        "Kairuku"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d48\u0d30\u0d41\u0d15\u0d4d\u0d15\u0d41"
+    ],
+    "name:nld_x_preferred":[
+        "Kairuku"
+    ],
+    "name:pol_x_preferred":[
+        "Kairuku"
+    ],
+    "name:spa_x_preferred":[
+        "Kairuku"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0439\u0440\u0443\u043a\u0443"
+    ],
     "name:und_x_variant":[
         "Kiaruku",
         "Kairuku"
+    ],
+    "name:zho_x_preferred":[
+        "\u51f1\u9b6f\u5eab\u4f01\u9d5d\u5c6c"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1210025933,
-    "wof:lastmodified":1537677149,
+    "wof:lastmodified":1564170880,
     "wof:name":"Kairuku",
     "wof:parent_id":1091702751,
     "wof:placetype":"locality",

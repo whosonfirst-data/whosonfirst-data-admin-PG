@@ -25,6 +25,24 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Otaki"
+    ],
+    "name:deu_x_preferred":[
+        "Otaki"
+    ],
+    "name:fra_x_preferred":[
+        "\u014ctaki"
+    ],
+    "name:ita_x_preferred":[
+        "Otaki"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\ud0c0\ud0a4"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0442\u0430\u043a\u0456"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1343845059,
-    "wof:lastmodified":1536688941,
+    "wof:lastmodified":1564170154,
     "wof:name":"Otaki",
     "wof:parent_id":1091704819,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sapara"
+    ],
+    "name:deu_x_preferred":[
+        "Sapara"
+    ],
+    "name:swe_x_preferred":[
+        "Sapara"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043f\u0430\u0440\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1225832043,
-    "wof:lastmodified":1537032031,
+    "wof:lastmodified":1564171825,
     "wof:name":"Sapara",
     "wof:parent_id":1091702063,
     "wof:placetype":"locality",
