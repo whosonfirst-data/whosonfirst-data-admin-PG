@@ -25,6 +25,15 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kutu"
+    ],
+    "name:que_x_preferred":[
+        "Kutu"
+    ],
+    "name:swe_x_preferred":[
+        "Kutu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1243461905,
-    "wof:lastmodified":1536783673,
+    "wof:lastmodified":1564171375,
     "wof:name":"Kutu",
     "wof:parent_id":1091702001,
     "wof:placetype":"locality",

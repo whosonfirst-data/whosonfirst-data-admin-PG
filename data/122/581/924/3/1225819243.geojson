@@ -25,6 +25,9 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Siang"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1225819243,
-    "wof:lastmodified":1537049886,
+    "wof:lastmodified":1564171727,
     "wof:name":"Siang",
     "wof:parent_id":1091703899,
     "wof:placetype":"locality",

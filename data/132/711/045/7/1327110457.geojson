@@ -26,6 +26,12 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u0531\u057d\u0578\u0580"
+    ],
+    "name:spa_x_preferred":[
+        "Asor"
+    ],
     "name:und_x_variant":[
         "Old Asor",
         "Asor"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1327110457,
-    "wof:lastmodified":1537677208,
+    "wof:lastmodified":1564170064,
     "wof:name":"Asor",
     "wof:parent_id":1091704057,
     "wof:placetype":"locality",

@@ -25,9 +25,30 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Lapai"
+    ],
+    "name:ceb_x_preferred":[
+        "Lapai"
+    ],
+    "name:fra_x_preferred":[
+        "Lapai"
+    ],
+    "name:hau_x_preferred":[
+        "Lapai"
+    ],
+    "name:ita_x_preferred":[
+        "Lapai"
+    ],
+    "name:spa_x_preferred":[
+        "Lapai"
+    ],
     "name:und_x_variant":[
         "Lapia",
         "Lapai"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u067e\u0627\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1310574277,
-    "wof:lastmodified":1537677120,
+    "wof:lastmodified":1564171118,
     "wof:name":"Lapai",
     "wof:parent_id":1091702917,
     "wof:placetype":"locality",

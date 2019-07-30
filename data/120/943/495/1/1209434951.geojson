@@ -25,6 +25,39 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Goro"
+    ],
+    "name:deu_x_preferred":[
+        "Goro"
+    ],
+    "name:eus_x_preferred":[
+        "Goro"
+    ],
+    "name:fin_x_preferred":[
+        "Goro"
+    ],
+    "name:fra_x_preferred":[
+        "Goro"
+    ],
+    "name:ita_x_preferred":[
+        "Goro"
+    ],
+    "name:nld_x_preferred":[
+        "Goro"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Goro"
+    ],
+    "name:tur_x_preferred":[
+        "Goro"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632347
@@ -42,7 +75,7 @@
         }
     ],
     "wof:id":1209434951,
-    "wof:lastmodified":1536287132,
+    "wof:lastmodified":1564170862,
     "wof:name":"Goro",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",

@@ -25,6 +25,27 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Buna"
+    ],
+    "name:fra_x_preferred":[
+        "Buna"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ca"
+    ],
+    "name:pol_x_preferred":[
+        "Buna"
+    ],
+    "name:spa_x_preferred":[
+        "Buna"
+    ],
+    "name:tpi_x_preferred":[
+        "Buna"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u7d0d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632347
@@ -43,7 +64,7 @@
         }
     ],
     "wof:id":1209421019,
-    "wof:lastmodified":1537570321,
+    "wof:lastmodified":1564170842,
     "wof:name":"Buna",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",

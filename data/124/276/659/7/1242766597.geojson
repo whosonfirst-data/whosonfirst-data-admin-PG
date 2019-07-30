@@ -25,6 +25,9 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u307e\u3093\u3066\u3093"
+    ],
     "name:und_x_variant":[
         "Matan",
         "Manten"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1242766597,
-    "wof:lastmodified":1537677109,
+    "wof:lastmodified":1564171445,
     "wof:name":"Manten",
     "wof:parent_id":1091704139,
     "wof:placetype":"locality",

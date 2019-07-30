@@ -25,6 +25,18 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Endaka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5186\u9ad8\u4e0d\u6cc1"
+    ],
+    "name:pol_x_preferred":[
+        "Endaka"
+    ],
+    "name:zho_x_preferred":[
+        "\u65e5\u5143\u5347\u503c\u856d\u689d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1259866689,
-    "wof:lastmodified":1536803358,
+    "wof:lastmodified":1564171634,
     "wof:name":"Endaka",
     "wof:parent_id":1091704819,
     "wof:placetype":"locality",

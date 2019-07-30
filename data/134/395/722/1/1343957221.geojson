@@ -25,6 +25,21 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kware"
+    ],
+    "name:hau_x_preferred":[
+        "Kware"
+    ],
+    "name:ita_x_preferred":[
+        "Kware"
+    ],
+    "name:por_x_preferred":[
+        "Kware"
+    ],
+    "name:spa_x_preferred":[
+        "Kware"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1343957221,
-    "wof:lastmodified":1537023653,
+    "wof:lastmodified":1564170183,
     "wof:name":"Kware",
     "wof:parent_id":1091703941,
     "wof:placetype":"locality",

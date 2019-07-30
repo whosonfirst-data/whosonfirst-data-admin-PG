@@ -25,6 +25,18 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Wam\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Wame"
+    ],
+    "name:msa_x_preferred":[
+        "Wame"
+    ],
+    "name:ron_x_preferred":[
+        "Wame"
+    ],
     "name:und_x_variant":[
         "Waime",
         "Wame"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1226128033,
-    "wof:lastmodified":1537677032,
+    "wof:lastmodified":1564171766,
     "wof:name":"Wame",
     "wof:parent_id":1091702431,
     "wof:placetype":"locality",

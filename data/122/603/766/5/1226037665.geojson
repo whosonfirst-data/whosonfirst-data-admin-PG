@@ -25,6 +25,9 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Buji"
+    ],
     "name:und_x_variant":[
         "Bugi",
         "Buji"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226037665,
-    "wof:lastmodified":1537677189,
+    "wof:lastmodified":1564171712,
     "wof:name":"Buji",
     "wof:parent_id":1091704467,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pinang"
+    ],
+    "name:msa_x_preferred":[
+        "Pinang"
+    ],
+    "name:swe_x_preferred":[
+        "Pinang"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632347
@@ -34,7 +43,7 @@
         "gn:id":2088356
     },
     "wof:country":"PG",
-    "wof:geomhash":"684d26c5c251219f2d6a20471cd054ea",
+    "wof:geomhash":"cb14b42f42bde8dc14ddcdcfc8dc252a",
     "wof:hierarchy":[
         {
             "country_id":85632347,
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209498623,
-    "wof:lastmodified":1536285255,
+    "wof:lastmodified":1564170770,
     "wof:name":"Pinang",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",
@@ -53,9 +62,9 @@
 },
   "bbox": [
     147.10218,
-    -6.184830000000002,
+    -6.18483,
     147.10218,
-    -6.184830000000002
+    -6.18483
 ],
   "geometry": {"coordinates":[147.10218,-6.18483],"type":"Point"}
 }

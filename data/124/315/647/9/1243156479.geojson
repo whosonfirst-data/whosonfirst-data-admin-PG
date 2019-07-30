@@ -25,6 +25,45 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ise"
+    ],
+    "name:ces_x_preferred":[
+        "Ise"
+    ],
+    "name:dan_x_preferred":[
+        "Ise"
+    ],
+    "name:deu_x_preferred":[
+        "Ise"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0633\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Ise"
+    ],
+    "name:fra_x_preferred":[
+        "Ise"
+    ],
+    "name:lit_x_preferred":[
+        "Is\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "Ise"
+    ],
+    "name:pol_x_preferred":[
+        "Ise"
+    ],
+    "name:ron_x_preferred":[
+        "Ise"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0441\u044d"
+    ],
+    "name:spa_x_preferred":[
+        "Ise"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +87,7 @@
         }
     ],
     "wof:id":1243156479,
-    "wof:lastmodified":1536727016,
+    "wof:lastmodified":1564171392,
     "wof:name":"Ise",
     "wof:parent_id":1091703417,
     "wof:placetype":"locality",

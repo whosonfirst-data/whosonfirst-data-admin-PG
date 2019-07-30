@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Awaba"
     ],
+    "name:fra_x_preferred":[
+        "Awaba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1326527627,
-    "wof:lastmodified":1537677229,
+    "wof:lastmodified":1564170018,
     "wof:name":"Awaba",
     "wof:parent_id":1091703673,
     "wof:placetype":"locality",

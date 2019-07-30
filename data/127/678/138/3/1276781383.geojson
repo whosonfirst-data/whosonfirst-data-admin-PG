@@ -25,6 +25,33 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mondo"
+    ],
+    "name:deu_x_preferred":[
+        "Mondo"
+    ],
+    "name:fin_x_preferred":[
+        "Mondo"
+    ],
+    "name:fra_x_preferred":[
+        "Mondo"
+    ],
+    "name:ita_x_preferred":[
+        "Mondo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0434\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Mondo"
+    ],
+    "name:swa_x_preferred":[
+        "Mondo"
+    ],
+    "name:swe_x_preferred":[
+        "Mondo"
+    ],
     "name:und_x_variant":[
         "Mutido",
         "Mundo",
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1276781383,
-    "wof:lastmodified":1537677098,
+    "wof:lastmodified":1564170608,
     "wof:name":"Mondo",
     "wof:parent_id":1091702425,
     "wof:placetype":"locality",

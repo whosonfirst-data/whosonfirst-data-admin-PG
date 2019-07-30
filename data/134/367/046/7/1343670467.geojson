@@ -25,6 +25,15 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Romilly"
+    ],
+    "name:fra_x_preferred":[
+        "Romilly"
+    ],
+    "name:swe_x_preferred":[
+        "Romilly"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1343670467,
-    "wof:lastmodified":1536941171,
+    "wof:lastmodified":1564170203,
     "wof:name":"Romilly",
     "wof:parent_id":1091703049,
     "wof:placetype":"locality",

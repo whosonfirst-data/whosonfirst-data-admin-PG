@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Domori"
     ],
+    "name:zho_x_preferred":[
+        "Domori"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1343980187,
-    "wof:lastmodified":1537677227,
+    "wof:lastmodified":1564170085,
     "wof:name":"Domori",
     "wof:parent_id":1091703673,
     "wof:placetype":"locality",

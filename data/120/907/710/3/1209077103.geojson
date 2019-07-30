@@ -25,6 +25,24 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sunde"
+    ],
+    "name:deu_x_preferred":[
+        "Sunde"
+    ],
+    "name:fra_x_preferred":[
+        "Sunde"
+    ],
+    "name:nds_x_preferred":[
+        "Sunde"
+    ],
+    "name:nor_x_preferred":[
+        "Sunde"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043d\u0434\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632347
@@ -34,7 +52,7 @@
         "gn:id":2086142
     },
     "wof:country":"PG",
-    "wof:geomhash":"8a6cb6185d678784116cf0e211192bf4",
+    "wof:geomhash":"cf39dd8346552fc2bdf5507031512784",
     "wof:hierarchy":[
         {
             "country_id":85632347,
@@ -42,7 +60,7 @@
         }
     ],
     "wof:id":1209077103,
-    "wof:lastmodified":1536298459,
+    "wof:lastmodified":1564170696,
     "wof:name":"Sunde",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",
@@ -53,9 +71,9 @@
 },
   "bbox": [
     147.01667,
-    -6.0666699999999985,
+    -6.06667,
     147.01667,
-    -6.0666699999999985
+    -6.06667
 ],
   "geometry": {"coordinates":[147.01667,-6.06667],"type":"Point"}
 }

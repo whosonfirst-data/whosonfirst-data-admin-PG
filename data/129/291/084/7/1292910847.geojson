@@ -25,6 +25,33 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Rabe"
+    ],
+    "name:fra_x_preferred":[
+        "Corbeau"
+    ],
+    "name:ita_x_preferred":[
+        "Rabe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30fc\u30d9"
+    ],
+    "name:nno_x_preferred":[
+        "Rabe"
+    ],
+    "name:pol_x_preferred":[
+        "Rabe"
+    ],
+    "name:por_x_preferred":[
+        "Rabe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0431\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0431\u0435"
+    ],
     "name:und_x_variant":[
         "Rabi",
         "Rabe"
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":1292910847,
-    "wof:lastmodified":1537677221,
+    "wof:lastmodified":1564170418,
     "wof:name":"Rabe",
     "wof:parent_id":1091702001,
     "wof:placetype":"locality",

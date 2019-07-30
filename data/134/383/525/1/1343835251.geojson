@@ -26,6 +26,15 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kiga"
+    ],
+    "name:deu_x_preferred":[
+        "Kiga"
+    ],
+    "name:fra_x_preferred":[
+        "Kiga"
+    ],
     "name:und_x_variant":[
         "Kika",
         "Kiga"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1343835251,
-    "wof:lastmodified":1537677138,
+    "wof:lastmodified":1564170149,
     "wof:name":"Kiga",
     "wof:parent_id":1091703709,
     "wof:placetype":"locality",

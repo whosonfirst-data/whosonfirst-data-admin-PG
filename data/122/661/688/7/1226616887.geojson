@@ -25,6 +25,15 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Yamato kotoba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5927\u548c\u8a00\u8449"
+    ],
+    "name:kor_x_preferred":[
+        "\uc57c\ub9c8\ud1a0 \uace0\ud1a0\ubc14"
+    ],
     "name:und_x_variant":[
         "Wagu",
         "Wago"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1226616887,
-    "wof:lastmodified":1537677035,
+    "wof:lastmodified":1564171721,
     "wof:name":"Wago",
     "wof:parent_id":1091702091,
     "wof:placetype":"locality",

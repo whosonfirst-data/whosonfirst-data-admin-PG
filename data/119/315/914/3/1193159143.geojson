@@ -26,8 +26,26 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Separa"
+    ],
+    "name:est_x_preferred":[
+        "Separa"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0565\u057a\u0561\u057c\u0561"
+    ],
+    "name:pol_x_preferred":[
+        "Separa"
+    ],
+    "name:spa_x_preferred":[
+        "Separa"
+    ],
     "name:und_x_variant":[
         "Sepota",
+        "Separa"
+    ],
+    "name:vol_x_preferred":[
         "Separa"
     ],
     "src:geom":"geonames",
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1193159143,
-    "wof:lastmodified":1537677063,
+    "wof:lastmodified":1564170893,
     "wof:name":"Separa",
     "wof:parent_id":1091703673,
     "wof:placetype":"locality",

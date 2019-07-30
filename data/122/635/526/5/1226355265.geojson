@@ -25,6 +25,18 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Lui"
+    ],
+    "name:est_x_preferred":[
+        "Lui"
+    ],
+    "name:fra_x_preferred":[
+        "Lui"
+    ],
+    "name:hun_x_preferred":[
+        "Lui"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1226355265,
-    "wof:lastmodified":1536776295,
+    "wof:lastmodified":1564171714,
     "wof:name":"Lui",
     "wof:parent_id":1091703049,
     "wof:placetype":"locality",

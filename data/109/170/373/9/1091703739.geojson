@@ -31,11 +31,68 @@
     "mps:longitude":144.22708,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mount Hagen"
+    ],
+    "name:ces_x_preferred":[
+        "Mount Hagen"
+    ],
+    "name:deu_x_preferred":[
+        "Mount Hagen"
+    ],
     "name:eng_x_preferred":[
         "Mount Hagen"
     ],
     "name:eng_x_variant":[
         "Hagen North"
+    ],
+    "name:eus_x_preferred":[
+        "Mount Hagen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0648\u0646\u062a \u0647\u06cc\u06af\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Mount Hagen"
+    ],
+    "name:glg_x_preferred":[
+        "Mount Hagen"
+    ],
+    "name:ita_x_preferred":[
+        "Mount Hagen"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30a6\u30f3\u30c8\u30cf\u30fc\u30b2\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\uc6b4\ud2b8\ud558\uac90"
+    ],
+    "name:lit_x_preferred":[
+        "Maunt Hagenas"
+    ],
+    "name:nld_x_preferred":[
+        "Mount Hagen"
+    ],
+    "name:pol_x_preferred":[
+        "Mount Hagen"
+    ],
+    "name:por_x_preferred":[
+        "Mount Hagen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0443\u043d\u0442-\u0425\u0430\u0433\u0435\u043d"
+    ],
+    "name:tpi_x_preferred":[
+        "Maun Hagen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0443\u043d\u0442-\u0413\u0430\u0491\u0435\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0624\u0646\u0679 \u06c1\u0627\u06af\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u8292\u7279\u54c8\u6839"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +129,7 @@
         }
     ],
     "wof:id":1091703739,
-    "wof:lastmodified":1553717935,
+    "wof:lastmodified":1564171223,
     "wof:name":"Mount Hagen",
     "wof:parent_id":85676551,
     "wof:placetype":"county",

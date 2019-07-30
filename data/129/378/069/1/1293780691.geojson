@@ -25,6 +25,39 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Buka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06a9\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Buka"
+    ],
+    "name:glg_x_preferred":[
+        "Buka"
+    ],
+    "name:ita_x_preferred":[
+        "Buka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ab"
+    ],
+    "name:pol_x_preferred":[
+        "Buka"
+    ],
+    "name:tpi_x_preferred":[
+        "Buka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u043a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u06a9\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u5361"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -49,7 +82,7 @@
         }
     ],
     "wof:id":1293780691,
-    "wof:lastmodified":1537570327,
+    "wof:lastmodified":1564170370,
     "wof:name":"Buka",
     "wof:parent_id":1091703967,
     "wof:placetype":"locality",

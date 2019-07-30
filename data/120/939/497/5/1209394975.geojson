@@ -25,6 +25,9 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Numari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632347
@@ -34,7 +37,7 @@
         "gn:id":2089400
     },
     "wof:country":"PG",
-    "wof:geomhash":"f13bacd07b067d8f903575aa41dfdb92",
+    "wof:geomhash":"19b9ea664b98f487966c497f416cef02",
     "wof:hierarchy":[
         {
             "country_id":85632347,
@@ -42,7 +45,7 @@
         }
     ],
     "wof:id":1209394975,
-    "wof:lastmodified":1536288333,
+    "wof:lastmodified":1564170707,
     "wof:name":"Numari",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",
@@ -53,9 +56,9 @@
 },
   "bbox": [
     144.31667,
-    -4.8166699999999985,
+    -4.81667,
     144.31667,
-    -4.8166699999999985
+    -4.81667
 ],
   "geometry": {"coordinates":[144.31666999999999,-4.81667],"type":"Point"}
 }

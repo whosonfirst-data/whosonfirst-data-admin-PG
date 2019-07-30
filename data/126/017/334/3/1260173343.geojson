@@ -25,6 +25,9 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Kupon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1260173343,
-    "wof:lastmodified":1536860498,
+    "wof:lastmodified":1564170987,
     "wof:name":"Kupon",
     "wof:parent_id":1091704421,
     "wof:placetype":"locality",

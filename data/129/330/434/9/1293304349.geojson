@@ -25,6 +25,18 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Awara"
+    ],
+    "name:deu_x_preferred":[
+        "Awara"
+    ],
+    "name:fra_x_preferred":[
+        "Awara"
+    ],
+    "name:nld_x_preferred":[
+        "Awara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -42,7 +54,7 @@
         }
     ],
     "wof:id":1293304349,
-    "wof:lastmodified":1537048932,
+    "wof:lastmodified":1564170301,
     "wof:name":"Awara",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

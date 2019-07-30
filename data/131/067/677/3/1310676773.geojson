@@ -25,6 +25,30 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Busa"
+    ],
+    "name:ceb_x_preferred":[
+        "Busa"
+    ],
+    "name:deu_x_preferred":[
+        "Busa"
+    ],
+    "name:fra_x_preferred":[
+        "Busa"
+    ],
+    "name:ita_x_preferred":[
+        "Busa"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0441\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Kibusa"
+    ],
+    "name:swe_x_preferred":[
+        "Busa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1310676773,
-    "wof:lastmodified":1536669851,
+    "wof:lastmodified":1564171138,
     "wof:name":"Busa",
     "wof:parent_id":1091704901,
     "wof:placetype":"locality",

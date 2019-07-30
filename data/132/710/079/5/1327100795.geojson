@@ -25,6 +25,9 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Paup"
+    ],
     "name:und_x_variant":[
         "Paup Hamlets",
         "Paup Group",
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1327100795,
-    "wof:lastmodified":1537677076,
+    "wof:lastmodified":1564170053,
     "wof:name":"Paup",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

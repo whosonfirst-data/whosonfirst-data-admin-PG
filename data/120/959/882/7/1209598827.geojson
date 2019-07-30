@@ -25,6 +25,15 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kasu"
+    ],
+    "name:swe_x_preferred":[
+        "Kasu"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c3e\u0c38\u0c41"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632347
@@ -34,7 +43,7 @@
         "gn:id":2094480
     },
     "wof:country":"PG",
-    "wof:geomhash":"f502a22399a34d754fb2797be49ccf08",
+    "wof:geomhash":"9ea58b17cec283b90261df8ae189cf0e",
     "wof:hierarchy":[
         {
             "country_id":85632347,
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209598827,
-    "wof:lastmodified":1536282234,
+    "wof:lastmodified":1564170788,
     "wof:name":"Kasu",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",
@@ -53,9 +62,9 @@
 },
   "bbox": [
     147.14171000000005,
-    -7.898339999999999,
+    -7.89834,
     147.14171000000005,
-    -7.898339999999999
+    -7.89834
 ],
   "geometry": {"coordinates":[147.14171000000005,-7.89834],"type":"Point"}
 }

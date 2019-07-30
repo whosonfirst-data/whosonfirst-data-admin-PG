@@ -25,6 +25,9 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dogura"
+    ],
     "name:und_x_variant":[
         "Wedau",
         "Doguia",
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1360196229,
-    "wof:lastmodified":1537677225,
+    "wof:lastmodified":1564171199,
     "wof:name":"Dogura",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

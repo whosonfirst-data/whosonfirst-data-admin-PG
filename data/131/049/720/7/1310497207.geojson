@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Dewala"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0648\u0627\u0644\u0627"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u06cc\u0648\u0627\u0644\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1310497207,
-    "wof:lastmodified":1537677227,
+    "wof:lastmodified":1564171025,
     "wof:name":"Dewala",
     "wof:parent_id":1091703673,
     "wof:placetype":"locality",

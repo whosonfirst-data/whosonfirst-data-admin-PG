@@ -25,6 +25,21 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062a\u0628\u0631\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "T\u00e9b\u00e9ra"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0628\u0631\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "T\u00e9b\u00e9ra"
+    ],
+    "name:swe_x_preferred":[
+        "T\u00e9b\u00e9ra"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1344160167,
-    "wof:lastmodified":1536731960,
+    "wof:lastmodified":1564170228,
     "wof:name":"Tebera",
     "wof:parent_id":1091703049,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ckb_x_preferred":[
+        "\u0628\u06d5\u06be\u0627\u0631"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0647\u0627\u0631"
+    ],
     "name:und_x_variant":[
         "Buhor",
         "Bahor"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1292978123,
-    "wof:lastmodified":1537677204,
+    "wof:lastmodified":1564170425,
     "wof:name":"Bahor",
     "wof:parent_id":1091703451,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "mps:longitude":145.512866,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Okapa"
+    ],
     "name:eng_x_preferred":[
         "Okapa"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091704103,
-    "wof:lastmodified":1553717936,
+    "wof:lastmodified":1564171215,
     "wof:name":"Okapa",
     "wof:parent_id":85676533,
     "wof:placetype":"county",

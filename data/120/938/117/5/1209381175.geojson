@@ -25,6 +25,15 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Musu"
+    ],
+    "name:fra_x_preferred":[
+        "Musu"
+    ],
+    "name:swe_x_preferred":[
+        "Musu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632347
@@ -34,7 +43,7 @@
         "gn:id":2090174
     },
     "wof:country":"PG",
-    "wof:geomhash":"c9773519635b64b93fb3d55238456e23",
+    "wof:geomhash":"421b380201f3547d019f99bca55c589d",
     "wof:hierarchy":[
         {
             "country_id":85632347,
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209381175,
-    "wof:lastmodified":1536288778,
+    "wof:lastmodified":1564170693,
     "wof:name":"Musu",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",
@@ -53,9 +62,9 @@
 },
   "bbox": [
     142.20848999999995,
-    -3.5228300000000004,
+    -3.52283,
     142.20848999999995,
-    -3.5228300000000004
+    -3.52283
 ],
   "geometry": {"coordinates":[142.20848999999995,-3.52283],"type":"Point"}
 }

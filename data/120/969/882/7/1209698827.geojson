@@ -25,6 +25,15 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bakan"
+    ],
+    "name:deu_x_preferred":[
+        "Bakan"
+    ],
+    "name:swe_x_preferred":[
+        "Bakan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583
@@ -44,7 +53,7 @@
         }
     ],
     "wof:id":1209698827,
-    "wof:lastmodified":1536395916,
+    "wof:lastmodified":1564170805,
     "wof:name":"Bakan",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

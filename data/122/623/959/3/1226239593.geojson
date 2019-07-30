@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Torokina"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0631\u0648\u06a9\u06cc\u0646\u0627"
+    ],
     "name:und_x_variant":[
         "Torakina",
         "Torokina"
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1226239593,
-    "wof:lastmodified":1537677044,
+    "wof:lastmodified":1564171759,
     "wof:name":"Torokina",
     "wof:parent_id":1091704421,
     "wof:placetype":"locality",

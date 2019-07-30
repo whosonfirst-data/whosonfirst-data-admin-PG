@@ -25,6 +25,21 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09b2\u09cb\u0995\u09cb\u09a8\u09cb"
+    ],
+    "name:cat_x_preferred":[
+        "Lokono"
+    ],
+    "name:fra_x_preferred":[
+        "Lokono"
+    ],
+    "name:lit_x_preferred":[
+        "Lokonai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0430\u0432\u0430\u043a\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1260062957,
-    "wof:lastmodified":1537016904,
+    "wof:lastmodified":1564170967,
     "wof:name":"Lokono",
     "wof:parent_id":1091702917,
     "wof:placetype":"locality",

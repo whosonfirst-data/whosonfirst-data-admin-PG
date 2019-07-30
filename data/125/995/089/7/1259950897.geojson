@@ -25,6 +25,15 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Morago"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0631\u0627\u06af\u0648"
+    ],
+    "name:swe_x_preferred":[
+        "Morago"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1259950897,
-    "wof:lastmodified":1536682085,
+    "wof:lastmodified":1564171582,
     "wof:name":"Morago",
     "wof:parent_id":1091702351,
     "wof:placetype":"locality",

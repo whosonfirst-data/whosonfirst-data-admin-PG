@@ -25,6 +25,39 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Tai"
+    ],
+    "name:ceb_x_preferred":[
+        "Tai"
+    ],
+    "name:fin_x_preferred":[
+        "Tai"
+    ],
+    "name:fur_x_preferred":[
+        "Tai"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\uc774"
+    ],
+    "name:oci_x_preferred":[
+        "Tai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Tai"
+    ],
+    "name:swe_x_preferred":[
+        "Tai"
+    ],
+    "name:tur_x_preferred":[
+        "Tai"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0439"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632347
@@ -34,7 +67,7 @@
         "gn:id":2086002
     },
     "wof:country":"PG",
-    "wof:geomhash":"4e5abc72dc37a12350055575b456322d",
+    "wof:geomhash":"10f83606c07fe1529eb4453997a025ee",
     "wof:hierarchy":[
         {
             "country_id":85632347,
@@ -42,7 +75,7 @@
         }
     ],
     "wof:id":1209612721,
-    "wof:lastmodified":1536281794,
+    "wof:lastmodified":1564170782,
     "wof:name":"Tai",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",
@@ -53,9 +86,9 @@
 },
   "bbox": [
     142.90545,
-    -8.007060000000001,
+    -8.00706,
     142.90545,
-    -8.007060000000001
+    -8.00706
 ],
   "geometry": {"coordinates":[142.90545,-8.00706],"type":"Point"}
 }

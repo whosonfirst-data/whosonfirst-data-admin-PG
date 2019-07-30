@@ -25,6 +25,9 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bombardier IORE"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1276761571,
-    "wof:lastmodified":1536702328,
+    "wof:lastmodified":1564170600,
     "wof:name":"Iore",
     "wof:parent_id":1091702573,
     "wof:placetype":"locality",

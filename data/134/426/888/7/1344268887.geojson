@@ -25,6 +25,18 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Abadi"
+    ],
+    "name:fra_x_preferred":[
+        "Abadi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d1\u05d0\u05d3\u05d9"
+    ],
+    "name:tur_x_preferred":[
+        "Abadi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1344268887,
-    "wof:lastmodified":1537068931,
+    "wof:lastmodified":1564170222,
     "wof:name":"Abadi",
     "wof:parent_id":1091702001,
     "wof:placetype":"locality",
