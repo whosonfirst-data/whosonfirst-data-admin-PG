@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "EG"
+    ],
     "lbl:latitude":-5.493308,
     "lbl:longitude":143.533109,
     "mps:latitude":-5.442804,
@@ -289,9 +292,6 @@
         }
     ],
     "wof:id":85676513,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tpi",
         "eng",
@@ -302,7 +302,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1563322420,
+    "wof:lastmodified":1565732427,
     "wof:name":"Enga",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SA"
+    ],
     "lbl:latitude":-3.446042,
     "lbl:longitude":141.558161,
     "mps:latitude":-3.45367,
@@ -293,9 +296,6 @@
         }
     ],
     "wof:id":85676525,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tpi",
         "eng",
@@ -306,7 +306,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1563322421,
+    "wof:lastmodified":1565732427,
     "wof:name":"Sandaun",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

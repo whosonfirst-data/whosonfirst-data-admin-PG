@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "autonomous region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NS"
+    ],
     "lbl:latitude":-6.507313,
     "lbl:longitude":155.524732,
     "mps:latitude":-6.512459,
@@ -279,9 +282,6 @@
         }
     ],
     "wof:id":85676543,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tpi",
         "eng",
@@ -292,7 +292,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1563322413,
+    "wof:lastmodified":1565732425,
     "wof:name":"North Solomons",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

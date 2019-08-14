@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GU"
+    ],
     "lbl:latitude":-7.347793,
     "lbl:longitude":145.23418,
     "mps:latitude":-7.347515,
@@ -283,9 +286,6 @@
         }
     ],
     "wof:id":85676539,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tpi",
         "eng",
@@ -296,7 +296,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1563322416,
+    "wof:lastmodified":1565732426,
     "wof:name":"Gulf",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

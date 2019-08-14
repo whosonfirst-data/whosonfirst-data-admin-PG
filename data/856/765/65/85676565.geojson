@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "EN"
+    ],
     "lbl:latitude":-5.253907,
     "lbl:longitude":151.583201,
     "mps:latitude":-5.270005,
@@ -314,9 +317,6 @@
         }
     ],
     "wof:id":85676565,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tpi",
         "eng",
@@ -327,7 +327,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1563322415,
+    "wof:lastmodified":1565732425,
     "wof:name":"East New Britain",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

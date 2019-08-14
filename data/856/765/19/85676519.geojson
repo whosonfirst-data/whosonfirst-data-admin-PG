@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ES"
+    ],
     "lbl:latitude":-4.34067,
     "lbl:longitude":143.279032,
     "mps:latitude":-4.284172,
@@ -296,9 +299,6 @@
         }
     ],
     "wof:id":85676519,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tpi",
         "eng",
@@ -309,7 +309,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1563322411,
+    "wof:lastmodified":1565732424,
     "wof:name":"East Sepik",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

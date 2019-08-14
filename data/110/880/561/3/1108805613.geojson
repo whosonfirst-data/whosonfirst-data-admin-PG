@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JI"
+    ],
     "lbl:latitude":-5.876595,
     "lbl:longitude":144.619067,
     "mz:hierarchy_label":1,
@@ -139,7 +142,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1563323370,
+    "wof:lastmodified":1565732448,
     "wof:name":"Jiwaka",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

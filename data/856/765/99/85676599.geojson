@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WN"
+    ],
     "lbl:latitude":-5.897015,
     "lbl:longitude":149.860411,
     "mps:latitude":-5.906233,
@@ -309,9 +312,6 @@
         }
     ],
     "wof:id":85676599,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tpi",
         "eng",
@@ -322,7 +322,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1563322417,
+    "wof:lastmodified":1565732426,
     "wof:name":"West New Britain",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

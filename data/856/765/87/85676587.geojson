@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NI"
+    ],
     "lbl:latitude":-4.477811,
     "lbl:longitude":152.846478,
     "mps:latitude":-4.390759,
@@ -308,9 +311,6 @@
         }
     ],
     "wof:id":85676587,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tpi",
         "eng",
@@ -321,7 +321,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1563322409,
+    "wof:lastmodified":1565732424,
     "wof:name":"New Ireland",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

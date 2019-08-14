@@ -15,6 +15,9 @@
     "itu:country_code":[
         "675"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PG"
+    ],
     "lbl:latitude":-5.695438,
     "lbl:longitude":143.910495,
     "mps:latitude":-5.695438,
@@ -1021,9 +1024,6 @@
         }
     ],
     "wof:id":85632347,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tpi",
         "eng",
@@ -1034,7 +1034,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1563322425,
+    "wof:lastmodified":1565732428,
     "wof:name":"Papua New Guinea",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

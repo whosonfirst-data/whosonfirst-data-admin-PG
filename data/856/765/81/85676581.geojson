@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NC"
+    ],
     "lbl:latitude":-9.434881,
     "lbl:longitude":147.208705,
     "mps:latitude":-9.462101,
@@ -230,9 +233,6 @@
         }
     ],
     "wof:id":85676581,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tpi",
         "eng",
@@ -243,7 +243,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1563322412,
+    "wof:lastmodified":1565732425,
     "wof:name":"National Capital District",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MD"
+    ],
     "lbl:latitude":-5.122703,
     "lbl:longitude":145.226659,
     "mps:latitude":-5.130797,
@@ -295,9 +298,6 @@
         }
     ],
     "wof:id":85676523,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tpi",
         "eng",
@@ -308,7 +308,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1563322419,
+    "wof:lastmodified":1565732427,
     "wof:name":"Madang",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

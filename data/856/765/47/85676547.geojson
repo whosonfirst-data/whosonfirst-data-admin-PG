@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SL"
+    ],
     "lbl:latitude":-6.430393,
     "lbl:longitude":143.670943,
     "mps:latitude":-6.344779,
@@ -295,9 +298,6 @@
         }
     ],
     "wof:id":85676547,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tpi",
         "eng",
@@ -308,7 +308,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1563322420,
+    "wof:lastmodified":1565732427,
     "wof:name":"Southern Highlands",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

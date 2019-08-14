@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MN"
+    ],
     "lbl:latitude":-2.0868,
     "lbl:longitude":146.927275,
     "mps:latitude":-2.074249,
@@ -292,9 +295,6 @@
         }
     ],
     "wof:id":85676569,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tpi",
         "eng",
@@ -305,7 +305,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1563322407,
+    "wof:lastmodified":1565732423,
     "wof:name":"Manus",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

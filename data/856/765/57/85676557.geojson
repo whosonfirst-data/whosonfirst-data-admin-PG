@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WE"
+    ],
     "lbl:latitude":-7.318798,
     "lbl:longitude":141.897397,
     "mps:latitude":-7.3291,
@@ -236,9 +239,6 @@
         }
     ],
     "wof:id":85676557,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tpi",
         "eng",
@@ -249,7 +249,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1563322406,
+    "wof:lastmodified":1565732423,
     "wof:name":"Western",
     "wof:parent_id":85632347,
     "wof:placetype":"region",
