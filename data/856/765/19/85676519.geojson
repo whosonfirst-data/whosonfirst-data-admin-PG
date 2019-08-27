@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-4.34067,
     "lbl:longitude":143.279032,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-4.284172,
     "mps:longitude":143.273187,
     "mz:hierarchy_label":1,
@@ -156,7 +157,7 @@
         "East Sepik"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1  \u0b9a\u0bc6\u0baa\u0bbf\u0b95\u0bcd\u0b95  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc6\u0baa\u0bbf\u0b95\u0bcd\u0b95 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c24\u0c42\u0c30\u0c4d\u0c2a\u0c41 \u0c38\u0c46\u0c2a\u0c3f\u0c15\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -173,7 +174,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0445\u0456\u0434\u043d\u0438\u0439 \u0421\u0435\u043f\u0456\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "East Sepik District"
     ],
     "name:urd_x_preferred":[
@@ -257,9 +258,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-10",
+    "src:population_date":"2011-07-10",
     "statoids:area_km":"43,426",
     "statoids:area_mi":"16,767",
     "statoids:as_of_date":"2011-07-10",
@@ -284,7 +285,7 @@
         "gp:id":2346591,
         "hasc:id":"PG.ES",
         "iso:id":"PG-ESW",
-        "qs:id":235626,
+        "qs_pg:id":235626,
         "unlc:id":"PG-ESW",
         "wd:id":"Q690880",
         "wk:page":"East Sepik Province"
@@ -309,11 +310,10 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1565732424,
+    "wof:lastmodified":1566677979,
     "wof:name":"East Sepik",
     "wof:parent_id":85632347,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":450530,
     "wof:population_rank":10,

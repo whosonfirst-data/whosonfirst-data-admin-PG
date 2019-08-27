@@ -10,10 +10,14 @@
     "geom:latitude":-9.06667,
     "geom:longitude":149.3,
     "iso:country":"PG",
+    "lbl:bbox":"149.28,-9.08667,149.32,-9.04667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sefoa Mission"
     ],
     "qs:gn_country":"PG",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":2087008,
         "gp:id":1061984,
-        "qs:id":1039695
+        "qs_pg:id":1039695
     },
     "wof:country":"PG",
     "wof:created":1459009087,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421176011,
-    "wof:lastmodified":1501229229,
+    "wof:lastmodified":1566678593,
     "wof:name":"Sefoa",
     "wof:parent_id":1091702531,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"147.73633,-9.6192,147.77633,-9.5792",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sirum 2",
         "Muianomu"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327235615,
-    "wof:lastmodified":1537677096,
+    "wof:lastmodified":1566677783,
     "wof:name":"Muianomu",
     "wof:parent_id":1091704253,
     "wof:placetype":"locality",

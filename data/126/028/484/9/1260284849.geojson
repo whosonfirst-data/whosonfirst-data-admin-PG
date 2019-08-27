@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"148.38975,-9.22636,148.42975,-9.18636",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Samaga 1",
         "Samaga"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260284849,
-    "wof:lastmodified":1537677067,
+    "wof:lastmodified":1566678404,
     "wof:name":"Samaga",
     "wof:parent_id":1091702531,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-3.43518,
     "lbl:longitude":141.355442,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Sandaun",
     "meso:dissme":"Vanimo-Green RiverSandaun",
     "meso:gaul_admin":"Amanab",
@@ -31,6 +33,7 @@
     "mps:longitude":141.355442,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Vanimo-Green River"
     ],
@@ -38,9 +41,9 @@
         "Amanab"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-10",
+    "src:population_date":"2011-07-10",
     "statoids:area_km":"10,295",
     "statoids:as_of_date":"2011-07-10",
     "statoids:capital":"Vanimo",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091704901,
-    "wof:lastmodified":1553717940,
+    "wof:lastmodified":1566678537,
     "wof:name":"Vanimo-Green River",
     "wof:parent_id":85676525,
     "wof:placetype":"county",

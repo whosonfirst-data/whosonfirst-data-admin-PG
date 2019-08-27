@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"147.5485,-6.16438,147.5885,-6.12438",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Biungen",
         "Biuingen"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209385927,
-    "wof:lastmodified":1537677195,
+    "wof:lastmodified":1566678232,
     "wof:name":"Biuingen",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",

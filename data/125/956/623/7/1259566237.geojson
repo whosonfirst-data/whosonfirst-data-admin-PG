@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"149.67989,-1.54399,149.71989,-1.50399",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Elemukunauru",
         "Lamakunauru",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259566237,
-    "wof:lastmodified":1537677121,
+    "wof:lastmodified":1566678784,
     "wof:name":"Lamakanauru",
     "wof:parent_id":1091702917,
     "wof:placetype":"locality",

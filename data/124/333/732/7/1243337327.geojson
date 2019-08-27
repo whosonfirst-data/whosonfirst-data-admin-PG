@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"146.79052,-6.61338,146.83052,-6.57338",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Nadzab"
     ],
@@ -32,8 +36,7 @@
         "Nadzab"
     ],
     "name:und_x_variant":[
-        "Nadzad",
-        "Nadzab"
+        "Nadzad"
     ],
     "name:zho_x_preferred":[
         "\u7eb3\u624e\u5e03"
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1243337327,
-    "wof:lastmodified":1564171427,
+    "wof:lastmodified":1566678674,
     "wof:name":"Nadzab",
     "wof:parent_id":1091702453,
     "wof:placetype":"locality",

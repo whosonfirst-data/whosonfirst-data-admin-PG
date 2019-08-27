@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"145.99387,-7.3107,146.03387,-7.2707",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wiama",
         "Wiama 2",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243155701,
-    "wof:lastmodified":1537677027,
+    "wof:lastmodified":1566678656,
     "wof:name":"Wiama Number 2",
     "wof:parent_id":1091703633,
     "wof:placetype":"locality",

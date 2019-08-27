@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"142.23,-6.25333,142.27,-6.21333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632347
@@ -34,7 +38,7 @@
         "gn:id":2084486
     },
     "wof:country":"PG",
-    "wof:geomhash":"1563673cbc3174636eae37ce28009b31",
+    "wof:geomhash":"dd33dbfc97bd638513576244b0403ed1",
     "wof:hierarchy":[
         {
             "country_id":85632347,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209236649,
-    "wof:lastmodified":1536293456,
+    "wof:lastmodified":1566678269,
     "wof:name":"Uwaribinna",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     142.25,
-    -6.2333300000000005,
+    -6.23333,
     142.25,
-    -6.2333300000000005
+    -6.23333
 ],
   "geometry": {"coordinates":[142.25,-6.23333],"type":"Point"}
 }

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-6.613149,
     "lbl:longitude":145.512866,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Eastern Highlands",
     "meso:dissme":"OkapaEastern Highlands",
     "meso:gaul_admin":"Okapa",
@@ -31,6 +33,7 @@
     "mps:longitude":145.512866,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Okapa"
     ],
@@ -41,9 +44,9 @@
         "Okapa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-10",
+    "src:population_date":"2011-07-10",
     "statoids:area_km":"2,110",
     "statoids:as_of_date":"2011-07-10",
     "statoids:capital":"Okapa",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1091704103,
-    "wof:lastmodified":1564171215,
+    "wof:lastmodified":1566678543,
     "wof:name":"Okapa",
     "wof:parent_id":85676533,
     "wof:placetype":"county",

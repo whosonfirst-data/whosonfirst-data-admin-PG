@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"141.59667,-6.23667,141.63667,-6.19667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226235003,
-    "wof:lastmodified":1536949420,
+    "wof:lastmodified":1566678876,
     "wof:name":"Debionne",
     "wof:parent_id":1091704007,
     "wof:placetype":"locality",

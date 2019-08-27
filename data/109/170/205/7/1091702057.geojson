@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-5.966842,
     "lbl:longitude":144.593792,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Jiwaka",
     "meso:dissme":"Anglimp-South WaghiJiwaka",
     "meso:gaul_admin":"Wahgi",
@@ -31,6 +33,7 @@
     "mps:longitude":144.593792,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Anglimp-South Waghi"
     ],
@@ -38,9 +41,9 @@
         "Wahgi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-10",
+    "src:population_date":"2011-07-10",
     "statoids:area_km":"1,970",
     "statoids:as_of_date":"2011-07-10",
     "statoids:capital":"Minj",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091702057,
-    "wof:lastmodified":1553717934,
+    "wof:lastmodified":1566678538,
     "wof:name":"Anglimp-South Waghi",
     "wof:parent_id":1108805613,
     "wof:placetype":"county",

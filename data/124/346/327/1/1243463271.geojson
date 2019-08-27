@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"143.86333,-7.97,143.90333,-7.93",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Maisavi",
         "Maisaui",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243463271,
-    "wof:lastmodified":1537677113,
+    "wof:lastmodified":1566678647,
     "wof:name":"Maisave",
     "wof:parent_id":1091703673,
     "wof:placetype":"locality",

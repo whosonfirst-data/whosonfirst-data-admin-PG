@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-5.493308,
     "lbl:longitude":143.533109,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-5.442804,
     "mps:longitude":143.554642,
     "mz:hierarchy_label":1,
@@ -149,7 +150,7 @@
         "Enga"
     ],
     "name:tam_x_preferred":[
-        "\u0b8e\u0b99\u0bcd\u0b95  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b8e\u0b99\u0bcd\u0b95 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c0e\u0c02\u0c17\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -166,7 +167,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043d\u0433\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Enga District"
     ],
     "name:urd_x_preferred":[
@@ -250,9 +251,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-10",
+    "src:population_date":"2011-07-10",
     "statoids:area_km":"11,704",
     "statoids:area_mi":"4,519",
     "statoids:as_of_date":"2011-07-10",
@@ -277,7 +278,7 @@
         "gp:id":2346599,
         "hasc:id":"PG.EG",
         "iso:id":"PG-EPW",
-        "qs:id":219599,
+        "qs_pg:id":219599,
         "unlc:id":"PG-EPW",
         "wd:id":"Q862584",
         "wk:page":"Enga Province"
@@ -302,11 +303,10 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1565732427,
+    "wof:lastmodified":1566677985,
     "wof:name":"Enga",
     "wof:parent_id":85632347,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":432045,
     "wof:population_rank":10,

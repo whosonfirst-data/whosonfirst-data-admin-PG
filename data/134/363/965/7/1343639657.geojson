@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"142.88887,-3.74447,142.92887,-3.70447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sunuhu 1",
         "Sunuhu Number 1",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343639657,
-    "wof:lastmodified":1537677054,
+    "wof:lastmodified":1566677865,
     "wof:name":"Sunahu 1",
     "wof:parent_id":1091703523,
     "wof:placetype":"locality",

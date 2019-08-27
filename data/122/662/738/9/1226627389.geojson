@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"143.00692,-3.68372,143.04692,-3.64372",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gweligum Number 1",
         "Gweligum 1"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226627389,
-    "wof:lastmodified":1537677166,
+    "wof:lastmodified":1566678897,
     "wof:name":"Gweligum 1",
     "wof:parent_id":1091703523,
     "wof:placetype":"locality",

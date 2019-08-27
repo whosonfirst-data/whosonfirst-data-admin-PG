@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"150.35588,-10.42965,150.39588,-10.38965",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Gibara"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1209526909,
-    "wof:lastmodified":1564170732,
+    "wof:lastmodified":1566678254,
     "wof:name":"Gibara",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"141.01401,-3.75587,141.05401,-3.71587",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1225907509,
-    "wof:lastmodified":1536925541,
+    "wof:lastmodified":1566678859,
     "wof:name":"Tengirabu",
     "wof:parent_id":1091704901,
     "wof:placetype":"locality",

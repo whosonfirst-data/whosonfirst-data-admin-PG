@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"152.23541,-3.49719,152.27541,-3.45719",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Karu"
     ],
@@ -53,8 +57,7 @@
         "Karu"
     ],
     "name:und_x_variant":[
-        "Kaguso",
-        "Karu"
+        "Kaguso"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1293363539,
-    "wof:lastmodified":1564170285,
+    "wof:lastmodified":1566677995,
     "wof:name":"Karu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

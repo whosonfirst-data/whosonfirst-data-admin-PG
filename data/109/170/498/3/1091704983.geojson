@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-5.194117,
     "lbl:longitude":143.490958,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Enga",
     "meso:dissme":"WabagEnga",
     "meso:gaul_admin":"Wabag",
@@ -31,6 +33,7 @@
     "mps:longitude":143.490958,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Wabag"
     ],
@@ -77,9 +80,9 @@
         "\u74e6\u5df4\u683c"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-10",
+    "src:population_date":"2011-07-10",
     "statoids:area_km":"1,090",
     "statoids:as_of_date":"2011-07-10",
     "statoids:capital":"Wabag",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1091704983,
-    "wof:lastmodified":1564171209,
+    "wof:lastmodified":1566678538,
     "wof:name":"Wabag",
     "wof:parent_id":85676513,
     "wof:placetype":"county",

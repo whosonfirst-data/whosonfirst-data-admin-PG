@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"145.29253,-6.56508,145.33253,-6.52508",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276785267,
-    "wof:lastmodified":1536670417,
+    "wof:lastmodified":1566678185,
     "wof:name":"Utunu",
     "wof:parent_id":1091704103,
     "wof:placetype":"locality",

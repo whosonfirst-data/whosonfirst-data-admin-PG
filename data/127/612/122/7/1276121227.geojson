@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"143.66333,-7.37,143.70333,-7.33",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Bahia"
     ],
@@ -262,8 +266,7 @@
     ],
     "name:und_x_variant":[
         "Bohi",
-        "Bahi",
-        "Bahia"
+        "Bahi"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u06c1\u06cc\u0627"
@@ -315,7 +318,7 @@
         }
     ],
     "wof:id":1276121227,
-    "wof:lastmodified":1564170619,
+    "wof:lastmodified":1566678191,
     "wof:name":"Bahia",
     "wof:parent_id":1091703049,
     "wof:placetype":"locality",

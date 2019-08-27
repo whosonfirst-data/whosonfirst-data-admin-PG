@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"141.11136,-2.6579,141.15136,-2.6179",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Musu"
     ],
@@ -35,8 +39,7 @@
         "Musu"
     ],
     "name:und_x_variant":[
-        "Mushu",
-        "Musu"
+        "Mushu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1209378189,
-    "wof:lastmodified":1564170721,
+    "wof:lastmodified":1566678249,
     "wof:name":"Musu",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",

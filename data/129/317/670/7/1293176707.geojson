@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"142.32311,-3.28037,142.36311,-3.24037",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "K\u0101poam Villages",
         "Kapoem Villages",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293176707,
-    "wof:lastmodified":1537677145,
+    "wof:lastmodified":1566678096,
     "wof:name":"Kapoam",
     "wof:parent_id":1091701955,
     "wof:placetype":"locality",

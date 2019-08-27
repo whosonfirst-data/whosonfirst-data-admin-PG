@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"145.44667,-5.85333,145.48667,-5.81333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0915\u093e\u092e"
     ],
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1209492457,
-    "wof:lastmodified":1564170768,
+    "wof:lastmodified":1566678275,
     "wof:name":"Kama",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",

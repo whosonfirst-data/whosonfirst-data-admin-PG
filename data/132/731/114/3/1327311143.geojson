@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"144.86391,-4.3029,144.90391,-4.2629",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rugasak",
         "Rugasak 1",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327311143,
-    "wof:lastmodified":1537677069,
+    "wof:lastmodified":1566677736,
     "wof:name":"Rugusak",
     "wof:parent_id":1091702063,
     "wof:placetype":"locality",

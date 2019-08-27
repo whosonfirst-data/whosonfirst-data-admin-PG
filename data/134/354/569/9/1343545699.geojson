@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"145.24667,-5.93667,145.28667,-5.89667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wonoboyuhu",
         "Wonoboyufa"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343545699,
-    "wof:lastmodified":1537677025,
+    "wof:lastmodified":1566677853,
     "wof:name":"Wonoboyufa",
     "wof:parent_id":1091702211,
     "wof:placetype":"locality",

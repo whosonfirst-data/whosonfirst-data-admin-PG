@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"146.0256,-6.30222,146.0656,-6.26222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326724865,
-    "wof:lastmodified":1536706710,
+    "wof:lastmodified":1566677740,
     "wof:name":"Mamerain",
     "wof:parent_id":1091702711,
     "wof:placetype":"locality",

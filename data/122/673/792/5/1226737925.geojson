@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"142.95844,-3.5446,142.99844,-3.5046",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0645\u0627\u0646"
     ],
@@ -83,8 +87,7 @@
         "\u0410\u043c\u0430\u043d"
     ],
     "name:und_x_variant":[
-        "Amam",
-        "Aman"
+        "Amam"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1226737925,
-    "wof:lastmodified":1564171682,
+    "wof:lastmodified":1566678830,
     "wof:name":"Aman",
     "wof:parent_id":1091703523,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"151.0165,-5.9906,151.0565,-5.9506",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632347
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209090129,
-    "wof:lastmodified":1536298062,
+    "wof:lastmodified":1566678227,
     "wof:name":"Koratul",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-3.446042,
     "lbl:longitude":141.558161,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-3.45367,
     "mps:longitude":141.59897,
     "mz:hierarchy_label":1,
@@ -172,7 +173,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0434\u0430\u0443\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "West Sepik Province"
     ],
     "name:urd_x_preferred":[
@@ -256,9 +257,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-10",
+    "src:population_date":"2011-07-10",
     "statoids:area_km":"35,820",
     "statoids:area_mi":"13,830",
     "statoids:as_of_date":"2011-07-10",
@@ -282,7 +283,7 @@
         "gp:id":2346598,
         "hasc:id":"PG.SA",
         "iso:id":"PG-SAN",
-        "qs:id":219598,
+        "qs_pg:id":219598,
         "wd:id":"Q753689",
         "wk:page":"Sandaun Province"
     },
@@ -306,11 +307,10 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1565732427,
+    "wof:lastmodified":1566677985,
     "wof:name":"Sandaun",
     "wof:parent_id":85632347,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":248411,
     "wof:population_rank":10,

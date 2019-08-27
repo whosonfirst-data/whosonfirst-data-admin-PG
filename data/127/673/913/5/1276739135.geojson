@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"151.00905,-5.41001,151.04905,-5.37001",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276739135,
-    "wof:lastmodified":1536732395,
+    "wof:lastmodified":1566678140,
     "wof:name":"Kiava",
     "wof:parent_id":1091704547,
     "wof:placetype":"locality",

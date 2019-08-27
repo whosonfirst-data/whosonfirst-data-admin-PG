@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"149.55831,-10.12339,149.59831,-10.08339",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u0631\u0627"
     ],
@@ -116,8 +120,7 @@
         "\u041d\u043e\u0440\u0430"
     ],
     "name:und_x_variant":[
-        "Raekae",
-        "Nora"
+        "Raekae"
     ],
     "name:vol_x_preferred":[
         "Nora"
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":1293112689,
-    "wof:lastmodified":1564170439,
+    "wof:lastmodified":1566678084,
     "wof:name":"Nora",
     "wof:parent_id":1091701919,
     "wof:placetype":"locality",

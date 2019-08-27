@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"146.20611,-7.25198,146.24611,-7.21198",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1193110981,
-    "wof:lastmodified":1536373305,
+    "wof:lastmodified":1566678364,
     "wof:name":"Otete",
     "wof:parent_id":1091703633,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"152.01333,-2.93667,152.05333,-2.89667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310388305,
-    "wof:lastmodified":1537082872,
+    "wof:lastmodified":1566678435,
     "wof:name":"Numbu",
     "wof:parent_id":1091703829,
     "wof:placetype":"locality",

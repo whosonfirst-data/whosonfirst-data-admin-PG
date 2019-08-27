@@ -11,8 +11,11 @@
     "geom:longitude":143.62678,
     "gn:country":"PG",
     "gn:fcode":"PPLA",
-    "gn:pop":18230,
+    "gn:population":18230,
     "iso:country":"PG",
+    "lbl:bbox":"143.60678,-3.57342,143.64678,-3.53342",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -202,10 +205,12 @@
     "wof:concordances":{
         "gn:id":2083537,
         "gp:id":1061360,
-        "qs:id":571921,
-        "qs_pg:id":1107166,
+        "qs_pg:id":571921,
         "wd:id":"Q1017763",
         "wk:page":"Wewak"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1107166
     },
     "wof:country":"PG",
     "wof:created":1469051442,
@@ -220,7 +225,7 @@
         }
     ],
     "wof:id":890422413,
-    "wof:lastmodified":1563323645,
+    "wof:lastmodified":1566678594,
     "wof:name":"Wewak",
     "wof:parent_id":1091705089,
     "wof:placetype":"locality",

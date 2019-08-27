@@ -10,8 +10,12 @@
     "geom:latitude":-7.33514,
     "geom:longitude":146.71798,
     "iso:country":"PG",
+    "lbl:bbox":"146.69798,-7.35514,146.73798,-7.31514",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Wau"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":2083653,
         "gp:id":1062185,
-        "qs:id":1086714,
+        "qs_pg:id":1086714,
         "wd:id":"Q954956",
         "wk:page":"Wau, Papua New Guinea"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421176839,
-    "wof:lastmodified":1563323644,
+    "wof:lastmodified":1566678593,
     "wof:name":"Wau",
     "wof:parent_id":1091702091,
     "wof:placetype":"locality",

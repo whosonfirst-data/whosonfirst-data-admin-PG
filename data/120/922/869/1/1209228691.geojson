@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"147.42937,-8.59412,147.46937,-8.55412",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632347
@@ -34,7 +38,7 @@
         "gn:id":2086393
     },
     "wof:country":"PG",
-    "wof:geomhash":"4009753842f5566f9864d7de7127b7a1",
+    "wof:geomhash":"b44667f2fc5d2a17282c7eb0a2d883f6",
     "wof:hierarchy":[
         {
             "country_id":85632347,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209228691,
-    "wof:lastmodified":1536293709,
+    "wof:lastmodified":1566678278,
     "wof:name":"Songgaku",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     147.44937,
-    -8.574119999999999,
+    -8.57412,
     147.44937,
-    -8.574119999999999
+    -8.57412
 ],
   "geometry": {"coordinates":[147.44936999999999,-8.57412],"type":"Point"}
 }

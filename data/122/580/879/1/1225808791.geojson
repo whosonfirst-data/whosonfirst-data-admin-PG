@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"150.11856,-5.0372,150.15856,-4.9972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bulu-Murli",
         "Bulumuri"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225808791,
-    "wof:lastmodified":1537677188,
+    "wof:lastmodified":1566678859,
     "wof:name":"Bulumuri",
     "wof:parent_id":1091704547,
     "wof:placetype":"locality",

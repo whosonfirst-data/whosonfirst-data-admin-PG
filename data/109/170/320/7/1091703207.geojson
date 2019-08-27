@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-5.264198,
     "lbl:longitude":143.881745,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Enga",
     "meso:dissme":"Kompiam-AmbumEnga",
     "meso:gaul_admin":"Porgera",
@@ -31,6 +33,7 @@
     "mps:longitude":143.881745,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kompiam-Ambum"
     ],
@@ -38,9 +41,9 @@
         "Porgera"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-10",
+    "src:population_date":"2011-07-10",
     "statoids:area_km":"2,963",
     "statoids:as_of_date":"2011-07-10",
     "statoids:capital":"Kompiam",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091703207,
-    "wof:lastmodified":1553717936,
+    "wof:lastmodified":1566678549,
     "wof:name":"Kompiam-Ambum",
     "wof:parent_id":85676513,
     "wof:placetype":"county",

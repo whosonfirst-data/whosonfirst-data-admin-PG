@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-6.391897,
     "lbl:longitude":144.282652,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Southern Highlands",
     "meso:dissme":"Ialibu-PangiaSouthern Highlands",
     "meso:gaul_admin":"Pangia",
@@ -31,6 +33,7 @@
     "mps:longitude":144.282652,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ialibu-Pangia"
     ],
@@ -38,9 +41,9 @@
         "Pangia"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-10",
+    "src:population_date":"2011-07-10",
     "statoids:area_km":"2,412",
     "statoids:as_of_date":"2011-07-10",
     "statoids:capital":"Ialibu",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091702491,
-    "wof:lastmodified":1553717936,
+    "wof:lastmodified":1566678544,
     "wof:name":"Ialibu-Pangia",
     "wof:parent_id":85676547,
     "wof:placetype":"county",

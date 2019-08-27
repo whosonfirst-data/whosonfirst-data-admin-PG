@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-5.856636,
     "lbl:longitude":149.508147,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"West New Britain",
     "meso:dissme":"Kandrian-GloucesterWest New Britain",
     "meso:gaul_admin":"Kimbe",
@@ -31,6 +33,7 @@
     "mps:longitude":149.508147,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kandrian-Gloucester"
     ],
@@ -38,9 +41,9 @@
         "Kimbe"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-10",
+    "src:population_date":"2011-07-10",
     "statoids:area_km":"12,499",
     "statoids:as_of_date":"2011-07-10",
     "statoids:capital":"Kandrian",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091702827,
-    "wof:lastmodified":1553717936,
+    "wof:lastmodified":1566678544,
     "wof:name":"Kandrian-Gloucester",
     "wof:parent_id":85676599,
     "wof:placetype":"county",

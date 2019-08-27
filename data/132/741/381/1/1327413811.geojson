@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"145.97379,-5.51083,146.01379,-5.47083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1327413811,
-    "wof:lastmodified":1536707955,
+    "wof:lastmodified":1566677787,
     "wof:name":"Kumisanger",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

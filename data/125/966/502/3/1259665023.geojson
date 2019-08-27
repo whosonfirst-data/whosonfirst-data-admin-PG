@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"143.44667,-3.80333,143.48667,-3.76333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kulbulia",
         "Kubalia"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259665023,
-    "wof:lastmodified":1537677128,
+    "wof:lastmodified":1566678770,
     "wof:name":"Kubalia",
     "wof:parent_id":1091705179,
     "wof:placetype":"locality",

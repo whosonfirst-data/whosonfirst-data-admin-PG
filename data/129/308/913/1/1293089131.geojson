@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"142.99184,-3.61598,143.03184,-3.57598",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09ae\u09bf\u09b2\u09be\u0995"
     ],
@@ -56,8 +60,7 @@
         "Milak"
     ],
     "name:und_x_variant":[
-        "Milak Villages",
-        "Milak"
+        "Milak Villages"
     ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0644\u06a9"
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1293089131,
-    "wof:lastmodified":1564170312,
+    "wof:lastmodified":1566678010,
     "wof:name":"Milak",
     "wof:parent_id":1091703523,
     "wof:placetype":"locality",

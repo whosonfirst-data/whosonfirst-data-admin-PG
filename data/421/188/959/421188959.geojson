@@ -11,10 +11,14 @@
     "geom:longitude":146.99429,
     "gn:country":"PG",
     "gn:fcode":"PPLA",
-    "gn:pop":76255,
+    "gn:population":76255,
     "iso:country":"PG",
+    "lbl:bbox":"146.97429,-6.74098,147.01429,-6.70098",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0644\u0627\u064a"
@@ -203,12 +207,12 @@
     "wof:concordances":{
         "gn:id":2092740,
         "gp:id":1062155,
-        "qs:id":1107305,
+        "qs_pg:id":1107305,
         "wd:id":"Q612250",
         "wk:page":"Lae"
     },
     "wof:concordances_alt":{
-        "qs:id":138298
+        "qs_pg:id":138298
     },
     "wof:country":"PG",
     "wof:created":1459009589,
@@ -223,7 +227,7 @@
         }
     ],
     "wof:id":421188959,
-    "wof:lastmodified":1563323640,
+    "wof:lastmodified":1566678592,
     "wof:name":"Lae",
     "wof:parent_id":1091703335,
     "wof:placetype":"locality",

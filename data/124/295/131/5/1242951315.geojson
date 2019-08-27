@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"142.94596,-3.68044,142.98596,-3.64044",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lehinga Number 1",
         "Lahinga 1"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242951315,
-    "wof:lastmodified":1537677121,
+    "wof:lastmodified":1566678634,
     "wof:name":"Lahinga 1",
     "wof:parent_id":1091703523,
     "wof:placetype":"locality",

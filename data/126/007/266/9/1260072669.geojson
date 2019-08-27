@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"143.56333,-8.65333,143.60333,-8.61333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Segasia",
         "Sagasio",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260072669,
-    "wof:lastmodified":1537677068,
+    "wof:lastmodified":1566678377,
     "wof:name":"Sagasia",
     "wof:parent_id":1091704467,
     "wof:placetype":"locality",

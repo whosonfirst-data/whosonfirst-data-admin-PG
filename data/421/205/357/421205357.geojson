@@ -10,8 +10,12 @@
     "geom:latitude":-5.46667,
     "geom:longitude":143.2,
     "iso:country":"PG",
+    "lbl:bbox":"143.18,-5.48667,143.22,-5.44667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Porgera"
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":2088143,
         "gp:id":1061662,
-        "qs:id":262675
+        "qs_pg:id":262675
     },
     "wof:country":"PG",
     "wof:created":1459010222,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":421205357,
-    "wof:lastmodified":1564171288,
+    "wof:lastmodified":1566678591,
     "wof:name":"Porgera",
     "wof:parent_id":1091703371,
     "wof:placetype":"locality",

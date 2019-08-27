@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"149.51903,-9.73021,149.55903,-9.69021",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Monari"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243275469,
-    "wof:lastmodified":1564171470,
+    "wof:lastmodified":1566678701,
     "wof:name":"Monari",
     "wof:parent_id":1091702001,
     "wof:placetype":"locality",

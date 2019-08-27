@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-9.727944,
     "lbl:longitude":147.806564,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Central",
     "meso:dissme":"RigoCentral",
     "meso:gaul_admin":"Rigo",
@@ -31,6 +33,7 @@
     "mps:longitude":147.806564,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Rigo"
     ],
@@ -56,9 +59,9 @@
         "Rigo"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-10",
+    "src:population_date":"2011-07-10",
     "statoids:area_km":"5,072",
     "statoids:as_of_date":"2011-07-10",
     "statoids:capital":"Kwikila",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1091704253,
-    "wof:lastmodified":1564171205,
+    "wof:lastmodified":1566678533,
     "wof:name":"Rigo",
     "wof:parent_id":85676561,
     "wof:placetype":"county",

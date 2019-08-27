@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"147.83,-6.65333,147.87,-6.61333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0411\u0443\u043a\u0456"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1225927465,
-    "wof:lastmodified":1564171645,
+    "wof:lastmodified":1566678806,
     "wof:name":"Buki",
     "wof:parent_id":1091702351,
     "wof:placetype":"locality",

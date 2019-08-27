@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"144.71946,-6.77152,144.75946,-6.73152",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632347
@@ -34,7 +38,7 @@
         "gn:id":2096571
     },
     "wof:country":"PG",
-    "wof:geomhash":"1af0948340a30ee0c0abcb9c0bbbc0d3",
+    "wof:geomhash":"d0ed5554dc4f04ebc84816c2c223a1a0",
     "wof:hierarchy":[
         {
             "country_id":85632347,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209418075,
-    "wof:lastmodified":1536287620,
+    "wof:lastmodified":1566678267,
     "wof:name":"Gurimatu",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     144.73946,
-    -6.751519999999998,
+    -6.75152,
     144.73946,
-    -6.751519999999998
+    -6.75152
 ],
   "geometry": {"coordinates":[144.73946000000001,-6.75152],"type":"Point"}
 }

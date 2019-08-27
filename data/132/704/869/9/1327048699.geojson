@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"150.50381,-5.47486,150.54381,-5.43486",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1327048699,
-    "wof:lastmodified":1536736918,
+    "wof:lastmodified":1566677801,
     "wof:name":"Malalia Mission",
     "wof:parent_id":1091704547,
     "wof:placetype":"locality",

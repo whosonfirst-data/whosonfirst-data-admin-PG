@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"143.33911,-3.70974,143.37911,-3.66974",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yekimboyle 1",
         "Yekimbolye Number 1",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344238057,
-    "wof:lastmodified":1537677020,
+    "wof:lastmodified":1566677886,
     "wof:name":"Yekimbolye 1",
     "wof:parent_id":1091705179,
     "wof:placetype":"locality",

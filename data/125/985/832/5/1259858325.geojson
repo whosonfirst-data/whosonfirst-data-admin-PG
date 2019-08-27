@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"146.2858,-7.52851,146.3258,-7.48851",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259858325,
-    "wof:lastmodified":1536814721,
+    "wof:lastmodified":1566678756,
     "wof:name":"Kamanahai",
     "wof:parent_id":1091703633,
     "wof:placetype":"locality",

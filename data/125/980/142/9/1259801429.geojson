@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"147.23028,-8.59227,147.27028,-8.55227",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Onongge",
         "Ononge"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259801429,
-    "wof:lastmodified":1537677082,
+    "wof:lastmodified":1566678791,
     "wof:name":"Ononge",
     "wof:parent_id":1091702425,
     "wof:placetype":"locality",

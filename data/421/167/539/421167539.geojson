@@ -10,8 +10,12 @@
     "geom:latitude":-6.28208,
     "geom:longitude":143.99354,
     "iso:country":"PG",
+    "lbl:bbox":"143.97354,-6.30208,144.01354,-6.26208",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Ialibu"
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":2095925,
         "gp:id":1061770,
-        "qs:id":138361,
+        "qs_pg:id":138361,
         "wd:id":"Q4352076"
     },
     "wof:country":"PG",
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":421167539,
-    "wof:lastmodified":1563323635,
+    "wof:lastmodified":1566678591,
     "wof:name":"Ialibu",
     "wof:parent_id":1091702491,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-4.374138,
     "lbl:longitude":144.811509,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Madang",
     "meso:dissme":"BogiaMadang",
     "meso:gaul_admin":"Bogia",
@@ -31,6 +33,7 @@
     "mps:longitude":144.811509,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Bogia"
     ],
@@ -44,9 +47,9 @@
         "Borgia"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-10",
+    "src:population_date":"2011-07-10",
     "statoids:area_km":"3,978",
     "statoids:as_of_date":"2011-07-10",
     "statoids:capital":"Bogia",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1091702063,
-    "wof:lastmodified":1564171221,
+    "wof:lastmodified":1566678548,
     "wof:name":"Bogia",
     "wof:parent_id":85676523,
     "wof:placetype":"county",

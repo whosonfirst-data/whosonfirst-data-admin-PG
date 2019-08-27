@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-4.477811,
     "lbl:longitude":152.846478,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-4.390759,
     "mps:longitude":152.874678,
     "mz:hierarchy_label":1,
@@ -167,7 +168,7 @@
         "New Ireland"
     ],
     "name:tam_x_preferred":[
-        "\u0ba8\u0bbf\u0baf\u0bc2  \u0b87\u0bb0\u0bc7\u0bb2\u0ba3\u0bcd\u0b9f\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0ba8\u0bbf\u0baf\u0bc2 \u0b87\u0bb0\u0bc7\u0bb2\u0ba3\u0bcd\u0b9f\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c4d\u0c2f\u0c42 \u0c10\u0c30\u0c4d\u0c32\u0c02\u0c21\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -184,7 +185,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u0406\u0440\u043b\u0430\u043d\u0434\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "New Ireland District"
     ],
     "name:urd_x_preferred":[
@@ -268,9 +269,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-10",
+    "src:population_date":"2011-07-10",
     "statoids:area_km":"9,557",
     "statoids:area_mi":"3,690",
     "statoids:as_of_date":"2011-07-10",
@@ -284,7 +285,6 @@
     "statoids:timezone":"+10",
     "statoids:type":"province",
     "unlc:subdivision":"PG-NIK",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583,
         85632347
@@ -296,7 +296,7 @@
         "gp:id":2346595,
         "hasc:id":"PG.NI",
         "iso:id":"PG-NIK",
-        "qs:id":423914,
+        "qs_pg:id":423914,
         "unlc:id":"PG-NIK",
         "wd:id":"Q838690",
         "wk:page":"New Ireland Province"
@@ -321,11 +321,10 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1565732424,
+    "wof:lastmodified":1566677978,
     "wof:name":"New Ireland",
     "wof:parent_id":85632347,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":194067,
     "wof:population_rank":9,

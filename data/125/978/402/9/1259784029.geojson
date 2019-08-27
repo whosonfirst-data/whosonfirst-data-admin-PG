@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"149.13,-9.35333,149.17,-9.31333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:onj_x_preferred":[
         "Naukwate"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259784029,
-    "wof:lastmodified":1537677086,
+    "wof:lastmodified":1566678752,
     "wof:name":"Noukwate",
     "wof:parent_id":1091702531,
     "wof:placetype":"locality",

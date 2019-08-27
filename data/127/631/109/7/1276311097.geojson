@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"143.1947,-3.67294,143.2347,-3.63294",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276311097,
-    "wof:lastmodified":1536808196,
+    "wof:lastmodified":1566678223,
     "wof:name":"Kuragamon Villages",
     "wof:parent_id":1091705179,
     "wof:placetype":"locality",

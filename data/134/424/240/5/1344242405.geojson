@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"145.09667,-6.23667,145.13667,-6.19667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "M\u00e8tode Kumon"
     ],
@@ -63,8 +67,7 @@
         "\u0e04\u0e38\u0e21\u0e2d\u0e07"
     ],
     "name:und_x_variant":[
-        "Kumom",
-        "Kumon"
+        "Kumom"
     ],
     "name:zho_x_preferred":[
         "\u516c\u6587\u5f0f"
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1344242405,
-    "wof:lastmodified":1564170129,
+    "wof:lastmodified":1566677885,
     "wof:name":"Kumon",
     "wof:parent_id":1091702163,
     "wof:placetype":"locality",

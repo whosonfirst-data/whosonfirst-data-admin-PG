@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"143.63926,-6.45583,143.67926,-6.41583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wondirei",
         "Wandiri"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309905163,
-    "wof:lastmodified":1537677032,
+    "wof:lastmodified":1566678558,
     "wof:name":"Wandiri",
     "wof:parent_id":1091703941,
     "wof:placetype":"locality",

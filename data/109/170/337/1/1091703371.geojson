@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-5.332211,
     "lbl:longitude":143.15642,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Enga",
     "meso:dissme":"Lagaip-PorgeraEnga",
     "meso:gaul_admin":"Lagaip",
@@ -31,6 +33,7 @@
     "mps:longitude":143.15642,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Lagaip-Porgera"
     ],
@@ -38,9 +41,9 @@
         "Lagaip"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-10",
+    "src:population_date":"2011-07-10",
     "statoids:area_km":"4,608",
     "statoids:as_of_date":"2011-07-10",
     "statoids:capital":"Lagaip, Porgera",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091703371,
-    "wof:lastmodified":1553717935,
+    "wof:lastmodified":1566678531,
     "wof:name":"Lagaip-Porgera",
     "wof:parent_id":85676513,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"144.07564,-6.11332,144.11564,-6.07332",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Tona"
     ],
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":1327338163,
-    "wof:lastmodified":1564169975,
+    "wof:lastmodified":1566677793,
     "wof:name":"Tona",
     "wof:parent_id":1091702573,
     "wof:placetype":"locality",

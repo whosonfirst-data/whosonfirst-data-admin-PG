@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"143.29667,-6.00333,143.33667,-5.96333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632347
@@ -34,7 +38,7 @@
         "gn:id":2083428
     },
     "wof:country":"PG",
-    "wof:geomhash":"aa8d1dcec0a5b548c47c59d5de872fcc",
+    "wof:geomhash":"c30e203fa3391af2b97f5a6aff7fe5d5",
     "wof:hierarchy":[
         {
             "country_id":85632347,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209213835,
-    "wof:lastmodified":1536294200,
+    "wof:lastmodified":1566678323,
     "wof:name":"Wiwi",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     143.31667,
-    -5.9833300000000005,
+    -5.98333,
     143.31667,
-    -5.9833300000000005
+    -5.98333
 ],
   "geometry": {"coordinates":[143.31666999999999,-5.98333],"type":"Point"}
 }

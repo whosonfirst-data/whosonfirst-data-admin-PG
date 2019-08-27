@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4327954.262304,
+    "geom:area_square_m":0.0,
     "geom:bbox":"147.177166,-9.424677,147.177166,-9.424677",
     "geom:latitude":-9.424677,
     "geom:longitude":147.177166,
-    "gn:gn_country":"PG",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"PG",
+    "gn:fcode":"PPLX",
     "gn:latitude":-9.41926,
     "gn:longitude":147.18285,
+    "gn:population":0,
     "iso:country":"PG",
+    "lbl:bbox":"147.172166,-9.429677,147.182166,-9.419677",
     "lbl:latitude":-9.424677,
     "lbl:longitude":147.177166,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-9.424078,
     "mps:longitude":147.1768,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Waigani"
-    ],
-    "name:unk_x_variant":[
         "Waigani"
     ],
     "qs:gn_adm0_cc":"PG",
@@ -80,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":118,
     "wof:belongsto":[
         85676581,
@@ -92,7 +91,6 @@
     "wof:concordances":{
         "gn:id":2084122,
         "gp:id":1060503,
-        "qs:id":58551,
         "qs_pg:id":58551,
         "wd:id":"Q7959935",
         "wk:page":"Waigani"
@@ -113,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379398,
+    "wof:lastmodified":1566677975,
     "wof:name":"Waigani",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

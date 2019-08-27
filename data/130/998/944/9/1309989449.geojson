@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"147.5412,-5.32036,147.5812,-5.28036",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Bynen"
     ],
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":1309989449,
-    "wof:lastmodified":1564171229,
+    "wof:lastmodified":1566678553,
     "wof:name":"Bun",
     "wof:parent_id":1091704719,
     "wof:placetype":"locality",

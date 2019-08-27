@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"143.32786,-3.65449,143.36786,-3.61449",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259958063,
-    "wof:lastmodified":1536671727,
+    "wof:lastmodified":1566678769,
     "wof:name":"Waramuru",
     "wof:parent_id":1091705179,
     "wof:placetype":"locality",

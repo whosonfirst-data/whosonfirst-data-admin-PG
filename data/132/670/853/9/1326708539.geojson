@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"143.03,-3.62,143.07,-3.58",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kuminibis Number 2",
         "Kuminibis 2"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326708539,
-    "wof:lastmodified":1537677126,
+    "wof:lastmodified":1566677811,
     "wof:name":"Kuminibis 2",
     "wof:parent_id":1091703523,
     "wof:placetype":"locality",

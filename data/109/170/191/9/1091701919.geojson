@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-10.088839,
     "lbl:longitude":148.936951,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Central",
     "meso:dissme":"AbauCentral",
     "meso:gaul_admin":"Abau",
@@ -31,6 +33,7 @@
     "mps:longitude":148.936951,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Abau"
     ],
@@ -38,9 +41,9 @@
         "Abau"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-10",
+    "src:population_date":"2011-07-10",
     "statoids:area_km":"7,124",
     "statoids:as_of_date":"2011-07-10",
     "statoids:capital":"Abau",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091701919,
-    "wof:lastmodified":1553717933,
+    "wof:lastmodified":1566678541,
     "wof:name":"Abau",
     "wof:parent_id":85676561,
     "wof:placetype":"county",

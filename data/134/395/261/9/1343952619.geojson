@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Bougainville",
     "iso:country":"PG",
+    "lbl:bbox":"155.29841,-6.16759,155.33841,-6.12759",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Korpani",
         "Kopeni",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343952619,
-    "wof:lastmodified":1537677131,
+    "wof:lastmodified":1566677916,
     "wof:name":"Kopani",
     "wof:parent_id":1091702121,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"152.4343,-4.14275,152.4743,-4.10275",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Molot",
         "Moloi"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1326625683,
-    "wof:lastmodified":1537677098,
+    "wof:lastmodified":1566677822,
     "wof:name":"Moloi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

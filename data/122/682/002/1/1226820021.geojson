@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"147.19112,-6.14705,147.23112,-6.10705",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0631\u0648\u0646\u063a"
     ],
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":1226820021,
-    "wof:lastmodified":1564171753,
+    "wof:lastmodified":1566678873,
     "wof:name":"Sorong",
     "wof:parent_id":1091702647,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"150.88245,-2.78623,150.92245,-2.74623",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kaut"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344230249,
-    "wof:lastmodified":1564170131,
+    "wof:lastmodified":1566677886,
     "wof:name":"Kaut",
     "wof:parent_id":1091702917,
     "wof:placetype":"locality",

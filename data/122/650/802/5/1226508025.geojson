@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"143.46911,-5.71702,143.50911,-5.67702",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kiakau Number 1",
         "Kiakau"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226508025,
-    "wof:lastmodified":1537677138,
+    "wof:lastmodified":1566678856,
     "wof:name":"Kiakau",
     "wof:parent_id":1091702785,
     "wof:placetype":"locality",

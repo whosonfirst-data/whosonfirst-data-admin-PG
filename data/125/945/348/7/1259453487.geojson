@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"153.04128,-4.54932,153.08128,-4.50932",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bakum"
     ],
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":1259453487,
-    "wof:lastmodified":1564171621,
+    "wof:lastmodified":1566678793,
     "wof:name":"Bakum",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

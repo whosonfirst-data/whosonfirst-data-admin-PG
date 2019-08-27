@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"150.39448,-10.32039,150.43448,-10.28039",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Rabe"
     ],
@@ -53,8 +57,7 @@
         "\u0420\u0430\u0431\u0435"
     ],
     "name:und_x_variant":[
-        "Rabi",
-        "Rabe"
+        "Rabi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1292910847,
-    "wof:lastmodified":1564170418,
+    "wof:lastmodified":1566678071,
     "wof:name":"Rabe",
     "wof:parent_id":1091702001,
     "wof:placetype":"locality",

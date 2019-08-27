@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"146.78,-8.85333,146.82,-8.81333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Aveta"
     ],
@@ -51,8 +55,7 @@
         "Aveta"
     ],
     "name:und_x_variant":[
-        "Aweta",
-        "Aveta"
+        "Aweta"
     ],
     "name:zho_x_preferred":[
         "\u963f\u7ef4\u5854"
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1327245567,
-    "wof:lastmodified":1564169957,
+    "wof:lastmodified":1566677781,
     "wof:name":"Aveta",
     "wof:parent_id":1091702751,
     "wof:placetype":"locality",

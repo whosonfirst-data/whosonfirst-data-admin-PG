@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"146.08,-7.08667,146.12,-7.04667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Suiakndi",
         "Arifogo Awai\u2019epa",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259454023,
-    "wof:lastmodified":1537677211,
+    "wof:lastmodified":1566678794,
     "wof:name":"Arifogo",
     "wof:parent_id":1091703633,
     "wof:placetype":"locality",

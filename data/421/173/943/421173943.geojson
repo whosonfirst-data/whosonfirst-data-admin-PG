@@ -10,8 +10,11 @@
     "geom:latitude":-9.46472,
     "geom:longitude":147.19182,
     "iso:country":"PG",
+    "lbl:bbox":"147.18682,-9.46972,147.19682,-9.45972",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Hanuabada"
@@ -51,7 +54,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1053761,
-        "qs:id":507139,
+        "qs_pg:id":507139,
         "wd:id":"Q5651329"
     },
     "wof:country":"PG",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":421173943,
-    "wof:lastmodified":1563323639,
+    "wof:lastmodified":1566678592,
     "wof:name":"Hanuabada",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

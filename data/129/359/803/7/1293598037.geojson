@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"145.51915,-7.94556,145.55915,-7.90556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eus_x_preferred":[
         "Hiru"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293598037,
-    "wof:lastmodified":1564170377,
+    "wof:lastmodified":1566678046,
     "wof:name":"Hiru",
     "wof:parent_id":1091703049,
     "wof:placetype":"locality",

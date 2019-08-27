@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-5.253555,
     "lbl:longitude":151.569729,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"East New Britain",
     "meso:dissme":"PomioEast New Britain",
     "meso:gaul_admin":"Pomio",
@@ -31,6 +33,7 @@
     "mps:longitude":151.569729,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Pomio"
     ],
@@ -38,9 +41,9 @@
         "Pomio"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-10",
+    "src:population_date":"2011-07-10",
     "statoids:area_km":"11,071",
     "statoids:as_of_date":"2011-07-10",
     "statoids:capital":"Pomio",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091704139,
-    "wof:lastmodified":1553717939,
+    "wof:lastmodified":1566678533,
     "wof:name":"Pomio",
     "wof:parent_id":85676565,
     "wof:placetype":"county",

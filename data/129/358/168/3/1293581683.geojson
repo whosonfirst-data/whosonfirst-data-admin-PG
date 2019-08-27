@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"141.11666,-8.63991,141.15666,-8.59991",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Witran",
         "Weam Patrol Post",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293581683,
-    "wof:lastmodified":1537677028,
+    "wof:lastmodified":1566678061,
     "wof:name":"Weam",
     "wof:parent_id":1091704467,
     "wof:placetype":"locality",

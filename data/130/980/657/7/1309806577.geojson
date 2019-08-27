@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"145.80098,-7.94354,145.84098,-7.90354",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309806577,
-    "wof:lastmodified":1536930625,
+    "wof:lastmodified":1566678581,
     "wof:name":"Murua",
     "wof:parent_id":1091702955,
     "wof:placetype":"locality",

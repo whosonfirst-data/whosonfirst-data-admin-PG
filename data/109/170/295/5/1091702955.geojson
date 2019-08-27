@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-7.800906,
     "lbl:longitude":146.057634,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Gulf",
     "meso:dissme":"KeremaGulf",
     "meso:gaul_admin":"Malalaua",
@@ -31,6 +33,7 @@
     "mps:longitude":146.057634,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Kerema"
     ],
@@ -77,9 +80,9 @@
         "\u51f1\u91cc\u99ac"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-10",
+    "src:population_date":"2011-07-10",
     "statoids:area_km":"7,318",
     "statoids:as_of_date":"2011-07-10",
     "statoids:capital":"Malalaua, Kerema",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1091702955,
-    "wof:lastmodified":1564171208,
+    "wof:lastmodified":1566678536,
     "wof:name":"Kerema",
     "wof:parent_id":85676539,
     "wof:placetype":"county",

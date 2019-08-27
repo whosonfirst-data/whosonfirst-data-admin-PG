@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"147.70707,-6.72308,147.74707,-6.68308",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Skab"
     ],
@@ -54,8 +58,7 @@
     ],
     "name:und_x_variant":[
         "Mangge",
-        "Mangee",
-        "Mange"
+        "Mangee"
     ],
     "name:zho_x_preferred":[
         "\u6bdb\u56ca\u87f2\u75c5"
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1343828857,
-    "wof:lastmodified":1564170173,
+    "wof:lastmodified":1566677910,
     "wof:name":"Mange",
     "wof:parent_id":1091702351,
     "wof:placetype":"locality",

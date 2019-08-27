@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"152.89667,-9.22,152.93667,-9.18",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bamaseu",
         "Bomasea"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1276559299,
-    "wof:lastmodified":1537677193,
+    "wof:lastmodified":1566678200,
     "wof:name":"Bomasea",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

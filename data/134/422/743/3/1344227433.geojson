@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"153.24186,-3.41201,153.28186,-3.37201",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ampisunme",
         "Ambisumne"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344227433,
-    "wof:lastmodified":1537677215,
+    "wof:lastmodified":1566677871,
     "wof:name":"Ambisumne",
     "wof:parent_id":1091703829,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"146.51719,-8.85737,146.55719,-8.81737",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Kairuko"
     ],
@@ -47,8 +51,7 @@
         "\u041a\u0430\u0439\u0440\u0443\u043a\u0443"
     ],
     "name:und_x_variant":[
-        "Kiaruku",
-        "Kairuku"
+        "Kiaruku"
     ],
     "name:zho_x_preferred":[
         "\u51f1\u9b6f\u5eab\u4f01\u9d5d\u5c6c"
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1210025933,
-    "wof:lastmodified":1564170880,
+    "wof:lastmodified":1566678339,
     "wof:name":"Kairuku",
     "wof:parent_id":1091702751,
     "wof:placetype":"locality",

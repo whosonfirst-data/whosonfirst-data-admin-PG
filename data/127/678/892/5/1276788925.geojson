@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"141.08,-5.48667,141.12,-5.44667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bankim"
     ],
@@ -45,8 +49,7 @@
         "Bankim"
     ],
     "name:und_x_variant":[
-        "Bankin",
-        "Bankim"
+        "Bankin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1276788925,
-    "wof:lastmodified":1564170607,
+    "wof:lastmodified":1566678185,
     "wof:name":"Bankim",
     "wof:parent_id":1091704007,
     "wof:placetype":"locality",

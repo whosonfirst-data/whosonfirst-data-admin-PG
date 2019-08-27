@@ -10,8 +10,11 @@
     "geom:latitude":-9.43333,
     "geom:longitude":147.13333,
     "iso:country":"PG",
+    "lbl:bbox":"147.12833,-9.43833,147.13833,-9.42833",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"PG",
     "qs:gn_fcode":"PPLX",
@@ -33,16 +36,16 @@
     "qs:woe_id":1054752,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85676581,
         102191583,
         85632347,
-        1091703859,
-        85676581
+        1091703859
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2094703,
         "gp:id":1054752,
-        "qs:id":908973
+        "qs_pg:id":908973
     },
     "wof:country":"PG",
     "wof:created":1459009463,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":421186069,
-    "wof:lastmodified":1531858592,
+    "wof:lastmodified":1566678592,
     "wof:name":"Kanudi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

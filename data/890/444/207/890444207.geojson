@@ -11,8 +11,11 @@
     "geom:longitude":143.20919,
     "gn:country":"PG",
     "gn:fcode":"PPLA",
-    "gn:pop":15214,
+    "gn:population":15214,
     "iso:country":"PG",
+    "lbl:bbox":"143.18919,-9.09628,143.22919,-9.05628",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -79,7 +82,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0440\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dagwa"
     ],
     "name:urd_x_preferred":[
@@ -199,7 +202,7 @@
     "wof:concordances":{
         "gn:id":2098329,
         "gp:id":1061936,
-        "qs:id":1033769,
+        "qs_pg:id":1033769,
         "wd:id":"Q499375",
         "wk:page":"Daru"
     },
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":890444207,
-    "wof:lastmodified":1563323650,
+    "wof:lastmodified":1566678595,
     "wof:name":"Daru",
     "wof:parent_id":1091704467,
     "wof:placetype":"locality",

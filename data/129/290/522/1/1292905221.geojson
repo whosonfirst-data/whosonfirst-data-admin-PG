@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"149.93876,-10.09304,149.97876,-10.05304",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vidiaz",
         "Vidia"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1292905221,
-    "wof:lastmodified":1537677220,
+    "wof:lastmodified":1566678073,
     "wof:name":"Vidia",
     "wof:parent_id":1091702001,
     "wof:placetype":"locality",

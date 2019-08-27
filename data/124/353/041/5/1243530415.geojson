@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"142.07949,-3.49773,142.11949,-3.45773",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243530415,
-    "wof:lastmodified":1536684536,
+    "wof:lastmodified":1566678605,
     "wof:name":"Sibitei",
     "wof:parent_id":1091701955,
     "wof:placetype":"locality",

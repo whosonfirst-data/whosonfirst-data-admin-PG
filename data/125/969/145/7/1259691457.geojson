@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"150.39667,-10.32,150.43667,-10.28",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Rane"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259691457,
-    "wof:lastmodified":1564171613,
+    "wof:lastmodified":1566678786,
     "wof:name":"Rane",
     "wof:parent_id":1091702001,
     "wof:placetype":"locality",

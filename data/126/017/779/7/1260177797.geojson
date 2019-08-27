@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"145.38482,-6.95608,145.42482,-6.91608",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Weme"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260177797,
-    "wof:lastmodified":1564170987,
+    "wof:lastmodified":1566678403,
     "wof:name":"Weme",
     "wof:parent_id":1091704061,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"145.14698,-6.28792,145.18698,-6.24792",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243439777,
-    "wof:lastmodified":1536814446,
+    "wof:lastmodified":1566678715,
     "wof:name":"Kirima",
     "wof:parent_id":1091702163,
     "wof:placetype":"locality",

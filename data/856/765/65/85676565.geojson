@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-5.253907,
     "lbl:longitude":151.583201,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-5.270005,
     "mps:longitude":151.669481,
     "mz:hierarchy_label":1,
@@ -190,7 +191,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0445\u0456\u0434\u043d\u0430 \u041d\u043e\u0432\u0430 \u0411\u0440\u0438\u0442\u0430\u043d\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "East New Britain District"
     ],
     "name:urd_x_preferred":[
@@ -274,9 +275,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-10",
+    "src:population_date":"2011-07-10",
     "statoids:area_km":"15,274",
     "statoids:area_mi":"5,897",
     "statoids:as_of_date":"2011-07-10",
@@ -302,7 +303,7 @@
         "gp:id":2346590,
         "hasc:id":"PG.EN",
         "iso:id":"PG-EBR",
-        "qs:id":235625,
+        "qs_pg:id":235625,
         "unlc:id":"PG-EBR",
         "wd:id":"Q753702",
         "wk:page":"East New Britain Province"
@@ -327,11 +328,10 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1565732425,
+    "wof:lastmodified":1566677982,
     "wof:name":"East New Britain",
     "wof:parent_id":85632347,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":328369,
     "wof:population_rank":10,

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"147.07002,-9.47888,147.11002,-9.43888",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mal_x_preferred":[
         "\u0d31\u0d4b\u0d15\u0d4d\u0d15\u0d41"
     ],
@@ -35,8 +39,7 @@
         "Roku"
     ],
     "name:und_x_variant":[
-        "Raku",
-        "Roku"
+        "Raku"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1226446691,
-    "wof:lastmodified":1564171661,
+    "wof:lastmodified":1566678816,
     "wof:name":"Roku",
     "wof:parent_id":1091703859,
     "wof:placetype":"locality",

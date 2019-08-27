@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-6.783167,
     "lbl:longitude":146.513015,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-7.07526,
     "mps:longitude":146.474759,
     "mz:hierarchy_label":1,
@@ -155,7 +156,7 @@
         "Morobe"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bcb\u0bb0\u0bbe  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0bae\u0bcb\u0bb0\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c4b\u0c30\u0c4b\u0c2c\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -172,7 +173,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0440\u043e\u0431\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Morobe District"
     ],
     "name:urd_x_preferred":[
@@ -256,9 +257,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-10",
+    "src:population_date":"2011-07-10",
     "statoids:area_km":"33,705",
     "statoids:area_mi":"13,014",
     "statoids:as_of_date":"2011-07-10",
@@ -283,7 +284,7 @@
         "gp:id":2346594,
         "hasc:id":"PG.MR",
         "iso:id":"PG-MPL",
-        "qs:id":894967,
+        "qs_pg:id":894967,
         "unlc:id":"PG-MPL",
         "wd:id":"Q853664",
         "wk:page":"Morobe Province"
@@ -308,11 +309,10 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1565732426,
+    "wof:lastmodified":1566677984,
     "wof:name":"Morobe",
     "wof:parent_id":85632347,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":674810,
     "wof:population_rank":11,
