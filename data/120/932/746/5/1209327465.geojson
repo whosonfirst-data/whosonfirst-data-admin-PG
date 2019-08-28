@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"146.14294,-8.23951,146.18294,-8.19951",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632347
@@ -34,7 +38,7 @@
         "gn:id":2092660
     },
     "wof:country":"PG",
-    "wof:geomhash":"e2ffc16360bf399a04c9114f3190aa45",
+    "wof:geomhash":"cbd87fa5402e2bbf9064109f611e2a56",
     "wof:hierarchy":[
         {
             "country_id":85632347,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209327465,
-    "wof:lastmodified":1536290485,
+    "wof:lastmodified":1566678288,
     "wof:name":"Lalapipi",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     146.16294,
-    -8.219510000000001,
+    -8.21951,
     146.16294,
-    -8.219510000000001
+    -8.21951
 ],
   "geometry": {"coordinates":[146.16293999999999,-8.21951],"type":"Point"}
 }

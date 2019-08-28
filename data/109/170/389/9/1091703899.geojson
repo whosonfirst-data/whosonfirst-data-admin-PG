@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-6.487674,
     "lbl:longitude":147.027237,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Morobe",
     "meso:dissme":"NawaeMorobe",
     "meso:gaul_admin":"Lae",
@@ -31,6 +33,7 @@
     "mps:longitude":147.027237,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Nawae"
     ],
@@ -38,9 +41,9 @@
         "Lae"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-10",
+    "src:population_date":"2011-07-10",
     "statoids:area_km":"3,129",
     "statoids:as_of_date":"2011-07-10",
     "statoids:capital":"Boana",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091703899,
-    "wof:lastmodified":1553717937,
+    "wof:lastmodified":1566678549,
     "wof:name":"Nawae",
     "wof:parent_id":85676579,
     "wof:placetype":"county",

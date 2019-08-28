@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"146.97765,-9.28449,146.97765,-9.28449",
     "geom:latitude":-9.28449,
     "geom:longitude":146.97765,
     "iso:country":"PG",
+    "lbl:bbox":"146.95765,-9.30449,146.99765,-9.26449",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"PG",
     "qs:gn_fcode":"PPL",
@@ -39,11 +45,11 @@
     "wof:concordances":{
         "gn:id":2092461,
         "gp:id":1056177,
-        "qs:id":58548
+        "qs_pg:id":58548
     },
     "wof:country":"PG",
     "wof:created":1459010146,
-    "wof:geomhash":"874cae64df53b91d34071833c60d7698",
+    "wof:geomhash":"aafcc0f081c234ca63e2edf1dcdbc3c7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":421203299,
-    "wof:lastmodified":1466635896,
+    "wof:lastmodified":1566678591,
     "wof:name":"Lea Lea",
     "wof:parent_id":85676561,
     "wof:placetype":"locality",

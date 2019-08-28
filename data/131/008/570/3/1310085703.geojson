@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"146.12725,-5.54489,146.16725,-5.50489",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mindiri Village",
         "Mindiri"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1310085703,
-    "wof:lastmodified":1537677100,
+    "wof:lastmodified":1566678447,
     "wof:name":"Mindiri",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

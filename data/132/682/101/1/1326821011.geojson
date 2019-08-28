@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"144.78293,-5.9837,144.82293,-5.9437",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kup"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1326821011,
-    "wof:lastmodified":1564169993,
+    "wof:lastmodified":1566677802,
     "wof:name":"Kup",
     "wof:parent_id":1091703003,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-6.196787,
     "lbl:longitude":144.837052,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Chimbu",
     "meso:dissme":"GumineChimbu",
     "meso:gaul_admin":"Gumine",
@@ -31,6 +33,7 @@
     "mps:longitude":144.837052,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Gumine"
     ],
@@ -38,9 +41,9 @@
         "Gumine"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-10",
+    "src:population_date":"2011-07-10",
     "statoids:area_km":"708",
     "statoids:as_of_date":"2011-07-10",
     "statoids:capital":"Gumine",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091702431,
-    "wof:lastmodified":1553717935,
+    "wof:lastmodified":1566678535,
     "wof:name":"Gumine",
     "wof:parent_id":85676531,
     "wof:placetype":"county",

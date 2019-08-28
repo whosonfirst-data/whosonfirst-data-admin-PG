@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Bougainville",
     "iso:country":"PG",
+    "lbl:bbox":"154.73173,-5.80205,154.77173,-5.76205",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sarime",
         "Konua",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293775669,
-    "wof:lastmodified":1537677125,
+    "wof:lastmodified":1566678025,
     "wof:name":"Kunua",
     "wof:parent_id":1091703967,
     "wof:placetype":"locality",

@@ -11,8 +11,11 @@
     "geom:longitude":147.27119,
     "gn:country":"PG",
     "gn:fcode":"PPLA",
-    "gn:pop":5806,
+    "gn:population":5806,
     "iso:country":"PG",
+    "lbl:bbox":"147.25119,-2.04259,147.29119,-2.00259",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -70,7 +73,7 @@
     "name:tpi_x_preferred":[
         "Lorengau"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rorengau"
     ],
     "name:urd_x_preferred":[
@@ -193,10 +196,12 @@
     "wof:concordances":{
         "gn:id":2092164,
         "gp:id":1061509,
-        "qs:id":277943,
         "qs_pg:id":269005,
         "wd:id":"Q1017430",
         "wk:page":"Lorengau"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":277943
     },
     "wof:country":"PG",
     "wof:created":1469051928,
@@ -211,7 +216,7 @@
         }
     ],
     "wof:id":890432099,
-    "wof:lastmodified":1563323654,
+    "wof:lastmodified":1566678595,
     "wof:name":"Lorengau",
     "wof:parent_id":1091703475,
     "wof:placetype":"locality",

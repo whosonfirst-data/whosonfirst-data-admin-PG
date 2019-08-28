@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"147.04255,-2.09729,147.08255,-2.05729",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Buyang"
     ],
     "name:und_x_variant":[
-        "Buyang 1",
-        "Buyang"
+        "Buyang 1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1326909877,
-    "wof:lastmodified":1564170024,
+    "wof:lastmodified":1566677819,
     "wof:name":"Buyang",
     "wof:parent_id":1091703475,
     "wof:placetype":"locality",

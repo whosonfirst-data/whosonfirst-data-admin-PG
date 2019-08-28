@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"142.95024,-3.75142,142.99024,-3.71142",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259361361,
-    "wof:lastmodified":1537032736,
+    "wof:lastmodified":1566678719,
     "wof:name":"Ingumblis 2",
     "wof:parent_id":1091705131,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"143.15167,-4.02769,143.19167,-3.98769",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Aurumbit",
         "Aulimbit",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309794081,
-    "wof:lastmodified":1537677207,
+    "wof:lastmodified":1566678566,
     "wof:name":"Aurimbit",
     "wof:parent_id":1091705131,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"147.61445,-9.09546,147.65445,-9.05546",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Boridi"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259997181,
-    "wof:lastmodified":1564171531,
+    "wof:lastmodified":1566678737,
     "wof:name":"Boridi",
     "wof:parent_id":1091702751,
     "wof:placetype":"locality",

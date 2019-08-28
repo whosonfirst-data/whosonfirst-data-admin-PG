@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"142.71896,-5.60138,142.75896,-5.56138",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u064a"
     ],
@@ -207,7 +211,7 @@
         }
     ],
     "wof:id":1209620049,
-    "wof:lastmodified":1564170705,
+    "wof:lastmodified":1566678239,
     "wof:name":"Pori",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",

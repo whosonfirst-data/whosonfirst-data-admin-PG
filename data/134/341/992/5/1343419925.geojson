@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"142.71661,-5.72567,142.75661,-5.68567",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Koroba"
     ],
     "name:und_x_variant":[
-        "Kuruba",
-        "Koroba"
+        "Kuruba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1343419925,
-    "wof:lastmodified":1537677130,
+    "wof:lastmodified":1566677895,
     "wof:name":"Koroba",
     "wof:parent_id":1091703247,
     "wof:placetype":"locality",

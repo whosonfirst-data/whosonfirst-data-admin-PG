@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-8.96843,
     "lbl:longitude":148.130564,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-8.954797,
     "mps:longitude":148.13712,
     "mz:hierarchy_label":1,
@@ -178,7 +179,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Northern Division"
     ],
     "name:urd_x_preferred":[
@@ -262,9 +263,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-10",
+    "src:population_date":"2011-07-10",
     "statoids:area_km":"22,735",
     "statoids:area_mi":"8,778",
     "statoids:as_of_date":"2011-07-10",
@@ -289,7 +290,7 @@
         "gp:id":2346584,
         "hasc:id":"PG.NO",
         "iso:id":"PG-NPP",
-        "qs:id":1083861,
+        "qs_pg:id":1083861,
         "unlc:id":"PG-NPP",
         "wd:id":"Q753686",
         "wk:page":"Oro Province"
@@ -314,11 +315,10 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1565732423,
+    "wof:lastmodified":1566677976,
     "wof:name":"Northern",
     "wof:parent_id":85632347,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":186309,
     "wof:population_rank":9,

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"151.0219,-8.48448,151.0619,-8.44448",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kuluritu",
         "Kuluvitu"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276880465,
-    "wof:lastmodified":1537677127,
+    "wof:lastmodified":1566678122,
     "wof:name":"Kuluvitu",
     "wof:parent_id":1091703083,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"144.81636,-6.30297,144.85636,-6.26297",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gorokurame",
         "Gorokuran"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193134123,
-    "wof:lastmodified":1537677168,
+    "wof:lastmodified":1566678351,
     "wof:name":"Gorokuran",
     "wof:parent_id":1091702431,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"142.61096,-3.62258,142.65096,-3.58258",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yagrumbok Number 1",
         "Yagrumbok",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360172999,
-    "wof:lastmodified":1537677024,
+    "wof:lastmodified":1566678521,
     "wof:name":"Yagrumbok 1",
     "wof:parent_id":1091702053,
     "wof:placetype":"locality",

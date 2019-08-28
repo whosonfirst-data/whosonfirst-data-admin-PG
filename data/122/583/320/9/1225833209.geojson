@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"143.25804,-3.41521,143.29804,-3.37521",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Simain",
         "Smein",
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1225833209,
-    "wof:lastmodified":1537677058,
+    "wof:lastmodified":1566678916,
     "wof:name":"Smain",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

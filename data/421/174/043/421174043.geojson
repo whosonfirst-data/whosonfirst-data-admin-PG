@@ -10,8 +10,12 @@
     "geom:latitude":-9.07931,
     "geom:longitude":149.32205,
     "iso:country":"PG",
+    "lbl:bbox":"149.30205,-9.09931,149.34205,-9.05931",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Tufi"
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":2085070,
         "gp:id":1061985,
-        "qs:id":316427,
+        "qs_pg:id":316427,
         "wd:id":"Q7851499",
         "wk:page":"Tufi"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":421174043,
-    "wof:lastmodified":1561778290,
+    "wof:lastmodified":1566678592,
     "wof:name":"Tufi",
     "wof:parent_id":1091702531,
     "wof:placetype":"locality",

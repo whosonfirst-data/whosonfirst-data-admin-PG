@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"145.26092,-6.65931,145.30092,-6.61931",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Etaba",
         "Etabi"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193262877,
-    "wof:lastmodified":1537677177,
+    "wof:lastmodified":1566678367,
     "wof:name":"Etabi",
     "wof:parent_id":1091704103,
     "wof:placetype":"locality",

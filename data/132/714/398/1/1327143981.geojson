@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"149.4287,-10.10784,149.4687,-10.06784",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Deigam",
         "Degama"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327143981,
-    "wof:lastmodified":1537677225,
+    "wof:lastmodified":1566677774,
     "wof:name":"Degama",
     "wof:parent_id":1091701919,
     "wof:placetype":"locality",

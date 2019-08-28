@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"143.60842,-6.39534,143.64842,-6.35534",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242873235,
-    "wof:lastmodified":1536636706,
+    "wof:lastmodified":1566678618,
     "wof:name":"Wambu",
     "wof:parent_id":1091702665,
     "wof:placetype":"locality",

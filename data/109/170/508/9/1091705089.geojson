@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-3.512822,
     "lbl:longitude":143.37643,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"East Sepik",
     "meso:dissme":"WewakEast Sepik",
     "meso:gaul_admin":"Angoram",
@@ -31,6 +33,7 @@
     "mps:longitude":143.37643,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Wewak"
     ],
@@ -104,9 +107,9 @@
         "\u97e6\u74e6\u514b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-10",
+    "src:population_date":"2011-07-10",
     "statoids:area_km":"2,284",
     "statoids:as_of_date":"2011-07-10",
     "statoids:capital":"Wewak",
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":1091705089,
-    "wof:lastmodified":1564171213,
+    "wof:lastmodified":1566678540,
     "wof:name":"Wewak",
     "wof:parent_id":85676519,
     "wof:placetype":"county",

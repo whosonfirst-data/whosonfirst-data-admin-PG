@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Bougainville",
     "iso:country":"PG",
+    "lbl:bbox":"155.01871,-5.63782,155.05871,-5.59782",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Patiavavi",
         "Patiavia",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326922115,
-    "wof:lastmodified":1537677077,
+    "wof:lastmodified":1566677760,
     "wof:name":"Pateaviavi",
     "wof:parent_id":1091703967,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"145.43568,-7.91361,145.47568,-7.87361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632347
@@ -34,7 +38,7 @@
         "gn:id":2089001
     },
     "wof:country":"PG",
-    "wof:geomhash":"be53ce0cf4d576f0392fc4cd32b84ed9",
+    "wof:geomhash":"b1604feadbc44222c5a3b4e854a7d03e",
     "wof:hierarchy":[
         {
             "country_id":85632347,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209217921,
-    "wof:lastmodified":1536294066,
+    "wof:lastmodified":1566678323,
     "wof:name":"Opuraria",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     145.45568,
-    -7.893610000000002,
+    -7.89361,
     145.45568,
-    -7.893610000000002
+    -7.89361
 ],
   "geometry": {"coordinates":[145.45568,-7.89361],"type":"Point"}
 }

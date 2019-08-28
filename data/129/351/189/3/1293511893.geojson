@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"141.20921,-5.29379,141.24921,-5.25379",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Tabubil"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1293511893,
-    "wof:lastmodified":1564170400,
+    "wof:lastmodified":1566678061,
     "wof:name":"Tabubil",
     "wof:parent_id":1091704007,
     "wof:placetype":"locality",

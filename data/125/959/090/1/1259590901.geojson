@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"150.13,-10.48667,150.17,-10.44667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Savana"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1259590901,
-    "wof:lastmodified":1564171590,
+    "wof:lastmodified":1566678773,
     "wof:name":"Savana",
     "wof:parent_id":1091702001,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"143.93396,-6.39532,143.97396,-6.35532",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632347
@@ -34,7 +38,7 @@
         "gn:id":2095866
     },
     "wof:country":"PG",
-    "wof:geomhash":"b6edba6550d07f0ac5eb3e80ead0d1d2",
+    "wof:geomhash":"d4fddb9f660d4d7e14012b4b1ffef6c7",
     "wof:hierarchy":[
         {
             "country_id":85632347,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209313691,
-    "wof:lastmodified":1536290939,
+    "wof:lastmodified":1566678231,
     "wof:name":"Iate",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     143.95396000000005,
-    -6.3753199999999985,
+    -6.37532,
     143.95396000000005,
-    -6.3753199999999985
+    -6.37532
 ],
   "geometry": {"coordinates":[143.95396000000005,-6.37532],"type":"Point"}
 }

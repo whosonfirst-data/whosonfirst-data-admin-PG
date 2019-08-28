@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"152.06756,-4.22189,152.10756,-4.18189",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632347
@@ -34,7 +38,7 @@
         "gn:id":2084302
     },
     "wof:country":"PG",
-    "wof:geomhash":"c7d5e69f9dc4e2bcf8e796ee582400a4",
+    "wof:geomhash":"5ac4a8aa1f74561bacb068760697f65b",
     "wof:hierarchy":[
         {
             "country_id":85632347,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209510293,
-    "wof:lastmodified":1536284903,
+    "wof:lastmodified":1566678298,
     "wof:name":"Vunairoto",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     152.08756,
-    -4.2018900000000015,
+    -4.20189,
     152.08756,
-    -4.2018900000000015
+    -4.20189
 ],
   "geometry": {"coordinates":[152.08756,-4.20189],"type":"Point"}
 }

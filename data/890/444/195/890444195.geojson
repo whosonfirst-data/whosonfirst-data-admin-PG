@@ -11,10 +11,14 @@
     "geom:longitude":152.26327,
     "gn:country":"PG",
     "gn:fcode":"PPLA",
-    "gn:pop":26273,
+    "gn:population":26273,
     "iso:country":"PG",
+    "lbl:bbox":"152.24327,-4.37202,152.28327,-4.33202",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bre_x_preferred":[
         "Kokopo"
     ],
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":2093685,
         "gp:id":1061583,
-        "qs:id":1033729,
+        "qs_pg:id":1033729,
         "wd:id":"Q1017369",
         "wk:page":"Kokopo"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":890444195,
-    "wof:lastmodified":1563323648,
+    "wof:lastmodified":1566678594,
     "wof:name":"Kokopo",
     "wof:parent_id":1091703131,
     "wof:placetype":"locality",

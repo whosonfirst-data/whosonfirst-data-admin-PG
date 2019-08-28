@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"147.07847,-8.57259,147.11847,-8.53259",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mondo"
     ],
@@ -54,8 +58,7 @@
     ],
     "name:und_x_variant":[
         "Mutido",
-        "Mundo",
-        "Mondo"
+        "Mundo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1276781383,
-    "wof:lastmodified":1564170608,
+    "wof:lastmodified":1566678185,
     "wof:name":"Mondo",
     "wof:parent_id":1091702425,
     "wof:placetype":"locality",

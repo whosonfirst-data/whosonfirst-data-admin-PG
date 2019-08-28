@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"147.11636,-7.90987,147.15636,-7.86987",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sopa"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1259557345,
-    "wof:lastmodified":1564171533,
+    "wof:lastmodified":1566678739,
     "wof:name":"Sopa",
     "wof:parent_id":1091702091,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"146.38311,-7.55034,146.42311,-7.51034",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yagoini",
         "Yagoine"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209297925,
-    "wof:lastmodified":1537677024,
+    "wof:lastmodified":1566678305,
     "wof:name":"Yagoine",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",

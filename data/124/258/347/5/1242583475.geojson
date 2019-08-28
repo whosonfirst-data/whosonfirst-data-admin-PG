@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"149.13851,-9.04102,149.17851,-9.00102",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0641\u0648\u0646\u0627"
     ],
@@ -43,8 +47,7 @@
     "name:und_x_variant":[
         "Pofoma",
         "Fona",
-        "Fofoma",
-        "Founa"
+        "Fofoma"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1242583475,
-    "wof:lastmodified":1564171365,
+    "wof:lastmodified":1566678642,
     "wof:name":"Founa",
     "wof:parent_id":1091702531,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"147.70314,-8.89322,147.74314,-8.85322",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Saga"
     ],
@@ -210,7 +214,7 @@
         }
     ],
     "wof:id":1343768235,
-    "wof:lastmodified":1564170171,
+    "wof:lastmodified":1566677909,
     "wof:name":"Saga",
     "wof:parent_id":1091704393,
     "wof:placetype":"locality",

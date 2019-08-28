@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"142.24667,-6.25333,142.28667,-6.21333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632347
@@ -34,7 +38,7 @@
         "gn:id":2096060
     },
     "wof:country":"PG",
-    "wof:geomhash":"56011b1a8fd2279ba6bdb7bbcba134d4",
+    "wof:geomhash":"acf4c4c7c4d0eadc1193fc433b5083f5",
     "wof:hierarchy":[
         {
             "country_id":85632347,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209512911,
-    "wof:lastmodified":1536284825,
+    "wof:lastmodified":1566678298,
     "wof:name":"Honobi",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     142.26667,
-    -6.2333300000000005,
+    -6.23333,
     142.26667,
-    -6.2333300000000005
+    -6.23333
 ],
   "geometry": {"coordinates":[142.26667,-6.23333],"type":"Point"}
 }

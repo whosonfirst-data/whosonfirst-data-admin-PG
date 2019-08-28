@@ -9,16 +9,19 @@
     "geom:bbox":"147.17487,-9.43583,147.17487,-9.43583",
     "geom:latitude":-9.43583,
     "geom:longitude":147.17487,
-    "gn:gn_country":"PG",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"PG",
+    "gn:fcode":"PPLX",
     "gn:latitude":-9.44944,
     "gn:longitude":147.19444,
+    "gn:population":0,
     "iso:country":"PG",
+    "lbl:bbox":"147.16987,-9.44083,147.17987,-9.43083",
     "lbl:latitude":-9.43583,
     "lbl:longitude":147.17487,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Gordon"
@@ -98,9 +101,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u0434\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Gordon"
-    ],
     "name:vol_x_preferred":[
         "Gordon"
     ],
@@ -125,7 +125,7 @@
     "qs_pg:woe_adm0":23424926,
     "qs_pg:woe_id":1053498,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424926,
     "woe:name_adm0":"Papua New Guinea",
     "woe:name_adm1":"National Capital",
@@ -140,7 +140,6 @@
     "wof:concordances":{
         "gn:id":2096756,
         "gp:id":1053498,
-        "qs:id":894720,
         "qs_pg:id":894720
     },
     "wof:country":"PG",
@@ -157,7 +156,7 @@
         }
     ],
     "wof:id":1126073793,
-    "wof:lastmodified":1564171290,
+    "wof:lastmodified":1566678596,
     "wof:name":"Gordon",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

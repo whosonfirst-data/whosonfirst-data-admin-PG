@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-9.434881,
     "lbl:longitude":147.208705,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-9.462101,
     "mps:longitude":147.202895,
     "mz:hierarchy_label":1,
@@ -109,7 +110,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u0441\u0442\u043e\u043b\u0438\u0447\u043d\u0438\u0439 \u043e\u043a\u0440\u0443\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "National Capital Province"
     ],
     "name:urd_x_preferred":[
@@ -190,9 +191,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-10",
+    "src:population_date":"2011-07-10",
     "statoids:area_km":"240",
     "statoids:area_mi":"93",
     "statoids:as_of_date":"2011-07-10",
@@ -217,7 +218,7 @@
         "gp:id":2346600,
         "hasc:id":"PG.NC",
         "iso:id":"PG-NCD",
-        "qs:id":1047220,
+        "qs_pg:id":1047220,
         "wd:id":"Q1378310"
     },
     "wof:coterminous":[
@@ -243,11 +244,10 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1565732425,
+    "wof:lastmodified":1566677981,
     "wof:name":"National Capital District",
     "wof:parent_id":85632347,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":364125,
     "wof:population_rank":10,

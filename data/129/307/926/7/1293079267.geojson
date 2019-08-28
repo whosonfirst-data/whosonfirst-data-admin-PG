@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"143.2037,-4.06925,143.2437,-4.02925",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Miambei",
         "Miabei",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293079267,
-    "wof:lastmodified":1537677114,
+    "wof:lastmodified":1566677992,
     "wof:name":"Maimbei",
     "wof:parent_id":1091705131,
     "wof:placetype":"locality",

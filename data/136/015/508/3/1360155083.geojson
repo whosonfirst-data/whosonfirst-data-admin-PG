@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"152.63,-2.97,152.67,-2.93",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tonne"
     ],
@@ -45,8 +49,7 @@
         "\u0c1f\u0c28\u0c4d"
     ],
     "name:und_x_variant":[
-        "Taun",
-        "Ton"
+        "Taun"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1360155083,
-    "wof:lastmodified":1564171146,
+    "wof:lastmodified":1566678497,
     "wof:name":"Ton",
     "wof:parent_id":1091703829,
     "wof:placetype":"locality",

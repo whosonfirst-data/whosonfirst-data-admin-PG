@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"146.7279,-6.47366,146.7679,-6.43366",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327404863,
-    "wof:lastmodified":1536720969,
+    "wof:lastmodified":1566677776,
     "wof:name":"Munkip",
     "wof:parent_id":1091703899,
     "wof:placetype":"locality",

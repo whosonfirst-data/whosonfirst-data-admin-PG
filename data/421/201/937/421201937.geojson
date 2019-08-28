@@ -10,8 +10,12 @@
     "geom:latitude":-8.87853,
     "geom:longitude":147.74073,
     "iso:country":"PG",
+    "lbl:bbox":"147.72073,-8.89853,147.76073,-8.85853",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041a\u043e\u043a\u043e\u0434\u0430"
@@ -43,7 +47,7 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u043a\u043e\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kodoka"
     ],
     "qs:gn_country":"PG",
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":2093691,
         "gp:id":1061978,
-        "qs:id":1352210,
+        "qs_pg:id":1352210,
         "wd:id":"Q1771884",
         "wk:page":"Kokoda"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421201937,
-    "wof:lastmodified":1563323642,
+    "wof:lastmodified":1566678593,
     "wof:name":"Kokoda",
     "wof:parent_id":1091704393,
     "wof:placetype":"locality",

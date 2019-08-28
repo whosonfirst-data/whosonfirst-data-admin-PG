@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-3.804733,
     "lbl:longitude":143.42068,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"East Sepik",
     "meso:dissme":"Yangoro-SaussiaEast Sepik",
     "meso:gaul_admin":"Wewak",
@@ -31,6 +33,7 @@
     "mps:longitude":143.42068,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Yangoru-Saussia"
     ],
@@ -38,9 +41,9 @@
         "Wewak"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-10",
+    "src:population_date":"2011-07-10",
     "statoids:area_km":"2,660",
     "statoids:as_of_date":"2011-07-10",
     "statoids:capital":"Yangoru",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091705179,
-    "wof:lastmodified":1553717940,
+    "wof:lastmodified":1566678539,
     "wof:name":"Yangoro-Saussia",
     "wof:parent_id":85676519,
     "wof:placetype":"county",

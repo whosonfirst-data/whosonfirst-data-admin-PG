@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"141.60912,-3.55452,141.64912,-3.51452",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Maragini",
         "Maragin"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226418429,
-    "wof:lastmodified":1537677108,
+    "wof:lastmodified":1566678881,
     "wof:name":"Maragin",
     "wof:parent_id":1091704901,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"141.46333,-7.25333,141.50333,-7.21333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kuiskina",
         "Asoatatuma",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209098653,
-    "wof:lastmodified":1537677208,
+    "wof:lastmodified":1566678229,
     "wof:name":"Asoatutuma",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",

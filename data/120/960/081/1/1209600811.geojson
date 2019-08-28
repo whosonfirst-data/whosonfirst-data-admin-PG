@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"144.98,-6.20333,145.02,-6.16333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632347
@@ -34,7 +38,7 @@
         "gn:id":2093429
     },
     "wof:country":"PG",
-    "wof:geomhash":"57e1b6ffae088bd0b33aa545c54940f2",
+    "wof:geomhash":"530c1091a16e1026422e8e4fca7e02d0",
     "wof:hierarchy":[
         {
             "country_id":85632347,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209600811,
-    "wof:lastmodified":1536282174,
+    "wof:lastmodified":1566678293,
     "wof:name":"Korenggore",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     145.0,
-    -6.1833300000000015,
+    -6.18333,
     145.0,
-    -6.1833300000000015
+    -6.18333
 ],
   "geometry": {"coordinates":[145.0,-6.18333],"type":"Point"}
 }

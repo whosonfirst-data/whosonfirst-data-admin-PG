@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-7.04368,
     "lbl:longitude":141.901411,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Western",
     "meso:dissme":"Middle FlyWestern",
     "meso:gaul_admin":"Nomad",
@@ -31,6 +33,7 @@
     "mps:longitude":141.901411,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Middle Fly"
     ],
@@ -38,9 +41,9 @@
         "Nomad"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-10",
+    "src:population_date":"2011-07-10",
     "statoids:area_km":"44,479",
     "statoids:as_of_date":"2011-07-10",
     "statoids:capital":"Balimo",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091703673,
-    "wof:lastmodified":1553717939,
+    "wof:lastmodified":1566678542,
     "wof:name":"Middle Fly",
     "wof:parent_id":85676557,
     "wof:placetype":"county",

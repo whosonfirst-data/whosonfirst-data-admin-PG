@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"144.91333,-4.23667,144.95333,-4.19667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Potsdam"
     ],
@@ -359,7 +363,7 @@
         }
     ],
     "wof:id":1310688449,
-    "wof:lastmodified":1564171122,
+    "wof:lastmodified":1566678482,
     "wof:name":"Potsdam",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

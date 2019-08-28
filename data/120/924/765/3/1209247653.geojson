@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"147.9408,-8.89253,147.9808,-8.85253",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632347
@@ -34,7 +38,7 @@
         "gn:id":2096400
     },
     "wof:country":"PG",
-    "wof:geomhash":"0c7481989cb4bbf2fabe3b68bd906ff6",
+    "wof:geomhash":"144023f9898ce396ba906ea44269f13b",
     "wof:hierarchy":[
         {
             "country_id":85632347,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209247653,
-    "wof:lastmodified":1536293108,
+    "wof:lastmodified":1566678268,
     "wof:name":"Hamara",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     147.9608,
-    -8.872530000000003,
+    -8.87253,
     147.9608,
-    -8.872530000000003
+    -8.87253
 ],
   "geometry": {"coordinates":[147.96080000000001,-8.87253],"type":"Point"}
 }

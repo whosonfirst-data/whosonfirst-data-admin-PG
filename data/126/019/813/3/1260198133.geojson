@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"141.03261,-3.62123,141.07261,-3.58123",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kamberatoro"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1260198133,
-    "wof:lastmodified":1537677230,
+    "wof:lastmodified":1566678410,
     "wof:name":"Kamberatoro",
     "wof:parent_id":1091704901,
     "wof:placetype":"locality",

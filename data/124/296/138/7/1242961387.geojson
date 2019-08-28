@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"142.76114,-3.58849,142.80114,-3.54849",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Musinau",
         "Musenau"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242961387,
-    "wof:lastmodified":1537677094,
+    "wof:lastmodified":1566678691,
     "wof:name":"Musenau",
     "wof:parent_id":1091702053,
     "wof:placetype":"locality",

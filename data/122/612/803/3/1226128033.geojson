@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"144.87012,-6.32541,144.91012,-6.28541",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Wam\u00e9"
     ],
@@ -38,8 +42,7 @@
         "Wame"
     ],
     "name:und_x_variant":[
-        "Waime",
-        "Wame"
+        "Waime"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1226128033,
-    "wof:lastmodified":1564171766,
+    "wof:lastmodified":1566678879,
     "wof:name":"Wame",
     "wof:parent_id":1091702431,
     "wof:placetype":"locality",

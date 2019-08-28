@@ -23,12 +23,13 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"150.79997,-9.75926,150.83997,-9.71926",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
-        "Esa\u2019ala"
-    ],
-    "name:und_x_variant":[
         "Esa\u2019ala"
     ],
     "src:geom":"geonames",
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1343470375,
-    "wof:lastmodified":1537677177,
+    "wof:lastmodified":1566677911,
     "wof:name":"Esa'ala",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

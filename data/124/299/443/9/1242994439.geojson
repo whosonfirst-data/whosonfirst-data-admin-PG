@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Bougainville",
     "iso:country":"PG",
+    "lbl:bbox":"155.4294,-6.26606,155.4694,-6.22606",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Korpe"
     ],
@@ -45,8 +49,7 @@
     ],
     "name:und_x_variant":[
         "Kopei",
-        "Korpei",
-        "Korpe"
+        "Korpei"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1242994439,
-    "wof:lastmodified":1564171465,
+    "wof:lastmodified":1566678698,
     "wof:name":"Korpe",
     "wof:parent_id":1091702121,
     "wof:placetype":"locality",

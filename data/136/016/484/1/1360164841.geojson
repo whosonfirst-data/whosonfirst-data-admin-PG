@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"144.94294,-5.12989,144.98294,-5.08989",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1360164841,
-    "wof:lastmodified":1536829672,
+    "wof:lastmodified":1566678517,
     "wof:name":"Urangere",
     "wof:parent_id":1091704819,
     "wof:placetype":"locality",

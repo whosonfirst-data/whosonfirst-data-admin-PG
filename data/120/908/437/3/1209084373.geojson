@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"144.03484,-4.49629,144.07484,-4.45629",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Yamen"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1209084373,
-    "wof:lastmodified":1564170717,
+    "wof:lastmodified":1566678246,
     "wof:name":"Yamen",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"141.50508,-3.85502,141.54508,-3.81502",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hila"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259549723,
-    "wof:lastmodified":1564171509,
+    "wof:lastmodified":1566678724,
     "wof:name":"Hila",
     "wof:parent_id":1091704901,
     "wof:placetype":"locality",

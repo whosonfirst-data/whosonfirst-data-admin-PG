@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"146.3983,-6.36884,146.4383,-6.32884",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1344127867,
-    "wof:lastmodified":1536778920,
+    "wof:lastmodified":1566677882,
     "wof:name":"Wongat",
     "wof:parent_id":1091703565,
     "wof:placetype":"locality",

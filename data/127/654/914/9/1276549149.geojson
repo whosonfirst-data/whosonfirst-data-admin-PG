@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"150.18021,-10.67658,150.22021,-10.63658",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Navabu",
         "Nauabu Mission",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276549149,
-    "wof:lastmodified":1537677221,
+    "wof:lastmodified":1566678221,
     "wof:name":"Nauabu",
     "wof:parent_id":1091702001,
     "wof:placetype":"locality",

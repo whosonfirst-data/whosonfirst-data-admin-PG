@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-5.78682,
     "lbl:longitude":144.664916,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Jiwaka",
     "meso:dissme":"North WaghiJiwaka",
     "meso:gaul_admin":"Wahgi",
@@ -31,6 +33,7 @@
     "mps:longitude":144.664916,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "North Waghi"
     ],
@@ -38,9 +41,9 @@
         "Wahgi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-10",
+    "src:population_date":"2011-07-10",
     "statoids:area_km":"453",
     "statoids:as_of_date":"2011-07-10",
     "statoids:capital":"Banz",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091704043,
-    "wof:lastmodified":1553717935,
+    "wof:lastmodified":1566678549,
     "wof:name":"North Waghi",
     "wof:parent_id":1108805613,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"153.25175,-3.41328,153.29175,-3.37328",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632347
@@ -34,7 +38,7 @@
         "gn:id":2099499
     },
     "wof:country":"PG",
-    "wof:geomhash":"17cfc25bb60b5d373e1e037b67ed5e3d",
+    "wof:geomhash":"9641ce2854ba52dda8ce75c5dae53ed8",
     "wof:hierarchy":[
         {
             "country_id":85632347,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209297361,
-    "wof:lastmodified":1536291478,
+    "wof:lastmodified":1566678303,
     "wof:name":"Bil",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     153.27175,
-    -3.3932800000000003,
+    -3.39328,
     153.27175,
-    -3.3932800000000003
+    -3.39328
 ],
   "geometry": {"coordinates":[153.27175,-3.39328],"type":"Point"}
 }

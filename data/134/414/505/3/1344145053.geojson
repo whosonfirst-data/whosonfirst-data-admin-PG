@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"142.89888,-4.14215,142.93888,-4.10215",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Awatib",
         "Awatip",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344145053,
-    "wof:lastmodified":1537677206,
+    "wof:lastmodified":1566677877,
     "wof:name":"Avatip",
     "wof:parent_id":1091702053,
     "wof:placetype":"locality",

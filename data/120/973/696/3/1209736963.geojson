@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Bougainville",
     "iso:country":"PG",
+    "lbl:bbox":"155.37412,-6.02636,155.41412,-5.98636",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209736963,
-    "wof:lastmodified":1536372675,
+    "wof:lastmodified":1566678313,
     "wof:name":"Tarara",
     "wof:parent_id":1091702121,
     "wof:placetype":"locality",

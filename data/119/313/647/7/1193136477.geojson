@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"143.58416,-6.35282,143.62416,-6.31282",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mato"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1193136477,
-    "wof:lastmodified":1564170905,
+    "wof:lastmodified":1566678351,
     "wof:name":"Mato",
     "wof:parent_id":1091703941,
     "wof:placetype":"locality",

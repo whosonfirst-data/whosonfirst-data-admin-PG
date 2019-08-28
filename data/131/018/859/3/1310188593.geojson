@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"146.41869,-7.59953,146.45869,-7.55953",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pieto",
         "Wambogini"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310188593,
-    "wof:lastmodified":1537677033,
+    "wof:lastmodified":1566678457,
     "wof:name":"Wambogini",
     "wof:parent_id":1091703633,
     "wof:placetype":"locality",

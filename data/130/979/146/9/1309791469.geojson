@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"144.90972,-6.30008,144.94972,-6.26008",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bjn_x_preferred":[
         "Kumai"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1309791469,
-    "wof:lastmodified":1564171251,
+    "wof:lastmodified":1566678567,
     "wof:name":"Kumai",
     "wof:parent_id":1091702873,
     "wof:placetype":"locality",

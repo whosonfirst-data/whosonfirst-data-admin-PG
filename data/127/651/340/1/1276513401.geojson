@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"141.12382,-3.61645,141.16382,-3.57645",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Naineri 1",
         "Naineri",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276513401,
-    "wof:lastmodified":1537677093,
+    "wof:lastmodified":1566678151,
     "wof:name":"Naineri Number 1",
     "wof:parent_id":1091704901,
     "wof:placetype":"locality",

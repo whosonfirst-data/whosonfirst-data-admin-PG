@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"141.28333,-8.69131,141.32333,-8.65131",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mengedi",
         "Mengete"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226534887,
-    "wof:lastmodified":1537677103,
+    "wof:lastmodified":1566678903,
     "wof:name":"Mengete",
     "wof:parent_id":1091704467,
     "wof:placetype":"locality",

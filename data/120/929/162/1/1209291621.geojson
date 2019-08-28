@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"145.51287,-5.11594,145.55287,-5.07594",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632347
@@ -34,7 +38,7 @@
         "gn:id":2086661
     },
     "wof:country":"PG",
-    "wof:geomhash":"f0e7a8069b45b5ea15b45672f6cb3fe6",
+    "wof:geomhash":"93698147f1ad41022aced78118dec915",
     "wof:hierarchy":[
         {
             "country_id":85632347,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209291621,
-    "wof:lastmodified":1536291674,
+    "wof:lastmodified":1566678305,
     "wof:name":"Simuku",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     145.53287,
-    -5.0959400000000015,
+    -5.09594,
     145.53287,
-    -5.0959400000000015
+    -5.09594
 ],
   "geometry": {"coordinates":[145.53287,-5.09594],"type":"Point"}
 }

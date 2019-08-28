@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"146.21352,-5.59572,146.25352,-5.55572",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lamptub",
         "Lamtub",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309883075,
-    "wof:lastmodified":1537677121,
+    "wof:lastmodified":1566678584,
     "wof:name":"Lamtus",
     "wof:parent_id":1091704219,
     "wof:placetype":"locality",

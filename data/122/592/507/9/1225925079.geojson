@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"142.85357,-3.75547,142.89357,-3.71547",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yubanakor Number 2",
         "Yabanakor 2"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225925079,
-    "wof:lastmodified":1537677024,
+    "wof:lastmodified":1566678807,
     "wof:name":"Yabanakor 2",
     "wof:parent_id":1091702053,
     "wof:placetype":"locality",

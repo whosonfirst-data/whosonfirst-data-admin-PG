@@ -11,10 +11,14 @@
     "geom:longitude":150.66667,
     "gn:country":"PG",
     "gn:fcode":"PPL",
-    "gn:pop":1638,
+    "gn:population":1638,
     "iso:country":"PG",
+    "lbl:bbox":"150.64667,-10.63667,150.68667,-10.59667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Samarai"
     ],
@@ -36,7 +40,7 @@
     "name:pnb_x_preferred":[
         "\u0633\u0627\u0645\u0627\u0631\u0627\u0626\u06cc"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Samaria"
     ],
     "name:zho_x_preferred":[
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":2132606,
         "gp:id":1062336,
-        "qs:id":1033853,
+        "qs_pg:id":1033853,
         "wd:id":"Q938379",
         "wk:page":"Samarai"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890438691,
-    "wof:lastmodified":1563323647,
+    "wof:lastmodified":1566678594,
     "wof:name":"Samarai",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

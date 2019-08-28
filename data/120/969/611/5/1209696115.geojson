@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"145.31953,-4.59732,145.35953,-4.55732",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632347
@@ -34,7 +38,7 @@
         "gn:id":2090716
     },
     "wof:country":"PG",
-    "wof:geomhash":"4a6df9756ba5f2d5625db8ef362eafcf",
+    "wof:geomhash":"b2b81f4cceb060b83ba194f0205b145a",
     "wof:hierarchy":[
         {
             "country_id":85632347,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209696115,
-    "wof:lastmodified":1536279069,
+    "wof:lastmodified":1566678295,
     "wof:name":"Misabura",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     145.33953,
-    -4.5773199999999985,
+    -4.57732,
     145.33953,
-    -4.5773199999999985
+    -4.57732
 ],
   "geometry": {"coordinates":[145.33953,-4.57732],"type":"Point"}
 }

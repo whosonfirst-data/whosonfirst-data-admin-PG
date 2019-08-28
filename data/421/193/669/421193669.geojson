@@ -10,8 +10,12 @@
     "geom:latitude":-6.57903,
     "geom:longitude":145.97698,
     "iso:country":"PG",
+    "lbl:bbox":"145.95698,-6.59903,145.99698,-6.55903",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ita_x_preferred":[
         "Asaro"
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":2100481,
         "gp:id":1062080,
-        "qs:id":58553
+        "qs_pg:id":58553
     },
     "wof:country":"PG",
     "wof:created":1459009779,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421193669,
-    "wof:lastmodified":1527716143,
+    "wof:lastmodified":1566678591,
     "wof:name":"Asaro",
     "wof:parent_id":1091704061,
     "wof:placetype":"locality",

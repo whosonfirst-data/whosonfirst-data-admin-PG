@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-7.347793,
     "lbl:longitude":145.23418,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-7.347515,
     "mps:longitude":145.228978,
     "mz:hierarchy_label":1,
@@ -160,7 +161,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u043b\u0444"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gulf District"
     ],
     "name:urd_x_preferred":[
@@ -244,9 +245,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-10",
+    "src:population_date":"2011-07-10",
     "statoids:area_km":"34,472",
     "statoids:area_mi":"13,310",
     "statoids:as_of_date":"2011-07-10",
@@ -271,7 +272,7 @@
         "gp:id":2346582,
         "hasc:id":"PG.GU",
         "iso:id":"PG-GPK",
-        "qs:id":1004450,
+        "qs_pg:id":1004450,
         "unlc:id":"PG-GPK",
         "wd:id":"Q874980",
         "wk:page":"Gulf Province"
@@ -296,11 +297,10 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1565732426,
+    "wof:lastmodified":1566677983,
     "wof:name":"Gulf",
     "wof:parent_id":85632347,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":158197,
     "wof:population_rank":9,

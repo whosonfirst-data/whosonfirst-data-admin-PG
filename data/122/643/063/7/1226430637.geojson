@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"142.13056,-4.26796,142.17056,-4.22796",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Oum",
         "Oum Number 1"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226430637,
-    "wof:lastmodified":1537677080,
+    "wof:lastmodified":1566678814,
     "wof:name":"Oum Number 1",
     "wof:parent_id":1091702053,
     "wof:placetype":"locality",

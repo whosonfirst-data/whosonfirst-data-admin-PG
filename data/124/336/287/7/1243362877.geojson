@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"142.83527,-6.08365,142.87527,-6.04365",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u043c\u043e"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1243362877,
-    "wof:lastmodified":1564171297,
+    "wof:lastmodified":1566678600,
     "wof:name":"Komo",
     "wof:parent_id":1091703179,
     "wof:placetype":"locality",

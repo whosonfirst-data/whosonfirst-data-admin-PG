@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"146.88091,-7.14143,146.92091,-7.10143",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326713737,
-    "wof:lastmodified":1536722784,
+    "wof:lastmodified":1566677807,
     "wof:name":"Missim",
     "wof:parent_id":1091702453,
     "wof:placetype":"locality",

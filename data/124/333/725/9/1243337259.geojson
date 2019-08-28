@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"147.42542,-6.75339,147.46542,-6.71339",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243337259,
-    "wof:lastmodified":1536962913,
+    "wof:lastmodified":1566678674,
     "wof:name":"Wideru",
     "wof:parent_id":1091703899,
     "wof:placetype":"locality",

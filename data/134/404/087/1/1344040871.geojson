@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"146.07724,-7.204,146.11724,-7.164",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1344040871,
-    "wof:lastmodified":1536904078,
+    "wof:lastmodified":1566677953,
     "wof:name":"Akwanje",
     "wof:parent_id":1091703633,
     "wof:placetype":"locality",

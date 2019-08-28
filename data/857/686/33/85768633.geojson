@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6152725.521398,
+    "geom:area_square_m":0.0,
     "geom:bbox":"147.159867,-9.467287,147.159867,-9.467287",
     "geom:latitude":-9.467287,
     "geom:longitude":147.159867,
-    "gn:gn_country":"PG",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"PG",
+    "gn:fcode":"PPLX",
     "gn:latitude":-9.46108,
     "gn:longitude":147.18101,
+    "gn:population":0,
     "iso:country":"PG",
+    "lbl:bbox":"147.154867,-9.472287,147.164867,-9.462287",
     "lbl:latitude":-9.467287,
     "lbl:longitude":147.159867,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-9.463512,
     "mps:longitude":147.158901,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Hohola"
-    ],
-    "name:unk_x_variant":[
         "Hohola"
     ],
     "qs:gn_adm0_cc":"PG",
@@ -80,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":14,
     "wof:belongsto":[
         85676581,
@@ -92,7 +91,6 @@
     "wof:concordances":{
         "gn:id":2096101,
         "gp:id":1053910,
-        "qs:id":1318158,
         "qs_pg:id":1318158,
         "wd:id":"Q5877697",
         "wk:page":"Hohola"
@@ -113,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379398,
+    "wof:lastmodified":1566677975,
     "wof:name":"Hohola",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

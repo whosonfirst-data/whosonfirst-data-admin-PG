@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"147.86311,-5.7635,147.90311,-5.7235",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Salaboran"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309979815,
-    "wof:lastmodified":1537677228,
+    "wof:lastmodified":1566678557,
     "wof:name":"Salaboran",
     "wof:parent_id":1091704719,
     "wof:placetype":"locality",

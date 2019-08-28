@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-3.636586,
     "lbl:longitude":142.417723,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Sandaun",
     "meso:dissme":"NukuSandaun",
     "meso:gaul_admin":"Nuku",
@@ -31,6 +33,7 @@
     "mps:longitude":142.417723,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Nuku"
     ],
@@ -38,9 +41,9 @@
         "Nuku"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-07-10",
+    "src:population_date":"2011-07-10",
     "statoids:area_km":"3,503",
     "statoids:as_of_date":"2011-07-10",
     "statoids:capital":"Nuku",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091704057,
-    "wof:lastmodified":1553717935,
+    "wof:lastmodified":1566678547,
     "wof:name":"Nuku",
     "wof:parent_id":85676525,
     "wof:placetype":"county",

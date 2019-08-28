@@ -12,6 +12,7 @@
     "iso:country":"PG",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Lae Nadzab Airport"
     ],
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":102541757,
-    "wof:lastmodified":1563322209,
+    "wof:lastmodified":1566677847,
     "wof:name":"Nadzab Airport",
     "wof:parent_id":85676579,
     "wof:placetype":"campus",

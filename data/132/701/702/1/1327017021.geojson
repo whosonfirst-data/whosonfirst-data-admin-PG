@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"144.67435,-4.89626,144.71435,-4.85626",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327017021,
-    "wof:lastmodified":1536783178,
+    "wof:lastmodified":1566677729,
     "wof:name":"Vimvitabu",
     "wof:parent_id":1091703709,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"145.23182,-6.46966,145.27182,-6.42966",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ise"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1243156479,
-    "wof:lastmodified":1564171392,
+    "wof:lastmodified":1566678654,
     "wof:name":"Ise",
     "wof:parent_id":1091703417,
     "wof:placetype":"locality",

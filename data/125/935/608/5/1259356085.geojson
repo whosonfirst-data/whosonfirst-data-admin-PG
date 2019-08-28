@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"150.21333,-2.47,150.25333,-2.43",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Min"
     ],
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1259356085,
-    "wof:lastmodified":1564171594,
+    "wof:lastmodified":1566678775,
     "wof:name":"Min",
     "wof:parent_id":1091702917,
     "wof:placetype":"locality",

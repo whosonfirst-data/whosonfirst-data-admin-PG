@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"143.1721,-8.2963,143.2121,-8.2563",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Kenema"
     ],
@@ -141,7 +145,7 @@
         }
     ],
     "wof:id":1293314681,
-    "wof:lastmodified":1564170296,
+    "wof:lastmodified":1566678001,
     "wof:name":"Kenema",
     "wof:parent_id":1091703673,
     "wof:placetype":"locality",

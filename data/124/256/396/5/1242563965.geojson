@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"146.67609,-2.00662,146.71609,-1.96662",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sori",
         "Sori 1",
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1242563965,
-    "wof:lastmodified":1537677057,
+    "wof:lastmodified":1566678643,
     "wof:name":"Sori Number 1",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
