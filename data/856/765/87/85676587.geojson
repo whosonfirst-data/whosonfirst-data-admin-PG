@@ -302,6 +302,9 @@
         "wk:page":"New Ireland Province"
     },
     "wof:country":"PG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4fccb1c7d3aed8b82574a60b9562b056",
     "wof:hierarchy":[
         {
@@ -321,7 +324,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1566677978,
+    "wof:lastmodified":1582343934,
     "wof:name":"New Ireland",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

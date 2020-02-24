@@ -225,6 +225,9 @@
         890444183
     ],
     "wof:country":"PG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3a6b36a71f5b7bf18cff6a11682dbc42",
     "wof:hierarchy":[
         {
@@ -244,7 +247,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1566677981,
+    "wof:lastmodified":1582343935,
     "wof:name":"National Capital District",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

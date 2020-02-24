@@ -290,6 +290,9 @@
         "wk:page":"Morobe Province"
     },
     "wof:country":"PG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8b33630a72da1bed80cfddcc9ac49e28",
     "wof:hierarchy":[
         {
@@ -309,7 +312,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1566677984,
+    "wof:lastmodified":1582343936,
     "wof:name":"Morobe",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

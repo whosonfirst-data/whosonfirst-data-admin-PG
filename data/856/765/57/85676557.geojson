@@ -231,6 +231,9 @@
         "wk:page":"Western Province (Papua New Guinea)"
     },
     "wof:country":"PG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1d9a98df710a39a51ecbf1337dc0d629",
     "wof:hierarchy":[
         {
@@ -250,7 +253,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1566677977,
+    "wof:lastmodified":1582343933,
     "wof:name":"Western",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

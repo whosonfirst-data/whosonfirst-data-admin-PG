@@ -309,6 +309,9 @@
         "wk:page":"East New Britain Province"
     },
     "wof:country":"PG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c9e2a28647c3fa16def9aebd0fc2ffe6",
     "wof:hierarchy":[
         {
@@ -328,7 +331,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1566677982,
+    "wof:lastmodified":1582343935,
     "wof:name":"East New Britain",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

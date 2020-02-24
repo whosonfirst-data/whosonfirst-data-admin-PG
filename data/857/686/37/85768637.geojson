@@ -93,6 +93,9 @@
         "qs_pg:id":478688
     },
     "wof:country":"PG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"683d65efc66f9bee04562e1d3826c7cd",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566677976,
+    "wof:lastmodified":1582343932,
     "wof:name":"Kaugere",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

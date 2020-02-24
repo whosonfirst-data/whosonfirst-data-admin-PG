@@ -190,6 +190,9 @@
     },
     "wof:country":"PG",
     "wof:created":1469051928,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ec776314aa0f032edbac80274477bf12",
     "wof:hierarchy":[
         {
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":890432095,
-    "wof:lastmodified":1566678595,
+    "wof:lastmodified":1582343951,
     "wof:name":"Wabag",
     "wof:parent_id":1091704983,
     "wof:placetype":"locality",

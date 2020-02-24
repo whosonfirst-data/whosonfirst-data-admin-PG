@@ -304,6 +304,9 @@
         "wk:page":"West New Britain Province"
     },
     "wof:country":"PG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7596d3067e3fe52ecdfbd60e5857cc6c",
     "wof:hierarchy":[
         {
@@ -323,7 +326,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1566677983,
+    "wof:lastmodified":1582343936,
     "wof:name":"West New Britain",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

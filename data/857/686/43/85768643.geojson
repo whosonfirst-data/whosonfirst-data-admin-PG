@@ -73,6 +73,9 @@
         "qs:id":478700
     },
     "wof:country":"PG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ac27f14bc3b8d9daa6f3d2dd273e44ba",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379399,
+    "wof:lastmodified":1582343932,
     "wof:name":"Koki",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

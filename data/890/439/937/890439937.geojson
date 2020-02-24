@@ -214,6 +214,9 @@
     },
     "wof:country":"PG",
     "wof:created":1469052255,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e832f954d444ec402dc47544dafdcbb1",
     "wof:hierarchy":[
         {
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":890439937,
-    "wof:lastmodified":1566678594,
+    "wof:lastmodified":1582343951,
     "wof:name":"Goroka",
     "wof:parent_id":1091702429,
     "wof:placetype":"locality",

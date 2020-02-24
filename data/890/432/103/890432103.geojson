@@ -205,6 +205,9 @@
     },
     "wof:country":"PG",
     "wof:created":1469051928,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4fb074194681437a287e9a5d5656c8ae",
     "wof:hierarchy":[
         {
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":890432103,
-    "wof:lastmodified":1566678595,
+    "wof:lastmodified":1582343951,
     "wof:name":"Kimbe",
     "wof:parent_id":1091704547,
     "wof:placetype":"locality",

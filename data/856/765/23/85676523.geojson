@@ -287,6 +287,9 @@
         "wk:page":"Madang Province"
     },
     "wof:country":"PG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6383a0f477883228c02101c2397219a2",
     "wof:hierarchy":[
         {
@@ -306,7 +309,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1566677984,
+    "wof:lastmodified":1582343936,
     "wof:name":"Madang",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

@@ -296,6 +296,9 @@
         "wk:page":"Oro Province"
     },
     "wof:country":"PG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7571653b98f0f581c763e2c438fe5952",
     "wof:hierarchy":[
         {
@@ -315,7 +318,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1566677976,
+    "wof:lastmodified":1582343933,
     "wof:name":"Northern",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

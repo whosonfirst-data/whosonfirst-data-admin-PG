@@ -96,6 +96,9 @@
         "wk:page":"Hohola"
     },
     "wof:country":"PG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b4603e0ffe927ae2da77579d8dd10f37",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566677975,
+    "wof:lastmodified":1582343931,
     "wof:name":"Hohola",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

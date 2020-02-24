@@ -291,6 +291,9 @@
         "wk:page":"Western Highlands Province"
     },
     "wof:country":"PG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e895b2c32161e010863c46036a80c8c3",
     "wof:hierarchy":[
         {
@@ -310,7 +313,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1566677978,
+    "wof:lastmodified":1582343933,
     "wof:name":"Western Highlands",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

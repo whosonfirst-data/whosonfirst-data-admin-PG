@@ -284,6 +284,9 @@
         "wk:page":"Enga Province"
     },
     "wof:country":"PG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"278640bcce0e8fa165379e13ecaa475a",
     "wof:hierarchy":[
         {
@@ -303,7 +306,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1566677985,
+    "wof:lastmodified":1582343937,
     "wof:name":"Enga",
     "wof:parent_id":85632347,
     "wof:placetype":"region",
