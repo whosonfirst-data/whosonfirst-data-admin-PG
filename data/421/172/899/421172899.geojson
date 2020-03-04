@@ -214,6 +214,9 @@
     },
     "wof:country":"PG",
     "wof:created":1459008958,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"0554cff6c4fd6717a331aae2840e01fc",
     "wof:hierarchy":[
         {
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":421172899,
-    "wof:lastmodified":1566678592,
+    "wof:lastmodified":1582343950,
     "wof:name":"Alotau",
     "wof:parent_id":1091702001,
     "wof:placetype":"locality",

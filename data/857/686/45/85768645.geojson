@@ -96,6 +96,9 @@
         "wk:page":"Waigani"
     },
     "wof:country":"PG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fb5fec948032db481671801a7402e04f",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566677975,
+    "wof:lastmodified":1582343931,
     "wof:name":"Waigani",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

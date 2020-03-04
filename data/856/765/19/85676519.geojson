@@ -291,6 +291,9 @@
         "wk:page":"East Sepik Province"
     },
     "wof:country":"PG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3b35cda0892c7063aedc3bdd0b140dc1",
     "wof:hierarchy":[
         {
@@ -310,7 +313,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1566677979,
+    "wof:lastmodified":1582343934,
     "wof:name":"East Sepik",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

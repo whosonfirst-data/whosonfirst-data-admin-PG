@@ -205,6 +205,9 @@
     },
     "wof:country":"PG",
     "wof:created":1469051928,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aa55f1d272704684dc19810928c03f8f",
     "wof:hierarchy":[
         {
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":890432099,
-    "wof:lastmodified":1566678595,
+    "wof:lastmodified":1582343951,
     "wof:name":"Lorengau",
     "wof:parent_id":1091703475,
     "wof:placetype":"locality",

@@ -214,6 +214,9 @@
     },
     "wof:country":"PG",
     "wof:created":1469051442,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8bf8ce1c26b35138fec659bf480df06f",
     "wof:hierarchy":[
         {
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":890422413,
-    "wof:lastmodified":1566678594,
+    "wof:lastmodified":1582343950,
     "wof:name":"Wewak",
     "wof:parent_id":1091705089,
     "wof:placetype":"locality",

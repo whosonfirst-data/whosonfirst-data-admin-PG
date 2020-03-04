@@ -78,6 +78,9 @@
         "wk:page":"Boroko"
     },
     "wof:country":"PG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7a736512649983d3bdf539bf8c33f0b3",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379399,
+    "wof:lastmodified":1582343932,
     "wof:name":"Boroko",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

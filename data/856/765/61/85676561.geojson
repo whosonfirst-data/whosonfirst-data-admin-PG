@@ -293,6 +293,9 @@
         "wk:page":"Central Province (Papua New Guinea)"
     },
     "wof:country":"PG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5accaa4301c7b0d226801dd46f746fc1",
     "wof:hierarchy":[
         {
@@ -312,7 +315,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1566677976,
+    "wof:lastmodified":1582343932,
     "wof:name":"Central",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

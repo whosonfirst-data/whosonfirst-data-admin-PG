@@ -1011,6 +1011,11 @@
     },
     "wof:country":"PG",
     "wof:country_alpha3":"PNG",
+    "wof:geom_alt":[
+        "meso",
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"a796290eee81d92a9806ac0dc425a3e6",
     "wof:hierarchy":[
         {
@@ -1029,7 +1034,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1566677986,
+    "wof:lastmodified":1583222896,
     "wof:name":"Papua New Guinea",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

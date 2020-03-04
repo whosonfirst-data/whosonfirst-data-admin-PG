@@ -281,6 +281,9 @@
         "wk:page":"Milne Bay Province"
     },
     "wof:country":"PG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"70c7cd14b52a46e014d9a15e397d7c7f",
     "wof:hierarchy":[
         {
@@ -300,7 +303,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1566677980,
+    "wof:lastmodified":1582343934,
     "wof:name":"Milne Bay",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

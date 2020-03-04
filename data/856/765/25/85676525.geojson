@@ -288,6 +288,9 @@
         "wk:page":"Sandaun Province"
     },
     "wof:country":"PG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"04416c2f2aa69d28e60d415aa7632081",
     "wof:hierarchy":[
         {
@@ -307,7 +310,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1566677985,
+    "wof:lastmodified":1582343937,
     "wof:name":"Sandaun",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

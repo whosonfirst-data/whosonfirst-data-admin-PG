@@ -284,6 +284,9 @@
         "wk:page":"Chimbu Province"
     },
     "wof:country":"PG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dbf9b3d842b181b513da68622fbbeb76",
     "wof:hierarchy":[
         {
@@ -303,7 +306,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1566677982,
+    "wof:lastmodified":1582343935,
     "wof:name":"Chimbu",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

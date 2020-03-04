@@ -290,6 +290,9 @@
         "wk:page":"Southern Highlands Province"
     },
     "wof:country":"PG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2939eeefc8aea0d06f6e0f40f45ee926",
     "wof:hierarchy":[
         {
@@ -309,7 +312,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1566677985,
+    "wof:lastmodified":1582343936,
     "wof:name":"Southern Highlands",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

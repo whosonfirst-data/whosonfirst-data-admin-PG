@@ -73,6 +73,9 @@
         "qs:id":894720
     },
     "wof:country":"PG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a2885bb8f256dcb7f96a5b3c75152ba6",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379399,
+    "wof:lastmodified":1582343931,
     "wof:name":"Gordon",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

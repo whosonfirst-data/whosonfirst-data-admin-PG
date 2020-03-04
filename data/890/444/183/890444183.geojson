@@ -502,6 +502,10 @@
     ],
     "wof:country":"PG",
     "wof:created":1469052454,
+    "wof:geom_alt":[
+        "unknown",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f0f40acbdd944d6cc4f29102ef652efd",
     "wof:hierarchy":[
         {
@@ -513,7 +517,7 @@
         }
     ],
     "wof:id":890444183,
-    "wof:lastmodified":1566678595,
+    "wof:lastmodified":1582343951,
     "wof:name":"Port Moresby",
     "wof:parent_id":1091703859,
     "wof:placetype":"locality",

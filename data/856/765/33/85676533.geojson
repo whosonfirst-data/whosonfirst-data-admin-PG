@@ -294,6 +294,9 @@
         "wk:page":"Eastern Highlands Province"
     },
     "wof:country":"PG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"295a090fa0ccfc4fc6debcd2689b2bdd",
     "wof:hierarchy":[
         {
@@ -313,7 +316,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1566677978,
+    "wof:lastmodified":1582343934,
     "wof:name":"Eastern Highlands",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

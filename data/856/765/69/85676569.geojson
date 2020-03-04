@@ -287,6 +287,9 @@
         "wk:page":"Manus Province"
     },
     "wof:country":"PG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a832ed6726c8622484adceab233d2b91",
     "wof:hierarchy":[
         {
@@ -306,7 +309,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1566677977,
+    "wof:lastmodified":1582343933,
     "wof:name":"Manus",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

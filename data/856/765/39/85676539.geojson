@@ -278,6 +278,9 @@
         "wk:page":"Gulf Province"
     },
     "wof:country":"PG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"38347fe9fff1296d4551b2e7d3fce717",
     "wof:hierarchy":[
         {
@@ -297,7 +300,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1566677983,
+    "wof:lastmodified":1582343935,
     "wof:name":"Gulf",
     "wof:parent_id":85632347,
     "wof:placetype":"region",
