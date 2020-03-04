@@ -955,7 +955,6 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "meso",
-        "naturalearth",
         "naturalearth"
     ],
     "src:geom_via":"meso",
@@ -1035,7 +1034,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1582343938,
+    "wof:lastmodified":1583222896,
     "wof:name":"Papua New Guinea",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
