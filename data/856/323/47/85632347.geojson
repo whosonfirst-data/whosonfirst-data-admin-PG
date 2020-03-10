@@ -987,9 +987,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Papua_New_Guinea",
-        "digitalenvoy:country_code":[
-            598
-        ],
+        "digitalenvoy:country_code":598,
         "fb:id":"en.papua_new_guinea",
         "fifa:id":"PNG",
         "fips:code":"PP",
@@ -1037,7 +1035,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1583529210,
+    "wof:lastmodified":1583797418,
     "wof:name":"Papua New Guinea",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
