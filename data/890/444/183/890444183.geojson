@@ -504,7 +504,9 @@
         85676581
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632347,
+    "wof:capital_of":[
+        85632347
+    ],
     "wof:concordances":{
         "gn:id":2088122,
         "gp:id":1062005,
@@ -535,7 +537,7 @@
         }
     ],
     "wof:id":890444183,
-    "wof:lastmodified":1587427304,
+    "wof:lastmodified":1607390891,
     "wof:name":"Port Moresby",
     "wof:parent_id":1091703859,
     "wof:placetype":"locality",
