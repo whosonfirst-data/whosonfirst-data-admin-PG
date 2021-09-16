@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"146.726111111,-6.56972222222,146.726111111,-6.56972222222",
+    "geom:bbox":"146.726111,-6.569722,146.726111,-6.569722",
     "geom:latitude":-6.569722,
     "geom:longitude":146.726111,
     "iso:country":"PG",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Lae Nadzab Airport"
+    ],
+    "name:eng_x_variant":[
+        "LAE",
+        "AYNZ"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0627\u06cc \u0646\u0627\u062f\u0632\u0627\u0628"
@@ -69,7 +73,7 @@
         "wd:id":"Q1431826"
     },
     "wof:country":"PG",
-    "wof:geomhash":"0e923e34cdc0a3676ac32f48e4b1d40f",
+    "wof:geomhash":"b3b54e23cd7191a4a753dc4b2da4108d",
     "wof:hierarchy":[
         {
             "campus_id":102541757,
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":102541757,
-    "wof:lastmodified":1566677847,
+    "wof:lastmodified":1631749841,
     "wof:name":"Nadzab Airport",
     "wof:parent_id":85676579,
     "wof:placetype":"campus",
@@ -90,10 +94,10 @@
     ]
 },
   "bbox": [
-    146.72611111111,
-    -6.5697222222222,
-    146.72611111111,
-    -6.5697222222222
+    146.726111,
+    -6.569722,
+    146.726111,
+    -6.569722
 ],
-  "geometry": {"coordinates":[146.72611111110999,-6.5697222222222],"type":"Point"}
+  "geometry": {"coordinates":[146.726111,-6.569722],"type":"Point"}
 }
