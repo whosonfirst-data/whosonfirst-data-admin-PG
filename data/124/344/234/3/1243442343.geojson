@@ -44,6 +44,12 @@
     "name:fin_x_preferred":[
         "Bam"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05dd"
+    ],
+    "name:hun_x_preferred":[
+        "Bam"
+    ],
     "name:mlg_x_preferred":[
         "Bam"
     ],
@@ -77,7 +83,7 @@
         "gn:id":2099968
     },
     "wof:country":"PG",
-    "wof:geomhash":"248cc9a647f3727634698d1323b26fe4",
+    "wof:geomhash":"b09c0133df89013351b0f28b182adca1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1243442343,
-    "wof:lastmodified":1566678712,
+    "wof:lastmodified":1636500490,
     "wof:name":"Bam",
     "wof:parent_id":1091705089,
     "wof:placetype":"locality",
@@ -98,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    143.58588999999995,
+    143.58589,
     -3.42455,
-    143.58588999999995,
+    143.58589,
     -3.42455
 ],
-  "geometry": {"coordinates":[143.58588999999995,-3.42455],"type":"Point"}
+  "geometry": {"coordinates":[143.58589000000001,-3.42455],"type":"Point"}
 }

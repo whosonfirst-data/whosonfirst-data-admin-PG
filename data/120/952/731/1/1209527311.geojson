@@ -41,6 +41,9 @@
     "name:heb_x_preferred":[
         "\u05de\u05d9\u05dc\u05d4"
     ],
+    "name:hun_x_preferred":[
+        "Mila"
+    ],
     "name:ita_x_preferred":[
         "Mila"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1209527311,
-    "wof:lastmodified":1566678253,
+    "wof:lastmodified":1636500479,
     "wof:name":"Mila",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",

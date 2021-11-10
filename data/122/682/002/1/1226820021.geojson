@@ -56,6 +56,9 @@
     "name:fra_x_preferred":[
         "Sorong"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05e8\u05d5\u05e0\u05d2"
+    ],
     "name:ind_x_preferred":[
         "Kota Sorong"
     ],
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":1226820021,
-    "wof:lastmodified":1566678873,
+    "wof:lastmodified":1636500492,
     "wof:name":"Sorong",
     "wof:parent_id":1091702647,
     "wof:placetype":"locality",

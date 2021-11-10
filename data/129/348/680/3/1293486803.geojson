@@ -29,6 +29,39 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0633\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u0987\u0989\u09b8\u09be"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03cd\u03b6\u03b1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05bc\u05e1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0909\u0938\u093e "
+    ],
+    "name:ind_x_preferred":[
+        "Usa"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6b0\uc0ac"
+    ],
+    "name:por_x_preferred":[
+        "Usa"
+    ],
+    "name:swe_x_preferred":[
+        "Usa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0633\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Usa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -52,7 +85,7 @@
         }
     ],
     "wof:id":1293486803,
-    "wof:lastmodified":1566678028,
+    "wof:lastmodified":1636500475,
     "wof:name":"Usa",
     "wof:parent_id":1091702665,
     "wof:placetype":"locality",

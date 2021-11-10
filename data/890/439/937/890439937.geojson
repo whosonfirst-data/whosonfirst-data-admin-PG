@@ -25,11 +25,17 @@
     "name:ast_x_preferred":[
         "Goroka"
     ],
+    "name:ben_x_preferred":[
+        "\u0997\u09cb\u09b0\u09cb\u0995\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Goroka"
     ],
     "name:deu_x_preferred":[
         "Goroka"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03c1\u03cc\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Goroka"
@@ -45,6 +51,15 @@
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05d5\u05e8\u05d5\u05e7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u094b\u0930\u094b\u0915\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Goroka"
+    ],
+    "name:ind_x_preferred":[
+        "Goroka"
     ],
     "name:ita_x_preferred":[
         "Goroka"
@@ -73,6 +88,9 @@
     "name:spa_x_preferred":[
         "Goroka"
     ],
+    "name:swe_x_preferred":[
+        "Goroka"
+    ],
     "name:tpi_x_preferred":[
         "Goroka"
     ],
@@ -87,6 +105,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06af\u0648\u0631\u0648\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Goroka"
     ],
     "name:zho_x_preferred":[
         "\u6208\u7f85\u5361"
@@ -228,7 +249,7 @@
         }
     ],
     "wof:id":890439937,
-    "wof:lastmodified":1582343951,
+    "wof:lastmodified":1636500487,
     "wof:name":"Goroka",
     "wof:parent_id":1091702429,
     "wof:placetype":"locality",

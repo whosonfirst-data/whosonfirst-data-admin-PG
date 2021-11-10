@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:urd_x_preferred":[
+        "\u0627\u0646\u06af\u0627\u0631\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226366463,
-    "wof:lastmodified":1566678909,
+    "wof:lastmodified":1636500493,
     "wof:name":"Angara",
     "wof:parent_id":1091704393,
     "wof:placetype":"locality",

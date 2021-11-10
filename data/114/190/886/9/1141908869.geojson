@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"150.812976477,-2.58128432287,150.812976477,-2.58128432287",
+    "geom:bbox":"150.812976,-2.581284,150.812976,-2.581284",
     "geom:latitude":-2.581284,
     "geom:longitude":150.812976,
     "gn:country":"PG",
@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0641\u064a\u0646\u063a"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09ad\u09bf\u09df\u09c7\u0982"
+    ],
     "name:ceb_x_preferred":[
         "Kavieng"
     ],
@@ -36,6 +39,9 @@
     "name:deu_x_variant":[
         "K\u00e4wieng",
         "Kavieng"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03b2\u03b9\u03b5\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Kavieng"
@@ -50,6 +56,15 @@
         "Kavieng"
     ],
     "name:glg_x_preferred":[
+        "Kavieng"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d5\u05d9\u05d0\u05e0\u05d2"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0947\u0935\u0940\u090f\u0902\u0917"
+    ],
+    "name:hun_x_preferred":[
         "Kavieng"
     ],
     "name:ita_x_preferred":[
@@ -82,6 +97,9 @@
     "name:tpi_x_preferred":[
         "Kavieng"
     ],
+    "name:tur_x_preferred":[
+        "Kavieng"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0432\u0456\u0435\u043d\u0433"
     ],
@@ -90,6 +108,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0627\u0648\u06cc\u0646\u06af"
+    ],
+    "name:vie_x_preferred":[
+        "Kavieng"
     ],
     "name:zho_x_preferred":[
         "\u5361\u7dad\u6069"
@@ -216,7 +237,7 @@
     },
     "wof:country":"PG",
     "wof:created":1499130986,
-    "wof:geomhash":"08b8a1ad020e5719ed7022f2f9c36b63",
+    "wof:geomhash":"5c7f0dcebc8dd451189fce979b1dc09a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -227,7 +248,7 @@
         }
     ],
     "wof:id":1141908869,
-    "wof:lastmodified":1566678917,
+    "wof:lastmodified":1636500493,
     "wof:name":"Kavieng",
     "wof:parent_id":1091702917,
     "wof:placetype":"locality",
@@ -241,10 +262,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    150.81297647679924,
-    -2.58128432287197,
-    150.81297647679924,
-    -2.58128432287197
+    150.812976,
+    -2.581284,
+    150.812976,
+    -2.581284
 ],
-  "geometry": {"coordinates":[150.81297647679924,-2.58128432287197],"type":"Point"}
+  "geometry": {"coordinates":[150.81297599999999,-2.581284],"type":"Point"}
 }

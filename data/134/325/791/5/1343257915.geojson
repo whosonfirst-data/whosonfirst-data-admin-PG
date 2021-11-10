@@ -30,8 +30,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0644\u0627"
+    ],
     "name:aze_x_preferred":[
         "Kola"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cb\u09b2\u09be"
     ],
     "name:bos_x_preferred":[
         "Kola"
@@ -51,11 +57,17 @@
     "name:deu_x_preferred":[
         "Kola"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03bb\u03b1"
+    ],
     "name:epo_x_preferred":[
         "Kola"
     ],
     "name:eus_x_preferred":[
         "Kola"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0644\u0627"
     ],
     "name:fin_x_preferred":[
         "Kola"
@@ -63,10 +75,19 @@
     "name:fra_x_preferred":[
         "Kola"
     ],
+    "name:hin_x_preferred":[
+        "\u0915\u094b\u0932\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Kola"
     ],
     "name:hsb_x_preferred":[
+        "Kola"
+    ],
+    "name:hun_x_preferred":[
+        "Kola"
+    ],
+    "name:ind_x_preferred":[
         "Kola"
     ],
     "name:ita_x_preferred":[
@@ -105,6 +126,9 @@
     "name:pol_x_preferred":[
         "Kola"
     ],
+    "name:por_x_preferred":[
+        "Kola"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043b\u0430"
     ],
@@ -118,9 +142,15 @@
         "\u041a\u043e\u043b\u0430"
     ],
     "name:swe_x_preferred":[
+        "Kolafloden"
+    ],
+    "name:swe_x_variant":[
         "Kola"
     ],
     "name:tgl_x_preferred":[
+        "Kola"
+    ],
+    "name:tur_x_preferred":[
         "Kola"
     ],
     "name:ukr_x_preferred":[
@@ -128,6 +158,12 @@
     ],
     "name:und_x_variant":[
         "Kula"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Kola"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -141,7 +177,7 @@
         "gn:id":2093673
     },
     "wof:country":"PG",
-    "wof:geomhash":"b7ca7304ea2dfe756ff2c6ba65b2a116",
+    "wof:geomhash":"129a9587b7773276d431c0877d829a48",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -152,7 +188,7 @@
         }
     ],
     "wof:id":1343257915,
-    "wof:lastmodified":1566677913,
+    "wof:lastmodified":1636500468,
     "wof:name":"Kola",
     "wof:parent_id":1091704139,
     "wof:placetype":"locality",
@@ -162,10 +198,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    151.41666999999995,
+    151.41667,
     -5.23333,
-    151.41666999999995,
+    151.41667,
     -5.23333
 ],
-  "geometry": {"coordinates":[151.41666999999995,-5.23333],"type":"Point"}
+  "geometry": {"coordinates":[151.41667000000001,-5.23333],"type":"Point"}
 }

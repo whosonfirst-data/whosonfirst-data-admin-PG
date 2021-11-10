@@ -29,6 +29,60 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09b9\u09be\u0987\u09df\u09be"
+    ],
+    "name:deu_x_preferred":[
+        "Haiya"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03ac\u03b3\u03b9\u03b1"
+    ],
+    "name:fra_x_preferred":[
+        "Haiya"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d0\u05d9\u05d9\u05d0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u0948\u092f\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Haiya"
+    ],
+    "name:ind_x_preferred":[
+        "Haiya"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30a4\u30e4"
+    ],
+    "name:kor_x_preferred":[
+        "\ud558\uc774\uc57c"
+    ],
+    "name:pol_x_preferred":[
+        "Haiya"
+    ],
+    "name:por_x_preferred":[
+        "Haiya"
+    ],
+    "name:spa_x_preferred":[
+        "Haiya"
+    ],
+    "name:swe_x_preferred":[
+        "Haiya"
+    ],
+    "name:tur_x_preferred":[
+        "Haiya"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0430\u0439\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0627\u0626\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Haiya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -41,7 +95,7 @@
         "gn:id":2096426
     },
     "wof:country":"PG",
-    "wof:geomhash":"063dec89354d5684ac6796d5a7705987",
+    "wof:geomhash":"cb19027393ad821bbe8a9268d32b05fa",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +106,7 @@
         }
     ],
     "wof:id":1293272191,
-    "wof:lastmodified":1566678082,
+    "wof:lastmodified":1636500476,
     "wof:name":"Haiya",
     "wof:parent_id":1091703451,
     "wof:placetype":"locality",
@@ -62,10 +116,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    145.69281999999995,
+    145.69282,
     -5.27131,
-    145.69281999999995,
+    145.69282,
     -5.27131
 ],
-  "geometry": {"coordinates":[145.69281999999995,-5.27131],"type":"Point"}
+  "geometry": {"coordinates":[145.69282000000001,-5.27131],"type":"Point"}
 }

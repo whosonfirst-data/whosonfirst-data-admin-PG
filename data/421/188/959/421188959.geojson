@@ -77,6 +77,9 @@
     "name:hin_x_preferred":[
         "\u0932\u0947"
     ],
+    "name:hun_x_preferred":[
+        "Lae"
+    ],
     "name:ind_x_preferred":[
         "Lae"
     ],
@@ -227,7 +230,7 @@
         }
     ],
     "wof:id":421188959,
-    "wof:lastmodified":1566678592,
+    "wof:lastmodified":1636500486,
     "wof:name":"Lae",
     "wof:parent_id":1091703335,
     "wof:placetype":"locality",

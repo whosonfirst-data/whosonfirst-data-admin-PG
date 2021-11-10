@@ -32,6 +32,9 @@
     "name:bel_x_preferred":[
         "\u0422\u0443\u0442\u0443\u0456\u043b\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u099f\u09c1\u099f\u09c1\u0987\u09b2\u09be"
+    ],
     "name:cat_x_preferred":[
         "Tutuila"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:deu_x_preferred":[
         "Tutuila"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03c5\u03c4\u03bf\u03c5\u03af\u03bb\u03b1"
     ],
     "name:fao_x_preferred":[
         "Tutuila"
@@ -62,6 +68,12 @@
     "name:glg_x_preferred":[
         "Tutuila"
     ],
+    "name:hin_x_preferred":[
+        "\u0924\u0941\u0924\u0941\u0907\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Tutuila"
+    ],
     "name:ind_x_preferred":[
         "Pulau Tutuila"
     ],
@@ -73,6 +85,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e2\u10e3\u10e2\u10e3\u10d8\u10da\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ud22c\ud22c\uc77c\ub77c"
     ],
     "name:lat_x_preferred":[
         "Tutuila"
@@ -113,6 +128,9 @@
     "name:tha_x_preferred":[
         "\u0e15\u0e39\u0e15\u0e39\u0e27\u0e35\u0e25\u0e32"
     ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u0442\u0443\u0439\u043b\u0430"
+    ],
     "name:urd_x_preferred":[
         "\u0679\u0648\u0679\u0648\u06cc\u0644\u0627"
     ],
@@ -145,7 +163,7 @@
         }
     ],
     "wof:id":1326512977,
-    "wof:lastmodified":1566677753,
+    "wof:lastmodified":1636500465,
     "wof:name":"Tutuila",
     "wof:parent_id":1091702917,
     "wof:placetype":"locality",

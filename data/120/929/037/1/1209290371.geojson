@@ -35,6 +35,9 @@
     "name:fra_x_preferred":[
         "Dila"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d9\u05dc\u05d4"
+    ],
     "name:pol_x_preferred":[
         "Dila"
     ],
@@ -53,7 +56,7 @@
         "gn:id":2098166
     },
     "wof:country":"PG",
-    "wof:geomhash":"f7121832b95af625d01acc8b6f871b37",
+    "wof:geomhash":"2eb477a8ac33d53b9b8275cd8e11239e",
     "wof:hierarchy":[
         {
             "country_id":85632347,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1209290371,
-    "wof:lastmodified":1566678304,
+    "wof:lastmodified":1636500479,
     "wof:name":"Dila",
     "wof:parent_id":85632347,
     "wof:placetype":"locality",
@@ -71,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    141.51908999999995,
+    141.51909,
     -3.87155,
-    141.51908999999995,
+    141.51909,
     -3.87155
 ],
-  "geometry": {"coordinates":[141.51908999999995,-3.87155],"type":"Point"}
+  "geometry": {"coordinates":[141.51909000000001,-3.87155],"type":"Point"}
 }

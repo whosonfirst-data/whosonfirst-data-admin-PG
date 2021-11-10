@@ -20,11 +20,17 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0644\u062a\u0627\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b2\u09cb\u09a4\u09be\u0989"
+    ],
     "name:ceb_x_preferred":[
         "Alotau"
     ],
     "name:deu_x_preferred":[
         "Alotau"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb\u03bf\u03c4\u03ac\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Alotau"
@@ -40,6 +46,15 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05dc\u05d5\u05d8\u05d0\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0932\u094b\u091f\u093e\u090a"
+    ],
+    "name:hun_x_preferred":[
+        "Alotau"
+    ],
+    "name:ind_x_preferred":[
+        "Alotau"
     ],
     "name:ita_x_preferred":[
         "Alotau"
@@ -65,7 +80,13 @@
     "name:spa_x_preferred":[
         "Alotau"
     ],
+    "name:swe_x_preferred":[
+        "Alotau"
+    ],
     "name:tpi_x_preferred":[
+        "Alotau"
+    ],
+    "name:tur_x_preferred":[
         "Alotau"
     ],
     "name:ukr_x_preferred":[
@@ -73,6 +94,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0622\u0644\u0648\u062a\u0627\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Alotau"
     ],
     "name:wuu_x_preferred":[
         "\u963f\u6d1b\u9676"
@@ -228,7 +252,7 @@
         }
     ],
     "wof:id":421172899,
-    "wof:lastmodified":1582343950,
+    "wof:lastmodified":1636500486,
     "wof:name":"Alotau",
     "wof:parent_id":1091702001,
     "wof:placetype":"locality",

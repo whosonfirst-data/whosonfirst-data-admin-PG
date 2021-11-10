@@ -47,6 +47,12 @@
     "name:fra_x_preferred":[
         "Pare-Pare"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05e4\u05e8\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Parepare"
+    ],
     "name:ind_x_preferred":[
         "Kota Parepare"
     ],
@@ -110,7 +116,7 @@
         "gn:id":2088613
     },
     "wof:country":"PG",
-    "wof:geomhash":"90c0809887378fd474ba2f97d201238d",
+    "wof:geomhash":"e1be486ea1dfdff0395460f9a36e75c6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":1326835081,
-    "wof:lastmodified":1566677813,
+    "wof:lastmodified":1636500467,
     "wof:name":"Parepare",
     "wof:parent_id":1091703179,
     "wof:placetype":"locality",
@@ -131,10 +137,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    142.83333000000005,
+    142.83333,
     -6.01667,
-    142.83333000000005,
+    142.83333,
     -6.01667
 ],
-  "geometry": {"coordinates":[142.83333000000005,-6.01667],"type":"Point"}
+  "geometry": {"coordinates":[142.83332999999999,-6.01667],"type":"Point"}
 }

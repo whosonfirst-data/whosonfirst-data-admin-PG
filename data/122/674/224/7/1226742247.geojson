@@ -41,8 +41,14 @@
     "name:deu_x_preferred":[
         "Tagum"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u06af\u0648\u0645"
+    ],
     "name:fra_x_preferred":[
         "Tagum"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05d2\u05d5\u05dd"
     ],
     "name:ilo_x_preferred":[
         "Tagum"
@@ -101,7 +107,7 @@
         "gn:id":2086009
     },
     "wof:country":"PG",
-    "wof:geomhash":"048fcaf205c7403f7d60a1fc26405999",
+    "wof:geomhash":"a624f46c765896e90c24911e3aa87852",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1226742247,
-    "wof:lastmodified":1566678827,
+    "wof:lastmodified":1636500492,
     "wof:name":"Tagum",
     "wof:parent_id":1091703673,
     "wof:placetype":"locality",
@@ -122,10 +128,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    141.55993999999995,
+    141.55994,
     -7.06405,
-    141.55993999999995,
+    141.55994,
     -7.06405
 ],
-  "geometry": {"coordinates":[141.55993999999995,-7.06405],"type":"Point"}
+  "geometry": {"coordinates":[141.55994000000001,-7.06405],"type":"Point"}
 }

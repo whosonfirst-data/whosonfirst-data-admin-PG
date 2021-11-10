@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05e8\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Miri"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1226227531,
-    "wof:lastmodified":1566678867,
+    "wof:lastmodified":1636500492,
     "wof:name":"Miri",
     "wof:parent_id":1091702873,
     "wof:placetype":"locality",

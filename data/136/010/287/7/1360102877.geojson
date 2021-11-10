@@ -53,6 +53,12 @@
     "name:frr_x_preferred":[
         "Obo"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d1\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Obo"
+    ],
     "name:ita_x_preferred":[
         "Obo"
     ],
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1360102877,
-    "wof:lastmodified":1566678523,
+    "wof:lastmodified":1636500483,
     "wof:name":"Obo",
     "wof:parent_id":1091703673,
     "wof:placetype":"locality",

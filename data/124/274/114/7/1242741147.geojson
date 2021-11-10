@@ -41,6 +41,9 @@
     "name:bel_x_preferred":[
         "\u041c\u0430\u045e\u0456"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u0989\u0987"
+    ],
     "name:bre_x_preferred":[
         "Maui"
     ],
@@ -203,7 +206,7 @@
         "gn:id":2091141
     },
     "wof:country":"PG",
-    "wof:geomhash":"e3f50c231243ead34baa09b40818a4e7",
+    "wof:geomhash":"e181072e65b47e09d9581160328a347c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":1242741147,
-    "wof:lastmodified":1566678616,
+    "wof:lastmodified":1636500489,
     "wof:name":"Maui",
     "wof:parent_id":1091701955,
     "wof:placetype":"locality",
@@ -224,10 +227,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    142.03898999999996,
+    142.03899,
     -3.48071,
-    142.03898999999996,
+    142.03899,
     -3.48071
 ],
-  "geometry": {"coordinates":[142.03898999999996,-3.48071],"type":"Point"}
+  "geometry": {"coordinates":[142.03899000000001,-3.48071],"type":"Point"}
 }

@@ -81,6 +81,9 @@
         "Yap"
     ],
     "name:ind_x_preferred":[
+        "Yap"
+    ],
+    "name:ind_x_variant":[
         "Pulau Yap"
     ],
     "name:ita_x_preferred":[
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":1310392537,
-    "wof:lastmodified":1566678452,
+    "wof:lastmodified":1636500481,
     "wof:name":"Yap",
     "wof:parent_id":1091704517,
     "wof:placetype":"locality",

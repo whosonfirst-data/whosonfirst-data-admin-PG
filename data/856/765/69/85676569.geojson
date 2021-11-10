@@ -84,7 +84,13 @@
         "\u0aae\u0ac7\u0aa8\u0ab8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
     "name:hin_x_preferred":[
+        "\u092e\u093e\u0928\u0941\u0938"
+    ],
+    "name:hin_x_variant":[
         "\u092e\u0928\u0941\u0938 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Manus"
     ],
     "name:ilo_x_preferred":[
         "Probinsia ti Manus"
@@ -312,7 +318,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1607980622,
+    "wof:lastmodified":1636500470,
     "wof:name":"Manus",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

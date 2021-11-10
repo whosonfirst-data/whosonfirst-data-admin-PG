@@ -41,6 +41,12 @@
     "name:frr_x_preferred":[
         "Bok\u00e9"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e7"
+    ],
+    "name:hun_x_preferred":[
+        "Boke"
+    ],
     "name:swe_x_preferred":[
         "Boke"
     ],
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1343762373,
-    "wof:lastmodified":1566677909,
+    "wof:lastmodified":1636500468,
     "wof:name":"Boke",
     "wof:parent_id":1091704393,
     "wof:placetype":"locality",

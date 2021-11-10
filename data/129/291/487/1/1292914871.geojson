@@ -117,6 +117,9 @@
         "\u0406\u043b\u043e\u0456\u043b\u043e"
     ],
     "name:urd_x_preferred":[
+        "\u0627\u06cc\u0648\u0626\u0644\u0648"
+    ],
+    "name:urd_x_variant":[
         "\u0627\u0644\u0648\u0626\u06cc\u0644\u0648"
     ],
     "name:vie_x_preferred":[
@@ -124,6 +127,12 @@
     ],
     "name:war_x_preferred":[
         "Iloilo"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6021\u6717"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6021\u6717"
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u6d1b\u4f0a\u6d1b\u7701"
@@ -151,7 +160,7 @@
         }
     ],
     "wof:id":1292914871,
-    "wof:lastmodified":1566678072,
+    "wof:lastmodified":1636500476,
     "wof:name":"Iloilo",
     "wof:parent_id":1091702001,
     "wof:placetype":"locality",

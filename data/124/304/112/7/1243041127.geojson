@@ -32,8 +32,17 @@
     "name:bos_x_preferred":[
         "Nu"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03bf\u03c5"
+    ],
+    "name:hun_x_preferred":[
+        "Nu"
+    ],
     "name:pol_x_preferred":[
         "Nu"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1243041127,
-    "wof:lastmodified":1566678667,
+    "wof:lastmodified":1636500490,
     "wof:name":"Nu",
     "wof:parent_id":1091702917,
     "wof:placetype":"locality",
