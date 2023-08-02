@@ -33,6 +33,12 @@
     "name:eng_x_preferred":[
         "Waigani"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ef\u30a4\u30ac\u30cb"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0439\u0433\u0430\u043d\u0438"
+    ],
     "qs:gn_adm0_cc":"PG",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2088122,
@@ -114,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582343931,
+    "wof:lastmodified":1690850826,
     "wof:name":"Waigani",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

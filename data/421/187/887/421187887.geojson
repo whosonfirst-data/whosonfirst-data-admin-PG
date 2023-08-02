@@ -29,6 +29,9 @@
     "name:nld_x_preferred":[
         "Ambunti"
     ],
+    "name:pol_x_preferred":[
+        "Ambunti"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043c\u0431\u0443\u043d\u0442\u0438"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421187887,
-    "wof:lastmodified":1566678592,
+    "wof:lastmodified":1690850842,
     "wof:name":"Ambunti",
     "wof:parent_id":1091702053,
     "wof:placetype":"locality",

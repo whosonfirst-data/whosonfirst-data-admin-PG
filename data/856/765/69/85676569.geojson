@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Manus Province"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Manus"
+    ],
     "name:dan_x_preferred":[
         "Manus Province"
     ],
@@ -130,6 +133,9 @@
     ],
     "name:msa_x_preferred":[
         "Manus Province"
+    ],
+    "name:nan_x_preferred":[
+        "Manus S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Manus"
@@ -318,7 +324,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1636500470,
+    "wof:lastmodified":1690850828,
     "wof:name":"Manus",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

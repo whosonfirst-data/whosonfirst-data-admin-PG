@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u062a\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Kieta"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09df\u09c7\u09a4\u09be"
     ],
@@ -29,6 +32,9 @@
         "\u041a\u0438\u0435\u0442\u0430"
     ],
     "name:ceb_x_preferred":[
+        "Kieta"
+    ],
+    "name:ces_x_preferred":[
         "Kieta"
     ],
     "name:deu_x_preferred":[
@@ -90,6 +96,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0454\u0442\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0456\u0435\u0442\u0430"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u06cc\u0679\u0627"
@@ -227,7 +236,7 @@
         }
     ],
     "wof:id":890444191,
-    "wof:lastmodified":1636500488,
+    "wof:lastmodified":1690850847,
     "wof:name":"Kieta",
     "wof:parent_id":1091702121,
     "wof:placetype":"locality",

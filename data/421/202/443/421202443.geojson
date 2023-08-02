@@ -20,14 +20,29 @@
     "name:ara_x_preferred":[
         "\u0631\u0627\u0628\u0648\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u0631\u0627\u0628\u0648\u0644"
+    ],
+    "name:ast_x_preferred":[
+        "Rabaul"
+    ],
+    "name:aze_x_preferred":[
+        "Rabaul"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0420\u0430\u0431\u0430\u0443\u043b"
+    ],
+    "name:bel_x_variant":[
+        "\u0420\u0430\u0431\u0430\u0443\u043b"
     ],
     "name:ben_x_preferred":[
         "\u09b0\u09be\u09ac\u09be\u0989\u09b2"
     ],
     "name:bre_x_preferred":[
         "Rabaul"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0431\u0430\u0443\u043b"
     ],
     "name:cat_x_preferred":[
         "Rabaul"
@@ -81,6 +96,9 @@
     "name:hun_x_preferred":[
         "Rabaul"
     ],
+    "name:hye_x_preferred":[
+        "\u054c\u0561\u0562\u0561\u0578\u0582\u056c"
+    ],
     "name:ind_x_preferred":[
         "Rabaul"
     ],
@@ -89,6 +107,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e9\u30d0\u30a6\u30eb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d0\u10d1\u10d0\u10e3\u10da\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ub77c\ubc14\uc6b8"
@@ -126,7 +147,13 @@
     "name:spa_x_preferred":[
         "Rabaul"
     ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0431\u0430\u0443\u043b"
+    ],
     "name:swe_x_preferred":[
+        "Rabaul"
+    ],
+    "name:szl_x_preferred":[
         "Rabaul"
     ],
     "name:tpi_x_preferred":[
@@ -298,7 +325,7 @@
         }
     ],
     "wof:id":421202443,
-    "wof:lastmodified":1636500486,
+    "wof:lastmodified":1690850842,
     "wof:name":"Rabaul",
     "wof:parent_id":1091704181,
     "wof:placetype":"locality",

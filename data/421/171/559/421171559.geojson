@@ -17,7 +17,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Buin"
+    ],
     "name:ceb_x_preferred":[
+        "Buin"
+    ],
+    "name:ces_x_preferred":[
         "Buin"
     ],
     "name:eng_x_preferred":[
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421171559,
-    "wof:lastmodified":1566678593,
+    "wof:lastmodified":1690850845,
     "wof:name":"Buin",
     "wof:parent_id":1091704421,
     "wof:placetype":"locality",

@@ -38,6 +38,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u043b\u043d \u0411\u0435\u0439"
     ],
+    "name:cat_x_preferred":[
+        "Milne Bay"
+    ],
     "name:ceb_x_preferred":[
         "Milne Bay Province"
     ],
@@ -127,6 +130,9 @@
     ],
     "name:msa_x_preferred":[
         "Milne Bay Province"
+    ],
+    "name:nan_x_preferred":[
+        "Milne Oan S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Milne Bay"
@@ -309,7 +315,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1636500471,
+    "wof:lastmodified":1690850830,
     "wof:name":"Milne Bay",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

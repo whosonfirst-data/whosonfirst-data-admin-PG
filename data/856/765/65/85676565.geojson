@@ -35,6 +35,9 @@
     "name:ara_x_preferred":[
         "\u0634\u0631\u0642 \u0628\u0631\u064a\u0637\u0627\u0646\u064a\u0627 \u0627\u0644\u062c\u062f\u064a\u062f\u0629"
     ],
+    "name:bel_x_preferred":[
+        "\u0423\u0441\u0445\u043e\u0434\u043d\u044f\u044f \u041d\u043e\u0432\u0430\u044f \u0411\u0440\u044b\u0442\u0430\u043d\u0456\u044f"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u09b8\u09cd\u099f \u09a8\u09bf\u0989 \u09ac\u09cd\u09b0\u09bf\u099f\u09c7\u09a8"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:bul_x_preferred":[
         "\u0418\u0437\u0442\u043e\u0447\u043d\u0430 \u041d\u043e\u0432\u0430 \u0411\u0440\u0438\u0442\u0430\u043d\u0438\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "East New Britain"
     ],
     "name:ceb_x_preferred":[
         "East New Britain Province"
@@ -60,7 +66,8 @@
         "East New Britain"
     ],
     "name:eng_x_variant":[
-        "E New Britain"
+        "E New Britain",
+        "East New Britain Province"
     ],
     "name:epo_x_preferred":[
         "Orienta Nov-Britujo"
@@ -114,7 +121,8 @@
         "Provincia della Nuova Britannia Est"
     ],
     "name:ita_x_variant":[
-        "provincia della Nuova Britannia Est"
+        "provincia della Nuova Britannia Est",
+        "Nuova Britannia Orientale"
     ],
     "name:jpn_x_preferred":[
         "\u6771\u30cb\u30e5\u30fc\u30d6\u30ea\u30c6\u30f3\u5dde"
@@ -145,6 +153,9 @@
     ],
     "name:msa_x_preferred":[
         "East New Britain"
+    ],
+    "name:nan_x_preferred":[
+        "Tang Sin Britain S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "East New Britain"
@@ -337,7 +348,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1636500472,
+    "wof:lastmodified":1690850831,
     "wof:name":"East New Britain",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

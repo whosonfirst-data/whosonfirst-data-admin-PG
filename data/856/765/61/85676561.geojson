@@ -134,6 +134,9 @@
     "name:msa_x_preferred":[
         "Central Province"
     ],
+    "name:nan_x_preferred":[
+        "Tiong-p\u014d\u0358 S\u00e9ng"
+    ],
     "name:nld_x_preferred":[
         "Central"
     ],
@@ -324,7 +327,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1636500469,
+    "wof:lastmodified":1690850827,
     "wof:name":"Central",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

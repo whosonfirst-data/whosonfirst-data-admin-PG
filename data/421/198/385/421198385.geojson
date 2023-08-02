@@ -17,10 +17,16 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Aitape"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0438\u0442\u0430\u043f\u0435"
     ],
     "name:ceb_x_preferred":[
+        "Aitape"
+    ],
+    "name:ces_x_preferred":[
         "Aitape"
     ],
     "name:deu_x_historical":[
@@ -32,7 +38,8 @@
     ],
     "name:deu_x_variant":[
         "Berlinhafen",
-        "Bodinhafen"
+        "Bodinhafen",
+        "Aitape"
     ],
     "name:eng_x_historical":[
         "Berlin Harbour"
@@ -132,7 +139,7 @@
         }
     ],
     "wof:id":421198385,
-    "wof:lastmodified":1566678593,
+    "wof:lastmodified":1690850843,
     "wof:name":"Aitape",
     "wof:parent_id":1091701955,
     "wof:placetype":"locality",

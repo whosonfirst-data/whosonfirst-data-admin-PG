@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Panguna"
+    ],
     "name:ceb_x_preferred":[
         "Panguna"
     ],
@@ -32,6 +35,9 @@
         "\u067e\u0627\u0646\u06af\u0648\u0646\u0627"
     ],
     "name:fra_x_preferred":[
+        "Panguna"
+    ],
+    "name:hun_x_preferred":[
         "Panguna"
     ],
     "name:jpn_x_preferred":[
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":890436675,
-    "wof:lastmodified":1566678594,
+    "wof:lastmodified":1690850846,
     "wof:name":"Panguna",
     "wof:parent_id":1091702121,
     "wof:placetype":"locality",
