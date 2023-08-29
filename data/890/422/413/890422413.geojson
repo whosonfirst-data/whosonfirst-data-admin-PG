@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0648\u064a\u0648\u0627\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u0648\u064a\u0648\u0627\u0643"
+    ],
+    "name:ast_x_preferred":[
+        "Wewak"
+    ],
     "name:ben_x_preferred":[
         "\u0989\u0987\u0993\u09df\u09be\u0995"
     ],
@@ -38,6 +44,9 @@
         "Wewak"
     ],
     "name:epo_x_preferred":[
+        "Wewak"
+    ],
+    "name:est_x_preferred":[
         "Wewak"
     ],
     "name:fas_x_preferred":[
@@ -79,6 +88,9 @@
     "name:nld_x_preferred":[
         "Wewak"
     ],
+    "name:nob_x_preferred":[
+        "Wewak"
+    ],
     "name:pol_x_preferred":[
         "Wewak"
     ],
@@ -89,6 +101,12 @@
         "\u0412\u0435\u0432\u0430\u043a"
     ],
     "name:spa_x_preferred":[
+        "Wewak"
+    ],
+    "name:swe_x_preferred":[
+        "Wewak"
+    ],
+    "name:szl_x_preferred":[
         "Wewak"
     ],
     "name:tpi_x_preferred":[
@@ -246,7 +264,7 @@
         }
     ],
     "wof:id":890422413,
-    "wof:lastmodified":1636500487,
+    "wof:lastmodified":1690850845,
     "wof:name":"Wewak",
     "wof:parent_id":1091705089,
     "wof:placetype":"locality",

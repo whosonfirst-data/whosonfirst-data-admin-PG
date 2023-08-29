@@ -52,6 +52,9 @@
     "name:und_x_variant":[
         "Angorum"
     ],
+    "name:zho_x_preferred":[
+        "\u5b89\u54e5\u62c9\u59c6"
+    ],
     "qs_pg:aaroncc":"PG",
     "qs_pg:gn_country":"PG",
     "qs_pg:gn_fcode":"PPL",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125868539,
-    "wof:lastmodified":1566678596,
+    "wof:lastmodified":1690850850,
     "wof:name":"Angoram",
     "wof:parent_id":1091702059,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0644\u0648\u0644\u0648"
+    ],
     "name:deu_x_preferred":[
         "Bulolo"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:tpi_x_preferred":[
         "Bulolo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u043b\u043e\u043b\u043e"
     ],
     "name:und_x_variant":[
         "Bubolo"
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":421167541,
-    "wof:lastmodified":1566678591,
+    "wof:lastmodified":1690850841,
     "wof:name":"Bulolo",
     "wof:parent_id":1091702091,
     "wof:placetype":"locality",

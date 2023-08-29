@@ -22,6 +22,9 @@
     "name:ind_x_preferred":[
         "Hanuabada"
     ],
+    "name:spa_x_preferred":[
+        "Hanuabada"
+    ],
     "name:zho_x_preferred":[
         "\u54c8\u9b6f\u5df4\u9054"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":421181161,
-    "wof:lastmodified":1566678592,
+    "wof:lastmodified":1690850843,
     "wof:name":"Hanuada",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

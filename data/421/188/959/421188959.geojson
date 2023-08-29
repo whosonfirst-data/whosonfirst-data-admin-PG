@@ -20,8 +20,20 @@
     "mz:is_current":1,
     "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Lae"
+    ],
     "name:ara_x_preferred":[
         "\u0644\u0627\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0644\u0627\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Lae"
+    ],
+    "name:aze_x_preferred":[
+        "Lae"
     ],
     "name:ben_x_preferred":[
         "\u09b2\u09be\u0987"
@@ -30,6 +42,9 @@
         "Lae"
     ],
     "name:ces_x_preferred":[
+        "Lae"
+    ],
+    "name:cym_x_preferred":[
         "Lae"
     ],
     "name:dan_x_preferred":[
@@ -60,6 +75,15 @@
         "Lae"
     ],
     "name:fra_x_preferred":[
+        "Lae"
+    ],
+    "name:frr_x_preferred":[
+        "Lae"
+    ],
+    "name:gla_x_preferred":[
+        "Lae"
+    ],
+    "name:gle_x_preferred":[
         "Lae"
     ],
     "name:glg_x_preferred":[
@@ -110,6 +134,9 @@
     "name:mkd_x_preferred":[
         "\u041b\u0430\u0435"
     ],
+    "name:mri_x_preferred":[
+        "Rae"
+    ],
     "name:msa_x_preferred":[
         "Lae"
     ],
@@ -123,6 +150,9 @@
         "Lae"
     ],
     "name:nor_x_preferred":[
+        "Lae"
+    ],
+    "name:pih_x_preferred":[
         "Lae"
     ],
     "name:pol_x_preferred":[
@@ -157,6 +187,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e25\u0e22\u0e4c"
+    ],
+    "name:ton_x_preferred":[
+        "Lae"
     ],
     "name:tpi_x_preferred":[
         "Lae"
@@ -230,7 +263,7 @@
         }
     ],
     "wof:id":421188959,
-    "wof:lastmodified":1636500486,
+    "wof:lastmodified":1690850843,
     "wof:name":"Lae",
     "wof:parent_id":1091703335,
     "wof:placetype":"locality",

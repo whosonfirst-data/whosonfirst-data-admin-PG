@@ -23,6 +23,9 @@
     "name:nld_x_preferred":[
         "Sogeri"
     ],
+    "name:pol_x_preferred":[
+        "Sogeri"
+    ],
     "name:und_x_variant":[
         "Sogeni"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":421193667,
-    "wof:lastmodified":1566678591,
+    "wof:lastmodified":1690850841,
     "wof:name":"Sogeri",
     "wof:parent_id":1091702751,
     "wof:placetype":"locality",

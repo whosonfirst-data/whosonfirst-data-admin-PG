@@ -22,11 +22,17 @@
     "name:ara_x_preferred":[
         "\u062c\u0648\u0631\u0648\u0643\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0648\u0631\u0648\u0643\u0627"
+    ],
     "name:ast_x_preferred":[
         "Goroka"
     ],
     "name:ben_x_preferred":[
         "\u0997\u09cb\u09b0\u09cb\u0995\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Goroka"
     ],
     "name:ceb_x_preferred":[
         "Goroka"
@@ -249,7 +255,7 @@
         }
     ],
     "wof:id":890439937,
-    "wof:lastmodified":1636500487,
+    "wof:lastmodified":1690850846,
     "wof:name":"Goroka",
     "wof:parent_id":1091702429,
     "wof:placetype":"locality",

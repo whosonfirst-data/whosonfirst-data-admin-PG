@@ -33,11 +33,20 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u062a \u0645\u0648\u0631\u0633\u0628\u064a"
     ],
+    "name:ary_x_preferred":[
+        "\u067e\u0648\u0631\u062a \u0645\u0648\u0631\u064a\u0633\u0628\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0631\u062a \u0645\u0648\u0631\u0633\u0628\u0649"
+    ],
     "name:ast_x_preferred":[
         "Puertu Moresby"
     ],
     "name:aze_x_preferred":[
         "Port Morsbi"
+    ],
+    "name:ban_x_preferred":[
+        "Port Moresby"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u043e\u0440\u0442-\u041c\u043e\u0440\u0441\u0431\u0456"
@@ -120,6 +129,9 @@
     "name:fra_x_preferred":[
         "Port Moresby"
     ],
+    "name:frr_x_preferred":[
+        "Port Moresby"
+    ],
     "name:fry_x_preferred":[
         "Port Moresby"
     ],
@@ -146,6 +158,9 @@
     ],
     "name:hat_x_preferred":[
         "P\u00f2 Moresbi"
+    ],
+    "name:hau_x_preferred":[
+        "Port Moresby"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05e8\u05d8 \u05de\u05d5\u05e8\u05e1\u05d1\u05d9"
@@ -185,6 +200,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30dd\u30fc\u30c8\u30e2\u30ec\u30b9\u30d3\u30fc"
+    ],
+    "name:kaa_x_preferred":[
+        "Port-Morsbi"
     ],
     "name:kan_x_preferred":[
         "\u0caa\u0ccb\u0cb0\u0ccd\u0c9f\u0ccd \u0cae\u0cca\u0cb0\u0cc6\u0cb8\u0ccd\u0cac\u0cbf"
@@ -234,6 +252,9 @@
     "name:mon_x_preferred":[
         "\u041f\u043e\u0440\u0442-\u041c\u043e\u0440\u0441\u0431\u0438"
     ],
+    "name:mri_x_preferred":[
+        "P\u014dti Mohipi"
+    ],
     "name:mrj_x_preferred":[
         "\u041f\u043e\u0440\u0442-\u041c\u043e\u0440\u0441\u0431\u0438"
     ],
@@ -261,8 +282,14 @@
     "name:oci_x_preferred":[
         "Port Moresby"
     ],
+    "name:oss_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u041c\u043e\u0440\u0441\u0431\u0438"
+    ],
     "name:pan_x_preferred":[
         "\u0a2a\u0a4b\u0a30\u0a1f \u0a2e\u0a4b\u0a30\u0a48\u0a38\u0a2c\u0a40"
+    ],
+    "name:pih_x_preferred":[
+        "Port Morsbii"
     ],
     "name:pms_x_preferred":[
         "Port Moresby"
@@ -288,6 +315,9 @@
     "name:sah_x_preferred":[
         "\u041f\u043e\u0440\u0442 \u041c\u043e\u0440\u0441\u0431\u0438"
     ],
+    "name:sat_x_preferred":[
+        "\u1c6f\u1c73\u1c68\u1c74 \u1c62\u1c5a\u1c68\u1c65\u1c75\u1c64"
+    ],
     "name:sco_x_preferred":[
         "Port Moresby"
     ],
@@ -303,11 +333,17 @@
     "name:sna_x_preferred":[
         "Port Moresby"
     ],
+    "name:som_x_preferred":[
+        "Port Moresby"
+    ],
     "name:spa_x_preferred":[
         "Puerto Moresby"
     ],
     "name:sqi_x_preferred":[
         "Port Moresbi"
+    ],
+    "name:srd_x_preferred":[
+        "Port Moresby"
     ],
     "name:srp_x_preferred":[
         "\u041f\u043e\u0440\u0442 \u041c\u043e\u0440\u0441\u0431\u0438"
@@ -339,6 +375,9 @@
     "name:tha_x_preferred":[
         "\u0e1e\u0e2d\u0e23\u0e4c\u0e15\u0e21\u0e2d\u0e23\u0e4c\u0e2a\u0e1a\u0e35"
     ],
+    "name:ton_x_preferred":[
+        "Pooti Molesip\u012b"
+    ],
     "name:tpi_x_preferred":[
         "Pot Mosbi"
     ],
@@ -359,6 +398,9 @@
     ],
     "name:uzb_x_preferred":[
         "Port Morsbi"
+    ],
+    "name:vec_x_preferred":[
+        "Port Moresby"
     ],
     "name:vep_x_preferred":[
         "Port Morsbi"
@@ -389,6 +431,9 @@
     ],
     "name:zho_x_preferred":[
         "\u83ab\u5c14\u5179\u6bd4\u6e2f"
+    ],
+    "name:zho_x_variant":[
+        "\u83ab\u5c14\u65af\u6bd4\u6e2f"
     ],
     "ne:ADM0CAP":1.0,
     "ne:ADM0NAME":"Papua New Guinea",
@@ -500,8 +545,8 @@
     "wof:belongsto":[
         102191583,
         85632347,
-        1091703859,
-        85676581
+        85676581,
+        1091703859
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -537,7 +582,7 @@
         }
     ],
     "wof:id":890444183,
-    "wof:lastmodified":1607390891,
+    "wof:lastmodified":1690850848,
     "wof:name":"Port Moresby",
     "wof:parent_id":1091703859,
     "wof:placetype":"locality",

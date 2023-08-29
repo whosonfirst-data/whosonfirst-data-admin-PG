@@ -53,6 +53,9 @@
     "name:eng_x_preferred":[
         "Gulf"
     ],
+    "name:eng_x_variant":[
+        "Gulf Province"
+    ],
     "name:epo_x_preferred":[
         "Provinco Golfo"
     ],
@@ -121,6 +124,9 @@
     ],
     "name:msa_x_preferred":[
         "Gulf"
+    ],
+    "name:nan_x_preferred":[
+        "Gulf S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Gulf"
@@ -306,7 +312,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1636500472,
+    "wof:lastmodified":1690850831,
     "wof:name":"Gulf",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

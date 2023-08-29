@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
+    "name:ast_x_preferred":[
+        "Kiunga"
+    ],
     "name:cat_x_preferred":[
         "Kiunga"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:spa_x_preferred":[
         "Kiunga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0443\u043d\u0433\u0430"
     ],
     "name:zho_x_preferred":[
         "\u57fa\u6eab\u52a0"
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":890441381,
-    "wof:lastmodified":1566678594,
+    "wof:lastmodified":1690850846,
     "wof:name":"Kiunga",
     "wof:parent_id":1091704007,
     "wof:placetype":"locality",

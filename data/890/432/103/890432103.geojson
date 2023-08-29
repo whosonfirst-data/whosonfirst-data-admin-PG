@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0645\u0628\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u064a\u0645\u0628\u0649"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09ae\u09cd\u09ac\u09c7"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:hun_x_preferred":[
         "Kimbe"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u056b\u0574\u0562\u0565"
     ],
     "name:ind_x_preferred":[
         "Kimbe"
@@ -246,7 +252,7 @@
         }
     ],
     "wof:id":890432103,
-    "wof:lastmodified":1636500488,
+    "wof:lastmodified":1690850849,
     "wof:name":"Kimbe",
     "wof:parent_id":1091704547,
     "wof:placetype":"locality",

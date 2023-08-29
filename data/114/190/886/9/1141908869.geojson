@@ -24,8 +24,17 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0641\u064a\u0646\u063a"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0641\u064a\u0646\u062c"
+    ],
+    "name:ast_x_preferred":[
+        "Kavieng"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09ad\u09bf\u09df\u09c7\u0982"
+    ],
+    "name:cat_x_preferred":[
+        "Kavieng"
     ],
     "name:ceb_x_preferred":[
         "Kavieng"
@@ -55,6 +64,9 @@
     "name:fra_x_preferred":[
         "Kavieng"
     ],
+    "name:gle_x_preferred":[
+        "Kavieng"
+    ],
     "name:glg_x_preferred":[
         "Kavieng"
     ],
@@ -67,6 +79,9 @@
     "name:hun_x_preferred":[
         "Kavieng"
     ],
+    "name:ind_x_preferred":[
+        "Kavieng"
+    ],
     "name:ita_x_preferred":[
         "Kavieng"
     ],
@@ -75,6 +90,9 @@
     ],
     "name:kor_x_preferred":[
         "\uce74\ube44\uc5e5"
+    ],
+    "name:lit_x_preferred":[
+        "Kaviengas"
     ],
     "name:nld_x_preferred":[
         "Kavieng"
@@ -111,6 +129,9 @@
     ],
     "name:vie_x_preferred":[
         "Kavieng"
+    ],
+    "name:yue_x_preferred":[
+        "\u5361\u7dad\u6069"
     ],
     "name:zho_x_preferred":[
         "\u5361\u7dad\u6069"
@@ -248,7 +269,7 @@
         }
     ],
     "wof:id":1141908869,
-    "wof:lastmodified":1636500493,
+    "wof:lastmodified":1690850852,
     "wof:name":"Kavieng",
     "wof:parent_id":1091702917,
     "wof:placetype":"locality",

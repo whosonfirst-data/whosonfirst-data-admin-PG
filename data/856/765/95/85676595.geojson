@@ -41,8 +41,14 @@
     "name:bul_x_preferred":[
         "\u041e\u0440\u043e"
     ],
+    "name:cat_x_preferred":[
+        "Prov\u00edncia d'Oro"
+    ],
     "name:ceb_x_preferred":[
         "Northern Province"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Oro"
     ],
     "name:dan_x_preferred":[
         "Oro Province"
@@ -95,6 +101,9 @@
     "name:heb_x_preferred":[
         "\u05e6\u05e4\u05d5\u05e0\u05d9"
     ],
+    "name:heb_x_variant":[
+        "\u05e4\u05e8\u05d5\u05d1\u05d9\u05e0\u05e6\u05d9\u05d9\u05ea \u05d0\u05d5\u05e8\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0913\u0930\u094b \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
@@ -139,6 +148,9 @@
     ],
     "name:msa_x_preferred":[
         "Oro Province"
+    ],
+    "name:nan_x_preferred":[
+        "Oro S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Northern"
@@ -327,7 +339,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1636500469,
+    "wof:lastmodified":1690850827,
     "wof:name":"Northern",
     "wof:parent_id":85632347,
     "wof:placetype":"region",
