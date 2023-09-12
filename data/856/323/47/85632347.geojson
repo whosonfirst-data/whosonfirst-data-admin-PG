@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":37.856756,
-    "geom:area_square_m":464878577842.595764,
+    "geom:area_square_m":464878577842.645752,
     "geom:bbox":"140.842865,-11.657972,155.968781,-1.315444",
     "geom:latitude":-6.478463,
     "geom:longitude":145.256901,
@@ -14,6 +14,9 @@
     "iso:country":"PG",
     "itu:country_code":[
         "675"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "PG"
@@ -1203,7 +1206,8 @@
     ],
     "src:geom_via":"meso",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"675",
     "statoids:ds":"PNG",
     "statoids:fifa":"PNG",
@@ -1262,7 +1266,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"4cc8f8598835a8f31bbcb10eb9282807",
+    "wof:geomhash":"b1dc45ce7248ad35024ae5c0a5a7afef",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -1280,12 +1284,12 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1690850835,
+    "wof:lastmodified":1694492072,
     "wof:name":"Papua New Guinea",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
-    "wof:population":7321262,
-    "wof:population_rank":13,
+    "wof:population":8776109,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-pg",
     "wof:shortcode":"PG",
     "wof:superseded_by":[],
