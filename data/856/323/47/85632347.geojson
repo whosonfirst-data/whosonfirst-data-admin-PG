@@ -1207,7 +1207,7 @@
     "src:geom_via":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"675",
     "statoids:ds":"PNG",
     "statoids:fifa":"PNG",
@@ -1284,7 +1284,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1694492072,
+    "wof:lastmodified":1694639526,
     "wof:name":"Papua New Guinea",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
