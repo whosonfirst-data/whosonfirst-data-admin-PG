@@ -1245,6 +1245,7 @@
         "hasc:id":"PG",
         "icao:code":"P2",
         "ioc:id":"PNG",
+        "iso:code":"PG",
         "itu:id":"PNG",
         "loc:id":"n81034915",
         "m49:code":"598",
@@ -1259,6 +1260,7 @@
         "wk:page":"Papua New Guinea",
         "wmo:id":"NG"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PG",
     "wof:country_alpha3":"PNG",
     "wof:geom_alt":[
@@ -1284,7 +1286,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1694639526,
+    "wof:lastmodified":1695881181,
     "wof:name":"Papua New Guinea",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
