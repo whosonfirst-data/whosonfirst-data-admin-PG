@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.783081,
-    "geom:area_square_m":9664150791.178001,
+    "geom:area_square_m":9664149859.537411,
     "geom:bbox":"149.505386,-4.853806,153.744583,-1.315444",
     "geom:latitude":-3.475702,
     "geom:longitude":151.928057,
@@ -304,17 +304,19 @@
         "gn:id":2089693,
         "gp:id":2346595,
         "hasc:id":"PG.NI",
+        "iso:code":"PG-NIK",
         "iso:id":"PG-NIK",
         "qs_pg:id":423914,
         "unlc:id":"PG-NIK",
         "wd:id":"Q838690",
         "wk:page":"New Ireland Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"40b5fdd4489f7dd76609237bb98e3de6",
+    "wof:geomhash":"b2e32fb18d6ba429fa7630b36fe75dca",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -333,7 +335,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1690850829,
+    "wof:lastmodified":1695884867,
     "wof:name":"New Ireland",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

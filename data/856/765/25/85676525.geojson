@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.901286,
-    "geom:area_square_m":35788431132.43988,
+    "geom:area_square_m":35788432616.089165,
     "geom:bbox":"141.00109,-5.375407,143.09055,-2.604591",
     "geom:latitude":-3.916276,
     "geom:longitude":141.716504,
@@ -303,16 +303,18 @@
         "gn:id":2087246,
         "gp:id":2346598,
         "hasc:id":"PG.SA",
+        "iso:code":"PG-SAN",
         "iso:id":"PG-SAN",
         "qs_pg:id":219598,
         "wd:id":"Q753689",
         "wk:page":"Sandaun Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"423e5b545e6d97f0fe588d08e207fcb0",
+    "wof:geomhash":"82fae07029fd53067623b92546fddd04",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -331,7 +333,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1690850834,
+    "wof:lastmodified":1695884869,
     "wof:name":"Sandaun",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

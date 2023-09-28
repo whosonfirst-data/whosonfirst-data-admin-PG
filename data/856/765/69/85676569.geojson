@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.172701,
-    "geom:area_square_m":2134041165.102628,
+    "geom:area_square_m":2134041165.102064,
     "geom:bbox":"142.823715,-2.579611,147.880386,-1.455417",
     "geom:latitude":-2.10044,
     "geom:longitude":146.941579,
@@ -292,12 +292,14 @@
         "gn:id":2091495,
         "gp:id":2346593,
         "hasc:id":"PG.MN",
+        "iso:code":"PG-MRL",
         "iso:id":"PG-MRL",
         "qs_pg:id":1047219,
         "unlc:id":"PG-MRL",
         "wd:id":"Q874935",
         "wk:page":"Manus Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         1091703475
     ],
@@ -305,7 +307,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"01dbe2f2220280f80fe0303484b6087b",
+    "wof:geomhash":"c0e309b9bd1fd55a4b17ced7f8903d3f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -324,7 +326,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1690850828,
+    "wof:lastmodified":1695884867,
     "wof:name":"Manus",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

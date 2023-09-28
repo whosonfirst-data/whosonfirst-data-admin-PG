@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.397024,
-    "geom:area_square_m":4884126130.785919,
+    "geom:area_square_m":4884127057.460464,
     "geom:bbox":"144.273802,-6.389439,145.023082,-5.216829",
     "geom:latitude":-5.795443,
     "geom:longitude":144.593497,
@@ -128,12 +128,14 @@
     "wof:concordances":{
         "fips:code":"PP22",
         "hasc:id":"PG.JI",
+        "iso:code":"PG-JWK",
         "iso:id":"PG-JWK",
         "wd:id":"Q1400625"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PG",
     "wof:created":1485542317,
-    "wof:geomhash":"39e13af8c04f8430d87c8d1235ec26ab",
+    "wof:geomhash":"adc1928bc50123a059e3f2d9f0815e25",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -152,7 +154,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1690850838,
+    "wof:lastmodified":1695884329,
     "wof:name":"Jiwaka",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.960343,
-    "geom:area_square_m":11821338935.608175,
+    "geom:area_square_m":11821339193.537123,
     "geom:bbox":"142.747715,-5.978645,144.248473,-5.008059",
     "geom:latitude":-5.435936,
     "geom:longitude":143.472421,
@@ -295,17 +295,19 @@
         "gn:id":2097655,
         "gp:id":2346599,
         "hasc:id":"PG.EG",
+        "iso:code":"PG-EPW",
         "iso:id":"PG-EPW",
         "qs_pg:id":219599,
         "unlc:id":"PG-EPW",
         "wd:id":"Q862584",
         "wk:page":"Enga Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7422eef8cc448a018e50a05682e87e2b",
+    "wof:geomhash":"045e25a3537a8c8635016536fd4242a7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -324,7 +326,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1690850833,
+    "wof:lastmodified":1695884869,
     "wof:name":"Enga",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.548087,
-    "geom:area_square_m":43747534548.017792,
+    "geom:area_square_m":43747534679.241226,
     "geom:bbox":"141.335071,-5.158184,144.834549,-3.20625",
     "geom:latitude":-4.312176,
     "geom:longitude":143.171442,
@@ -302,17 +302,19 @@
         "gn:id":2097846,
         "gp:id":2346591,
         "hasc:id":"PG.ES",
+        "iso:code":"PG-ESW",
         "iso:id":"PG-ESW",
         "qs_pg:id":235626,
         "unlc:id":"PG-ESW",
         "wd:id":"Q690880",
         "wk:page":"East Sepik Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ac6595c0ec7a041de16d07038fc522b3",
+    "wof:geomhash":"1591201c01273b6f20416032f9230f93",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -331,7 +333,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1690850829,
+    "wof:lastmodified":1695884867,
     "wof:name":"East Sepik",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.304648,
-    "geom:area_square_m":16029808354.536652,
+    "geom:area_square_m":16029808054.103899,
     "geom:bbox":"142.62518,-6.83655,144.687738,-5.904057",
     "geom:latitude":-6.455866,
     "geom:longitude":143.587709,
@@ -298,17 +298,19 @@
         "gn:id":2086331,
         "gp:id":2346585,
         "hasc:id":"PG.SL",
+        "iso:code":"PG-SHM",
         "iso:id":"PG-SHM",
         "qs_pg:id":423902,
         "unlc:id":"PG-SHM",
         "wd:id":"Q849801",
         "wk:page":"Southern Highlands Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9b839d5fd6e43e25d4449d65ac7175a2",
+    "wof:geomhash":"40d3978920862ce78c8f4e1a81039a6e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -327,7 +329,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1690850833,
+    "wof:lastmodified":1695884869,
     "wof:name":"Southern Highlands",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

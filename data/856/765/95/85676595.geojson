@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.862544,
-    "geom:area_square_m":22747513439.745102,
+    "geom:area_square_m":22747513485.80619,
     "geom:bbox":"147.010785,-9.975395,149.439021,-7.997661",
     "geom:latitude":-8.979895,
     "geom:longitude":148.250476,
@@ -310,17 +310,19 @@
         "gn:id":2089478,
         "gp:id":2346584,
         "hasc:id":"PG.NO",
+        "iso:code":"PG-NPP",
         "iso:id":"PG-NPP",
         "qs_pg:id":1083861,
         "unlc:id":"PG-NPP",
         "wd:id":"Q753686",
         "wk:page":"Oro Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"32fbdc77170b7ab6f4598480e377b15f",
+    "wof:geomhash":"3c0e67ecce77bbea2250afff573a4456",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -339,7 +341,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1690850827,
+    "wof:lastmodified":1695884866,
     "wof:name":"Northern",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

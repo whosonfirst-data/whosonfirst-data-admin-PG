@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.911359,
-    "geom:area_square_m":11197227461.527702,
+    "geom:area_square_m":11197227480.926723,
     "geom:bbox":"144.989909,-7.157816,146.134208,-5.852974",
     "geom:latitude":-6.468417,
     "geom:longitude":145.608841,
@@ -299,17 +299,19 @@
         "gn:id":2097855,
         "gp:id":2346589,
         "hasc:id":"PG.EH",
+        "iso:code":"PG-EHG",
         "iso:id":"PG-EHG",
         "qs_pg:id":219597,
         "unlc:id":"PG-EHG",
         "wd:id":"Q849812",
         "wk:page":"Eastern Highlands Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"12d5774d28b53f1328c27c605bcf1409",
+    "wof:geomhash":"807f22d9bcac17f5bbeb65efbc1d10bd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -328,7 +330,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1690850828,
+    "wof:lastmodified":1695884866,
     "wof:name":"Eastern Highlands",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

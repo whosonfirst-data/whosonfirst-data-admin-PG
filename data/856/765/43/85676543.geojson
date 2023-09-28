@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.769021,
-    "geom:area_square_m":9454050508.07671,
+    "geom:area_square_m":9454049812.599941,
     "geom:bbox":"154.106216,-6.882945,155.968781,-3.359639",
     "geom:latitude":-6.151657,
     "geom:longitude":155.258217,
@@ -332,16 +332,18 @@
         "gn:id":2089470,
         "gp:id":2346587,
         "hasc:id":"PG.NS",
+        "iso:code":"PG-NSB",
         "iso:id":"PG-NSB",
         "qs_pg:id":222828,
         "wd:id":"Q18826",
         "wk:page":"Autonomous Region of Bougainville"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2a532fb835bd38eaa70da91b85d91fbe",
+    "wof:geomhash":"97790da30e3d7eb576dd00bae93882bc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -360,7 +362,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1690850830,
+    "wof:lastmodified":1695884868,
     "wof:name":"North Solomons",
     "wof:parent_id":85632347,
     "wof:placetype":"region",
