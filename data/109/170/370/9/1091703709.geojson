@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.637018,
-    "geom:area_square_m":7847783874.315951,
+    "geom:area_square_m":7847784160.903289,
     "geom:bbox":"143.971448,-5.368797,145.406765,-4.533944",
     "geom:latitude":-4.920397,
     "geom:longitude":144.710523,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.MD.MR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879883,
-    "wof:geomhash":"5e7f2b154367811b1eaa78b9f9fcff42",
+    "wof:geomhash":"fa0dedbbca5b8b8c8b065aa049fc0346",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091703709,
-    "wof:lastmodified":1627522502,
+    "wof:lastmodified":1695886144,
     "wof:name":"Middle Ramu",
     "wof:parent_id":85676523,
     "wof:placetype":"county",

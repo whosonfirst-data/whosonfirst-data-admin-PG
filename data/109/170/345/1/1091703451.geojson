@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.219551,
-    "geom:area_square_m":2703835545.256962,
+    "geom:area_square_m":2703835563.316246,
     "geom:bbox":"145.19892,-5.395489,145.815414,-4.788932",
     "geom:latitude":-5.147913,
     "geom:longitude":145.520321,
@@ -138,9 +138,10 @@
     "wof:concordances":{
         "hasc:id":"PG.MD.MG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879873,
-    "wof:geomhash":"31ea62b18f5ef023e814f33c944f4411",
+    "wof:geomhash":"79081ebe41a7d5e04593c0c7d48fc275",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1091703451,
-    "wof:lastmodified":1636500485,
+    "wof:lastmodified":1695886754,
     "wof:name":"Madang",
     "wof:parent_id":85676523,
     "wof:placetype":"county",

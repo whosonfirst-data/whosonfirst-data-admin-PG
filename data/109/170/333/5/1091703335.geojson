@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011633,
-    "geom:area_square_m":142870327.86636,
+    "geom:area_square_m":142870335.452798,
     "geom:bbox":"146.953077,-6.748421,147.08908,-6.601429",
     "geom:latitude":-6.684016,
     "geom:longitude":147.010444,
@@ -147,9 +147,10 @@
     "wof:concordances":{
         "hasc:id":"PG.MR.LA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879868,
-    "wof:geomhash":"e33ade09cb402b353a15785b22688546",
+    "wof:geomhash":"767cb20238d6dcd87f4f7b281a07a954",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -159,7 +160,7 @@
         }
     ],
     "wof:id":1091703335,
-    "wof:lastmodified":1636500484,
+    "wof:lastmodified":1695886753,
     "wof:name":"Lae",
     "wof:parent_id":85676579,
     "wof:placetype":"county",

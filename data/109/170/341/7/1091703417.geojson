@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110524,
-    "geom:area_square_m":1358023341.418659,
+    "geom:area_square_m":1358023543.272648,
     "geom:bbox":"144.989909,-6.687727,145.492537,-6.212794",
     "geom:latitude":-6.438927,
     "geom:longitude":145.256622,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.EH.LF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879871,
-    "wof:geomhash":"277872894ddd37ebdc2f66ca2f532a6c",
+    "wof:geomhash":"70a709739b964d1390f95fd348ab9d4a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091703417,
-    "wof:lastmodified":1627522502,
+    "wof:lastmodified":1695886143,
     "wof:name":"Lufa",
     "wof:parent_id":85676533,
     "wof:placetype":"county",

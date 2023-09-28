@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.243887,
-    "geom:area_square_m":2998290294.042871,
+    "geom:area_square_m":2998290382.977555,
     "geom:bbox":"154.918953,-6.545665,155.909384,-5.727083",
     "geom:latitude":-6.158988,
     "geom:longitude":155.382615,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.NS.KI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879818,
-    "wof:geomhash":"4c6f8d160c3f9e2c64441e03a0b02f0a",
+    "wof:geomhash":"e75ae61d6ff6387fc8c8881f2320e20b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091702121,
-    "wof:lastmodified":1627522499,
+    "wof:lastmodified":1695886139,
     "wof:name":"Central Bougainville",
     "wof:parent_id":85676543,
     "wof:placetype":"county",

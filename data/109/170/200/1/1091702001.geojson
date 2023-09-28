@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.660948,
-    "geom:area_square_m":8045192714.679337,
+    "geom:area_square_m":8045192019.202955,
     "geom:bbox":"148.965223,-10.704611,151.04039,-9.59125",
     "geom:latitude":-10.131397,
     "geom:longitude":149.910295,
@@ -138,9 +138,10 @@
     "wof:concordances":{
         "hasc:id":"PG.MB.AL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879809,
-    "wof:geomhash":"a695cd9d9de85a18209466dc007d8704",
+    "wof:geomhash":"0d02a2a352364198073f8644b2b602cb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1091702001,
-    "wof:lastmodified":1636500485,
+    "wof:lastmodified":1695886754,
     "wof:name":"Alotau",
     "wof:parent_id":85676575,
     "wof:placetype":"county",

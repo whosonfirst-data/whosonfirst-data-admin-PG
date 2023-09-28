@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.182994,
-    "geom:area_square_m":2258268641.163729,
+    "geom:area_square_m":2258269106.511914,
     "geom:bbox":"143.084615,-3.989258,144.834549,-3.20625",
     "geom:latitude":-3.607172,
     "geom:longitude":143.57091,
@@ -147,9 +147,10 @@
     "wof:concordances":{
         "hasc:id":"PG.ES.WE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879939,
-    "wof:geomhash":"ae8b4ec4f15beabc812ce46ed6755e80",
+    "wof:geomhash":"2c3ee88f0f4a6d80514002f3f4dd9d64",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -159,7 +160,7 @@
         }
     ],
     "wof:id":1091705089,
-    "wof:lastmodified":1636500484,
+    "wof:lastmodified":1695886754,
     "wof:name":"Wewak",
     "wof:parent_id":85676519,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.238717,
-    "geom:area_square_m":2939347411.447624,
+    "geom:area_square_m":2939347527.988312,
     "geom:bbox":"143.535821,-5.506104,144.248473,-5.008059",
     "geom:latitude":-5.25869,
     "geom:longitude":143.881738,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.EG.KM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879863,
-    "wof:geomhash":"b169f7582934be0792b6a5844d8abdac",
+    "wof:geomhash":"62b673691c301b680c0e40df1a8c98e6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091703207,
-    "wof:lastmodified":1627522501,
+    "wof:lastmodified":1695886142,
     "wof:name":"Kompiam-Ambum",
     "wof:parent_id":85676513,
     "wof:placetype":"county",

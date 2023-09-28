@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.396266,
-    "geom:area_square_m":4878247716.542973,
+    "geom:area_square_m":4878248081.602016,
     "geom:bbox":"142.747715,-5.787338,143.71856,-5.023332",
     "geom:latitude":-5.387005,
     "geom:longitude":143.149086,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.EG.LP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879870,
-    "wof:geomhash":"ee8cac09d3e97d9617984cb57fdf713a",
+    "wof:geomhash":"03a226e5571cb1fc70db1d2787caa144",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091703371,
-    "wof:lastmodified":1627522501,
+    "wof:lastmodified":1695886143,
     "wof:name":"Lagaip-Porgera",
     "wof:parent_id":85676513,
     "wof:placetype":"county",

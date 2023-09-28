@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.289536,
-    "geom:area_square_m":3572714265.891302,
+    "geom:area_square_m":3572714797.105875,
     "geom:bbox":"142.028897,-4.065758,142.642266,-3.370236",
     "geom:latitude":-3.692675,
     "geom:longitude":142.381219,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.SA.NU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879898,
-    "wof:geomhash":"ce6bc947806f4c38b6992bfdc854a8ea",
+    "wof:geomhash":"5902ebbd9a166593dde9891043cd70b6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091704057,
-    "wof:lastmodified":1627522503,
+    "wof:lastmodified":1695886145,
     "wof:name":"Nuku",
     "wof:parent_id":85676525,
     "wof:placetype":"county",

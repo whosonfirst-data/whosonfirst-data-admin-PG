@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.204065,
-    "geom:area_square_m":2507103830.695685,
+    "geom:area_square_m":2507102966.076519,
     "geom:bbox":"146.541247,-6.749611,147.581208,-6.25",
     "geom:latitude":-6.495812,
     "geom:longitude":146.983881,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.MR.NW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879890,
-    "wof:geomhash":"ddded1d4bc5ca64f8e5af57d67564fd7",
+    "wof:geomhash":"1923894385eea943e30e4397fe497e5c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091703899,
-    "wof:lastmodified":1627522502,
+    "wof:lastmodified":1695886145,
     "wof:name":"Nawae",
     "wof:parent_id":85676579,
     "wof:placetype":"county",

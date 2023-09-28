@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.084307,
-    "geom:area_square_m":13337303543.864185,
+    "geom:area_square_m":13337304216.267044,
     "geom:bbox":"148.306229,-6.317945,150.781219,-4.617084",
     "geom:latitude":-5.867853,
     "geom:longitude":149.488326,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.WN.KG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879850,
-    "wof:geomhash":"4721c3e1a65d5617d8090f449f2d2485",
+    "wof:geomhash":"9a332417e164864bf7b9030f6e0a21a8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091702827,
-    "wof:lastmodified":1627522501,
+    "wof:lastmodified":1695886141,
     "wof:name":"Kandrian-Gloucester",
     "wof:parent_id":85676599,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069687,
-    "geom:area_square_m":859951569.951508,
+    "geom:area_square_m":859951866.309425,
     "geom:bbox":"142.826713,-3.816867,143.185812,-3.48793",
     "geom:latitude":-3.640547,
     "geom:longitude":143.025574,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.ES.MP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879876,
-    "wof:geomhash":"907de2f4bcd07aa015a7a4d8a18339bb",
+    "wof:geomhash":"a232a80d26a6ac103fbe17bd3bf14f31",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091703523,
-    "wof:lastmodified":1627522502,
+    "wof:lastmodified":1695886143,
     "wof:name":"Maprik",
     "wof:parent_id":85676519,
     "wof:placetype":"county",

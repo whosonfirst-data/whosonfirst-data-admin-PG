@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.792796,
-    "geom:area_square_m":9683086625.981245,
+    "geom:area_square_m":9683087325.366261,
     "geom:bbox":"146.374442,-9.680496,147.859918,-8.102623",
     "geom:latitude":-8.96758,
     "geom:longitude":147.068314,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.CE.KH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879847,
-    "wof:geomhash":"cf4399098d53d03de88b8993a7d472db",
+    "wof:geomhash":"8e230024822d3fba0d63483c0875be50",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091702751,
-    "wof:lastmodified":1627522500,
+    "wof:lastmodified":1695886141,
     "wof:name":"Kairuku-Hiri",
     "wof:parent_id":85676561,
     "wof:placetype":"county",

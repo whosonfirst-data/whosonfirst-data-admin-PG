@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.216134,
-    "geom:area_square_m":14994279098.596479,
+    "geom:area_square_m":14994278660.582716,
     "geom:bbox":"141.335071,-5.042559,143.075539,-3.403964",
     "geom:latitude":-4.346,
     "geom:longitude":142.30768,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.ES.AT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879811,
-    "wof:geomhash":"463f5bf2ffa7440dee84d585afd05e9a",
+    "wof:geomhash":"1279b119c41a15fed5a66f692aea32d2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091702053,
-    "wof:lastmodified":1627522499,
+    "wof:lastmodified":1695886138,
     "wof:name":"Ambunti-Dreikikir",
     "wof:parent_id":85676519,
     "wof:placetype":"county",

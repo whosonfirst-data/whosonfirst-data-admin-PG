@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.805067,
-    "geom:area_square_m":9844212330.487059,
+    "geom:area_square_m":9844212052.089331,
     "geom:bbox":"147.010785,-9.294536,148.254089,-7.997661",
     "geom:latitude":-8.541534,
     "geom:longitude":147.77468,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.NO.KK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879913,
-    "wof:geomhash":"83aab7d703bf5e8318260da97a8ce630",
+    "wof:geomhash":"9bfaee98af34a68306133384820cb35a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091704393,
-    "wof:lastmodified":1627522503,
+    "wof:lastmodified":1695886146,
     "wof:name":"Sohe",
     "wof:parent_id":85676595,
     "wof:placetype":"county",

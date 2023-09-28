@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.092009,
-    "geom:area_square_m":1131413992.99694,
+    "geom:area_square_m":1131413728.028479,
     "geom:bbox":"143.384062,-6.168667,143.889012,-5.904057",
     "geom:latitude":-6.030189,
     "geom:longitude":143.640974,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.SL.MD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879879,
-    "wof:geomhash":"a230105175f32f83e15f57e68a871312",
+    "wof:geomhash":"ab825f95daadee407ad6b77fc341e5b4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091703589,
-    "wof:lastmodified":1627522502,
+    "wof:lastmodified":1695886143,
     "wof:name":"Mendi-Munihu",
     "wof:parent_id":85676547,
     "wof:placetype":"county",

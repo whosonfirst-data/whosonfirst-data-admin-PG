@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.577277,
-    "geom:area_square_m":7104704339.765695,
+    "geom:area_square_m":7104703835.206188,
     "geom:bbox":"149.74762,-6.001926,151.684771,-4.884583",
     "geom:latitude":-5.543083,
     "geom:longitude":150.49266,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"PG.WN.TL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879919,
-    "wof:geomhash":"46cd26c2fe0cee3d40b083688a19c39f",
+    "wof:geomhash":"a782b7121059c54ee84733016118491e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1091704547,
-    "wof:lastmodified":1627522504,
+    "wof:lastmodified":1695886148,
     "wof:name":"Talasea",
     "wof:parent_id":85676599,
     "wof:placetype":"county",

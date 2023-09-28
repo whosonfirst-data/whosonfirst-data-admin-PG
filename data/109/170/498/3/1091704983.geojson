@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076733,
-    "geom:area_square_m":944724894.817408,
+    "geom:area_square_m":944725262.589097,
     "geom:bbox":"143.319032,-5.613999,143.852188,-5.065814",
     "geom:latitude":-5.323933,
     "geom:longitude":143.575491,
@@ -135,9 +135,10 @@
     "wof:concordances":{
         "hasc:id":"PG.EG.WB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879935,
-    "wof:geomhash":"fd0e1e400fd1647b602b871962501cfa",
+    "wof:geomhash":"54e752c10efb7717a262e192848bd40d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1091704983,
-    "wof:lastmodified":1636500483,
+    "wof:lastmodified":1695886753,
     "wof:name":"Wabag",
     "wof:parent_id":85676513,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.63856,
-    "geom:area_square_m":7844838596.272667,
+    "geom:area_square_m":7844838499.756181,
     "geom:bbox":"142.62518,-6.83655,143.691152,-6.092714",
     "geom:latitude":-6.518363,
     "geom:longitude":143.15978,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.SL.NI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879892,
-    "wof:geomhash":"695b9f85c1884ac54246b7c1fb5a6344",
+    "wof:geomhash":"bc6ccf4240fccd958763207e4e3672ba",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091703941,
-    "wof:lastmodified":1627522502,
+    "wof:lastmodified":1695886145,
     "wof:name":"Nipa-Kutubu",
     "wof:parent_id":85676547,
     "wof:placetype":"county",

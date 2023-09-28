@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.642457,
-    "geom:area_square_m":7859522561.945793,
+    "geom:area_square_m":7859521877.237886,
     "geom:bbox":"146.379146,-8.881648,147.650364,-7.768499",
     "geom:latitude":-8.364141,
     "geom:longitude":147.005221,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.CE.GL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879829,
-    "wof:geomhash":"198db33ce09081031591fcb26ee94d36",
+    "wof:geomhash":"e83720b1efe163c29a11bbc9093d90da",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091702425,
-    "wof:lastmodified":1627522500,
+    "wof:lastmodified":1695886139,
     "wof:name":"Goilala",
     "wof:parent_id":85676561,
     "wof:placetype":"county",

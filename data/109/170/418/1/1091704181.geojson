@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008867,
-    "geom:area_square_m":109343535.301626,
+    "geom:area_square_m":109343405.397469,
     "geom:bbox":"152.05455,-4.282917,152.23378,-4.088778",
     "geom:latitude":-4.197694,
     "geom:longitude":152.157088,
@@ -180,9 +180,10 @@
     "wof:concordances":{
         "hasc:id":"PG.EN.RL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879905,
-    "wof:geomhash":"625c59186272747f8e82d387859a3136",
+    "wof:geomhash":"17fd3fc1890b1a1bb4a45ee2f7e96f10",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -192,7 +193,7 @@
         }
     ],
     "wof:id":1091704181,
-    "wof:lastmodified":1636500484,
+    "wof:lastmodified":1695886754,
     "wof:name":"Rabaul",
     "wof:parent_id":85676565,
     "wof:placetype":"county",

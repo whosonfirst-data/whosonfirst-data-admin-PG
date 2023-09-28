@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039315,
-    "geom:area_square_m":483659691.169256,
+    "geom:area_square_m":483659792.410842,
     "geom:bbox":"144.489639,-5.938087,144.827594,-5.68173",
     "geom:latitude":-5.792064,
     "geom:longitude":144.667571,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.JI.NW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879897,
-    "wof:geomhash":"b182d676af824292291e86f571570c58",
+    "wof:geomhash":"0f756ebe5aeb8e96fd4f415149795768",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091704043,
-    "wof:lastmodified":1627522503,
+    "wof:lastmodified":1695886145,
     "wof:name":"North Waghi",
     "wof:parent_id":1108805613,
     "wof:placetype":"county",

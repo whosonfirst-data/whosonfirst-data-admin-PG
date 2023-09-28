@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.365242,
-    "geom:area_square_m":4488477659.059343,
+    "geom:area_square_m":4488477659.05942,
     "geom:bbox":"145.864947951,-6.94695378676,146.69778813,-5.98172809203",
     "geom:latitude":-6.357436,
     "geom:longitude":146.264431,
@@ -114,9 +114,10 @@
     "wof:concordances":{
         "hasc:id":"PG.MR.KP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879877,
-    "wof:geomhash":"a129c27b8191526e7cb7a1a599c6064a",
+    "wof:geomhash":"b61d69804f3c8c16b2419e2a6f989e29",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1091703565,
-    "wof:lastmodified":1566678541,
+    "wof:lastmodified":1695886604,
     "wof:name":"Markham",
     "wof:parent_id":85676579,
     "wof:placetype":"county",

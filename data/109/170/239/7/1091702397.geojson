@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.272522,
-    "geom:area_square_m":3359489041.322471,
+    "geom:area_square_m":3359489041.322322,
     "geom:bbox":"151.487075806,-4.9815355639,152.212130331,-4.187055588",
     "geom:latitude":-4.478287,
     "geom:longitude":151.823425,
@@ -246,9 +246,10 @@
     "wof:concordances":{
         "hasc:id":"PG.EN.GZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879827,
-    "wof:geomhash":"eb837e47f7f2e048e345d9d133e4c694",
+    "wof:geomhash":"7ecb4710c027c946c2082d3c7d2f3a33",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -258,7 +259,7 @@
         }
     ],
     "wof:id":1091702397,
-    "wof:lastmodified":1566678548,
+    "wof:lastmodified":1695886605,
     "wof:name":"Gazelle",
     "wof:parent_id":85676565,
     "wof:placetype":"county",

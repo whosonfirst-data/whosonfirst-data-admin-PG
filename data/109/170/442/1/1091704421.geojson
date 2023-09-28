@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.29911,
-    "geom:area_square_m":3674418775.111747,
+    "geom:area_square_m":3674418183.200615,
     "geom:bbox":"154.952312,-6.882945,155.968781,-6.097319",
     "geom:latitude":-6.547143,
     "geom:longitude":155.486663,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.NS.BN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879914,
-    "wof:geomhash":"3dea6dd37a432d38aa363cb27d66d948",
+    "wof:geomhash":"71e8d592707620aea144862222113ab1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091704421,
-    "wof:lastmodified":1627522504,
+    "wof:lastmodified":1695886147,
     "wof:name":"South Bougainville",
     "wof:parent_id":85676543,
     "wof:placetype":"county",

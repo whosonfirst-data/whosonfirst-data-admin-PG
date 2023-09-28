@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.232323,
-    "geom:area_square_m":2852244027.069283,
+    "geom:area_square_m":2852244291.118488,
     "geom:bbox":"145.388004,-7.157816,146.069625,-6.514063",
     "geom:latitude":-6.842388,
     "geom:longitude":145.775155,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.EH.OW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879900,
-    "wof:geomhash":"bdb97dd8b6c9e4421c7236ff2f426644",
+    "wof:geomhash":"f49b54075ae4ce9c71d7019019873d4b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091704061,
-    "wof:lastmodified":1627522503,
+    "wof:lastmodified":1695886145,
     "wof:name":"Obura-Wonenara",
     "wof:parent_id":85676533,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.17442,
-    "geom:area_square_m":2143369703.81905,
+    "geom:area_square_m":2143369411.428944,
     "geom:bbox":"143.79164,-6.646423,144.564606,-6.160912",
     "geom:latitude":-6.381949,
     "geom:longitude":144.224091,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.SL.IP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879836,
-    "wof:geomhash":"a3f87489fba805b3ee28ee4b3ac25504",
+    "wof:geomhash":"9c3330d57f1c7556e5ae130be4eb3431",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091702491,
-    "wof:lastmodified":1627522500,
+    "wof:lastmodified":1695886140,
     "wof:name":"Ialibu-Pangia",
     "wof:parent_id":85676547,
     "wof:placetype":"county",

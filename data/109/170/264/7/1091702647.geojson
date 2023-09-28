@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.292448,
-    "geom:area_square_m":3595261431.473186,
+    "geom:area_square_m":3595261460.170765,
     "geom:bbox":"146.503356,-6.417619,147.588176,-5.883242",
     "geom:latitude":-6.163856,
     "geom:longitude":147.026609,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.MR.KW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879843,
-    "wof:geomhash":"4da2ee68b61862189db49bb5b0964906",
+    "wof:geomhash":"fa288d855a365acb4b5e0cfea6e80f43",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091702647,
-    "wof:lastmodified":1627522500,
+    "wof:lastmodified":1695886140,
     "wof:name":"Kabwum",
     "wof:parent_id":85676579,
     "wof:placetype":"county",

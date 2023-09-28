@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.294241,
-    "geom:area_square_m":3614207270.782364,
+    "geom:area_square_m":3614206788.762508,
     "geom:bbox":"143.616622,-6.828902,144.687738,-6.240366",
     "geom:latitude":-6.602779,
     "geom:longitude":144.007304,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.SL.KG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879844,
-    "wof:geomhash":"dc266305ec3b90db081ee3022746e460",
+    "wof:geomhash":"24f36b41c64174ff67ed288189c6abdd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091702665,
-    "wof:lastmodified":1627522500,
+    "wof:lastmodified":1695886140,
     "wof:name":"Kagua-Erave",
     "wof:parent_id":85676547,
     "wof:placetype":"county",

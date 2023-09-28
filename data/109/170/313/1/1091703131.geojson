@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032407,
-    "geom:area_square_m":399555293.125492,
+    "geom:area_square_m":399555293.125429,
     "geom:bbox":"152.156980369,-4.5270594873,152.497909546,-4.118750095",
     "geom:latitude":-4.361817,
     "geom:longitude":152.308976,
@@ -120,9 +120,10 @@
     "wof:concordances":{
         "hasc:id":"PG.EN.KO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879861,
-    "wof:geomhash":"d1cbce0445535b1ad9a65c07a5e429c8",
+    "wof:geomhash":"7c5960c962048421a7befecc5ae851a3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1091703131,
-    "wof:lastmodified":1566678540,
+    "wof:lastmodified":1695886604,
     "wof:name":"Kokopo",
     "wof:parent_id":85676565,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.541241,
-    "geom:area_square_m":6676746142.720158,
+    "geom:area_square_m":6676745547.26342,
     "geom:bbox":"151.429367,-4.853806,153.744583,-2.592111",
     "geom:latitude":-3.89916,
     "geom:longitude":152.550188,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"PG.NI.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879887,
-    "wof:geomhash":"e4f9b6673411b09145a584fa70218c01",
+    "wof:geomhash":"404c621b99720befa35f3f7b7e16d303",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1091703829,
-    "wof:lastmodified":1627522502,
+    "wof:lastmodified":1695886144,
     "wof:name":"Namatanai",
     "wof:parent_id":85676587,
     "wof:placetype":"county",

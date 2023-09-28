@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.287214,
-    "geom:area_square_m":3528283209.766542,
+    "geom:area_square_m":3528283732.841202,
     "geom:bbox":"144.423151,-6.871516,145.348156,-6.188351",
     "geom:latitude":-6.546763,
     "geom:longitude":144.885975,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.CH.KM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879851,
-    "wof:geomhash":"ac222e1333c706df6d793ef4d399c3d4",
+    "wof:geomhash":"174fadb73316e5142bb23ad2554150d0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091702873,
-    "wof:lastmodified":1627522501,
+    "wof:lastmodified":1695886141,
     "wof:name":"Karimui-Nomane",
     "wof:parent_id":85676531,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.302633,
-    "geom:area_square_m":3731155995.26279,
+    "geom:area_square_m":3731155332.30636,
     "geom:bbox":"144.569217,-4.687061,145.482455,-4.000548",
     "geom:latitude":-4.383342,
     "geom:longitude":144.921352,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"PG.MD.BG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879816,
-    "wof:geomhash":"991d714dd6da57b81624471c15c98556",
+    "wof:geomhash":"ff53a97a6f4c8c5e410498e6dcace14a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1091702063,
-    "wof:lastmodified":1627522499,
+    "wof:lastmodified":1695886139,
     "wof:name":"Bogia",
     "wof:parent_id":85676523,
     "wof:placetype":"county",

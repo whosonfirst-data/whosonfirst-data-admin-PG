@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028161,
-    "geom:area_square_m":346281751.264114,
+    "geom:area_square_m":346281402.968815,
     "geom:bbox":"145.258228,-6.149019,145.478215,-5.895716",
     "geom:latitude":-6.036037,
     "geom:longitude":145.382391,
@@ -141,9 +141,10 @@
     "wof:concordances":{
         "hasc:id":"PG.EH.GK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879830,
-    "wof:geomhash":"aaf72d2d8bba82cd82ff7ea630bd2767",
+    "wof:geomhash":"8d6dad641c1432348a328e8df443e1ac",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":1091702429,
-    "wof:lastmodified":1636500483,
+    "wof:lastmodified":1695886753,
     "wof:name":"Goroka",
     "wof:parent_id":85676533,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057349,
-    "geom:area_square_m":704990669.946293,
+    "geom:area_square_m":704990454.685048,
     "geom:bbox":"144.6814,-6.350216,144.979757,-6.031337",
     "geom:latitude":-6.196153,
     "geom:longitude":144.834219,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.CH.GM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879832,
-    "wof:geomhash":"d9cbdf2d7af3bb2b52690afc9eae8868",
+    "wof:geomhash":"3c97e4f04a424ac1d6c026ef78615705",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091702431,
-    "wof:lastmodified":1627522500,
+    "wof:lastmodified":1695886140,
     "wof:name":"Gumine",
     "wof:parent_id":85676531,
     "wof:placetype":"county",

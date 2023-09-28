@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.165643,
-    "geom:area_square_m":2037923805.482503,
+    "geom:area_square_m":2037923632.002974,
     "geom:bbox":"142.983062,-5.978645,143.826999,-5.518929",
     "geom:latitude":-5.743565,
     "geom:longitude":143.407152,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.EG.KD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879848,
-    "wof:geomhash":"0e99f8c307bde94fdf6118cde741c18b",
+    "wof:geomhash":"956bc237d612ed41a789cecae416b2eb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091702785,
-    "wof:lastmodified":1627522500,
+    "wof:lastmodified":1695886141,
     "wof:name":"Kandep",
     "wof:parent_id":85676513,
     "wof:placetype":"county",
