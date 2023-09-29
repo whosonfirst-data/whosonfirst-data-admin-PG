@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.146439,
-    "geom:area_square_m":1800866552.339863,
+    "geom:area_square_m":1800866536.18964,
     "geom:bbox":"143.772165,-6.233833,144.486155,-5.747052",
     "geom:latitude":-5.988961,
     "geom:longitude":144.148632,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.WL.TR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879920,
-    "wof:geomhash":"fdc414a2e6acc163c578a64ae6704b1f",
+    "wof:geomhash":"54ca0427ee70c79cb01706ac8f13e027",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091704589,
-    "wof:lastmodified":1627522504,
+    "wof:lastmodified":1695886148,
     "wof:name":"Tambul-Nebilyer",
     "wof:parent_id":85676551,
     "wof:placetype":"county",

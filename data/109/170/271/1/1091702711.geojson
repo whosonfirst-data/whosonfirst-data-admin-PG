@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.158546,
-    "geom:area_square_m":1948592069.102956,
+    "geom:area_square_m":1948591728.35046,
     "geom:bbox":"145.609791,-6.518839,146.134208,-5.976505",
     "geom:latitude":-6.303753,
     "geom:longitude":145.90373,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"PG.EH.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879845,
-    "wof:geomhash":"ece73ccd1bbba241ceb4224253c1a529",
+    "wof:geomhash":"64ec478c97ca967a11fa438ac6e02ae5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1091702711,
-    "wof:lastmodified":1627522500,
+    "wof:lastmodified":1695886140,
     "wof:name":"Kainantu",
     "wof:parent_id":85676533,
     "wof:placetype":"county",

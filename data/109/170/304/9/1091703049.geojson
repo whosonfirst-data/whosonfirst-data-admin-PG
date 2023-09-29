@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.26497,
-    "geom:area_square_m":27780980281.435959,
+    "geom:area_square_m":27780981233.942924,
     "geom:bbox":"142.990373,-7.95268,145.716977,-6.699639",
     "geom:latitude":-7.274962,
     "geom:longitude":144.46924,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"PG.GU.KK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879858,
-    "wof:geomhash":"f4199ff929c45364c4eb1c5a57229ea5",
+    "wof:geomhash":"8a60b5abb4655eb90fc05023b1777285",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1091703049,
-    "wof:lastmodified":1627522501,
+    "wof:lastmodified":1695886142,
     "wof:name":"Kikori",
     "wof:parent_id":85676539,
     "wof:placetype":"county",

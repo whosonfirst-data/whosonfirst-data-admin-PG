@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.212238,
-    "geom:area_square_m":2618552736.190017,
+    "geom:area_square_m":2618552779.229401,
     "geom:bbox":"143.165568,-4.002551,143.84419,-3.532134",
     "geom:latitude":-3.81173,
     "geom:longitude":143.460997,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.ES.YS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879942,
-    "wof:geomhash":"c5c7fd3942cc55715e010fe8a9380bd8",
+    "wof:geomhash":"80bfc6a7db45b60d6be1bc0f6abf93fa",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091705179,
-    "wof:lastmodified":1627522505,
+    "wof:lastmodified":1695886149,
     "wof:name":"Yangoro-Saussia",
     "wof:parent_id":85676519,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.858697,
-    "geom:area_square_m":35054981260.470215,
+    "geom:area_square_m":35054982736.699242,
     "geom:bbox":"142.990373,-8.58276,146.652965,-6.699639",
     "geom:latitude":-7.378577,
     "geom:longitude":144.800735,
@@ -283,17 +283,19 @@
         "gn:id":2096633,
         "gp:id":2346582,
         "hasc:id":"PG.GU",
+        "iso:code":"PG-GPK",
         "iso:id":"PG-GPK",
         "qs_pg:id":1004450,
         "unlc:id":"PG-GPK",
         "wd:id":"Q874980",
         "wk:page":"Gulf Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"83848f5f418211d80c7393ef25fccc05",
+    "wof:geomhash":"a6f7eecdaf2f80f3b072a575beeb39f8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -312,7 +314,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1690850831,
+    "wof:lastmodified":1695884868,
     "wof:name":"Gulf",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

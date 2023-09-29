@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.413178,
-    "geom:area_square_m":5035899958.402683,
+    "geom:area_square_m":5035899958.399329,
     "geom:bbox":"147.411716887,-10.107916832,148.245270566,-9.2483642621",
     "geom:latitude":-9.703623,
     "geom:longitude":147.834924,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"PG.CE.RG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879908,
-    "wof:geomhash":"827d546f5a06c41e4139c9f7faff7546",
+    "wof:geomhash":"c8b4d22f0017e346c3fe2008f58fd416",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1091704253,
-    "wof:lastmodified":1566678533,
+    "wof:lastmodified":1695886604,
     "wof:name":"Rigo",
     "wof:parent_id":85676561,
     "wof:placetype":"county",

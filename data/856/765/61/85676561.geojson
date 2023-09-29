@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.430917,
-    "geom:area_square_m":29670535841.457455,
+    "geom:area_square_m":29670535611.688072,
     "geom:bbox":"146.374442,-10.37125,149.66684,-7.768499",
     "geom:latitude":-9.192515,
     "geom:longitude":147.615524,
@@ -298,17 +298,19 @@
         "gn:id":2133763,
         "gp:id":2346581,
         "hasc:id":"PG.CE",
+        "iso:code":"PG-CPM",
         "iso:id":"PG-CPM",
         "qs_pg:id":894962,
         "unlc:id":"PG-CPM",
         "wd:id":"Q874942",
         "wk:page":"Central Province (Papua New Guinea)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7d8fc2c8849fa32515ca5e0493ce1b52",
+    "wof:geomhash":"c45868145222c134e352b83ada4687c5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -327,7 +329,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1690850827,
+    "wof:lastmodified":1695884866,
     "wof:name":"Central",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

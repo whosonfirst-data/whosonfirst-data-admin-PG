@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.241841,
-    "geom:area_square_m":2987404648.457971,
+    "geom:area_square_m":2987404312.274728,
     "geom:bbox":"149.505386,-3.090595,151.553476,-1.315444",
     "geom:latitude":-2.528001,
     "geom:longitude":150.535724,
@@ -141,9 +141,10 @@
     "wof:concordances":{
         "hasc:id":"PG.NI.KV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879853,
-    "wof:geomhash":"3f81907a4fddb8cc56f08772dee2c181",
+    "wof:geomhash":"f0070168ba3df0f8fe968f7f3f0b1441",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":1091702917,
-    "wof:lastmodified":1636500485,
+    "wof:lastmodified":1695886754,
     "wof:name":"Kavieng",
     "wof:parent_id":85676587,
     "wof:placetype":"county",

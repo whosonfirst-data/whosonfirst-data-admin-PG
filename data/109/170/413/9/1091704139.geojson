@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.938284,
-    "geom:area_square_m":11552095875.11804,
+    "geom:area_square_m":11552096391.497181,
     "geom:bbox":"150.591938,-6.06514,152.382919,-4.444618",
     "geom:latitude":-5.304598,
     "geom:longitude":151.569924,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.EN.PM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879903,
-    "wof:geomhash":"300e113d70da133d3c95f35306da4e53",
+    "wof:geomhash":"eb1accf73ca96b071f3a053afbd8166f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091704139,
-    "wof:lastmodified":1627522503,
+    "wof:lastmodified":1695886146,
     "wof:name":"Pomio",
     "wof:parent_id":85676565,
     "wof:placetype":"county",

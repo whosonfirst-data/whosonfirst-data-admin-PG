@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.232295,
-    "geom:area_square_m":15159923549.903732,
+    "geom:area_square_m":15159923296.265411,
     "geom:bbox":"140.872775,-6.652695,142.178247,-4.992097",
     "geom:latitude":-5.773712,
     "geom:longitude":141.438661,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.WE.KI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879895,
-    "wof:geomhash":"59873d608cef816ca141278f6f589366",
+    "wof:geomhash":"54f431713a5fed0d8b5bd92bc1339c71",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091704007,
-    "wof:lastmodified":1627522503,
+    "wof:lastmodified":1695886145,
     "wof:name":"North Fly",
     "wof:parent_id":85676557,
     "wof:placetype":"county",

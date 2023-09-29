@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.19914,
-    "geom:area_square_m":2446504629.901568,
+    "geom:area_square_m":2446504629.901717,
     "geom:bbox":"147.135313338,-6.71429360116,147.862976074,-6.33615593506",
     "geom:latitude":-6.514773,
     "geom:longitude":147.539417,
@@ -90,9 +90,10 @@
     "wof:concordances":{
         "hasc:id":"PG.MR.FI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879826,
-    "wof:geomhash":"9502f891ce33812c4f31560e1d08c4f2",
+    "wof:geomhash":"34bb10b653a515bf1d37907d09490145",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1091702351,
-    "wof:lastmodified":1566678537,
+    "wof:lastmodified":1695886604,
     "wof:name":"Finschhafen",
     "wof:parent_id":85676579,
     "wof:placetype":"county",

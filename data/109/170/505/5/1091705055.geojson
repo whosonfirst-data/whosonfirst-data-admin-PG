@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082984,
-    "geom:area_square_m":1021095107.317118,
+    "geom:area_square_m":1021094689.354483,
     "geom:bbox":"143.708484,-5.837936,144.054371,-5.481602",
     "geom:latitude":-5.668987,
     "geom:longitude":143.873925,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.EG.WP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879938,
-    "wof:geomhash":"003a5c4d3a409fae9ae20f0f716790dd",
+    "wof:geomhash":"d693673d79fadedfadb1d39859d9ccfd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091705055,
-    "wof:lastmodified":1627522505,
+    "wof:lastmodified":1695886148,
     "wof:name":"Wapenamanda",
     "wof:parent_id":85676513,
     "wof:placetype":"county",

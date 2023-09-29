@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.463658,
-    "geom:area_square_m":5704826440.771218,
+    "geom:area_square_m":5704826293.231943,
     "geom:bbox":"145.543774,-6.001391,147.218781,-5.098805",
     "geom:latitude":-5.702123,
     "geom:longitude":146.179628,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.MD.RC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879907,
-    "wof:geomhash":"804dd0c78a46d48267787e4b12fe241e",
+    "wof:geomhash":"d53ccb14696aaf4904001d951e18b728",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091704219,
-    "wof:lastmodified":1627522503,
+    "wof:lastmodified":1695886146,
     "wof:name":"Rai Coast",
     "wof:parent_id":85676523,
     "wof:placetype":"county",

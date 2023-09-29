@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.359246,
-    "geom:area_square_m":29053295510.339405,
+    "geom:area_square_m":29053294829.986454,
     "geom:bbox":"143.971448,-6.001391,147.218781,-4.000548",
     "geom:latitude":-5.16029,
     "geom:longitude":145.286534,
@@ -295,17 +295,19 @@
         "gn:id":2091993,
         "gp:id":2346592,
         "hasc:id":"PG.MD",
+        "iso:code":"PG-MPM",
         "iso:id":"PG-MPM",
         "qs_pg:id":423913,
         "unlc:id":"PG-MPM",
         "wd:id":"Q326254",
         "wk:page":"Madang Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3aa9c42140c354564d96ad1ccb28b101",
+    "wof:geomhash":"20ae7e5e90976f95382501c9911fdf2a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -324,7 +326,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1690850833,
+    "wof:lastmodified":1695884868,
     "wof:name":"Madang",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

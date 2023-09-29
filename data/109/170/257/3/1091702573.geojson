@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105418,
-    "geom:area_square_m":1295978790.666603,
+    "geom:area_square_m":1295979626.127342,
     "geom:bbox":"143.512899,-6.315289,144.232633,-5.998613",
     "geom:latitude":-6.161072,
     "geom:longitude":143.909272,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.SL.IB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879840,
-    "wof:geomhash":"5c65b36036b2ba507af3e7349b2dc396",
+    "wof:geomhash":"0576fe966bb98160d63def63b3baa8b0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091702573,
-    "wof:lastmodified":1627522500,
+    "wof:lastmodified":1695886140,
     "wof:name":"Imbonggu",
     "wof:parent_id":85676547,
     "wof:placetype":"county",

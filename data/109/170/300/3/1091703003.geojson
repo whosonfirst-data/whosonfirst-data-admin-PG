@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049102,
-    "geom:area_square_m":603908878.069704,
+    "geom:area_square_m":603908403.382771,
     "geom:bbox":"144.694197,-6.094182,145.024862,-5.775556",
     "geom:latitude":-5.924442,
     "geom:longitude":144.869896,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.CH.KG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879856,
-    "wof:geomhash":"112627997162168be4ee428a90ea1b96",
+    "wof:geomhash":"37c92ad772f3879e4095fc7880244fa5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091703003,
-    "wof:lastmodified":1627522501,
+    "wof:lastmodified":1695886142,
     "wof:name":"Kerowagi",
     "wof:parent_id":85676531,
     "wof:placetype":"county",

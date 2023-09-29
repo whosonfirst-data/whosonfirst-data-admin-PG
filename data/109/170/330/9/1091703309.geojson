@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036883,
-    "geom:area_square_m":453630489.422182,
+    "geom:area_square_m":453630813.442876,
     "geom:bbox":"144.8529,-6.043981,145.16477,-5.775735",
     "geom:latitude":-5.915646,
     "geom:longitude":145.03661,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.CH.KD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879867,
-    "wof:geomhash":"8c8345f5aa242b1699d72fbed69f83dd",
+    "wof:geomhash":"e3ae0fba2f8c89e4cce9a7e9ed962004",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091703309,
-    "wof:lastmodified":1627522501,
+    "wof:lastmodified":1695886142,
     "wof:name":"Kundiawa-Gembogl",
     "wof:parent_id":85676531,
     "wof:placetype":"county",

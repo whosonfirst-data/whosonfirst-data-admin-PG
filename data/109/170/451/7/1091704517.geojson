@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.158605,
-    "geom:area_square_m":1954424099.533319,
+    "geom:area_square_m":1954423770.734694,
     "geom:bbox":"145.245794,-5.043907,146.257919,-4.522083",
     "geom:latitude":-4.756168,
     "geom:longitude":145.651592,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.MD.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879917,
-    "wof:geomhash":"bb47cae027726ca83c2fabe80ac70c49",
+    "wof:geomhash":"a3089d5475b50c587fe396bc0795b200",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091704517,
-    "wof:lastmodified":1627522504,
+    "wof:lastmodified":1695886147,
     "wof:name":"Sumkar",
     "wof:parent_id":85676523,
     "wof:placetype":"county",

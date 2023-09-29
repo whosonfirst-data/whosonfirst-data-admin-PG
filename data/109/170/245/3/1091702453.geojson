@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.465644,
-    "geom:area_square_m":5713204324.258113,
+    "geom:area_square_m":5713204324.255614,
     "geom:bbox":"146.179839217,-8.01050609418,147.957077026,-6.32735911904",
     "geom:latitude":-7.118184,
     "geom:longitude":146.936096,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"PG.MR.HG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879835,
-    "wof:geomhash":"030575ed4d6a0f9095aec24bcb22b088",
+    "wof:geomhash":"48726aa71e6a0c0985dd9f02cb52ce49",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1091702453,
-    "wof:lastmodified":1566678533,
+    "wof:lastmodified":1695886604,
     "wof:name":"Huon",
     "wof:parent_id":85676579,
     "wof:placetype":"county",

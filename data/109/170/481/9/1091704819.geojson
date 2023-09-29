@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.577781,
-    "geom:area_square_m":7111269555.20142,
+    "geom:area_square_m":7111269709.503863,
     "geom:bbox":"144.584468,-5.998373,146.019837,-4.948968",
     "geom:latitude":-5.512558,
     "geom:longitude":145.207139,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.MD.UB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879929,
-    "wof:geomhash":"52db1235fdaf2c3daa2be2a0266668b6",
+    "wof:geomhash":"3a2dacf35db6553f0d9bad440fb252e7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091704819,
-    "wof:lastmodified":1627522504,
+    "wof:lastmodified":1695886148,
     "wof:name":"Usino-Bundi",
     "wof:parent_id":85676523,
     "wof:placetype":"county",

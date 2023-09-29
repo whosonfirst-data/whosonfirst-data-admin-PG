@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048984,
-    "geom:area_square_m":602403443.483849,
+    "geom:area_square_m":602403711.292721,
     "geom:bbox":"145.122912,-6.130977,145.38941,-5.852974",
     "geom:latitude":-5.978425,
     "geom:longitude":145.238541,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.EH.DA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879821,
-    "wof:geomhash":"b21961a659ea48c44e92a9c0354c3073",
+    "wof:geomhash":"6bb7641f86ceae557bbe99bf47911e5f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091702211,
-    "wof:lastmodified":1627522499,
+    "wof:lastmodified":1695886139,
     "wof:name":"Daulo",
     "wof:parent_id":85676533,
     "wof:placetype":"county",

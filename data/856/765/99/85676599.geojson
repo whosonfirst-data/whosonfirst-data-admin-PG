@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.661584,
-    "geom:area_square_m":20442007883.627045,
+    "geom:area_square_m":20442008051.476093,
     "geom:bbox":"148.306229,-6.317945,151.684771,-4.617084",
     "geom:latitude":-5.75502,
     "geom:longitude":149.837258,
@@ -319,17 +319,19 @@
         "gn:id":2083546,
         "gp:id":2346597,
         "hasc:id":"PG.WN",
+        "iso:code":"PG-WBK",
         "iso:id":"PG-WBK",
         "qs_pg:id":894969,
         "unlc:id":"PG-WBK",
         "wd:id":"Q667468",
         "wk:page":"West New Britain Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"aae8e5d243423791a3494e2289516b59",
+    "wof:geomhash":"0c52910df734bb4365512a47bc9589e2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -348,7 +350,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1690850832,
+    "wof:lastmodified":1695884869,
     "wof:name":"West New Britain",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

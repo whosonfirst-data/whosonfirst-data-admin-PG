@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.177204,
-    "geom:area_square_m":2180903692.45399,
+    "geom:area_square_m":2180903692.452843,
     "geom:bbox":"144.287324576,-5.81047503687,145.023082204,-5.21682882075",
     "geom:latitude":-5.546316,
     "geom:longitude":144.625358,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"PG.JI.JI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879841,
-    "wof:geomhash":"d1b26a9763d1270ae68e228d1dee5821",
+    "wof:geomhash":"241ff292cd66a9a89d5601d62a437a79",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1091702609,
-    "wof:lastmodified":1566678537,
+    "wof:lastmodified":1695886604,
     "wof:name":"Jimi",
     "wof:parent_id":1108805613,
     "wof:placetype":"county",

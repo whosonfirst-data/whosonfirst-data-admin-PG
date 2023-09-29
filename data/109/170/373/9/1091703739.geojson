@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025885,
-    "geom:area_square_m":318418052.035553,
+    "geom:area_square_m":318418052.035538,
     "geom:bbox":"144.121403381,-5.92311250211,144.381308187,-5.75417292324",
     "geom:latitude":-5.838856,
     "geom:longitude":144.237722,
@@ -120,9 +120,10 @@
     "wof:concordances":{
         "hasc:id":"PG.WL.HC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879885,
-    "wof:geomhash":"9a1527cc96ef9dcb921579a32046e971",
+    "wof:geomhash":"9f913fddb9535be0cba0868c75dab05b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1091703739,
-    "wof:lastmodified":1566678550,
+    "wof:lastmodified":1695886605,
     "wof:name":"Mount Hagen",
     "wof:parent_id":85676551,
     "wof:placetype":"county",

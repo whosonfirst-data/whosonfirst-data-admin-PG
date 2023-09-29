@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.031791,
-    "geom:area_square_m":12735067627.093021,
+    "geom:area_square_m":12735067707.005732,
     "geom:bbox":"141.00109,-4.272126,141.861476,-2.604591",
     "geom:latitude":-3.432263,
     "geom:longitude":141.347313,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.SA.VA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879932,
-    "wof:geomhash":"9cdd46697be65323eeed39cb06a97c8e",
+    "wof:geomhash":"0d6516efead31543ecf30a49412894e4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091704901,
-    "wof:lastmodified":1627522504,
+    "wof:lastmodified":1695886148,
     "wof:name":"Vanimo-Green River",
     "wof:parent_id":85676525,
     "wof:placetype":"county",

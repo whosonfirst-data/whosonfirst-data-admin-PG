@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.25208,
-    "geom:area_square_m":15420483744.876474,
+    "geom:area_square_m":15420484961.705143,
     "geom:bbox":"150.591938,-6.06514,152.49791,-4.088778",
     "geom:latitude":-5.092507,
     "geom:longitude":151.648386,
@@ -319,17 +319,19 @@
         "gn:id":2097853,
         "gp:id":2346590,
         "hasc:id":"PG.EN",
+        "iso:code":"PG-EBR",
         "iso:id":"PG-EBR",
         "qs_pg:id":235625,
         "unlc:id":"PG-EBR",
         "wd:id":"Q753702",
         "wk:page":"East New Britain Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f87dc99f8061b511e43f6861c13c71cc",
+    "wof:geomhash":"f6ae68aca3585e5e86718ca1c95adaa9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -348,7 +350,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1690850831,
+    "wof:lastmodified":1695884868,
     "wof:name":"East New Britain",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

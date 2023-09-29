@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022017,
-    "geom:area_square_m":268557992.586174,
+    "geom:area_square_m":268557406.532567,
     "geom:bbox":"147.066254,-9.542111,147.290375,-9.356406",
     "geom:latitude":-9.43676,
     "geom:longitude":147.196089,
@@ -235,10 +235,12 @@
         "gn:id":2089856,
         "gp:id":2346600,
         "hasc:id":"PG.NC",
+        "iso:code":"PG-NCD",
         "iso:id":"PG-NCD",
         "qs_pg:id":1047220,
         "wd:id":"Q1378310"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         890444183
     ],
@@ -246,7 +248,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"01dcdf56eb2dfca7913c860c7863fb59",
+    "wof:geomhash":"ff92dce6d9c2622f9ec47d0440caa521",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -265,7 +267,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1690850830,
+    "wof:lastmodified":1695884360,
     "wof:name":"National Capital District",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

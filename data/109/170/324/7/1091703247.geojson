@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.446612,
-    "geom:area_square_m":5497592852.85866,
+    "geom:area_square_m":5497592993.383327,
     "geom:bbox":"142.06756,-5.921951,142.845298,-4.945202",
     "geom:latitude":-5.432783,
     "geom:longitude":142.513334,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.HE.KR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879865,
-    "wof:geomhash":"12d0867db42b86a9aaa548c678e3f1aa",
+    "wof:geomhash":"12a03837eb4b9d667c51821f1249708b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091703247,
-    "wof:lastmodified":1627522501,
+    "wof:lastmodified":1695886142,
     "wof:name":"Koroba-Kopiago",
     "wof:parent_id":1108805615,
     "wof:placetype":"county",

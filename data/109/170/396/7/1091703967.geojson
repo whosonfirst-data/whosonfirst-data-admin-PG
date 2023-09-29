@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.226023,
-    "geom:area_square_m":2781341438.924572,
+    "geom:area_square_m":2781341246.42015,
     "geom:bbox":"154.106216,-6.110125,155.154864,-3.359639",
     "geom:latitude":-5.620376,
     "geom:longitude":154.82167,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"PG.NS.BK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879893,
-    "wof:geomhash":"00a646b4ac4b6f828b3866f440320e6a",
+    "wof:geomhash":"a454def1a33c638b4b6602ea1d8aa209",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091703967,
-    "wof:lastmodified":1627522502,
+    "wof:lastmodified":1695886145,
     "wof:name":"North Bougainville",
     "wof:parent_id":85676543,
     "wof:placetype":"county",

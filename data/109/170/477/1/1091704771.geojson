@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072514,
-    "geom:area_square_m":891558481.940972,
+    "geom:area_square_m":891558775.856146,
     "geom:bbox":"145.248772,-6.28405,145.66535,-5.906131",
     "geom:latitude":-6.108286,
     "geom:longitude":145.474523,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.EH.UB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879927,
-    "wof:geomhash":"8e083c7f9e86d55ecd68af752f610c68",
+    "wof:geomhash":"4e9527712e54f245186ddf8d3690bd7c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091704771,
-    "wof:lastmodified":1627522504,
+    "wof:lastmodified":1695886148,
     "wof:name":"Unggai-Bena",
     "wof:parent_id":85676533,
     "wof:placetype":"county",

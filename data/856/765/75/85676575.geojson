@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.178216,
-    "geom:area_square_m":14344170663.896088,
+    "geom:area_square_m":14344172563.910572,
     "geom:bbox":"148.965223,-11.657972,154.283752,-8.327056",
     "geom:latitude":-10.055587,
     "geom:longitude":150.695555,
@@ -286,17 +286,19 @@
         "gn:id":2132895,
         "gp:id":2346583,
         "hasc:id":"PG.MB",
+        "iso:code":"PG-MBA",
         "iso:id":"PG-MBA",
         "qs_pg:id":1083860,
         "unlc:id":"PG-MBA",
         "wd:id":"Q874962",
         "wk:page":"Milne Bay Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f8dec04a3ac5116f8b747439be8f362d",
+    "wof:geomhash":"87a57f774ed5788905da273b2b217ca8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -315,7 +317,7 @@
         "eng",
         "hmo"
     ],
-    "wof:lastmodified":1690850830,
+    "wof:lastmodified":1695884867,
     "wof:name":"Milne Bay",
     "wof:parent_id":85632347,
     "wof:placetype":"region",

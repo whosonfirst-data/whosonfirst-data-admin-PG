@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.191075,
-    "geom:area_square_m":2328818240.028615,
+    "geom:area_square_m":2328819373.329477,
     "geom:bbox":"150.422913,-10.193778,151.294586,-9.262917",
     "geom:latitude":-9.709528,
     "geom:longitude":150.824807,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"PG.MB.EA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PG",
     "wof:created":1473879825,
-    "wof:geomhash":"da2f27de5a236d007ed8a22b31e14b1c",
+    "wof:geomhash":"94f159747515d68d3977069f833f8b64",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091702299,
-    "wof:lastmodified":1627522499,
+    "wof:lastmodified":1695886139,
     "wof:name":"Esa'ala",
     "wof:parent_id":85676575,
     "wof:placetype":"county",
