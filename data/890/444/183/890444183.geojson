@@ -9,10 +9,23 @@
     "geom:bbox":"147.066254,-9.542111,147.290375,-9.356406",
     "geom:latitude":-9.43676,
     "geom:longitude":147.196089,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Port Moresby",
     "gn:country":"PG",
+    "gn:country_code":"PG",
+    "gn:dem":6,
     "gn:fcode":"PPLC",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2085135,
+    "gn:latitude":-9.47789,
+    "gn:longitude":147.14848,
+    "gn:modification_date":"2014-10-07",
+    "gn:name":"Port Moresby",
     "gn:population":283733,
+    "gn:timezone":"Pacific/Port_Moresby",
     "iso:country":"PG",
+    "lbl:bbox":"147.12848,-9.49789,147.16848,-9.45789",
     "lbl:latitude":-9.44314,
     "lbl:longitude":147.17972,
     "lbl:max_zoom":13.0,
@@ -25,6 +38,9 @@
         "Port Moresby"
     ],
     "name:afr_x_preferred":[
+        "Port Moresby"
+    ],
+    "name:als_x_preferred":[
         "Port Moresby"
     ],
     "name:amh_x_preferred":[
@@ -277,6 +293,9 @@
         "Port Moresby"
     ],
     "name:nob_x_preferred":[
+        "Port Moresby"
+    ],
+    "name:nor_x_preferred":[
         "Port Moresby"
     ],
     "name:oci_x_preferred":[
@@ -560,7 +579,12 @@
         "wk:page":"Port Moresby"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1107258
+        "gn:id":[
+            2085135
+        ],
+        "qs_pg:id":[
+            1107258
+        ]
     },
     "wof:coterminous":[
         85676581
@@ -582,7 +606,7 @@
         }
     ],
     "wof:id":890444183,
-    "wof:lastmodified":1690850848,
+    "wof:lastmodified":1706240576,
     "wof:name":"Port Moresby",
     "wof:parent_id":1091703859,
     "wof:placetype":"locality",
@@ -590,7 +614,9 @@
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-pg",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259757617
+    ],
     "wof:tags":[]
 },
   "bbox": [
